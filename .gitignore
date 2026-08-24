@@ -1,0 +1,12 @@
+# ---- secrets ----
+# .env.api holds OPENALEX_API_KEY. Never commit it.
+.env
+.env.*
+!.env.example
+
+# ---- scratch ----
+*.err
+*.tmp
+.DS_Store
+
+# Note: retrieved PDFs are ignored by lit/.gitignore, next to what they govern.

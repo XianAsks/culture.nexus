@@ -1,0 +1,383 @@
+# Project Outline — "Spirit"
+
+*Comparative and diffusionist inquiry into the transmission of contemplative and soteriological ideas across Eurasia, with Dzogchen and early Christianity as the anchoring cases.*
+
+Status: rev. 4, 2026-08-24. Companion documents: `methods.md` (how the work is done), `resources.md` (source register), `tags.md` (markup scheme).
+
+---
+
+## 1. Occasion
+
+Close reading of Chögyal Namkhai Norbu, *Talks in California, USA 1982* — © 1982, first edition, first printing September 1988, Shang Shung Publications; transcribed from oral teaching given in Italian and translated into English by Barry Simmons. Circulates as a numbered volume in the *Collected Talks* series.
+
+Two features of the text opened the inquiry: Norbu's account of the **rainbow body** (`'ja' lus`), and — in *The Cycle of Day and Night* — a **narrative-historical account of lineage origins** whose shape recalls Christian origin narrative. Neither is the object of study. Both are *specimens* of the general object: how contemplative claims travel, and what happens to them in transit.
+
+## 2. The general problem, and its specimens
+
+### 2.1 Transmission distortion
+
+The Norbu translation chain (Tibetan concepts → extemporised Italian by a non-native speaker → transcription → English) is one instance of a problem running the length of this project: every source here arrived through a chain, and each link can add content — translation between religious vocabularies, register shift, reception shaping, and the framing biases of prior scholarship.
+
+→ **Full treatment and protocol: `methods.md` §3.** Working rule: for any claimed parallel, exclude the transmission-artefact explanation before entertaining the historical one.
+
+### 2.2 The emic/etic interface — the project's actual centre
+
+The question that organises everything else: **what is the relationship between what a tradition says about itself and what the observable record shows?** *Emic* = self-description, oral ontology, self-reported lineage, hagiography, `gter ma` revelation, apostolic succession. *Etic* = archaeology, epigraphy, manuscript dating, art history, historical linguistics, population genetics, material culture.
+
+These are not rival accounts of one thing. A lineage claim is excellent evidence about the community making it and poor evidence about the century it names. The work is at the seam — convergence, divergence, and the pattern of divergence.
+
+→ **Full treatment: `methods.md` §2**, including the Pike/Harris origin, why this is *not* insider/outsider, the three failure modes, and the undecided adherent-veto question (`methods.md` §2.8) that governs what counts here as a legitimate conclusion.
+
+### 2.3 Standing substantive interests
+
+1. **Dzogchen among its neighbours** — Mahāyāna generally, Nyingma and Bön, Chan/Zen.
+2. **The Nikāya→Mahāyāna transition** — the shift the user characterises as ascetic/renunciate toward "spirit"-focused. See §3 Q2; the received scholarly picture differs from the common impression in specific, checkable ways.
+3. **Early "Gnostic" Christianity and Mahāyāna** — scare quotes retained; "Gnosticism" is a contested category (Williams, King).
+4. *(Persistent parenthetical)* **Historical vs. ecclesiastical Jesus** — the *Gospel of Mary*'s interior soteriology against canonical and magisterial construals; and specifically the **metaphysics of Jesus's persistence after the resurrection** (Watterson).
+5. **Diffusion traced empirically** — trade, artistic and architectural motif, technology, language. Motivated by Spinney's *Proto* and its method of converging evidence.
+6. **The origins of syncretic innovation** — what makes a contact zone generative rather than merely busy. A primary question in its own right (Q8), not a sub-question of the Dzogchen inquiry; Gandhāra is its worked example here, not its object.
+
+## 3. Research questions
+
+**Q1 — What does each tradition actually claim?**
+Disaggregate before comparing. On the Tibetan side the rainbow body is a *graded family*, not one claim (§4). On the Christian side "resurrection" covers at least four distinct things: Pauline `sōma pneumatikon` (1 Cor 15), empty-tomb narrative, Transfiguration, and post-resurrection persistence/presence.
+
+**Q2 — Nikāya → Mahāyāna: what actually changed, when, and in which direction?**
+Cross-check of the working impression follows in §5. Sub-questions: what is the earliest datable Mahāyāna material, textual and epigraphic? Does the ascetic→devotional direction hold? What did Kushan-era Gandhāra contribute? Why is there a centuries-long gap between Mahāyāna's textual and its institutional visibility?
+
+**Q3 — Are the Dzogchen and Christian claims the same *kind* of claim?**
+Preliminary structural reading, to be tested: Christian resurrection = death, then transformed return. Standard rainbow body = dissolution *at* death, no return. Great transfer (`'pho ba chen po`) = transformation *without* death. If so, the great transfer's Christian analogue is **assumption/translation** (Enoch, Elijah), `thod rgal` visionary light's analogue is **Transfiguration/Hesychasm**, and the analogue of *post-resurrection persistence* is the great transfer's continued availability to disciples. The empty tomb may have no Dzogchen analogue at all.
+
+**Q4 — Origin narratives as a genre.**
+*The Cycle of Day and Night*'s lineage account and Christian origin narrative may resemble each other because origin narratives resemble each other — a genre convergence, not a historical contact. Test against a third and fourth term (Bön, Manichaean, Chan transmission accounts).
+
+**Q5 — Iconography and material culture as diffusion evidence.**
+The halo is the tractable case: it is datable, physical, and its geography is known. See §5.2.
+
+**Q6 — Is there an evidential chain of contact?**
+Candidate corridor: Central Asia, 1st–10th c. CE. Gandhāra and the Kushans early; Tibetan-ruled Dunhuang (c. 786–848), Uyghur Manichaeism (763–840), Church of the East at Bulayïq later.
+
+**Q7 — How would we distinguish diffusion from convergence?**
+Discriminators: loanwords and calques; shared *arbitrary* detail (a shared non-obvious feature beats a shared plausible one); datable material culture; textual chains of custody. Deflators: genre convergence (Q4); convergent contemplative phenomenology in convergent nervous systems.
+
+**Q8 — What makes a contact zone generative?**
+Two distinct questions, with different evidentiary demands, and they must not be run together.
+
+- **Q8a — Preconditions.** What has to be true of a place and period for sustained cross-tradition
+  innovation to occur? A general causal question. Its methodological hazard is *sampling on the
+  dependent variable*: enumerating the shared features of Florence, Gandhāra and Silicon Valley
+  yields a list that may equally describe a hundred places that produced nothing. The fix is not to
+  abandon the question but to hold **matched negative cases** — busy, plural, well-connected
+  entrepôts that did *not* generate durable innovation. See §5.3.
+- **Q8b — Downstream traces.** Which long-range consequences can be traced back to a specific
+  nexus, by chain of custody? This runs the opposite direction — start from a later phenomenon and
+  work backwards — and is the more tractable of the two, because it needs the same evidence the
+  rest of the project already demands: `methods.md` §5 rungs 1–4. Not subject to Q8a's selection
+  problem at all.
+
+## 4. The rainbow body typology (to be kept distinct)
+
+| Type | Tibetan | What happens | Physical remainder | Christian structural analogue |
+|---|---|---|---|---|
+| (a) | shrinking + `ring bsrel` | body diminishes at death | relics | incorruptibility, relic cult |
+| (b) | `'ja' lus` (standard) | dissolution into light | hair and nails only | *none obvious* |
+| (c) | `'ja' lus 'pho ba chen po` | transfer without dying; remains available | none | assumption/translation; post-resurrection presence |
+
+**Case for (b):** **Nyagla Pema Dündul** (Nyag bla Padma bdud 'dul, 1816–1872), tertön of Nyarong, founder of Kalzang monastery (1860), teacher of Tertön Sogyal. Norbu names him as "a master of my master" — the intermediate link is **Changchub Dorje** (Nyala Changchub Dorje, d. 1978), Norbu's principal Dzogchen teacher. Attained the rainbow body in Saga Dawa 1872, with the standard narrative apparatus (rainbows, earth-tremors, music, spheres of light, fragrance). Norbu also cites a terma of his, transcribed in the *Talks* as "Dzogchen Kazhag Rangdrol."
+
+? The terma title needs its Wylie fixed — "Kazhag Rangdrol" is a transcription of oral Italian-accented Tibetan and could be several things (`dka' zhag rang grol`? `bka' bzhag rang grol`?). This is §2.1's problem in miniature and is worth solving as a demonstration.
+**Adjacent test case — added rev. 3.** There is an instrumented research programme on **tukdam**
+(`thugs dam`), a related claim: practitioners reported to remain in meditative state after clinical
+death without decomposing. Lott et al. (2020) found **no detectable EEG activity**; Tidwell and
+Namdul (2025) treat the biocultural and ontological framing. See `resources.md` §3, "The tukdam
+research programme." Two implications: (i) a claim of this class *has* been tested, and the result
+was negative; (ii) the study design — measuring an emic claim etically, with monastic cooperation —
+is a working model for §2.2 rather than a thought experiment. Tukdam is not the rainbow body: a body
+that fails to decompose is not a body that disappears. How the researchers separate the two is
+itself instructive.
+
+? Type (b) is a *maximally testable* claim — a body that vanishes leaves an absence that witnesses can report on. 1872 is recent enough for records. What is the documentary base beyond hagiography?
+
+## 5. Cross-checks on working impressions
+
+### 5.1 "Ascetic Theravāda precedes a more spirit-focused Mahāyāna that takes root from the 3rd century"
+
+Three corrections and one confirmation.
+
+- **"Theravāda" is the wrong predecessor.** Theravāda is the Sri Lankan Vibhajjavāda lineage — one survivor among roughly eighteen early schools, and not the Indian mainstream Mahāyāna emerged from. The correct term is **Nikāya** or **mainstream** Buddhism. Mahāyāna arose alongside Mahāsāṃghika, Sarvāstivāda, and Dharmaguptaka. This matters: the **Mahāsāṃghika** *lokottaravāda* doctrine of a supramundane, transcendent Buddha dates from the first schism and already prefigures Mahāyāna Buddhology — so the "spirit-focused" turn has roots *inside* pre-Mahāyāna Buddhism.
+- **The date is too late for the texts, about right for the spread.** Mahāyāna sūtras exist by the 1st c. BCE–1st c. CE (the Aṣṭasāhasrikā Prajñāpāramitā layer), with a hard terminus ante quem in Lokakṣema's Chinese translations at Luoyang c. 179 CE, and physical confirmation in the Gandhāran birchbark manuscripts (1st–2nd c. CE). But Mahāyāna is nearly **invisible in Indian inscriptions** for centuries afterward, and scholarship places the shift toward privileged institutional position around the **5th century**. Chinese pilgrims found Mahāyāna and non-Mahāyāna monks sharing monasteries and vinaya. So: texts early, institutions late, and your 3rd-century-onward sense of *spread* is defensible while the origin date is two to three centuries earlier.
+- **The ascetic→devotional direction is probably inverted.** The thesis your impression echoes is **Hirakawa Akira's** lay-devotional origins model. It has been substantially displaced. The **forest hypothesis** (Harrison, Nattier, Boucher) argues early Mahāyāna arose among *hardcore wilderness ascetics* (`āraṇyavāsin`) imitating the Buddha and criticising settled monasticism — more austere than the mainstream, not less. Schopen's rival **cult-of-the-book** model puts it among book-revering monastics. Both agree the texts were composed by monks, not laity. Schopen separately showed that mainstream Buddhism was never austerely non-devotional: stupa cult, relic worship and merit transfer were monastic and early.
+- **Confirmed:** the Kushan/Gandhāran period does mark a real inflection — in patronage, in the first anthropomorphic Buddha images, in the manuscript record, and in transmission northward and eastward.
+
+→ This is itself an instance of §2.1: a widely-held impression that traces to a specific superseded scholarly thesis. Worth keeping as a worked example of how prior scholarship's biases propagate into general understanding.
+
+### 5.2 Halos — the tractable diffusion case
+
+The Gandhāran Buddha with nimbus (1st c. CE, Kushan) sits at a genuine crossroads, and the evidence is material and datable rather than doctrinal:
+
+- **Hellenistic**: the radiate nimbus for Helios, Eos, and personifications; later Sol Invictus and Roman imperial solar iconography.
+- **Iranian**: *khvarenah* / *farr(ah)* — divine glory, kingly fortune. In Sasanian art the winged disc gives way to a **circular halo around the ruler's head**, described as closely similar to the Christian saint's halo.
+- **Buddhist**: `prabhāmaṇḍala`, appearing prominently in Gandhāran schist under the Kushans, in a Greco-Indian syncretic milieu.
+- **Christian**: adopted in the **4th century**, after the Buddhist and Iranian instances, in a Greco-Roman visual environment already using the convention.
+
+The interesting reading is not Buddhist→Christian transmission but a **shared Iranian-Hellenistic "glory" complex** feeding all three. That makes it `#r/homology` rather than `#r/genealogy` — and it connects outward to the Syriac **robe of glory**, to Manichaean light-metaphysics, and potentially to Bön's own claim of western/Iranian (Tazig) origin. That convergence is now **H5** and may be the project's most productive thread.
+
+### 5.3 Gandhāra as a worked example for Q8
+
+**The nexus is real and materially attested.** Kushan (c. 30–375 CE, peak under Kaniṣka c. 127–150)
+held Bactria, Gandhāra, the Punjab and part of the Gangetic plain — the junction of the overland
+routes with the roads to the Indian Ocean ports. Three independent lines:
+
+- **Begram** — two sealed storerooms (DAFA, 1936–40) holding Roman glass (~180 pieces), Chinese
+  lacquerware, Indian ivories and Alexandrian bronzes **in one 1st–2nd c. deposit**. One room,
+  three civilizations' output.
+- **The coinage** — Iranian (Miiro, Nana), Greek (Helios, Herakles), Indian (Oesho/Śiva) and
+  Buddhist (BODDO) figures from a single mint, legended in Bactrian written in **Greek script**.
+- **Gandhāran art** — Greek technique on Indian content, producing the first anthropomorphic Buddha
+  images. Close to a controlled experiment for H7: form crossed the boundary, content did not.
+
+#### Q8a — candidate preconditions
+
+Offered as hypotheses to test against §5.3's comparison class, not as findings.
+
+1. **Junction of *distinct* production zones.** High traffic between similar places yields nothing;
+   the differential is the input.
+2. **Plural or weakly-policed doctrinal institutions.** H7's prediction. Kushan minted four
+   pantheons; contrast Sasanian Persia under Kartir, which persecuted Manichaeans.
+3. **A multilingual administrative class** — people fluent across codes. Bactrian in Greek script;
+   Gāndhārī in Kharoṣṭhī.
+4. **Artisan mobility, not merely goods mobility.** Gandhāran sculpture requires sculptors trained
+   in Hellenistic technique physically present in India. Objects carry style; only people carry method.
+5. **Elite demand for foreign prestige goods.** Begram shows the pull; demand moves objects, and
+   objects bring technique with them.
+6. **A translation institution.** Something that formalises cross-code transfer as a practice.
+7. **Long time-depth of co-presence, measured in generations** — H8. See §5.4 for the mechanism.
+   Gandhāra had Greek presence from Alexander (327 BCE) through the Indo-Greeks to the Kushans:
+   roughly 450 years, or ~18 generations, before the Buddha image. **The precondition most damaging
+   to the word "serendipitous."**
+8. **Absence of an existential external threat.** Speculative; boundary-policing intensifies under
+   threat, which would fold this into (2).
+
+#### Q8a, mechanism — assembly versus assimilation
+
+Duration matters for a specifiable reason, and the reason comes from historical linguistics.
+
+**Two transmission channels run on different clocks and carry different cargo.**
+
+| | Market / workshop | Household |
+|---|---|---|
+| Direction | horizontal, among adults | vertical, caregiver → child |
+| Clock | years | generations (~25 yrs) |
+| Carries | technique, style, goods, loanwords for new things | core vocabulary, phonology, foodways, music, religious habitus |
+| Requires | proximity and exchange | cohabitation, intermarriage, shared child-rearing |
+
+**The Indo-European evidence is the proof of the split**, and it is the observation *Proto* turns on.
+Kinship, body and nature terms are inherited and conservative — they pass through households.
+Technological vocabulary is volatile and frequently borrowed. Two refinements worth keeping exact:
+PIE *does* have a reconstructible word for copper/bronze (`*h₂éyos`), so the claim is not that all
+metal words travel; it is that the *later* metals — iron, tin, lead — commonly come from non-IE
+sources, and that "metal" is itself a documented **wanderwort** shared across Indo-European, Uralic,
+Turkic and sometimes Old Chinese. The sharpest micro-case is internal to the household list: **the
+bee is inherited, while `*medʰu` (honey/mead) is a wanderwort** reaching as far as Chinese. The
+insect one sees in the garden stays put; the commodity one trades travels. Same organism, two
+channels.
+
+**Linguistics has a technical name for the threshold: pidgin versus creole.** A pidgin is the
+market channel made audible — no native speakers, restricted domains, adults improvising across
+codes. A creole arises when **children acquire that pidgin natively** and it develops full grammar.
+The transition cannot happen without households containing children. Thomason and Kaufman's
+borrowing scale makes this operational in the other direction: lexical borrowing alone indicates
+casual contact; **structural and grammatical borrowing indicates sustained, household-level
+contact.** Degree of structural interference is therefore a measurable proxy for whether a contact
+zone assimilated or merely assembled.
+
+**So the refined claim (H8) is: a contact zone can *assemble* on a decadal clock and can only
+*assimilate* on a generational one — and only where social structure permits intermarriage.**
+
+Applied:
+
+- **Dunhuang under Tibetan rule** — c. 786–848, about **62 years, or 2.5 generations**, and
+  substantially a garrison-and-administration presence rather than settlement; the Tibetans were
+  expelled in 848. Assembled, not assimilated. *Complication, stated honestly*: Tibetan persisted at
+  Dunhuang as a written lingua franca **after** the Tibetans left, which is evidence of some genuine
+  assimilation and must be weighed.
+- **Gandhāra** — ~18 generations, and crucially *settlement*, not merely trade. Yavana (Greek)
+  donors appear by name in Buddhist donative inscriptions: people who had become Buddhist, not
+  merchants passing through. Household-level, and it shows.
+- **Sogdian network** — long duration, but a largely **endogamous** merchant diaspora: it carried
+  three religions across a continent without substantially altering any. The model predicts exactly
+  this. *Complication*: Sogdians settled in China did assimilate over generations, so endogamy is a
+  variable, not a constant.
+- **The African diaspora in the American South** — the type specimen, and the reason the model is
+  credible. Forced cohabitation over generations produced genuinely new forms: Gullah is a **literal
+  creole**, and jazz and the foodways are the non-linguistic equivalents. Note that this happened
+  under coercion, which is a warning against assuming generative fusion requires benign conditions.
+
+#### Q8a, and Florence — a case the model does not fit
+
+Florence's foreign contact runs the **opposite direction** from Gandhāra's. Florentines went out —
+the Bardi, Peruzzi and Medici held branches at London, Bruges, Avignon, Lyon, Geneva — rather than
+foreigners settling in. Florence is inland, not a port; Pisa was conquered only in 1406. The famous
+influx is late, elite and scholarly: the Council of Ferrara-Florence (1438–39) brought Gemistos
+Plethon and a Greek delegation, and Constantinople's fall in 1453 brought émigrés with manuscripts.
+Real, consequential for Ficino and the Platonic revival — and **not a household channel**.
+
+There is one genuine household channel, and it is usually left out of the story: **domestic
+slavery**. From the mid-14th century, after the Black Death labour shortage, Florentine households
+held enslaved Tatars, Russians, Circassians, Greeks, Moors and Ethiopians — predominantly women,
+who raised the children (Origo, 1955). Whether that produced any cultural transmission is, as far
+as this project has looked, unstudied.
+
+#### Q8a — who actually operates the household channel
+
+The Florentine domestic-slavery observation is not a footnote to H8; it may be its central case,
+because it identifies **who is in the household doing the transmitting**.
+
+In a slaveholding society, the highest-bandwidth route for deep cultural transmission — feeding,
+carrying, singing to, and speaking with children during language acquisition — is operated
+disproportionately by enslaved people, and overwhelmingly by women. **The Deep South is the same
+structure at vastly greater scale.** Jones-Rogers documents an entire market in enslaved wet nurses,
+created by slaveholding white women and advertised in newspapers: a sector she describes as largely
+invisible. Enslaved women nursed and raised the children of the people who owned them.
+
+The best-documented product of that channel is the **trickster cycle**: West African Anansi and hare
+tales carried by enslaved caregivers to white children and later published by Joel Chandler Harris
+as *Uncle Remus*. Whatever the distortions of Harris's frame, his framing device — an elderly Black
+man telling stories to a white child — is a literal description of the transmission channel H8
+predicts. Alongside it sit Gullah, the banjo, the ring shout, and Lowcountry rice cultivation.
+
+**Two consequences follow, and the second matters more to this project than the first.**
+
+1. **H8 is dose-dependent.** Florentine domestic slavery was an elite-household institution numbering
+   in the hundreds; Deep South chattel slavery was the demographic and economic foundation of whole
+   regions, with enslaved majorities in some Lowcountry parishes. The mechanism is parallel; the
+   dosage differs by orders of magnitude. H8 therefore predicts *deep structural fusion* in the one
+   case — observed: a creole language and whole musical systems — and *trace effects at most* in the
+   other. That is a strengthening: the hypothesis now predicts magnitude, not merely presence.
+2. **Archival silence is systematic, not random.** The household channel is carried by people who do
+   not write, inside records generated by people who do, and credited to elites by narratives that
+   erase the carriers — Medici patronage, "American" music. So **absence of evidence for
+   household-channel transmission is strongly expected and is nearly worthless as evidence of
+   absence.** Every historical estimate of this channel's strength is biased downward. See
+   `methods.md` §7.
+
+→ **This turns back on §10 and weakens a load-bearing negative result.** The Dunhuang archive is
+monastic, scribal and administrative — precisely the kind of record that would *miss* household-level
+fusion had it occurred. The reading "co-presence without synthesis" may therefore be an artefact of
+the instrument rather than a finding about the oasis. That does not rescue H2, but it does mean the
+Dunhuang negative case cannot be asserted from the manuscript record alone.
+
+! **Alessandro de' Medici** (1510–1537), Duke of Florence, nicknamed *il Moro*, is often cited as a
+household-channel fact at the summit of Florentine society — his mother Simonetta da Collevecchio
+being described as of African descent. **The claim is contested**: Spini traced her to a Roman
+peasantry and Nestor reported in the 1560s that the servile-African origin was a rumour circulated
+by Alessandro's exiled enemies, while Hibbert and Brackett accept it. Recorded here as *contested*
+and not used as evidence — and instructive on its own terms, since it shows ancestry claims in this
+period being generated as political weapons.
+
+**So Florence is a weak case for household fusion**, and that is informative rather than
+disappointing. Either the mechanism does not explain Florence, or Florence's generativity had a
+different source — concentrated capital, guild competition, and a recovered antiquity rather than a
+living foreign presence. Which yields **H9**.
+
+#### The comparison class — matched entrepôts
+
+Q8a is answerable only against cases that had the traffic and did *not* produce durable innovation.
+
+| Case | Connected? | Plural? | Generated what | Status for Q8a |
+|---|---|---|---|---|
+| Gandhāra / Kushan | yes | yes | Buddha image; early Mahāyāna texts; transmission east | positive |
+| Alexandria | yes | yes | Philo, Clement, Neoplatonism, "Gnostic" systems | positive |
+| **Dunhuang** | yes | **exceptionally** | a *library*; preservation, not synthesis | **the key negative case** |
+| Palmyra | yes | moderately | wealth, distinctive funerary art; nothing that travelled | negative |
+| Sogdian Samarkand | yes | yes | carried Manichaeism, Buddhism, Christianity | **transmitter, not innovator** — the distinction matters |
+| Aksum | yes | moderately | adopted Christianity; limited outward transmission | negative |
+
+**Dunhuang is the sharpest pair with Gandhāra, and it is already inside this project.** Both held
+multiple traditions in physical proximity — Dunhuang arguably more so (§10). Gandhāra produced a
+visual and doctrinal synthesis that crossed a continent; Dunhuang produced a sealed cave of
+manuscripts. Whatever differs between them is the answer to Q8a, and the project must explain it
+regardless, because §10's contact argument depends on knowing what Dunhuang's co-presence did and
+did not produce.
+
+→ The Sogdian row names a distinction Q8 needs throughout: **transmitting is not innovating.**
+A network that carries three religions without altering them is evidence for H7, not against it.
+
+#### Q8b — what traces back from Gandhāra
+
+Chains of custody, strongest first:
+
+- **The anthropomorphic Buddha image** → all subsequent Buddhist figural art across Asia. The
+  single largest traceable consequence.
+- **Lokakṣema**, from the Gandhāra region, translating Mahāyāna sūtras at Luoyang c. 179 CE →
+  Chinese Buddhism → Korean and Japanese Buddhism. A named person, a datable act, a documented
+  chain: `methods.md` §5 rung 2.
+- **The Gāndhārī manuscripts** — the earliest surviving Buddhist texts, including early Mahāyāna.
+- **The nimbus convention** → possibly Christian art (H5), though this is homology rather than
+  descent and belongs to §6.
+- **Barlaam and Josaphat**, via Manichaean and Arabic intermediaries — rung 1, the loanword intact.
+
+## 6. Working hypotheses (to be falsified, not defended)
+
+| # | Hypothesis | Standing |
+|---|---|---|
+| H1 | Rainbow body and resurrection are structurally *different* claims made to look alike by shared light-and-body vocabulary; the real analogues realign per §3 Q3. | Favoured; untested. |
+| H2 | The genealogical action, if any, is Manichaean/Syriac light-metaphysics reaching Tibet via Central Asia — not Christianity reaching Tibet. Tiso argues a version. | Plausible; obstructed by dating (§7). |
+| H3 | Mahāyāna–"Gnostic" parallels are largely analogical; the one demonstrable diffusion runs the other way (Buddha → Barlaam and **Josaphat** ← *bodhisattva*). | Strong prior; counter-case to be searched honestly. |
+| H4 | A measurable fraction of every perceived parallel here is introduced downstream — in translation, in reception, or in prior scholarship's framing. | Generalised from the Norbu case; testable in several places. |
+| H5 | **An Iranian–Hellenistic "glory/radiance" complex (*khvarenah*, radiate nimbus) is a common ancestor to Buddhist, Christian, Manichaean and Syriac light-imagery** — homology, not borrowing. Testable in material culture, which is datable. | New; most tractable. |
+| H6 | Lineage-origin narratives across traditions converge because the *genre* converges, not because the histories touch. | New; needs multi-term test. |
+| H7 | **The freeze is institutional, not doctrinal.** Doctrine does not have intrinsic viscosity; it is *guarded* — creeds, canons and monastic rules are maintained by institutions whose function is boundary policing. Technique has no such office, so it crosses freely. Predicts that a contact zone's generativity varies inversely with the strength and singularity of its doctrinal institutions. | Favoured. Explains Gandhāra (plural, weakly-policed) and the Chan case (doctrine crossed, then mutated where no single authority held it). |
+| H8 | **Assembly is decadal; assimilation is generational.** A contact zone can co-locate people, goods and texts in years, but can only produce a fused repertoire over generations, and only where social structure permits intermarriage and shared child-rearing — because the deep-transmission channel is the household, not the market. Predicts that *generations of settled co-presence*, not intensity of traffic, is the discriminating variable, and that **degree of structural (not lexical) borrowing** is its measurable proxy. | Strong. Fits Gandhāra (~18 generations, with settlement), Dunhuang (~2.5, garrison), the Sogdian network (long but endogamous), and the American South (the type specimen). See §5.4. |
+| H9 | **"Nexus" lumps distinct mechanisms, and Q8a's search for common preconditions may be misconceived.** Candidate typology: *settlement-fusion* (Gandhāra), *diaspora-return* (Florence — its merchants went out and came back), *immigration-fusion* (New Orleans, New York), *institutional-capital* (Silicon Valley). If the mechanisms differ, the deliverable is a typology, not a precondition list. | New; arises from Florence failing to fit H8 (§5.4). Testable by asking of each case *which channel carried what*. |
+
+## 7. The dating obstacle
+
+Stated once, because it governs H2 and much of §3 Q6: the Central Asian contact window closes in the mid-9th century, but the rainbow body is prominent in Seminal Heart (`snying thig`) literature from the **11th**, and Germano locates its emergence in a *Tibetan* mortuary substrate. Any contact argument must explain a two-century gap between alleged borrowing and attested appearance. The halo case (H5) has no such problem, which is why it is the better first target.
+
+## 8. Method commitments
+
+Stated in full in `methods.md`; in brief — separate genealogy from analogy from homology (§1.2); prefer multi-term comparison (§1.3); keep emic and etic in separate evidential slots (§2); exclude transmission artefacts first (§3); date both ends (§4); rank diffusion evidence on the ladder (§5); run the six deflators before accepting any parallel (§6); record controversies as pairs and record negative results (§7).
+
+## 9. Deliverables
+
+- `background.md` — this charter: questions, hypotheses, findings.
+- `methods.md` — how the work is done; the reasoning behind every rule above.
+- `resources.md` — tagged hierarchical bibliography.
+- `tags.md` — faceted markup scheme.
+- `terms.md` — technical glossary, eleven sections, Wylie authoritative. Written rev. 1, 2026-08-23.
+- `lit/` — retrieved sources with per-source manifests, query logs, and `WANTED.md`. See `lit/README.md`.
+- *(next)* `chronology.md` — dated timeline of texts, attestations, contacts and images, so §7 can be argued rather than asserted.
+- *(later)* `notes/` — one file per source, tagged.
+
+## 10. Constraints
+
+- **Language access.** Two different constraints, previously conflated under "no Italian" and now separated. (i) *Reading capacity*: xian does not read Italian; Claude does, and also handles Greek, Latin, Coptic and Sanskrit transliteration adequately for term-level comparison. Tibetan, Syriac and Avestan are reachable only through translations and dictionaries. (ii) *Document access*: the Italian originals of Norbu's oral teaching have **not been located**. This, not language, is what currently blocks the direct H4 test. **If the Italian transcripts or Shang Shung Edizioni editions can be obtained as text, the direct test becomes available** — a term-by-term comparison of the Italian against Simmons's English. Until then the cross-translator workaround (§9, `resources.md` §12) stands in for it.
+- **Source-quality gradient.** From peer-reviewed Tibetology and Indology through devotional and popular writing to pseudo-scholarship. `#e/fringe` and `#e/devotional` exist so such material can be read without being promoted to evidence.
+- **Confirmation pressure.** The hypotheses are attractive. §8 exists against that.
+- **`[unverified]`** in `resources.md` marks claims written from prior knowledge and not source-checked.
+
+## 11. Open questions
+
+**Resolved.** Bibliographic detail (§1); breadth over depth; standpoint = the emic/etic interface (§2.2);
+the "no Italian" ambiguity, now split into reading capacity and document access (§10); the Kushan nexus
+question, promoted to Q8 with H7 restated and H8 added (§5.3).
+
+**On Bön (previously unclear, restated):** Bön matters for two reasons, and the second is the interesting one.
+1. *As a control case.* Bön has its own rainbow-body lineage — Tapihritsa, the *Zhang Zhung Nyen Gyud* — with no plausible route of Christian influence. If the same doctrine appears in a tradition Christianity could not have reached, a Christian-influence hypothesis loses its explanatory advantage.
+2. *As an emic claim of western origin.* Bön's own account traces its origin to **Tazig** (`sTag gzig`) and Olmo Lungring — a land conventionally identified with **Iranian** territory. That is a tradition's self-report of exactly the westward connection H5 proposes on material grounds. The emic and etic lines converge here, which makes Bön the sharpest available test of §2.2's whole method.
+
+**Still open:**
+1. **Wylie for the Pema Dündul terma title** (§4). Searched, not found — `resources.md` §17.3.
+2. **The adherent veto** (`methods.md` §2.8, §9.1). Undecided, and it governs what counts as a legitimate
+   conclusion here. The most consequential open item in the project.
+3. **What did Dunhuang's co-presence actually produce?** Needed twice over — as Q8a's negative case and
+   as the hinge of §10's contact argument. Rong Xinjiang is the acquisition target.
+4. **Circularity check on `sTag gzig` ↔ Iran** — is the identification the tradition's own or a
+   scholarly gloss it later absorbed? H5 cannot lean on the Bön convergence until this is settled.
+5. Is Norbu's *Cycle of Day and Night* lineage narrative available in a second translation, for the
+   cross-translator test?
+6. **Can the Italian originals be obtained as text?** If so the direct H4 test opens (§10).
+7. How far into Zoroastrian and Iranian material should H5 go before it becomes a separate project?
+8. Does the project want `chronology.md` now, or after more reading? (§7 suggests now; the dating
+   discipline is currently a rule with no instrument.)

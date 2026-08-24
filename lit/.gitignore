@@ -1,0 +1,12 @@
+# Retrieved PDFs: ~320 MB, one file alone is 182 MB.
+# Every one is reconstructible from the DOIs and IDs in */MANIFEST.md,
+# so the binaries are excluded and the provenance is tracked.
+*/pdf/
+
+# Tracked deliberately (do not add to this file):
+#   */MANIFEST.md   what was retrieved, with licenses
+#   */QUERIES.md    what was searched, incl. zero-hit negative results
+#   */queries/      raw API responses  (~1.5 MB total)
+#   */meta/         machine-readable records behind the manifests
+#   WANTED.md       verified but inaccessible
+#   README.md, normalize.sh
