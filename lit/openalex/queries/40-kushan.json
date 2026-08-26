@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 45,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (kushan empire trade gandhara silk road)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "kushan empire trade gandhara silk road",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:kushan empire trade gandhara silk road&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2562970871",
+      "doi": null,
+      "display_name": "\ube44\ub2e8\uae38\uc758 \ub3d9\uc11c\ubb38\ud654\uad50\ub958 \uc5f0\uad6c",
+      "publication_year": 2013,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W3086293333",
+      "doi": "https://doi.org/10.4324/9780203893524-15",
+      "display_name": "The all-water route",
+      "publication_year": 2008,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W4405248936",
+      "doi": "https://doi.org/10.25205/1818-7919-2024-23-10-30-42",
+      "display_name": "Kushan Settlement Complexes in the Kashmir Valley",
+      "publication_year": 2024,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://nguhist.elpub.ru/jour/article/download/2279/1167",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7135832192",
+      "doi": null,
+      "display_name": "Ancient Jewellery of Central Asia and its relations to the Jewellers' art of Ancient Mediterranean",
+      "publication_year": 2015,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "dissertation"
+    }
+  ],
+  "group_by": []
+}

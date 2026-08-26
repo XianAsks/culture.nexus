@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 50,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (archaeology epigraphy indian buddhist monks inscriptions)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "archaeology epigraphy indian buddhist monks inscriptions",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:archaeology epigraphy indian buddhist monks inscriptions&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2061561327",
+      "doi": "https://doi.org/10.1353/pew.2000.0001",
+      "display_name": "Bones, Stones, and Buddhist Monks: Collected Papers on the Archaeology, Epigraphy, and Texts of Monastic Buddhism in India (review)",
+      "publication_year": 2000,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4410358188",
+      "doi": "https://doi.org/10.4103/jimh.jimh_48_25",
+      "display_name": "Epigraphic Insights into Ayurveda: The SAHI Portal Initiative",
+      "publication_year": 2024,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.4103/jimh.jimh_48_25",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

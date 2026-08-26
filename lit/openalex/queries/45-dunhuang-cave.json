@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 150,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (dunhuang library cave manuscripts sealing)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "dunhuang library cave manuscripts sealing",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:dunhuang library cave manuscripts sealing&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W176957400",
+      "doi": null,
+      "display_name": "Fragments of the\" Testament of Ba\" from Dunhuang",
+      "publication_year": 2008,
+      "cited_by_count": 7,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2099871206",
+      "doi": "https://doi.org/10.1017/s0021911814001983",
+      "display_name": "Eighteen Lectures on Dunhuang. By Rong Xinjiang. Translated by Imre Galambos. Leiden: Brill, 2013. xxiv, 547 pp., 4 maps, 18 figures. \u20ac180.00/$233.00 (cloth).",
+      "publication_year": 2015,
+      "cited_by_count": 3,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2493390114",
+      "doi": "https://doi.org/10.1163/9789004252332_006",
+      "display_name": "Lecture 4 The Nature of the Dunhuang Library Cave and the Reasons for Its Sealing",
+      "publication_year": 2013,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W4388730538",
+      "doi": "https://doi.org/10.1353/tan.2023.a911977",
+      "display_name": "Dunhuang Manuscript Culture: End of the First Millennium by Imre Galambos (review)",
+      "publication_year": 2023,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

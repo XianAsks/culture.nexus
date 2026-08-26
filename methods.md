@@ -2,7 +2,7 @@
 
 *How the work is done. Charter and findings: `background.md`. Source register: `resources.md`. Markup: `tags.md`.*
 
-Status: rev. 1, 2026-08-23.
+Status: rev. 2, 2026-08-25.
 
 This document holds the reasoning. `background.md` states what we are asking and what we have found; `resources.md` catalogues what we can read. When a summary anywhere in the project conflicts with a source, the source wins.
 
@@ -27,6 +27,112 @@ Every comparative claim must declare which of these it is making. The `#r/` face
 | **Homology** | Both descend from a shared third source. | Identification of the source, plus routes to both. |
 
 Most alleged Buddhist–Christian parallels are analogies dressed as genealogies. Some — the halo is the working example — are probably homologies mistaken for genealogies. Getting the type right is most of the analysis; the evidence bar differs by an order of magnitude between rows.
+
+### 1.2a Cross-domain analogy
+
+Borrowing a model from another discipline is a comparison and falls under the same discipline as any
+other: declare it `#r/analogy`, tag the source `#e/heuristic`, and never let it do genealogical work.
+The `#e/` facet records *what a source can establish here*, not its quality in its own field — May
+(1972) is excellent ecology and no evidence whatever about polities.
+
+**A borrowed model's internal disputes come with it.** Citing Gould's contingency imports a position
+Conway Morris contests; taking one without the other smuggles in a conclusion and leaves its
+opposition behind.
+
+**On the culture/biology disanalogy — corrected.** An earlier version of this section asserted that
+cultural transmission is "Lamarckian, horizontal and intentional." That is the textbook list and it
+is not safe. Memetic framings treat ideas as replicators in a broadly Darwinian way; and whether
+acquisition is *intentional* or falls out of a null model — households and kinship networks foraging
+for information and resources under optimal-foraging assumptions — is a live question, not a settled
+disanalogy.
+
+The disanalogy worth carrying is different and sharper:
+
+> **Genes are transmitted over a digital channel; culture over an analog one.**
+
+Genetic copying is discrete, over a four-letter alphabet, with dedicated error-correction
+(proofreading polymerases, mismatch repair). Variation is point substitution in a finite alphabet.
+Cultural transmission runs through perception and re-enactment of continuous signals — gesture, tone,
+image, technique — where **variation is continuous deformation, not substitution**, and there is no
+proofreading machinery. Consequences that matter for this project:
+
+- **Drift is the default even under faithful intent.** Every copy is an approximation, so transmission
+  degrades unless something actively resists it.
+- **Attractors, not point mutations, structure the outcome.** This is Sperber's cultural attraction
+  theory, which criticises precisely the faithful-transmission assumption memetics requires. Analog
+  does not mean unconstrained: children's acquisition biases are strong structural attractors, which
+  is why creoles regularise.
+- **Error-correction is expensive, and someone must pay for it.** See §1.2b.
+
+### 1.2b Error correction as the mechanism behind H7
+
+H7 says the freeze is institutional rather than doctrinal. The analog-channel framing supplies a
+mechanism, and a better one than "institutions defend boundaries."
+
+**Technique carries its own error check; doctrine does not.** A pot either holds water; an arch either
+stands; a pigment either survives firing. The artifact tests the transmission against the world, and
+a competent stranger can re-derive the method from the object. **Doctrine has no such external
+referent.** A misremembered teaching does not fall over. Its only error-correction is social — an
+interpretive community that certifies readings — and that community is expensive to maintain and does
+not travel.
+
+So the asymmetry the project keeps observing has a mechanism: **a nimbus can be copied from a statue,
+because the statue carries the information; a doctrine cannot be re-derived from a text without the
+community that reads it.** Technique crosses boundaries because it is self-checking; doctrine
+"freezes" because its error-correction is institutional, local, and costly.
+
+**The confirming case is extreme and explicit.** Vedic recitation developed the *vikṛti pāṭha*
+systems — *krama*, *jaṭā*, *ghana* and others — in which the text is recited in prescribed
+permutations of word order. These are **literal error-detecting codes**: redundancy deliberately
+purchased at high cost in training time, by a tradition that needed fidelity across centuries without
+writing. A culture facing an analog channel and requiring digital-grade fidelity built a checksum.
+
+**Two engineering solutions to the same problem.** Vedic is not the only answer, and the alternative
+reverses the economics.
+
+| | Redundancy | Compression |
+|---|---|---|
+| Case | Vedic *vikṛti pāṭha* | Homeric oral-formulaic composition |
+| Stores | the signal, plus checksums | a **generator**: formulae, type-scenes, story-patterns |
+| Buys | verbatim fidelity | fluency and regeneration on demand |
+| Cost | enormous training; a dedicated caste | apprenticeship in a grammar |
+| Fails when | the institution lapses | never, so long as singers exist — but the text was never fixed |
+
+The Homeric tradition **does not pay for fidelity at all.** On the Parry–Lord account the singer does
+not memorise a text; he re-composes in performance from a stock of metrically-fitted formulae, and
+recordings of South Slavic *guslari* showed the *song* stable while the *text* varied between
+performances. That is compression, not redundancy: don't store the output, store the machine that
+makes it.
+
+**It can afford this because metre is a free error-check.** A hexameter line either scans or it does
+not, and **anyone who knows the metre can detect the fault** — no certifying community required. Metre
+is the verbal equivalent of the pot holding water: an external, immediate, non-institutional test.
+
+→ **This refines H7 in an important way.** The technique/doctrine split is *not* about medium —
+material versus verbal. It is about **whether a non-institutional check on correctness exists.**
+Homeric epic is verbal and sits on the technique side; it travelled and mutated freely across the
+Mediterranean and into Roman epic. Vedic is verbal and sits on the doctrine side; it preserved
+astonishingly across three millennia and essentially did not travel as a text. Both predictions hold.
+
+**And the payer changes over time**, which is the part that generalises. The Homeric material passed
+through three error-correction regimes, and each redefined *correct*:
+
+1. **The singer pays** — apprenticeship in the formulaic system. Correct = scans, and satisfies the
+   audience.
+2. **The polis pays** — rhapsodic performance at the Panathenaia, reportedly in fixed sequence.
+   Correct = fits the agreed order. (The sequence rule may be later tradition; flagged.)
+3. **The library pays** — Alexandria. Zenodotus marks suspect lines with the *obelos*; Aristarchus
+   builds the fuller sign system with *hypomnemata* justifying each judgement, preserved in Venetus A.
+   Correct = matches the best manuscripts. **The first genuine error-correction apparatus for Homer
+   is philological rather than priestly — and it is built at the nexus.**
+
+*Caveat.* Parry–Lord is contested: "hard" and "soft" Parryists disagree about how strictly formulaic
+the text is, neoanalysis has revived, and Kullmann argues for literate composition. The taxonomy above
+survives a soft reading; it would not survive the thesis collapsing entirely.
+
+→ Testable consequence: **traditions that invest most heavily in error-correction should be the ones
+whose doctrine travels least well**, because the correction apparatus is what fails to cross. Worth
+checking against the Chan/Dzogchen case, where transmission was explicitly person-to-person.
 
 ### 1.3 Two further rules from Smith
 
@@ -233,6 +339,11 @@ and say which instrument would be needed instead. Two live cases:
 - **Dunhuang.** A monastic, scribal and administrative archive. It would capture doctrinal borrowing
   and would very likely miss intermarriage, foodways or domestic bilingualism. The "co-presence
   without synthesis" reading (§10, Q8a) therefore cannot rest on the manuscript record alone.
+- **Termination bias**, the mirror case. Archives are disproportionately generated by *endings* —
+  refugees, polemics, successor inventories, destruction layers, sealed caves. So a phenomenon that
+  ended dramatically is over-represented, and one that simply continued is under-represented. Where
+  §7.1 warns that the archive misses what its makers did not write, this warns that it over-collects
+  what stopped loudly. Both are directional; neither is noise. See `background.md` §5.3.
 - **Zero-hit database queries** (`resources.md` §17.2). Already weighted this way, and the principle
   is the same one generalised.
 
@@ -246,6 +357,47 @@ and say which instrument would be needed instead. Two live cases:
 4. If it makes a comparative claim, assign `#r/` and check it against the §5 ladder. If the claim sits on rungs 6–7 but is tagged `#r/genealogy`, that mismatch is the finding.
 5. If it contradicts an existing entry, add both to the §16 controversy register.
 6. Mark `[unverified]` unless checked against the source itself.
+7. **Write it out.** These are working documents that will be read cold, including by their author
+   later. Compressed allusions — "the Alexandrian move on a new substrate," "one horn of its own
+   dispute" — save a line and cost a reader the paragraph they would have needed. If a phrase points
+   at an argument rather than making it, make it.
+8. **Fiction and other non-evidential sources take `#e/heuristic`.** They may generate questions and
+   leads and must never be cited in support of a claim. Where a heuristic source produces a real
+   lead, record the chain — the lead's entry should say where it came from, so that the heuristic's
+   contribution is auditable rather than laundered into the evidence base.
+
+## 8a. Tooling and format
+
+Recorded because it answers a question xian asked directly and was otherwise left in conversation.
+
+**Markdown stays the source of truth.** Plain text, git-diffable, greppable, tool-agnostic, and it
+will outlive any application. The prose documents should not be migrated.
+
+**The real problem is not cross-references — it is that `resources.md` is a database kept in prose.**
+250-odd entries with eight fields each, maintained by hand. Every field convention is a schema
+enforced by discipline rather than by structure, which is why `validate.sh` exists and why it keeps
+catching things.
+
+Three moves, in order of cost:
+
+1. **Open the directory as an Obsidian vault.** Zero migration — it reads the files as they are.
+   Supplies the one thing markdown genuinely lacks: **backlinks**. `terms.md` currently has ~25
+   outbound `[[links]]` and no way to see inbound ones. Also gives link autocomplete, a tag pane keyed
+   to the existing facets, and a graph view. Files stay plain; nothing breaks if it is abandoned.
+2. **Add Zotero (with Better BibTeX) for citation management only.** It exports BibTeX and the project
+   already uses `@citekeys`. It is a poor host for the analytic fields — `bears-on` and `against` have
+   no home in a reference manager — so it should not become the register.
+3. **Move the register to one file per entry with YAML frontmatter**, when it next needs a structural
+   change. `lit/` already demonstrates the pattern: structured data in `queries/` and `meta/`, human
+   readable markdown *generated* by `normalize.py`. Doing the same for `resources.md` would make
+   `against:` a live link, let §16's controversy register generate itself, and turn `validate.sh` from
+   a regex into a schema check.
+
+**Considered and rejected.** Org-mode has the best cross-reference and transclusion story available,
+but costs an Emacs adoption and is only worth it if that is wanted anyway. TiddlyWiki gives live
+transclusion in one file but fights git. Roam and Tana are proprietary and would trap the material.
+
+**Status: unimplemented.** (1) is free and could be done today; (3) should wait for a reason.
 
 ## 9. Open decisions
 
@@ -253,6 +405,11 @@ and say which instrument would be needed instead. Two live cases:
 2. **Scope of the Iranian material (H5).** How far into Zoroastrian and Sasanian evidence before it becomes a separate project?
 3. **Whether `chronology.md` starts now.** §4 argues yes: the dating discipline is currently a rule with no instrument.
 4. **Whether to treat convergent phenomenology (deflator 4) seriously enough to require reading in cognitive science of religion**, or to hold it as a standing caveat. The first is expensive; the second is weak.
+6. **What sets fidelity in a given case?** Not "replicator or attractor" — that split was withdrawn
+   (`background.md` §5.5), since receiver-side quantisation produces discreteness on an analog
+   channel. The live question is whether fidelity comes from the receiver (categorical perception,
+   metre), from an institution (§1.2b), or from neither. Decides how much weight selectionist models
+   can carry for any given tradition.
 5. **How much of Q8 this project can carry.** The nexus question is now primary (`background.md` §5.3)
    but its literature is largely unindexed monographs, and a full comparison class — Palmyra,
    Samarkand, Alexandria, Dunhuang, Aksum — is a project-sized commitment on its own. Decide whether

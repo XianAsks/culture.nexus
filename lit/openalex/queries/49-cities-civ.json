@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "count": 10,
+    "db_response_time_ms": 358,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (cities in civilization innovation urban creativity history)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "cities in civilization innovation urban creativity history",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:cities in civilization innovation urban creativity history&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2058575035",
+      "doi": "https://doi.org/10.1086/ahr.114.1.45",
+      "display_name": "AHR ForumThe Rise and Fall of an International Counterculture, 1960\u20131975",
+      "publication_year": 2009,
+      "cited_by_count": 71,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/ahr/article-pdf/114/1/45/25734967/114-1-45.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2161949674",
+      "doi": "https://doi.org/10.1086/ahr.113.4.1080",
+      "display_name": "Locating Linkages or Painting Bull's-Eyes around Bullet Holes? An East Asian Perspective on the Seventeenth-Century Crisis",
+      "publication_year": 2008,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4210644103",
+      "doi": "https://doi.org/10.22492/ijcs.6.2.04",
+      "display_name": "Innovation in Cultural Heritage Preservation in Taiwan: Lessons for Indonesia",
+      "publication_year": 2022,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.22492/ijcs.6.2.04",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4414100226",
+      "doi": "https://doi.org/10.3389/fcpxs.2025.1609467",
+      "display_name": "Fragility in human progress. A perspective on governance, technology and societal resilience",
+      "publication_year": 2025,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2025.1609467/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2338028332",
+      "doi": null,
+      "display_name": "REGENERATION AND RESTORATION OF OLD TEXTURE WITH A PERSPECTIVE TO PROTECT THE IDENTITY OF HOUSING, CASE STUDY \u2013JOYBAREH LOCALITY IN ISFAHAN",
+      "publication_year": 2016,
+      "cited_by_count": 4,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1805167269",
+      "doi": "https://doi.org/10.1111/geoj.12135",
+      "display_name": "Sir Peter Geoffrey Hall",
+      "publication_year": 2015,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

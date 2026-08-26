@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 38,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (rainbow body attainment tibetan)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "rainbow body attainment tibetan",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:rainbow body attainment tibetan&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3114936353",
+      "doi": "https://doi.org/10.1353/bcs.2020.0026",
+      "display_name": "Rainbow Body and Resurrection: Spiritual Attainment, The Dissolution Of the Material Body, and the Case of Khenpo a Ch\u00f6 by Francis V. Tiso",
+      "publication_year": 2020,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4410982367",
+      "doi": "https://doi.org/10.31234/osf.io/89tms_v1",
+      "display_name": "The Rainbow Body's Inner Cinema: Phosphenes, Ultrasubjective Hyperspace, and a Neurophenomenological Framework for Tibetan Mystical Experience",
+      "publication_year": 2025,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.31234/osf.io/89tms_v1",
+        "any_repository_has_fulltext": true
+      },
+      "type": "preprint"
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,395 @@
+{
+  "hitCount": 1,
+  "nextCursorMark": "",
+  "results": [
+    {
+      "id": "35576643",
+      "source": "MED",
+      "pmid": "35576643",
+      "pmcid": "PMC9118669",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC9118669"
+        ]
+      },
+      "doi": "10.1016/j.ebiom.2022.104026",
+      "title": "The heart-brain axis: A proteomics study of meditation on the cardiovascular system of Tibetan Monks.",
+      "authorString": "Xue T, Chiao B, Xu T, Li H, Shi K, Cheng Y, Shi Y, Guo X, Tong S, Guo M, Chew SH, Ebstein RP, Cui D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Xue T",
+            "firstName": "Ting",
+            "lastName": "Xue",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China; Shanghai Key Laboratory of Psychotic Disorders, Shanghai 201108, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chiao B",
+            "firstName": "Benjamin",
+            "lastName": "Chiao",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9664-9765"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "China Center for Behavioral Economics and Finance, Southwestern University of Finance and Economics, Chengdu, Sichuan 610074, China; Paris School of Technology and Business, Paris 75011, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu T",
+            "firstName": "Tianjiao",
+            "lastName": "Xu",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Nursing Department, Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Han",
+            "lastName": "Li",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China; Shanghai Key Laboratory of Psychotic Disorders, Shanghai 201108, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shi K",
+            "firstName": "Kai",
+            "lastName": "Shi",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng Y",
+            "firstName": "Ying",
+            "lastName": "Cheng",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shi Y",
+            "firstName": "Yuan",
+            "lastName": "Shi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China; Shanghai Key Laboratory of Psychotic Disorders, Shanghai 201108, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guo X",
+            "firstName": "Xiaoli",
+            "lastName": "Guo",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tong S",
+            "firstName": "Shanbao",
+            "lastName": "Tong",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guo M",
+            "firstName": "Menglin",
+            "lastName": "Guo",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chew SH",
+            "firstName": "Soo Hong",
+            "lastName": "Chew",
+            "initials": "SH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "China Center for Behavioral Economics and Finance, Southwestern University of Finance and Economics, Chengdu, Sichuan 610074, China; Department of Economics, National University of Singapore, 117570, Singapore. Electronic address: chew.soohong@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ebstein RP",
+            "firstName": "Richard P",
+            "lastName": "Ebstein",
+            "initials": "RP",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "China Center for Behavioral Economics and Finance, Southwestern University of Finance and Economics, Chengdu, Sichuan 610074, China. Electronic address: rpebstein@gmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cui D",
+            "firstName": "Donghong",
+            "lastName": "Cui",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China; Shanghai Key Laboratory of Psychotic Disorders, Shanghai 201108, China; Brain Science and Technology Research Center, Shanghai Jiao Tong University, Shanghai 201108, China. Electronic address: manyucc@126.com."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9664-9765"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "80",
+        "journalIssueId": 3373756,
+        "dateOfPublication": "2022 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2022,
+        "printPublicationDate": "2022-06-01",
+        "journal": {
+          "title": "EBioMedicine",
+          "medlineAbbreviation": "EBioMedicine",
+          "issn": "2352-3964",
+          "essn": "2352-3964",
+          "isoabbreviation": "EBioMedicine",
+          "nlmid": "101647039"
+        }
+      },
+      "pubYear": "2022",
+      "pageInfo": "104026",
+      "abstractText": "<h4>Background</h4>There have been mixed reports on the beneficial effects of meditation in cardiovascular disease (CVD), which is widely considered the leading cause of death worldwide.<h4>Methods</h4>To clarify the role of meditation in modulating the heart-brain axis, we implemented an extreme phenotype strategy, i.e., Tibetan monks (BMI > 30) who practised 19.20 \u00b1 7.82 years of meditation on average and their strictly matched non-meditative Tibetan controls. Hypothesis-free advanced proteomics strategies (Data Independent Acquisition and Targeted Parallel Reaction Monitoring) were jointly applied to systematically investigate and target the plasma proteome underlying meditation. Total cholesterol, low-density lipoprotein cholesterol\u00a0 (LDL-C), apolipoprotein B (Apo B) and lipoprotein (a) [Lp(a)] as the potential cardiovascular risk factors were evaluated. Heart rate variability (HRV) was assessed by electrocardiogram.<h4>Findings</h4>Obesity, hypertension, and reduced HRV is offset by long-term meditation. Notably, meditative monks have blood pressure and HRV comparable to their matched Tibetan controls. Meditative monks have a protective plasma proteome, related to decreased atherosclerosis, enhanced glycolysis, and oxygen release, that confers resilience to the development of CVD. In addition, clinical risk factors in plasma were significantly decreased in monks compared with controls, including total cholesterol, LDL-C, Apo B, and Lp(a).<h4>Interpretation</h4>To our knowledge, this work is the first well-controlled proteomics investigation of long-term meditation, which opens up a window for individuals characterized by a sedentary lifestyle to improve their cardiovascular health with an accessible method practised for more than two millennia.<h4>Funding</h4>See the Acknowledgements section.",
+      "affiliation": "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai 201108, China; Shanghai Key Laboratory of Psychotic Disorders, Shanghai 201108, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Cardiovascular System"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Brain"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Cardiovascular Diseases",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ET",
+                  "qualifierName": "etiology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "PC",
+                  "qualifierName": "prevention & control",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Apolipoproteins B"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteome"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Meditation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteomics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cholesterol, LDL"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Monks"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Cardiovascular Health",
+          "Heart-brain Axis",
+          "Advanced Multiple Proteomics",
+          "Tibetan Long-term Meditation"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Apolipoproteins B",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Proteome",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Cholesterol, LDL",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1016/j.ebiom.2022.104026"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.ebiom.2022.104026"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9118669"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9118669?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 10,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2022-06-14",
+      "dateOfCreation": "2022-05-16",
+      "firstIndexDate": "2022-05-17",
+      "fullTextReceivedDate": "2022-06-09",
+      "dateOfRevision": "2022-07-16",
+      "electronicPublicationDate": "2022-05-13",
+      "firstPublicationDate": "2022-05-13"
+    }
+  ]
+}

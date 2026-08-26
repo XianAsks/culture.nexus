@@ -1,0 +1,882 @@
+{
+  "hitCount": 3,
+  "nextCursorMark": "",
+  "results": [
+    {
+      "id": "33584435",
+      "source": "MED",
+      "pmid": "33584435",
+      "pmcid": "PMC7876463",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7876463"
+        ]
+      },
+      "doi": "10.3389/fpsyg.2020.599190",
+      "title": "No Detectable Electroencephalographic Activity After Clinical Declaration of Death Among Tibetan Buddhist Meditators in Apparent Tukdam, a Putative Postmortem Meditation State.",
+      "authorString": "Lott DT, Yeshi T, Norchung N, Dolma S, Tsering N, Jinpa N, Woser T, Dorjee K, Desel T, Fitch D, Finley AJ, Goldman R, Bernal AMO, Ragazzi R, Aroor K, Koger J, Francis A, Perlman DM, Wielgosz J, Bachhuber DRW, Tamdin T, Sadutshang TD, Dunne JD, Lutz A, Davidson RJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lott DT",
+            "firstName": "Dylan T",
+            "lastName": "Lott",
+            "initials": "DT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yeshi T",
+            "firstName": "Tenzin",
+            "lastName": "Yeshi",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Norchung N",
+            "firstName": "N",
+            "lastName": "Norchung",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dolma S",
+            "firstName": "Sonam",
+            "lastName": "Dolma",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tsering N",
+            "firstName": "Nyima",
+            "lastName": "Tsering",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jinpa N",
+            "firstName": "Ngawang",
+            "lastName": "Jinpa",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Woser T",
+            "firstName": "Tenzin",
+            "lastName": "Woser",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dorjee K",
+            "firstName": "Kunsang",
+            "lastName": "Dorjee",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Desel T",
+            "firstName": "Tenzin",
+            "lastName": "Desel",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fitch D",
+            "firstName": "Dan",
+            "lastName": "Fitch",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Finley AJ",
+            "firstName": "Anna J",
+            "lastName": "Finley",
+            "initials": "AJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Goldman R",
+            "firstName": "Robin",
+            "lastName": "Goldman",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bernal AMO",
+            "firstName": "Ana Maria Ortiz",
+            "lastName": "Bernal",
+            "initials": "AMO",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Human Ecology, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ragazzi R",
+            "firstName": "Rachele",
+            "lastName": "Ragazzi",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Aroor K",
+            "firstName": "Karthik",
+            "lastName": "Aroor",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Koger J",
+            "firstName": "John",
+            "lastName": "Koger",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Francis A",
+            "firstName": "Andy",
+            "lastName": "Francis",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Perlman DM",
+            "firstName": "David M",
+            "lastName": "Perlman",
+            "initials": "DM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wielgosz J",
+            "firstName": "Joseph",
+            "lastName": "Wielgosz",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bachhuber DRW",
+            "firstName": "David R W",
+            "lastName": "Bachhuber",
+            "initials": "DRW",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tamdin T",
+            "firstName": "Tsewang",
+            "lastName": "Tamdin",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Men-Tsee-Khang/TMAI, Upmuhal, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sadutshang TD",
+            "firstName": "Tsetan Dorji",
+            "lastName": "Sadutshang",
+            "initials": "TD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Delek Hospital, Gangchen Kyishong, Dharamshala, Himachal Pradesh, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dunne JD",
+            "firstName": "John D",
+            "lastName": "Dunne",
+            "initials": "JD",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9404-7007"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                },
+                {
+                  "affiliation": "Department of East Asian Languages and Literature, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lutz A",
+            "firstName": "Antoine",
+            "lastName": "Lutz",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                },
+                {
+                  "affiliation": "Lyon Neuroscience Research Centre, INSERM U1028, CNRS UMR5292, Lyon 1 University, Lyon, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Davidson RJ",
+            "firstName": "Richard J",
+            "lastName": "Davidson",
+            "initials": "RJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8506-4964"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States."
+                },
+                {
+                  "affiliation": "Departments of Psychology and Psychiatry, University of Wisconsin-Madison, Madison, WI, United States."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7207-2351"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8506-4964"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9404-7007"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "11",
+        "journalIssueId": 2911856,
+        "dateOfPublication": "2020 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-01-01",
+        "journal": {
+          "title": "Frontiers in psychology",
+          "medlineAbbreviation": "Front Psychol",
+          "issn": "1664-1078",
+          "essn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "599190",
+      "abstractText": "Recent EEG studies on the early postmortem interval that suggest the persistence of electrophysiological coherence and connectivity in the brain of animals and humans reinforce the need for further investigation of the relationship between the brain's activity and the dying process. Neuroscience is now in a position to empirically evaluate the extended process of dying and, more specifically, to investigate the possibility of brain activity following the cessation of cardiac and respiratory function. Under the direction of the Center for Healthy Minds at the University of Wisconsin-Madison, research was conducted in India on a postmortem meditative state cultivated by some Tibetan Buddhist practitioners in which decomposition is putatively delayed. For all healthy baseline (HB) and postmortem (PM) subjects presented here, we collected resting state electroencephalographic data, mismatch negativity (MMN), and auditory brainstem response (ABR). In this study, we present HB data to demonstrate the feasibility of a sparse electrode EEG configuration to capture well-defined ERP waveforms from living subjects under very challenging field conditions. While living subjects displayed well-defined MMN and ABR responses, no recognizable EEG waveforms were discernable in any of the <i>tukdam</i> cases.",
+      "affiliation": "Center for Health Minds, University of Wisconsin-Madison, Madison, WI, United States.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "brief-report",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "T32 MH018931",
+            "agency": "NIMH NIH HHS",
+            "acronym": "MH",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "EEG",
+          "Auditory brainstem response",
+          "Consciousness",
+          "Postmortem",
+          "Meditation",
+          "Mismatch Negativity",
+          "Brain Death",
+          "Tibetan Buddhism"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2020.599190"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7876463"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7876463?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 11,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2021-02-15",
+      "firstIndexDate": "2021-02-16",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2024-08-06",
+      "electronicPublicationDate": "2021-01-28",
+      "firstPublicationDate": "2021-01-28"
+    },
+    {
+      "id": "40705208",
+      "source": "MED",
+      "pmid": "40705208",
+      "pmcid": "PMC12325537",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12325537"
+        ]
+      },
+      "doi": "10.1007/s11013-025-09935-2",
+      "title": "Correction: Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for the Tibetan Tukdam Postmortem Meditative State.",
+      "authorString": "Tidwell TL.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tidwell TL",
+            "firstName": "Tawni L",
+            "lastName": "Tidwell",
+            "initials": "TL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9358-9958"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9358-9958"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "49",
+        "journalIssueId": 3990210,
+        "dateOfPublication": "2025 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-06-01",
+        "journal": {
+          "title": "Culture, medicine and psychiatry",
+          "medlineAbbreviation": "Cult Med Psychiatry",
+          "issn": "0165-005X",
+          "essn": "1573-076X",
+          "isoabbreviation": "Cult Med Psychiatry",
+          "nlmid": "7707467"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "465-466",
+      "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Published Erratum",
+          "correction"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11013-025-09935-2"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325537"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325537?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "38393648",
+            "source": "MED",
+            "reference": "Cult Med Psychiatry. 2025 Jun;49(2):434-464. doi: 10.1007/s11013-023-09844-2.",
+            "type": "Erratum for",
+            "orderIn": 1
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 2,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2025-07-24",
+      "firstIndexDate": "2025-07-24",
+      "fullTextReceivedDate": "2025-08-08",
+      "dateOfRevision": "2025-08-08",
+      "firstPublicationDate": "2025-06-01"
+    },
+    {
+      "id": "38393648",
+      "source": "MED",
+      "pmid": "38393648",
+      "pmcid": "PMC12325478",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12325478"
+        ]
+      },
+      "doi": "10.1007/s11013-023-09844-2",
+      "title": "Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for\u00a0the Tibetan Tukdam Postmortem Meditative State.",
+      "authorString": "Tidwell TL.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tidwell TL",
+            "firstName": "Tawni L",
+            "lastName": "Tidwell",
+            "initials": "TL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9358-9958"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9358-9958"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "49",
+        "journalIssueId": 3990210,
+        "dateOfPublication": "2025 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-06-01",
+        "journal": {
+          "title": "Culture, medicine and psychiatry",
+          "medlineAbbreviation": "Cult Med Psychiatry",
+          "issn": "0165-005X",
+          "essn": "1573-076X",
+          "isoabbreviation": "Cult Med Psychiatry",
+          "nlmid": "7707467"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "434-464",
+      "abstractText": "This article presents two cases from a collaborative study among Tibetan monastic populations in India on the postdeath meditative state called \"tukdam (Tib., thugs dam)\". Entered by advanced Tibetan Buddhist practitioners through a variety of different practices, this state provides an ontological frame that is investigated by two distinct intellectual traditions-the Tibetan Buddhist and medical tradition on one hand and the Euroamerican biomedical and scientific tradition on the other-using their respective means of inquiry. Through the investigation, the traditions enact two paradigms of the body at the time of death alongside attendant conceptualizations of what constitutes life itself. This work examines when epistemologies of these two traditions might converge, under what ontological contexts, and through which correlated indicators of evidence. In doing so, this work explores how these two intellectual traditions might answer how the time course and characteristics of physiological changes during the postmortem period might exhibit variation across individuals. Centrally, this piece presents an epistemological inquiry delineating the types of valid evidence that constitute exceptional processes post-clinical death and their potential ontological implications.",
+      "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "AAG8698",
+            "agency": "College of Letters and Sciences, University of Wisconsin-Whitewater",
+            "orderIn": 0
+          },
+          {
+            "grantId": "AAG8698",
+            "agency": "College of Letters and Sciences, University of Wisconsin\u2013Whitewater",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Attitude to Death",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cues"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Buddhism",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "India",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biomarkers"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Tibetan medicine",
+          "Death",
+          "Epistemology",
+          "Ontology",
+          "Postmortem Meditation",
+          "Tukdam"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Biomarkers",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11013-023-09844-2"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325478"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325478?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "40705208",
+            "source": "MED",
+            "reference": "Cult Med Psychiatry. 2025 Jun;49(2):465-466. doi: 10.1007/s11013-025-09935-2.",
+            "type": "Erratum in",
+            "orderIn": 1
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 1,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-08-05",
+      "dateOfCreation": "2024-02-23",
+      "firstIndexDate": "2024-02-24",
+      "fullTextReceivedDate": "2025-08-08",
+      "dateOfRevision": "2025-08-29",
+      "electronicPublicationDate": "2024-02-23",
+      "firstPublicationDate": "2024-02-23"
+    }
+  ]
+}

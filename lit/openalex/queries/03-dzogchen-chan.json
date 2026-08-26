@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 12,
+    "db_response_time_ms": 96,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (dzogchen chan dunhuang tibetan zen influence)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "dzogchen chan dunhuang tibetan zen influence",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:dzogchen chan dunhuang tibetan zen influence&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2076760458",
+      "doi": "https://doi.org/10.1163/15734218-12341249",
+      "display_name": "Embodying Enlightenment: Physical Culture in Dzogchen as revealed in Tibet\u2019s Lukhang Murals",
+      "publication_year": 2012,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/journals/asme/7/1/article-p225_9.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2050261689",
+      "doi": "https://doi.org/10.1163/157342107x207245",
+      "display_name": "Magical Movement (\u02bePhrul \u02beKhor): Ancient Tibetan Yogic Practices from the Bon Religion and their Migration into Contemporary Medical Settings",
+      "publication_year": 2007,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/journals/asme/3/1/article-p130_9.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2985244908",
+      "doi": null,
+      "display_name": "Allowing Spontaneity: Practice, Theory, and Ethical Cultivation in Longchenpa's Great Perfection Philosophy of Action",
+      "publication_year": 2018,
+      "cited_by_count": 3,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:40050138",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W1603095592",
+      "doi": null,
+      "display_name": "Being and knowing in wholeness Chinese Chan, Tibetan Dzogchen, and the logic of immediacy in contemplation",
+      "publication_year": 2010,
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1911/61982",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W3002875576",
+      "doi": null,
+      "display_name": "Literature and the Moral Life: Reading the Early Biography of the Tibetan Queen Yeshe Tsogyal",
+      "publication_year": 2019,
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:42029522",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W2520554114",
+      "doi": null,
+      "display_name": "sLob dpon gyis b\u015bad pa: Explanation by the Master The Teachings on Meditation of an Unknown Bya\u1e45-cub-klu-dba\u1e45",
+      "publication_year": 2016,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://philpapers.org/archive/DELSDG.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4242547530",
+      "doi": "https://doi.org/10.4259/ibk.65.3_1317",
+      "display_name": "Abstracts",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.jstage.jst.go.jp/article/ibk/65/3/65_1317/_pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "conference-abstract"
+    },
+    {
+      "id": "https://openalex.org/W4410523160",
+      "doi": "https://doi.org/10.3390/rel16050636",
+      "display_name": "Preparatory Guidelines for Meditation in Pre-Modern Sino-Tibetan Buddhist Traditions",
+      "publication_year": 2025,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/16/5/636/pdf?version=1747704950",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

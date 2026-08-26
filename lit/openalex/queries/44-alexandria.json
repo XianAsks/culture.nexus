@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "count": 17,
+    "db_response_time_ms": 113,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (alexandria intellectual culture hellenistic scholarship)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "alexandria intellectual culture hellenistic scholarship",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:alexandria intellectual culture hellenistic scholarship&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1967895982",
+      "doi": "https://doi.org/10.1163/156852509x340291",
+      "display_name": "The Hellenistic Royal Court. Court Culture, Ceremonial and Ideology in Greece, Egypt and the Near East, 336-30 BCE",
+      "publication_year": 2008,
+      "cited_by_count": 33,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dspace.library.uu.nl/handle/1874/22154",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2030996619",
+      "doi": "https://doi.org/10.1002/bult.24",
+      "display_name": "Electronics and the Dim Future of the University",
+      "publication_year": 1996,
+      "cited_by_count": 20,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2484567778",
+      "doi": "https://doi.org/10.1525/california/9780520244214.003.0006",
+      "display_name": "Alexandrian Intellectual Life in the Roman Imperial Period",
+      "publication_year": 2006,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W2765213592",
+      "doi": "https://doi.org/10.1353/ajp.2017.0028",
+      "display_name": "Pindar's Library: Performance Poetry and Material Texts by Tom Phillips",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4406815258",
+      "doi": "https://doi.org/10.1111/rsr.17552",
+      "display_name": "The State of Patristic Studies",
+      "publication_year": 2024,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/rsr.17552",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4205641331",
+      "doi": "https://doi.org/10.5325/mediterraneanstu.29.1.0001",
+      "display_name": "Editor\u2019s Introduction",
+      "publication_year": 2021,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

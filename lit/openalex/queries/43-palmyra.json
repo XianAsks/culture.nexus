@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 58,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (palmyra caravan trade roman parthian)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "palmyra caravan trade roman parthian",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:palmyra caravan trade roman parthian&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4231838357",
+      "doi": "https://doi.org/10.5325/jeasmedarcherstu.2.1.0065",
+      "display_name": "Roman Palmyra: Identity, Community, and State Formation",
+      "publication_year": 2014,
+      "cited_by_count": 25,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2485251703",
+      "doi": "https://doi.org/10.1017/cbo9780511619182.009",
+      "display_name": "Arabia between the great powers",
+      "publication_year": 2007,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W4245950907",
+      "doi": "https://doi.org/10.1038/132227c0",
+      "display_name": "Caravan Cities",
+      "publication_year": 1933,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2330288256",
+      "doi": "https://doi.org/10.5356/jorient.8.33",
+      "display_name": "The Palmyrene commercial settlement in Vologesia",
+      "publication_year": 1965,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.jstage.jst.go.jp/article/jorient1962/8/1/8_1_33/_pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

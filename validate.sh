@@ -19,4 +19,30 @@ echo "=== counts ==="
 printf '  entries: %s\n' "$(grep -c '^- ' resources.md)"
 printf '  open questions: %s\n' "$(grep -ch '^?' resources.md background.md | paste -sd+ | bc)"
 printf '  unverified: %s\n' "$(grep -c '\[unverified\]' resources.md)"
-exit 0
+echo "=== leftover draft markers ==="
+grep -n 'superseded\|see corrected entry\|— \*see note\*\|invalid, two' resources.md | sed 's/^/  STALE: /'
+echo "=== subsection headers out of sync with parent ==="
+uv run --no-project python3 - <<'PY'
+import re
+cur=None; bad=0
+for i,l in enumerate(open("resources.md"),1):
+    m=re.match(r"^## (\d+)\. ",l)
+    if m: cur=m.group(1)
+    m2=re.match(r"^### (\d+)\.(\d+)",l)
+    if m2 and cur and m2.group(1)!=cur:
+        print(f"  MISMATCH line {i}: {l.strip()[:56]} (parent is §{cur})"); bad+=1
+PY
+echo "=== encoding: invalid UTF-8 ==="
+for f in *.md lit/*.md lit/*/*.md; do
+  [ -f "$f" ] || continue
+  iconv -f UTF-8 -t UTF-8 "$f" >/dev/null 2>&1 || echo "  INVALID UTF-8: $f"
+done
+echo "=== encoding: mojibake signatures (UTF-8 read as Latin-1) ==="
+grep -n 'â€\|Ã[©¨¤¶±]\|Â[ §°]\|ï»¿' *.md lit/*.md lit/*/*.md 2>/dev/null | sed 's/^/  MOJIBAKE: /'
+echo "=== stray CJK (review: 景教 in terms.md is intentional) ==="
+grep -nP '[\x{3000}-\x{9FFF}]' *.md lit/*.md lit/*/*.md 2>/dev/null | cut -c1-88 | sed 's/^/  CJK: /'
+echo "=== dangling subsection references ==="
+for s in $(grep -oh '§[0-9]\+\.[0-9]' *.md | sort -u); do
+  n=${s#§}
+  grep -q "^### ${n}" resources.md || grep -q "^### ${n}" methods.md || grep -q "^## ${n%%.*}" methods.md || echo "  DANGLING: $s"
+done

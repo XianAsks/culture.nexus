@@ -1,0 +1,4116 @@
+{
+  "hitCount": 7704,
+  "nextCursorMark": "AoJSJyg0MTgwNjYwMg==",
+  "results": [
+    {
+      "id": "31562236",
+      "source": "MED",
+      "pmid": "31562236",
+      "pmcid": "PMC6872448",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6872448"
+        ]
+      },
+      "doi": "10.1136/gutjnl-2019-318484",
+      "title": "British Society of Gastroenterology consensus guidelines on the management of inflammatory bowel disease in adults.",
+      "authorString": "Lamb CA, Kennedy NA, Raine T, Hendy PA, Smith PJ, Limdi JK, Hayee B, Lomer MCE, Parkes GC, Selinger C, Barrett KJ, Davies RJ, Bennett C, Gittens S, Dunlop MG, Faiz O, Fraser A, Garrick V, Johnston PD, Parkes M, Sanderson J, Terry H, IBD guidelines eDelphi consensus group, Gaya DR, Iqbal TH, Taylor SA, Smith M, Brookes M, Hansen R, Hawthorne AB.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lamb CA",
+            "firstName": "Christopher Andrew",
+            "lastName": "Lamb",
+            "initials": "CA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7271-4956"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Newcastle University, Newcastle upon Tyne, UK."
+                },
+                {
+                  "affiliation": "Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle Upon Tyne, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kennedy NA",
+            "firstName": "Nicholas A",
+            "lastName": "Kennedy",
+            "initials": "NA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4368-1961"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Royal Devon and Exeter NHS Foundation Trust, Exeter, UK."
+                },
+                {
+                  "affiliation": "University of Exeter, Exeter, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Raine T",
+            "firstName": "Tim",
+            "lastName": "Raine",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5855-9873"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Cambridge University Hospitals NHS FoundationTrust, Cambridge, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hendy PA",
+            "firstName": "Philip Anthony",
+            "lastName": "Hendy",
+            "initials": "PA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1377-7172"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Chelsea and Westminster Hospital NHS Foundation Trust, London, UK."
+                },
+                {
+                  "affiliation": "Imperial College London, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Smith PJ",
+            "firstName": "Philip J",
+            "lastName": "Smith",
+            "initials": "PJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1568-3978"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Royal Liverpool and Broadgreen University Hospitals NHS Trust, Liverpool, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Limdi JK",
+            "firstName": "Jimmy K",
+            "lastName": "Limdi",
+            "initials": "JK",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1039-6251"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Pennine Acute Hospitals NHS Trust, Manchester, UK."
+                },
+                {
+                  "affiliation": "University of Manchester, Manchester, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hayee B",
+            "firstName": "Bu'Hussain",
+            "lastName": "Hayee",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1670-8815"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "King's College Hospital NHS Foundation Trust, London, UK."
+                },
+                {
+                  "affiliation": "King's College London, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lomer MCE",
+            "firstName": "Miranda C E",
+            "lastName": "Lomer",
+            "initials": "MCE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9369-8115"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "King's College London, London, UK."
+                },
+                {
+                  "affiliation": "Guy's and St Thomas' NHS Foundation Trust, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Parkes GC",
+            "firstName": "Gareth C",
+            "lastName": "Parkes",
+            "initials": "GC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5285-7714"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Barts Health NHS Trust, London, UK."
+                },
+                {
+                  "affiliation": "Barts and the London School of Medicine and Dentistry, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Selinger C",
+            "firstName": "Christian",
+            "lastName": "Selinger",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2022-5859"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Leeds Teaching Hospitals NHS Trust, Leeds, UK."
+                },
+                {
+                  "affiliation": "University of Leeds, Leeds, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Barrett KJ",
+            "firstName": "Kevin J",
+            "lastName": "Barrett",
+            "initials": "KJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0785-1815"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "New Road Surgery, Rickmansworth, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Davies RJ",
+            "firstName": "R Justin",
+            "lastName": "Davies",
+            "initials": "RJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6904-1255"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Cambridge University Hospitals NHS FoundationTrust, Cambridge, UK."
+                },
+                {
+                  "affiliation": "University of Cambridge, Cambridge, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bennett C",
+            "firstName": "Cathy",
+            "lastName": "Bennett",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9112-5698"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Systematic Research Ltd, Quorn, UK."
+                },
+                {
+                  "affiliation": "Royal College of Surgeons in Ireland (RCSI), Dublin, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gittens S",
+            "firstName": "Stuart",
+            "lastName": "Gittens",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7137-5799"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "ECD Solutions, Bridgetown, Barbados."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dunlop MG",
+            "firstName": "Malcolm G",
+            "lastName": "Dunlop",
+            "initials": "MG",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3033-5851"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Edinburgh, Edinburgh, UK."
+                },
+                {
+                  "affiliation": "Western General Hospital, Edinburgh, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Faiz O",
+            "firstName": "Omar",
+            "lastName": "Faiz",
+            "initials": "O",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1117-1588"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Imperial College London, London, UK."
+                },
+                {
+                  "affiliation": "St Mark's Hospital, Harrow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fraser A",
+            "firstName": "Aileen",
+            "lastName": "Fraser",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6462-5091"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Hospitals Bristol NHS Foundation Trust, Bristol, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Garrick V",
+            "firstName": "Vikki",
+            "lastName": "Garrick",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8643-8617"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Royal Hospital for Children Glasgow, Glasgow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Johnston PD",
+            "firstName": "Paul D",
+            "lastName": "Johnston",
+            "initials": "PD",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4192-6526"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Crohn's and Colitis UK, Hatfield, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Parkes M",
+            "firstName": "Miles",
+            "lastName": "Parkes",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6467-0631"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Cambridge University Hospitals NHS FoundationTrust, Cambridge, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sanderson J",
+            "firstName": "Jeremy",
+            "lastName": "Sanderson",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0556-6965"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "King's College London, London, UK."
+                },
+                {
+                  "affiliation": "Guy's and St Thomas' NHS Foundation Trust, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Terry H",
+            "firstName": "Helen",
+            "lastName": "Terry",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8920-5752"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Crohn's and Colitis UK, Hatfield, UK."
+                }
+              ]
+            }
+          },
+          {
+            "collectiveName": "IBD guidelines eDelphi consensus group"
+          },
+          {
+            "fullName": "Gaya DR",
+            "firstName": "Daniel R",
+            "lastName": "Gaya",
+            "initials": "DR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1942-7568"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Glasgow Royal Infirmary, Glasgow, UK."
+                },
+                {
+                  "affiliation": "University of Glasgow, Glasgow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Iqbal TH",
+            "firstName": "Tariq H",
+            "lastName": "Iqbal",
+            "initials": "TH",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6681-9882"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Queen Elizabeth Hospital Birmingham NHSFoundation Trust, Birmingham, UK."
+                },
+                {
+                  "affiliation": "University of Birmingham, Birmingham, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Taylor SA",
+            "firstName": "Stuart A",
+            "lastName": "Taylor",
+            "initials": "SA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6765-8806"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University College London, London, UK."
+                },
+                {
+                  "affiliation": "University College London Hospitals NHS Foundation Trust, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Smith M",
+            "firstName": "Melissa",
+            "lastName": "Smith",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7442-6093"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Brighton and Sussex University Hospitals NHS Trust, Brighton, UK."
+                },
+                {
+                  "affiliation": "Brighton and Sussex Medical School, Brighton, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brookes M",
+            "firstName": "Matthew",
+            "lastName": "Brookes",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8782-0292"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Royal Wolverhampton NHS Trust, Wolverhampton, UK."
+                },
+                {
+                  "affiliation": "University of Wolverhampton, Wolverhampton, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hansen R",
+            "firstName": "Richard",
+            "lastName": "Hansen",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3944-6646"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Royal Hospital for Children Glasgow, Glasgow, UK."
+                },
+                {
+                  "affiliation": "University of Glasgow, Glasgow, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hawthorne AB",
+            "firstName": "A Barney",
+            "lastName": "Hawthorne",
+            "initials": "AB",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8768-4550"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University Hospital of Wales, Cardiff, UK."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "investigatorList": {
+        "investigator": [
+          {
+            "fullName": "Arnott I",
+            "firstName": "Ian",
+            "lastName": "Arnott",
+            "initials": "I"
+          },
+          {
+            "fullName": "Barrett KJ",
+            "firstName": "Kevin J",
+            "lastName": "Barrett",
+            "initials": "KJ"
+          },
+          {
+            "fullName": "Beattie RM",
+            "firstName": "R Mark",
+            "lastName": "Beattie",
+            "initials": "RM"
+          },
+          {
+            "fullName": "Bloom S",
+            "firstName": "Stuart",
+            "lastName": "Bloom",
+            "initials": "S"
+          },
+          {
+            "fullName": "Bodger K",
+            "firstName": "Keith",
+            "lastName": "Bodger",
+            "initials": "K"
+          },
+          {
+            "fullName": "Brady RR",
+            "firstName": "Richard R",
+            "lastName": "Brady",
+            "initials": "RR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1905-6384"
+            }
+          },
+          {
+            "fullName": "Brookes MJ",
+            "firstName": "Matthew J",
+            "lastName": "Brookes",
+            "initials": "MJ"
+          },
+          {
+            "fullName": "Brown SR",
+            "firstName": "Steven R",
+            "lastName": "Brown",
+            "initials": "SR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0980-2793"
+            }
+          },
+          {
+            "fullName": "Butterworth JR",
+            "firstName": "Jeffrey R",
+            "lastName": "Butterworth",
+            "initials": "JR"
+          },
+          {
+            "fullName": "Calvert CR",
+            "firstName": "Christopher R",
+            "lastName": "Calvert",
+            "initials": "CR"
+          },
+          {
+            "fullName": "Campbell R",
+            "firstName": "Rachel",
+            "lastName": "Campbell",
+            "initials": "R"
+          },
+          {
+            "fullName": "Creed T",
+            "firstName": "Tom",
+            "lastName": "Creed",
+            "initials": "T"
+          },
+          {
+            "fullName": "Croft NM",
+            "firstName": "Nicholas M",
+            "lastName": "Croft",
+            "initials": "NM"
+          },
+          {
+            "fullName": "Cummings F",
+            "firstName": "Fraser",
+            "lastName": "Cummings",
+            "initials": "F"
+          },
+          {
+            "fullName": "Davies RJ",
+            "firstName": "R Justin",
+            "lastName": "Davies",
+            "initials": "RJ"
+          },
+          {
+            "fullName": "Devadason D",
+            "firstName": "David",
+            "lastName": "Devadason",
+            "initials": "D"
+          },
+          {
+            "fullName": "Dhar A",
+            "firstName": "Anjan",
+            "lastName": "Dhar",
+            "initials": "A"
+          },
+          {
+            "fullName": "Dipper C",
+            "firstName": "Chris",
+            "lastName": "Dipper",
+            "initials": "C"
+          },
+          {
+            "fullName": "Duncan J",
+            "firstName": "Julie",
+            "lastName": "Duncan",
+            "initials": "J"
+          },
+          {
+            "fullName": "Dunlop M",
+            "firstName": "Malcolm",
+            "lastName": "Dunlop",
+            "initials": "M"
+          },
+          {
+            "fullName": "Durai D",
+            "firstName": "Dharmaraj",
+            "lastName": "Durai",
+            "initials": "D"
+          },
+          {
+            "fullName": "Evans MD",
+            "firstName": "Martyn D",
+            "lastName": "Evans",
+            "initials": "MD"
+          },
+          {
+            "fullName": "Faiz O",
+            "firstName": "Omar",
+            "lastName": "Faiz",
+            "initials": "O"
+          },
+          {
+            "fullName": "Fearnhead NS",
+            "firstName": "Nicola S",
+            "lastName": "Fearnhead",
+            "initials": "NS"
+          },
+          {
+            "fullName": "Ford AC",
+            "firstName": "Alexander C",
+            "lastName": "Ford",
+            "initials": "AC"
+          },
+          {
+            "fullName": "Fraser A",
+            "firstName": "Aileen",
+            "lastName": "Fraser",
+            "initials": "A"
+          },
+          {
+            "fullName": "Garrick V",
+            "firstName": "Vikki",
+            "lastName": "Garrick",
+            "initials": "V"
+          },
+          {
+            "fullName": "Gaya DR",
+            "firstName": "Daniel R",
+            "lastName": "Gaya",
+            "initials": "DR"
+          },
+          {
+            "fullName": "Goodhand J",
+            "firstName": "James",
+            "lastName": "Goodhand",
+            "initials": "J"
+          },
+          {
+            "fullName": "Hall N",
+            "firstName": "Nigel",
+            "lastName": "Hall",
+            "initials": "N"
+          },
+          {
+            "fullName": "Hansen R",
+            "firstName": "Richard",
+            "lastName": "Hansen",
+            "initials": "R"
+          },
+          {
+            "fullName": "Harbord M",
+            "firstName": "Marcus",
+            "lastName": "Harbord",
+            "initials": "M"
+          },
+          {
+            "fullName": "Hawthorne AB",
+            "firstName": "A Barney",
+            "lastName": "Hawthorne",
+            "initials": "AB"
+          },
+          {
+            "fullName": "Hayee B",
+            "firstName": "Bu'Hussain",
+            "lastName": "Hayee",
+            "initials": "B"
+          },
+          {
+            "fullName": "Hearnshaw S",
+            "firstName": "Sarah",
+            "lastName": "Hearnshaw",
+            "initials": "S"
+          },
+          {
+            "fullName": "Henderson P",
+            "firstName": "Paul",
+            "lastName": "Henderson",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3634-6428"
+            }
+          },
+          {
+            "fullName": "Hendy P",
+            "firstName": "Philip",
+            "lastName": "Hendy",
+            "initials": "P"
+          },
+          {
+            "fullName": "Iqbal T",
+            "firstName": "Tariq",
+            "lastName": "Iqbal",
+            "initials": "T"
+          },
+          {
+            "fullName": "Johnston PD",
+            "firstName": "Paul D",
+            "lastName": "Johnston",
+            "initials": "PD"
+          },
+          {
+            "fullName": "Kennedy NA",
+            "firstName": "Nicholas A",
+            "lastName": "Kennedy",
+            "initials": "NA"
+          },
+          {
+            "fullName": "Lamb CA",
+            "firstName": "Christopher A",
+            "lastName": "Lamb",
+            "initials": "CA"
+          },
+          {
+            "fullName": "Limdi JK",
+            "firstName": "Jimmy K",
+            "lastName": "Limdi",
+            "initials": "JK"
+          },
+          {
+            "fullName": "Lindsay JO",
+            "firstName": "James O",
+            "lastName": "Lindsay",
+            "initials": "JO"
+          },
+          {
+            "fullName": "Lobo AJ",
+            "firstName": "Alan J",
+            "lastName": "Lobo",
+            "initials": "AJ"
+          },
+          {
+            "fullName": "Lomer M",
+            "firstName": "Miranda",
+            "lastName": "Lomer",
+            "initials": "M"
+          },
+          {
+            "fullName": "Lovegrove RE",
+            "firstName": "Richard E",
+            "lastName": "Lovegrove",
+            "initials": "RE"
+          },
+          {
+            "fullName": "Mansfield JC",
+            "firstName": "John C",
+            "lastName": "Mansfield",
+            "initials": "JC"
+          },
+          {
+            "fullName": "Mclaughlin S",
+            "firstName": "Simon",
+            "lastName": "Mclaughlin",
+            "initials": "S"
+          },
+          {
+            "fullName": "Mountford CG",
+            "firstName": "Christopher G",
+            "lastName": "Mountford",
+            "initials": "CG",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1672-2692"
+            }
+          },
+          {
+            "fullName": "Muhammed R",
+            "firstName": "Rafeeq",
+            "lastName": "Muhammed",
+            "initials": "R"
+          },
+          {
+            "fullName": "Noor NM",
+            "firstName": "Nurulamin M",
+            "lastName": "Noor",
+            "initials": "NM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3426-6408"
+            }
+          },
+          {
+            "fullName": "Panter S",
+            "firstName": "Simon",
+            "lastName": "Panter",
+            "initials": "S"
+          },
+          {
+            "fullName": "Parkes GC",
+            "firstName": "Gareth C",
+            "lastName": "Parkes",
+            "initials": "GC"
+          },
+          {
+            "fullName": "Parkes M",
+            "firstName": "Miles",
+            "lastName": "Parkes",
+            "initials": "M"
+          },
+          {
+            "fullName": "Pinkney TD",
+            "firstName": "Thomas D",
+            "lastName": "Pinkney",
+            "initials": "TD",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7320-6673"
+            }
+          },
+          {
+            "fullName": "Probert C",
+            "firstName": "Chris",
+            "lastName": "Probert",
+            "initials": "C"
+          },
+          {
+            "fullName": "Raine T",
+            "firstName": "Tim",
+            "lastName": "Raine",
+            "initials": "T"
+          },
+          {
+            "fullName": "Russell RK",
+            "firstName": "Richard K",
+            "lastName": "Russell",
+            "initials": "RK"
+          },
+          {
+            "fullName": "Rutter MD",
+            "firstName": "Matthew D",
+            "lastName": "Rutter",
+            "initials": "MD"
+          },
+          {
+            "fullName": "Samaan MA",
+            "firstName": "Mark A",
+            "lastName": "Samaan",
+            "initials": "MA"
+          },
+          {
+            "fullName": "Sanderson JD",
+            "firstName": "Jeremy D",
+            "lastName": "Sanderson",
+            "initials": "JD"
+          },
+          {
+            "fullName": "Selinger CP",
+            "firstName": "Christian P",
+            "lastName": "Selinger",
+            "initials": "CP"
+          },
+          {
+            "fullName": "Shah A",
+            "firstName": "Ashit",
+            "lastName": "Shah",
+            "initials": "A"
+          },
+          {
+            "fullName": "Short SJ",
+            "firstName": "Steve J",
+            "lastName": "Short",
+            "initials": "SJ"
+          },
+          {
+            "fullName": "Singh B",
+            "firstName": "Baljit",
+            "lastName": "Singh",
+            "initials": "B"
+          },
+          {
+            "fullName": "Smith PJ",
+            "firstName": "Philip J",
+            "lastName": "Smith",
+            "initials": "PJ"
+          },
+          {
+            "fullName": "Smith M",
+            "firstName": "Melissa",
+            "lastName": "Smith",
+            "initials": "M"
+          },
+          {
+            "fullName": "Speight RA",
+            "firstName": "R Alexander",
+            "lastName": "Speight",
+            "initials": "RA"
+          },
+          {
+            "fullName": "Stansfield C",
+            "firstName": "Catherine",
+            "lastName": "Stansfield",
+            "initials": "C"
+          },
+          {
+            "fullName": "Steed H",
+            "firstName": "Helen",
+            "lastName": "Steed",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5202-9273"
+            }
+          },
+          {
+            "fullName": "Taylor SA",
+            "firstName": "Stuart A",
+            "lastName": "Taylor",
+            "initials": "SA"
+          },
+          {
+            "fullName": "Terry H",
+            "firstName": "Helen",
+            "lastName": "Terry",
+            "initials": "H"
+          },
+          {
+            "fullName": "Tham TC",
+            "firstName": "Tony C",
+            "lastName": "Tham",
+            "initials": "TC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5928-762X"
+            }
+          },
+          {
+            "fullName": "Thompson NP",
+            "firstName": "Nick P",
+            "lastName": "Thompson",
+            "initials": "NP"
+          },
+          {
+            "fullName": "Walker GJ",
+            "firstName": "Gareth J",
+            "lastName": "Walker",
+            "initials": "GJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3883-8816"
+            }
+          },
+          {
+            "fullName": "Wall CL",
+            "firstName": "Catherine L",
+            "lastName": "Wall",
+            "initials": "CL"
+          },
+          {
+            "fullName": "Warusavitarne J",
+            "firstName": "Janindra",
+            "lastName": "Warusavitarne",
+            "initials": "J"
+          },
+          {
+            "fullName": "Williams GL",
+            "firstName": "Gethin L",
+            "lastName": "Williams",
+            "initials": "GL"
+          },
+          {
+            "fullName": "Wilson RG",
+            "firstName": "R Graeme",
+            "lastName": "Wilson",
+            "initials": "RG"
+          },
+          {
+            "fullName": "Wilson DC",
+            "firstName": "David C",
+            "lastName": "Wilson",
+            "initials": "DC"
+          },
+          {
+            "fullName": "Younge LC",
+            "firstName": "Lisa C",
+            "lastName": "Younge",
+            "initials": "LC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3436-9696"
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6462-5091"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6904-1255"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7137-5799"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7320-6673"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8643-8617"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0556-6965"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0785-1815"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0980-2793"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1039-6251"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1377-7172"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1905-6384"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3033-5851"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3436-9696"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3883-8816"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3944-6646"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4192-6526"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5202-9273"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5285-7714"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5855-9873"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5928-762X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6467-0631"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6681-9882"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6765-8806"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7271-4956"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7442-6093"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8768-4550"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8782-0292"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8920-5752"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9112-5698"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9369-8115"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1117-1588"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1568-3978"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1670-8815"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1672-2692"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1942-7568"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2022-5859"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3426-6408"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3634-6428"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4368-1961"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "Suppl 3",
+        "volume": "68",
+        "journalIssueId": 2879622,
+        "dateOfPublication": "2019 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-12-01",
+        "journal": {
+          "title": "Gut",
+          "medlineAbbreviation": "Gut",
+          "issn": "0017-5749",
+          "essn": "1468-3288",
+          "isoabbreviation": "Gut",
+          "nlmid": "2985108R"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "s1-s106",
+      "abstractText": "Ulcerative colitis and Crohn's disease are the principal forms of inflammatory bowel disease. Both represent chronic inflammation of the gastrointestinal tract, which displays heterogeneity in inflammatory and symptomatic burden between patients and within individuals over time. Optimal management relies on understanding and tailoring evidence-based interventions by clinicians in partnership with patients. This guideline for management of inflammatory bowel disease in adults over 16 years of age was developed by Stakeholders representing UK physicians (British Society of Gastroenterology), surgeons (Association of Coloproctology of Great Britain and Ireland), specialist nurses (Royal College of Nursing), paediatricians (British Society of Paediatric Gastroenterology, Hepatology and Nutrition), dietitians (British Dietetic Association), radiologists (British Society of Gastrointestinal and Abdominal Radiology), general practitioners (Primary Care Society for Gastroenterology) and patients (Crohn's and Colitis UK). A systematic review of 88\u2009247 publications and a Delphi consensus process involving 81 multidisciplinary clinicians and patients was undertaken to develop 168 evidence- and expert opinion-based recommendations for pharmacological, non-pharmacological and surgical interventions, as well as optimal service delivery in the management of both ulcerative colitis and Crohn's disease. Comprehensive up-to-date guidance is provided regarding indications for, initiation and monitoring of immunosuppressive therapies, nutrition interventions, pre-, peri- and postoperative management, as well as structure and function of the multidisciplinary team and integration between primary and secondary care. Twenty research priorities to inform future clinical management are presented, alongside objective measurement of priority importance, determined by 2379 electronic survey responses from individuals living with ulcerative colitis and Crohn's disease, including patients, their families and friends.",
+      "affiliation": "Newcastle University, Newcastle upon Tyne, UK.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Consensus Statement",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "MC_U127527198",
+            "agency": "Medical Research Council",
+            "acronym": "MRC_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "ACF-2014-14-002",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "MC_UU_00007/1",
+            "agency": "Medical Research Council",
+            "acronym": "MRC_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "12076",
+            "agency": "Cancer Research UK",
+            "acronym": "CRUK_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CL-2014-01-005",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "MC_PC_U127527198",
+            "agency": "Medical Research Council",
+            "acronym": "MRC_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "MR/M00533X/1",
+            "agency": "Medical Research Council",
+            "acronym": "MRC_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "18927",
+            "agency": "Cancer Research UK",
+            "acronym": "CRUK_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "13/179/01",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "EME/13/179/01",
+            "agency": "National Institute for Health Research (NIHR)",
+            "acronym": "DH_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "G0902022",
+            "agency": "Medical Research Council",
+            "acronym": "MRC_",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Inflammatory Bowel Diseases",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Gastroenterology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Societies, Medical"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Disease Management"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "United Kingdom"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Conservative Treatment",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ST",
+                  "qualifierName": "standards",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Systematic Reviews as Topic"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Stress",
+          "Pregnancy",
+          "Antibiotics",
+          "Adult",
+          "Cancer",
+          "Vitamin D",
+          "Classification",
+          "Diet",
+          "Integrin",
+          "Adherence",
+          "Antibiotic",
+          "Vaccine",
+          "Monitoring",
+          "Therapy",
+          "Nutrition",
+          "Management",
+          "CMV",
+          "Diagnosis",
+          "Vaccination",
+          "Hydrocortisone",
+          "Fetus",
+          "Cytomegalovirus",
+          "Biomarker",
+          "Surgery",
+          "Probiotic",
+          "Anaemia",
+          "Surveillance",
+          "Colitis",
+          "Methylprednisolone",
+          "Smoking",
+          "Adolescent",
+          "Endoscopy",
+          "cyclosporine",
+          "Guideline",
+          "Fatigue",
+          "JAK",
+          "Chemoprevention",
+          "Psychology",
+          "5-ASA",
+          "Endoscopic",
+          "Colonoscopy",
+          "Stricture",
+          "Enema",
+          "ultrasound",
+          "budesonide",
+          "corticosteroid",
+          "Care",
+          "Fistula",
+          "Prednisolone",
+          "Ileitis",
+          "Mercaptopurine",
+          "Sigmoidoscopy",
+          "Granuloma",
+          "Colectomy",
+          "Azathioprine",
+          "Ciclosporin",
+          "Breastfeeding",
+          "Perianal",
+          "Self-management",
+          "Infliximab",
+          "Anti-tnf",
+          "Ustekinumab",
+          "Shared Care",
+          "Adalimumab",
+          "Clostridium Difficile",
+          "therapeutic drug monitoring",
+          "psychotherapy",
+          "Mesalazine",
+          "5-aminosalicylate",
+          "Pouchitis",
+          "Thiopurine",
+          "Calprotectin",
+          "Suppository",
+          "Anti-drug Antibodies",
+          "Vedolizumab",
+          "Tofacitinib",
+          "Pouch",
+          "Virtual Clinic",
+          "Tuberculosis, Tb",
+          "Inflammatory Bowel Disease, Ibd",
+          "Crohn\u2019s Disease, Cd",
+          "Ulcerative Colitis, Uc",
+          "Cognitive Behavioural Therapy, Cbt",
+          "Computerised Tomography, Ct",
+          "Faecal Microbial Transplant",
+          "Janus Kinase Inhibator",
+          "Magnetic Resonance, Mr",
+          "Multidisciplinary Team, Mdt",
+          "Primary Stress",
+          "Telephone Clinic"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://gut.bmj.com/content/gutjnl/68/Suppl_3/s1.full.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1136/gutjnl-2019-318484"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6872448"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6872448?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "32001552",
+            "source": "MED",
+            "reference": "Gut. 2020 Nov;69(11):2053-2054. doi: 10.1136/gutjnl-2019-319480.",
+            "type": "Comment in",
+            "orderIn": 1
+          },
+          {
+            "id": "33674339",
+            "source": "MED",
+            "reference": "Gut. 2021 Apr;70(4):1. doi: 10.1136/gutjnl-2019-318484corr1.",
+            "type": "Erratum in",
+            "orderIn": 2
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 1737,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2019-11-28",
+      "dateOfCreation": "2019-09-29",
+      "firstIndexDate": "2019-10-05",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2026-01-27",
+      "electronicPublicationDate": "2019-09-27",
+      "firstPublicationDate": "2019-09-27"
+    },
+    {
+      "id": "36327391",
+      "source": "MED",
+      "pmid": "36327391",
+      "pmcid": "PMC9639433",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC9639433"
+        ]
+      },
+      "doi": "10.15585/mmwr.rr7103a1",
+      "title": "CDC Clinical Practice Guideline for Prescribing Opioids for Pain - United States, 2022.",
+      "authorString": "Dowell D, Ragan KR, Jones CM, Baldwin GT, Chou R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Dowell D",
+            "firstName": "Deborah",
+            "lastName": "Dowell",
+            "initials": "D"
+          },
+          {
+            "fullName": "Ragan KR",
+            "firstName": "Kathleen R",
+            "lastName": "Ragan",
+            "initials": "KR"
+          },
+          {
+            "fullName": "Jones CM",
+            "firstName": "Christopher M",
+            "lastName": "Jones",
+            "initials": "CM"
+          },
+          {
+            "fullName": "Baldwin GT",
+            "firstName": "Grant T",
+            "lastName": "Baldwin",
+            "initials": "GT"
+          },
+          {
+            "fullName": "Chou R",
+            "firstName": "Roger",
+            "lastName": "Chou",
+            "initials": "R"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "3",
+        "volume": "71",
+        "journalIssueId": 3450361,
+        "dateOfPublication": "2022 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2022,
+        "printPublicationDate": "2022-11-01",
+        "journal": {
+          "title": "MMWR. Recommendations and reports : Morbidity and mortality weekly report. Recommendations and reports",
+          "medlineAbbreviation": "MMWR Recomm Rep",
+          "issn": "1057-5987",
+          "essn": "1545-8601",
+          "isoabbreviation": "MMWR Recomm Rep",
+          "nlmid": "101124922"
+        }
+      },
+      "pubYear": "2022",
+      "pageInfo": "1-95",
+      "abstractText": "This guideline provides recommendations for clinicians providing pain care, including those prescribing opioids, for outpatients aged \u226518 years. It updates the CDC Guideline for Prescribing Opioids for Chronic Pain - United States, 2016 (MMWR Recomm Rep 2016;65[No. RR-1]:1-49) and includes recommendations for managing acute (duration of <1 month), subacute (duration of 1-3 months), and chronic (duration of >3 months) pain. The recommendations do not apply to pain related to sickle cell disease or cancer or to patients receiving palliative or end-of-life care. The guideline addresses the following four areas: 1) determining whether or not to initiate opioids for pain, 2) selecting opioids and determining opioid dosages, 3) deciding duration of initial opioid prescription and conducting follow-up, and 4) assessing risk and addressing potential harms of opioid use. CDC developed the guideline using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) framework. Recommendations are based on systematic reviews of the scientific evidence and reflect considerations of benefits and harms, patient and clinician values and preferences, and resource allocation. CDC obtained input from the Board of Scientific Counselors of the National Center for Injury Prevention and Control (a federally chartered advisory committee), the public, and peer reviewers. CDC recommends that persons with pain receive appropriate pain treatment, with careful consideration of the benefits and risks of all treatment options in the context of the patient's circumstances. Recommendations should not be applied as inflexible standards of care across patient populations. This clinical practice guideline is intended to improve communication between clinicians and patients about the benefits and risks of pain treatments, including opioid therapy; improve the effectiveness and safety of pain treatment; mitigate pain; improve function and quality of life for patients with pain; and reduce risks associated with opioid pain therapy, including opioid use disorder, overdose, and death.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Practice Guideline",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Opioid-Related Disorders",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DT",
+                  "qualifierName": "drug therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Analgesics, Opioid",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AE",
+                  "qualifierName": "adverse effects",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Quality of Life"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adolescent"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "United States"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Chronic Pain",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CI",
+                  "qualifierName": "chemically induced",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "DT",
+                  "qualifierName": "drug therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Centers for Disease Control and Prevention, U.S."
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Analgesics, Opioid",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.15585/mmwr.rr7103a1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9639433"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9639433?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 1322,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2022-11-15",
+      "dateOfCreation": "2022-11-03",
+      "firstIndexDate": "2022-11-04",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2024-09-07",
+      "electronicPublicationDate": "2022-11-04",
+      "firstPublicationDate": "2022-11-04"
+    },
+    {
+      "id": "23133619",
+      "source": "MED",
+      "pmid": "23133619",
+      "pmcid": "PMC3486814",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC3486814"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0048230",
+      "title": "The Multidimensional Assessment of Interoceptive Awareness (MAIA).",
+      "authorString": "Mehling WE, Price C, Daubenmier JJ, Acree M, Bartmess E, Stewart A.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Mehling WE",
+            "firstName": "Wolf E",
+            "lastName": "Mehling",
+            "initials": "WE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of California San Francisco, Osher Center for Integrative Medicine, San Francisco, California, United States of America. mehlingw@ocim.ucsf.edu"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Price C",
+            "firstName": "Cynthia",
+            "lastName": "Price",
+            "initials": "C"
+          },
+          {
+            "fullName": "Daubenmier JJ",
+            "firstName": "Jennifer J",
+            "lastName": "Daubenmier",
+            "initials": "JJ"
+          },
+          {
+            "fullName": "Acree M",
+            "firstName": "Mike",
+            "lastName": "Acree",
+            "initials": "M"
+          },
+          {
+            "fullName": "Bartmess E",
+            "firstName": "Elizabeth",
+            "lastName": "Bartmess",
+            "initials": "E"
+          },
+          {
+            "fullName": "Stewart A",
+            "firstName": "Anita",
+            "lastName": "Stewart",
+            "initials": "A"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "11",
+        "volume": "7",
+        "journalIssueId": 1975888,
+        "dateOfPublication": "2012 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2012,
+        "printPublicationDate": "2012-01-01",
+        "journal": {
+          "title": "PloS one",
+          "medlineAbbreviation": "PLoS One",
+          "issn": "1932-6203",
+          "essn": "1932-6203",
+          "isoabbreviation": "PLoS One",
+          "nlmid": "101285081"
+        }
+      },
+      "pubYear": "2012",
+      "pageInfo": "e48230",
+      "abstractText": "This paper describes the development of a multidimensional self-report measure of interoceptive body awareness. The systematic mixed-methods process involved reviewing the current literature, specifying a multidimensional conceptual framework, evaluating prior instruments, developing items, and analyzing focus group responses to scale items by instructors and patients of body awareness-enhancing therapies. Following refinement by cognitive testing, items were field-tested in students and instructors of mind-body approaches. Final item selection was achieved by submitting the field test data to an iterative process using multiple validation methods, including exploratory cluster and confirmatory factor analyses, comparison between known groups, and correlations with established measures of related constructs. The resulting 32-item multidimensional instrument assesses eight concepts. The psychometric properties of these final scales suggest that the Multidimensional Assessment of Interoceptive Awareness (MAIA) may serve as a starting point for research and further collaborative refinement.",
+      "affiliation": "University of California San Francisco, Osher Center for Integrative Medicine, San Francisco, California, United States of America. mehlingw@ocim.ucsf.edu",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "K01 AT004199",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K23 AT002298",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K23-AT002298",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K01AT003459",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21 AT004467",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K01 AT003459",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K01AT004199",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21-AT004467",
+            "agency": "NCCIH NIH HHS",
+            "acronym": "AT",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Focus Groups"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cluster Analysis"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Factor Analysis, Statistical"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cognition"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Awareness"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Psychometrics",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mind-Body Relations, Metaphysical"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Surveys and Questionnaires"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.pone.0048230"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3486814"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3486814?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 872,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2013-05-07",
+      "dateOfCreation": "2012-11-08",
+      "firstIndexDate": "2012-11-08",
+      "fullTextReceivedDate": "2025-02-05",
+      "dateOfRevision": "2024-11-03",
+      "electronicPublicationDate": "2012-11-01",
+      "firstPublicationDate": "2012-11-01"
+    },
+    {
+      "id": "25752756",
+      "source": "MED",
+      "pmid": "25752756",
+      "pmcid": "PMC4381543",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4381543"
+        ]
+      },
+      "doi": "10.1111/obr.12266",
+      "title": "Impact of weight bias and stigma on quality of care and outcomes for patients with obesity.",
+      "authorString": "Phelan SM, Burgess DJ, Yeazel MW, Hellerstedt WL, Griffin JM, van Ryn M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Phelan SM",
+            "firstName": "S M",
+            "lastName": "Phelan",
+            "initials": "SM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Health Care Policy and Research, Mayo Clinic, Rochester, Minnesota, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Burgess DJ",
+            "firstName": "D J",
+            "lastName": "Burgess",
+            "initials": "DJ"
+          },
+          {
+            "fullName": "Yeazel MW",
+            "firstName": "M W",
+            "lastName": "Yeazel",
+            "initials": "MW"
+          },
+          {
+            "fullName": "Hellerstedt WL",
+            "firstName": "W L",
+            "lastName": "Hellerstedt",
+            "initials": "WL"
+          },
+          {
+            "fullName": "Griffin JM",
+            "firstName": "J M",
+            "lastName": "Griffin",
+            "initials": "JM"
+          },
+          {
+            "fullName": "van Ryn M",
+            "firstName": "M",
+            "lastName": "van Ryn",
+            "initials": "M"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "issue": "4",
+        "volume": "16",
+        "journalIssueId": 2267359,
+        "dateOfPublication": "2015 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2015,
+        "printPublicationDate": "2015-04-01",
+        "journal": {
+          "title": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+          "medlineAbbreviation": "Obes Rev",
+          "issn": "1467-7881",
+          "essn": "1467-789X",
+          "isoabbreviation": "Obes Rev",
+          "nlmid": "100897395"
+        }
+      },
+      "pubYear": "2015",
+      "pageInfo": "319-326",
+      "abstractText": "The objective of this study was to critically review the empirical evidence from all relevant disciplines regarding obesity stigma in order to (i) determine the implications of obesity stigma for healthcare providers and their patients with obesity and (ii) identify strategies to improve care for patients with obesity. We conducted a search of Medline and PsychInfo for all peer-reviewed papers presenting original empirical data relevant to stigma, bias, discrimination, prejudice and medical care. We then performed a narrative review of the existing empirical evidence regarding the impact of obesity stigma and weight bias for healthcare quality and outcomes. Many healthcare providers hold strong negative attitudes and stereotypes about people with obesity. There is considerable evidence that such attitudes influence person-perceptions, judgment, interpersonal behaviour and decision-making. These attitudes may impact the care they provide. Experiences of or expectations for poor treatment may cause stress and avoidance of care, mistrust of doctors and poor adherence among patients with obesity. Stigma can reduce the quality of care for patients with obesity despite the best intentions of healthcare providers to provide high-quality care. There are several potential intervention strategies that may reduce the impact of obesity stigma on quality of care.",
+      "affiliation": "Division of Health Care Policy and Research, Mayo Clinic, Rochester, Minnesota, USA.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Review",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "K01DK095924",
+            "agency": "National Institute of Diabetes and Digestive and Kidney Diseases",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K01DK095924",
+            "agency": "NIDDK NIH HHS",
+            "acronym": "DK",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01HL085631",
+            "agency": "National Heart, Lung, and Blood Institute",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K01 DK095924",
+            "agency": "NIDDK NIH HHS",
+            "acronym": "DK",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Obesity",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Attitude of Health Personnel"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Professional-Patient Relations"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Health Services Needs and Demand"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Primary Health Care"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Quality of Health Care",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ST",
+                  "qualifierName": "standards",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "SN",
+                  "qualifierName": "statistics & numerical data",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Social Stigma"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Obesity",
+          "Delivery Of Health Care",
+          "Stereotyping",
+          "Social Stigma"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1111/obr.12266"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4381543"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4381543?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 844,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "Y",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "Y",
+      "manuscriptId": "NIHMS671596",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2015-12-28",
+      "dateOfCreation": "2015-03-11",
+      "firstIndexDate": "2015-03-10",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2024-05-14",
+      "electronicPublicationDate": "2015-03-05",
+      "firstPublicationDate": "2015-03-05"
+    },
+    {
+      "id": "23390882",
+      "source": "MED",
+      "pmid": "23390882",
+      "pmcid": "PMC3599475",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC3599475"
+        ]
+      },
+      "doi": "10.1186/1471-2458-13-119",
+      "title": "Positive psychology interventions: a meta-analysis of randomized controlled studies.",
+      "authorString": "Bolier L, Haverman M, Westerhof GJ, Riper H, Smit F, Bohlmeijer E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bolier L",
+            "firstName": "Linda",
+            "lastName": "Bolier",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-4613-5056"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Public Mental Health, Trimbos Institute, Netherlands Institute of Mental Health and Addiction, PO Box 725 3500 AS, Utrecht, the Netherlands. lbolier@trimbos.nl"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Haverman M",
+            "firstName": "Merel",
+            "lastName": "Haverman",
+            "initials": "M"
+          },
+          {
+            "fullName": "Westerhof GJ",
+            "firstName": "Gerben J",
+            "lastName": "Westerhof",
+            "initials": "GJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0993-1448"
+            }
+          },
+          {
+            "fullName": "Riper H",
+            "firstName": "Heleen",
+            "lastName": "Riper",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8144-8901"
+            }
+          },
+          {
+            "fullName": "Smit F",
+            "firstName": "Filip",
+            "lastName": "Smit",
+            "initials": "F"
+          },
+          {
+            "fullName": "Bohlmeijer E",
+            "firstName": "Ernst",
+            "lastName": "Bohlmeijer",
+            "initials": "E"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0993-1448"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8144-8901"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0000-4613-5056"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "volume": "13",
+        "journalIssueId": 2471951,
+        "dateOfPublication": "2013 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2013,
+        "printPublicationDate": "2013-02-01",
+        "journal": {
+          "title": "BMC public health",
+          "medlineAbbreviation": "BMC Public Health",
+          "issn": "1471-2458",
+          "essn": "1471-2458",
+          "isoabbreviation": "BMC Public Health",
+          "nlmid": "100968562"
+        }
+      },
+      "pubYear": "2013",
+      "pageInfo": "119",
+      "abstractText": "<h4>Background</h4>The use of positive psychological interventions may be considered as a complementary strategy in mental health promotion and treatment. The present article constitutes a meta-analytical study of the effectiveness of positive psychology interventions for the general public and for individuals with specific psychosocial problems.<h4>Methods</h4>We conducted a systematic literature search using PubMed, PsychInfo, the Cochrane register, and manual searches. Forty articles, describing 39 studies, totaling 6,139 participants, met the criteria for inclusion. The outcome measures used were subjective well-being, psychological well-being and depression. Positive psychology interventions included self-help interventions, group training and individual therapy.<h4>Results</h4>The standardized mean difference was 0.34 for subjective well-being, 0.20 for psychological well-being and 0.23 for depression indicating small effects for positive psychology interventions. At follow-up from three to six months, effect sizes are small, but still significant for subjective well-being and psychological well-being, indicating that effects are fairly sustainable. Heterogeneity was rather high, due to the wide diversity of the studies included. Several variables moderated the impact on depression: Interventions were more effective if they were of longer duration, if recruitment was conducted via referral or hospital, if interventions were delivered to people with certain psychosocial problems and on an individual basis, and if the study design was of low quality. Moreover, indications for publication bias were found, and the quality of the studies varied considerably.<h4>Conclusions</h4>The results of this meta-analysis show that positive psychology interventions can be effective in the enhancement of subjective well-being and psychological well-being, as well as in helping to reduce depressive symptoms. Additional high-quality peer-reviewed studies in diverse (clinical) populations are needed to strengthen the evidence-base for positive psychology interventions.",
+      "affiliation": "Department of Public Mental Health, Trimbos Institute, Netherlands Institute of Mental Health and Addiction, PO Box 725 3500 AS, Utrecht, the Netherlands. lbolier@trimbos.nl",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Meta-Analysis",
+          "research-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Treatment Outcome"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Depression",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Psychotherapy",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Health Promotion",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Randomized Controlled Trials as Topic"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "http://fox.leuphana.de/portal/de/publications/positive-psychology-interventions(97784e69-50b1-4a39-90b4-e15ff3d4620d).html"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/1471-2458-13-119"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3599475"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3599475?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 762,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2013-07-24",
+      "dateOfCreation": "2013-02-09",
+      "firstIndexDate": "2013-02-09",
+      "fullTextReceivedDate": "2020-07-10",
+      "dateOfRevision": "2022-04-10",
+      "electronicPublicationDate": "2013-02-08",
+      "firstPublicationDate": "2013-02-08"
+    },
+    {
+      "id": "31221820",
+      "source": "MED",
+      "pmid": "31221820",
+      "pmcid": "PMC6588209",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6588209"
+        ]
+      },
+      "doi": "10.1124/pr.118.017160",
+      "title": "REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics.",
+      "authorString": "Carhart-Harris RL, Friston KJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Carhart-Harris RL",
+            "firstName": "R L",
+            "lastName": "Carhart-Harris",
+            "initials": "RL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6062-7150"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Psychedelic Research, Division of Brain Sciences, Imperial College London, London, United Kingdom (R.L.C.-H.); and Institute of Neurology, Wellcome Trust Centre for Neuroimaging, University College London, London, United Kingdom (K.J.F.) r.carhart-harris@imperial.ac.uk."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Friston KJ",
+            "firstName": "K J",
+            "lastName": "Friston",
+            "initials": "KJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7984-8909"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Centre for Psychedelic Research, Division of Brain Sciences, Imperial College London, London, United Kingdom (R.L.C.-H.); and Institute of Neurology, Wellcome Trust Centre for Neuroimaging, University College London, London, United Kingdom (K.J.F.)."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7984-8909"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6062-7150"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "issue": "3",
+        "volume": "71",
+        "journalIssueId": 2830098,
+        "dateOfPublication": "2019 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-07-01",
+        "journal": {
+          "title": "Pharmacological reviews",
+          "medlineAbbreviation": "Pharmacol Rev",
+          "issn": "0031-6997",
+          "essn": "1521-0081",
+          "isoabbreviation": "Pharmacol Rev",
+          "nlmid": "0421737"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "316-344",
+      "abstractText": "This paper formulates the action of psychedelics by integrating the free-energy principle and entropic brain hypothesis. We call this formulation relaxed beliefs under psychedelics (REBUS) and the anarchic brain, founded on the principle that-via their entropic effect on spontaneous cortical activity-psychedelics work to relax the precision of high-level priors or beliefs, thereby liberating bottom-up information flow, particularly via intrinsic sources such as the limbic system. We assemble evidence for this model and show how it can explain a broad range of phenomena associated with the psychedelic experience. With regard to their potential therapeutic use, we propose that psychedelics work to relax the precision weighting of pathologically overweighted priors underpinning various expressions of mental illness. We propose that this process entails an increased sensitization of high-level priors to bottom-up signaling (stemming from intrinsic sources), and that this heightened sensitivity enables the potential revision and deweighting of overweighted priors. We end by discussing further implications of the model, such as that psychedelics can bring about the revision of other heavily weighted high-level priors, not directly related to mental health, such as those underlying partisan and/or overly-confident political, religious, and/or philosophical perspectives. SIGNIFICANCE STATEMENT: Psychedelics are capturing interest, with efforts underway to bring psilocybin therapy to marketing authorisation and legal access within a decade, spearheaded by the findings of a series of phase 2 trials. In this climate, a compelling unified model of <i>how</i> psychedelics alter brain function to alter consciousness would have appeal. Towards this end, we have sought to integrate a leading model of global brain function, <i>hierarchical predictive coding</i>, with an often-cited model of the acute action of psychedelics, <i>the entropic brain hypothesis</i>. The resulting synthesis states that psychedelics work to relax high-level priors, sensitising them to liberated bottom-up information flow, which, with the right intention, care provision and context, can help guide and cultivate the revision of entrenched pathological priors.",
+      "affiliation": "Centre for Psychedelic Research, Division of Brain Sciences, Imperial College London, London, United Kingdom (R.L.C.-H.); and Institute of Neurology, Wellcome Trust Centre for Neuroimaging, University College London, London, United Kingdom (K.J.F.) r.carhart-harris@imperial.ac.uk.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Brain",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hallucinogens",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PD",
+                  "qualifierName": "pharmacology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Models, Neurological"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Culture"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Hallucinogens",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "https://escholarship.org/uc/item/5g6443js"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1124/pr.118.017160"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6588209"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6588209?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 674,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2019-12-16",
+      "dateOfCreation": "2019-06-22",
+      "firstIndexDate": "2019-06-24",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2025-05-30",
+      "firstPublicationDate": "2019-07-01"
+    },
+    {
+      "id": "33093946",
+      "source": "MED",
+      "pmid": "33093946",
+      "pmcid": "PMC7549174",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7549174"
+        ]
+      },
+      "doi": "10.12688/f1000research.24457.1",
+      "title": "Epidemiology of mental health problems in COVID-19: a review.",
+      "authorString": "Hossain MM, Tasnim S, Sultana A, Faizah F, Mazumder H, Zou L, McKyer ELJ, Ahmed HU, Ma P.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hossain MM",
+            "firstName": "Md Mahbub",
+            "lastName": "Hossain",
+            "initials": "MM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7059-7768"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Nature Study Society of Bangladesh, Khulna, 09000, Bangladesh."
+                },
+                {
+                  "affiliation": "Texas A&M School of Public Health, College Station, TX, 77843, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tasnim S",
+            "firstName": "Samia",
+            "lastName": "Tasnim",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2686-1840"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Texas A&M School of Public Health, College Station, TX, 77843, USA."
+                },
+                {
+                  "affiliation": "Bangladesh Medical Association, Dhaka, 09000, Bangladesh."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sultana A",
+            "firstName": "Abida",
+            "lastName": "Sultana",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Gazi Medical College, Khulna, 09000, Bangladesh."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Faizah F",
+            "firstName": "Farah",
+            "lastName": "Faizah",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "United Nations Population Fund, Cox's Bazar, Bangladesh."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mazumder H",
+            "firstName": "Hoimonty",
+            "lastName": "Mazumder",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ipas, Dhaka, Bangladesh."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zou L",
+            "firstName": "Liye",
+            "lastName": "Zou",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6411-5710"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Exercise & Mental Health Laboratory, School of Psychology, Shenzhen University, Shenzen, 518060, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "McKyer ELJ",
+            "firstName": "E Lisako J",
+            "lastName": "McKyer",
+            "initials": "ELJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Texas A&M School of Public Health, College Station, TX, 77843, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ahmed HU",
+            "firstName": "Helal Uddin",
+            "lastName": "Ahmed",
+            "initials": "HU",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Institute of Mental Health (NIMH), Dhaka, 1207, Bangladesh."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma P",
+            "firstName": "Ping",
+            "lastName": "Ma",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Texas A&M School of Public Health, College Station, TX, 77843, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6411-5710"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2686-1840"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7059-7768"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2903186,
+        "dateOfPublication": "2020 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-01-01",
+        "journal": {
+          "title": "F1000Research",
+          "medlineAbbreviation": "F1000Res",
+          "issn": "2046-1402",
+          "essn": "2046-1402",
+          "isoabbreviation": "F1000Res",
+          "nlmid": "101594320"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "636",
+      "abstractText": "The novel coronavirus disease 2019 (COVID-19) has become a pandemic affecting health and wellbeing globally. In addition to the physical health, economic, and social implications, the psychological impacts of this pandemic are increasingly being reported in the scientific literature. This narrative review reflected on scholarly articles on the epidemiology of mental health problems in COVID-19. The current literature suggests that people affected by COVID-19 may have a high burden of mental health problems, including depression, anxiety disorders, stress, panic attack, irrational anger, impulsivity, somatization disorder, sleep disorders, emotional disturbance, posttraumatic stress symptoms, and suicidal behavior. Moreover, several factors associated with mental health problems in COVID-19 are found, which include age, gender, marital status, education, occupation, income, place of living, close contact with people with COVID-19, comorbid physical and mental health problems, exposure to COVID-19 related news and social media, coping styles, stigma, psychosocial support, health communication, confidence in health services, personal protective measures, risk of contracting COVID-19, and perceived likelihood of survival. Furthermore, the epidemiological distribution of mental health problems and associated factors were heterogeneous among the general public, COVID-19 patients, and healthcare providers. The current evidence suggests that a psychiatric epidemic is cooccurring with the COVID-19 pandemic, which necessitates the attention of the global health community. Future epidemiological studies should emphasize on psychopathological variations and temporality of mental health problems in different populations. Nonetheless, multipronged interventions should be developed and adopted to address the existing psychosocial challenges and promote mental health amid the COVID-19 pandemic.",
+      "affiliation": "Nature Study Society of Bangladesh, Khulna, 09000, Bangladesh.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pneumonia, Viral",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Coronavirus Infections",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mental Health"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mental Disorders",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pandemics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Betacoronavirus"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "COVID-19"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "SARS-CoV-2"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Review",
+          "Mental disorders",
+          "Coronavirus",
+          "Mental health",
+          "epidemiology",
+          "Covid-19"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.12688/f1000research.24457.1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7549174"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7549174?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR325554",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 652,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-10-27",
+      "dateOfCreation": "2020-10-23",
+      "firstIndexDate": "2020-10-24",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2023-11-12",
+      "electronicPublicationDate": "2020-06-23",
+      "firstPublicationDate": "2020-06-23"
+    },
+    {
+      "id": "32590254",
+      "source": "MED",
+      "pmid": "32590254",
+      "pmcid": "PMC7297159",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7297159"
+        ]
+      },
+      "doi": "10.1016/j.genhosppsych.2020.06.007",
+      "title": "Psychological distress, coping behaviors, and preferences for support among New York healthcare workers during the COVID-19 pandemic.",
+      "authorString": "Shechter A, Diaz F, Moise N, Anstey DE, Ye S, Agarwal S, Birk JL, Brodie D, Cannone DE, Chang B, Claassen J, Cornelius T, Derby L, Dong M, Givens RC, Hochman B, Homma S, Kronish IM, Lee SAJ, Manzano W, Mayer LES, McMurry CL, Moitra V, Pham P, Rabbani L, Rivera RR, Schwartz A, Schwartz JE, Shapiro PA, Shaw K, Sullivan AM, Vose C, Wasson L, Edmondson D, Abdalla M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shechter A",
+            "firstName": "Ari",
+            "lastName": "Shechter",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8243-0247"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Diaz F",
+            "firstName": "Franchesca",
+            "lastName": "Diaz",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5412-9393"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moise N",
+            "firstName": "Nathalie",
+            "lastName": "Moise",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5660-5573"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Anstey DE",
+            "firstName": "D Edmund",
+            "lastName": "Anstey",
+            "initials": "DE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9330-1563"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ye S",
+            "firstName": "Siqin",
+            "lastName": "Ye",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Agarwal S",
+            "firstName": "Sachin",
+            "lastName": "Agarwal",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Birk JL",
+            "firstName": "Jeffrey L",
+            "lastName": "Birk",
+            "initials": "JL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brodie D",
+            "firstName": "Daniel",
+            "lastName": "Brodie",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cannone DE",
+            "firstName": "Diane E",
+            "lastName": "Cannone",
+            "initials": "DE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chang B",
+            "firstName": "Bernard",
+            "lastName": "Chang",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Emergency Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Claassen J",
+            "firstName": "Jan",
+            "lastName": "Claassen",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5893-8531"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Neurology, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cornelius T",
+            "firstName": "Talea",
+            "lastName": "Cornelius",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Derby L",
+            "firstName": "Lilly",
+            "lastName": "Derby",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6566-0550"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dong M",
+            "firstName": "Melissa",
+            "lastName": "Dong",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Givens RC",
+            "firstName": "Raymond C",
+            "lastName": "Givens",
+            "initials": "RC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hochman B",
+            "firstName": "Beth",
+            "lastName": "Hochman",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Surgery, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Homma S",
+            "firstName": "Shunichi",
+            "lastName": "Homma",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kronish IM",
+            "firstName": "Ian M",
+            "lastName": "Kronish",
+            "initials": "IM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lee SAJ",
+            "firstName": "Sung A J",
+            "lastName": "Lee",
+            "initials": "SAJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Manzano W",
+            "firstName": "Wilhelmina",
+            "lastName": "Manzano",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "NewYork-Presbyterian Hospital, New York, NY, United States of America; School of Nursing, Columbia University, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mayer LES",
+            "firstName": "Laurel E S",
+            "lastName": "Mayer",
+            "initials": "LES",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "McMurry CL",
+            "firstName": "Cara L",
+            "lastName": "McMurry",
+            "initials": "CL",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Moitra V",
+            "firstName": "Vivek",
+            "lastName": "Moitra",
+            "initials": "V",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anesthesiology, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pham P",
+            "firstName": "Patrick",
+            "lastName": "Pham",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rabbani L",
+            "firstName": "LeRoy",
+            "lastName": "Rabbani",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rivera RR",
+            "firstName": "Reynaldo R",
+            "lastName": "Rivera",
+            "initials": "RR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "NewYork-Presbyterian Hospital, New York, NY, United States of America; School of Nursing, Columbia University, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schwartz A",
+            "firstName": "Allan",
+            "lastName": "Schwartz",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schwartz JE",
+            "firstName": "Joseph E",
+            "lastName": "Schwartz",
+            "initials": "JE",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America; Department of Psychiatry and Behavioral Sciences, Stony Brook University, Stony Brook, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shapiro PA",
+            "firstName": "Peter A",
+            "lastName": "Shapiro",
+            "initials": "PA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Psychiatry, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shaw K",
+            "firstName": "Kaitlin",
+            "lastName": "Shaw",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6464-8290"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sullivan AM",
+            "firstName": "Alexandra M",
+            "lastName": "Sullivan",
+            "initials": "AM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vose C",
+            "firstName": "Courtney",
+            "lastName": "Vose",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "NewYork-Presbyterian Hospital, New York, NY, United States of America; School of Nursing, Columbia University, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wasson L",
+            "firstName": "Lauren",
+            "lastName": "Wasson",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Edmondson D",
+            "firstName": "Donald",
+            "lastName": "Edmondson",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4518-8196"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Abdalla M",
+            "firstName": "Marwah",
+            "lastName": "Abdalla",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2725-505X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America. Electronic address: ma2947@cumc.columbia.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5412-9393"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6566-0550"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8243-0247"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9330-1563"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2725-505X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4518-8196"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5660-5573"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5893-8531"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6464-8290"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "66",
+        "journalIssueId": 3010768,
+        "dateOfPublication": "2020 Sep - Oct",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-09-01",
+        "journal": {
+          "title": "General hospital psychiatry",
+          "medlineAbbreviation": "Gen Hosp Psychiatry",
+          "issn": "0163-8343",
+          "essn": "1873-7714",
+          "isoabbreviation": "Gen Hosp Psychiatry",
+          "nlmid": "7905527"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "1-8",
+      "abstractText": "<h4>Objective</h4>The mental health toll of COVID-19 on healthcare workers (HCW) is not yet fully described. We characterized distress, coping, and preferences for support among NYC HCWs during the COVID-19 pandemic.<h4>Methods</h4>This was a cross-sectional web survey of physicians, advanced practice providers, residents/fellows, and nurses, conducted during a peak of inpatient admissions for COVID-19 in NYC (April 9th-April 24th 2020) at a large medical center in NYC (n\u00a0=\u00a0657).<h4>Results</h4>Positive screens for psychological symptoms were common; 57% for acute stress, 48% for depressive, and 33% for anxiety symptoms. For each, a higher percent of nurses/advanced practice providers screened positive vs. attending physicians, though housestaff's rates for acute stress and depression did not differ from either. Sixty-one percent of participants reported increased sense of meaning/purpose since the COVID-19 outbreak. Physical activity/exercise was the most common coping behavior (59%), and access to an individual therapist with online self-guided counseling (33%) garnered the most interest.<h4>Conclusions</h4>NYC HCWs, especially nurses and advanced practice providers, are experiencing COVID-19-related psychological distress. Participants reported using empirically-supported coping behaviors, and endorsed indicators of resilience, but they also reported interest in additional wellness resources. Programs developed to mitigate stress among HCWs during the COVID-19 pandemic should integrate HCW preferences.",
+      "affiliation": "Department of Medicine, Columbia University Irving Medical Center, New York, NY, United States of America.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, U.S. Gov't, P.H.S.",
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "K23HL141682-01A1",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL 141811",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL 146911",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL146636",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01HL146911",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21 HL145970",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "K23 HL141682",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL141811",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL146911",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HS024262",
+            "agency": "AHRQ HHS",
+            "acronym": "HS",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01-HL117832",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "18AMFDP34380732",
+            "agency": "American Heart Association",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL123368",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL132347",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P30 AG064198",
+            "agency": "NIA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL117832",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HL141494",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01HL146636-01A1",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21 HL 145970",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "18AMFDP34380732",
+            "agency": "American Heart Association-American Stroke Association",
+            "acronym": "AHA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01HL132347",
+            "agency": "NHLBI",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P30 AG064198",
+            "agency": "NIA NIH HHS",
+            "acronym": "AG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P30AG064198",
+            "agency": "NIA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01-HL123368",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01-HS024262",
+            "agency": "Agency for Healthcare Research and Quality",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01HL141494",
+            "agency": "NIH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "U24 AG052175",
+            "agency": "NIA NIH HHS",
+            "acronym": "AG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "U24AG052175",
+            "agency": "NIA",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pneumonia, Viral",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Coronavirus Infections",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cross-Sectional Studies"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Adaptation, Psychological"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Stress Disorders, Traumatic, Acute",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Health Personnel",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Patient Preference",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pandemics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Psychological Distress"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "COVID-19"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Depression",
+          "Insomnia",
+          "Anxiety",
+          "Distress",
+          "Coping",
+          "Healthcare Worker",
+          "Covid-19"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/j.genhosppsych.2020.06.007"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7297159"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7297159?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 626,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-09-22",
+      "dateOfCreation": "2020-06-27",
+      "firstIndexDate": "2020-06-27",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2025-05-30",
+      "electronicPublicationDate": "2020-06-16",
+      "firstPublicationDate": "2020-06-16"
+    }
+  ]
+}

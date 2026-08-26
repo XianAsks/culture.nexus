@@ -1,0 +1,1211 @@
+{
+  "meta": {
+    "count": 16,
+    "db_response_time_ms": 45,
+    "page": 1,
+    "per_page": 25,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where openalex id is (\n    W101817882 or W1603095592 or W1997617533 or W2050261689 or W2076760458\n    or W2093253514 or W2159213649 or W2520554114 or W2618450480 or W2918085701\n    or W2990910120 or W4392096242 or W7120003294 or W7144015206 or W7164980804\n    or W782036903\n  )",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "join": "or",
+            "filters": [
+              {
+                "column_id": "ids.openalex",
+                "value": "W101817882"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W1603095592"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W1997617533"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2050261689"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2076760458"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2093253514"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2159213649"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2520554114"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2618450480"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2918085701"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2990910120"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W4392096242"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W7120003294"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W7144015206"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W7164980804"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W782036903"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "/works?filter=ids.openalex:W101817882|W1603095592|W1997617533|W2050261689|W2076760458|W2093253514|W2159213649|W2520554114|W2618450480|W2918085701|W2990910120|W4392096242|W7120003294|W7144015206|W7164980804|W782036903&per_page=25&page=1"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2618450480",
+      "doi": null,
+      "display_name": "Revisiting the Empty Tomb: The Early History of Easter",
+      "publication_year": 2010,
+      "type": "article",
+      "best_oa_location": {
+        "id": "pmh:oai:ir.lib.uwo.ca:huron_theologypub-1000",
+        "is_oa": true,
+        "landing_page_url": "https://ir.lib.uwo.ca/huron_theologypub/1",
+        "pdf_url": "https://ir.lib.uwo.ca/huron_theologypub/1",
+        "source": {
+          "id": "https://openalex.org/S4306400648",
+          "display_name": "Scholarship@Western (Western University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I125749732",
+          "host_organization_name": "Western University",
+          "host_organization_lineage": [
+            "https://openalex.org/I125749732"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Faculty Publications",
+        "raw_type": "text"
+      },
+      "primary_location": {
+        "id": "pmh:oai:ir.lib.uwo.ca:huron_theologypub-1000",
+        "is_oa": true,
+        "landing_page_url": "https://ir.lib.uwo.ca/huron_theologypub/1",
+        "pdf_url": "https://ir.lib.uwo.ca/huron_theologypub/1",
+        "source": {
+          "id": "https://openalex.org/S4306400648",
+          "display_name": "Scholarship@Western (Western University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I125749732",
+          "host_organization_name": "Western University",
+          "host_organization_lineage": [
+            "https://openalex.org/I125749732"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Faculty Publications",
+        "raw_type": "text"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2918085701",
+      "doi": "https://doi.org/10.1007/978-3-030-11111-3",
+      "display_name": "Mary and Early Christian Women : Hidden Leadership",
+      "publication_year": 2019,
+      "type": "book",
+      "best_oa_location": {
+        "id": "pmh:oai:oapen:1007266",
+        "is_oa": true,
+        "landing_page_url": "http://www.oapen.org/search?identifier=1007266",
+        "pdf_url": "http://www.oapen.org/search?identifier=1007266",
+        "source": {
+          "id": "https://openalex.org/S4306402535",
+          "display_name": "OAPEN (The OAPEN Foundation)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I4387153118",
+          "host_organization_name": "OAPEN Foundation",
+          "host_organization_lineage": [
+            "https://openalex.org/I4387153118"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "book"
+      },
+      "primary_location": {
+        "id": "pmh:oai:oapen:1007266",
+        "is_oa": true,
+        "landing_page_url": "http://www.oapen.org/search?identifier=1007266",
+        "pdf_url": "http://www.oapen.org/search?identifier=1007266",
+        "source": {
+          "id": "https://openalex.org/S4306402535",
+          "display_name": "OAPEN (The OAPEN Foundation)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I4387153118",
+          "host_organization_name": "OAPEN Foundation",
+          "host_organization_lineage": [
+            "https://openalex.org/I4387153118"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "book"
+      }
+    },
+    {
+      "id": "https://openalex.org/W4392096242",
+      "doi": "https://doi.org/10.1007/s11013-023-09844-2",
+      "display_name": "Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for the Tibetan Tukdam Postmortem Meditative State",
+      "publication_year": 2024,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.1007/s11013-023-09844-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s11013-023-09844-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75857574",
+          "display_name": "Culture Medicine and Psychiatry",
+          "issn_l": "0165-005X",
+          "issn": [
+            "0165-005X",
+            "1573-076X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Culture, Medicine, and Psychiatry",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.1007/s11013-023-09844-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s11013-023-09844-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75857574",
+          "display_name": "Culture Medicine and Psychiatry",
+          "issn_l": "0165-005X",
+          "issn": [
+            "0165-005X",
+            "1573-076X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Culture, Medicine, and Psychiatry",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W1997617533",
+      "doi": "https://doi.org/10.3390/rel3020163",
+      "display_name": "Ch\u00f6gyal Namkhai Norbu Rinpoche: Dzogchen and Tibetan Tradition. From Shang Shung to the West",
+      "publication_year": 2012,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.3390/rel3020163",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/rel3020163",
+        "pdf_url": "https://www.mdpi.com/2077-1444/3/2/163/pdf?version=1332509874",
+        "source": {
+          "id": "https://openalex.org/S4210184657",
+          "display_name": "Religions",
+          "issn_l": "2077-1444",
+          "issn": [
+            "2077-1444"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Religions",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.3390/rel3020163",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/rel3020163",
+        "pdf_url": "https://www.mdpi.com/2077-1444/3/2/163/pdf?version=1332509874",
+        "source": {
+          "id": "https://openalex.org/S4210184657",
+          "display_name": "Religions",
+          "issn_l": "2077-1444",
+          "issn": [
+            "2077-1444"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Religions",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2076760458",
+      "doi": "https://doi.org/10.1163/15734218-12341249",
+      "display_name": "Embodying Enlightenment: Physical Culture in Dzogchen as revealed in Tibet\u2019s Lukhang Murals",
+      "publication_year": 2012,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.1163/15734218-12341249",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1163/15734218-12341249",
+        "pdf_url": "https://brill.com/downloadpdf/journals/asme/7/1/article-p225_9.pdf",
+        "source": {
+          "id": "https://openalex.org/S13889178",
+          "display_name": "Asian Medicine",
+          "issn_l": "1573-420X",
+          "issn": [
+            "1573-420X",
+            "1573-4218"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320561",
+          "host_organization_name": "Brill",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320561"
+          ],
+          "host_organization_lineage_names": [
+            "Brill"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Asian Medicine",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.1163/15734218-12341249",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1163/15734218-12341249",
+        "pdf_url": "https://brill.com/downloadpdf/journals/asme/7/1/article-p225_9.pdf",
+        "source": {
+          "id": "https://openalex.org/S13889178",
+          "display_name": "Asian Medicine",
+          "issn_l": "1573-420X",
+          "issn": [
+            "1573-420X",
+            "1573-4218"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320561",
+          "host_organization_name": "Brill",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320561"
+          ],
+          "host_organization_lineage_names": [
+            "Brill"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Asian Medicine",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2093253514",
+      "doi": "https://doi.org/10.4102/ve.v27i2.172",
+      "display_name": "Augustine and manichaeism: new discoveries, new perspectives",
+      "publication_year": 2006,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.4102/ve.v27i2.172",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4102/ve.v27i2.172",
+        "pdf_url": "https://verbumetecclesia.org.za/index.php/ve/article/download/172/139",
+        "source": {
+          "id": "https://openalex.org/S157763648",
+          "display_name": "Verbum et Ecclesia",
+          "issn_l": "1609-9982",
+          "issn": [
+            "1609-9982",
+            "2074-7705"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310315322",
+          "host_organization_name": "AOSIS",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315322"
+          ],
+          "host_organization_lineage_names": [
+            "AOSIS"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Verbum et Ecclesia",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.4102/ve.v27i2.172",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4102/ve.v27i2.172",
+        "pdf_url": "https://verbumetecclesia.org.za/index.php/ve/article/download/172/139",
+        "source": {
+          "id": "https://openalex.org/S157763648",
+          "display_name": "Verbum et Ecclesia",
+          "issn_l": "1609-9982",
+          "issn": [
+            "1609-9982",
+            "2074-7705"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310315322",
+          "host_organization_name": "AOSIS",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315322"
+          ],
+          "host_organization_lineage_names": [
+            "AOSIS"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Verbum et Ecclesia",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2159213649",
+      "doi": "https://doi.org/10.4102/ve.v30i2.362",
+      "display_name": "Manichaeism: Its sources and influences on Western Christianity",
+      "publication_year": 2009,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.4102/ve.v30i2.362",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4102/ve.v30i2.362",
+        "pdf_url": "https://verbumetecclesia.org.za/index.php/ve/article/download/362/319",
+        "source": {
+          "id": "https://openalex.org/S157763648",
+          "display_name": "Verbum et Ecclesia",
+          "issn_l": "1609-9982",
+          "issn": [
+            "1609-9982",
+            "2074-7705"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310315322",
+          "host_organization_name": "AOSIS",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315322"
+          ],
+          "host_organization_lineage_names": [
+            "AOSIS"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Verbum et Ecclesia",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.4102/ve.v30i2.362",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4102/ve.v30i2.362",
+        "pdf_url": "https://verbumetecclesia.org.za/index.php/ve/article/download/362/319",
+        "source": {
+          "id": "https://openalex.org/S157763648",
+          "display_name": "Verbum et Ecclesia",
+          "issn_l": "1609-9982",
+          "issn": [
+            "1609-9982",
+            "2074-7705"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310315322",
+          "host_organization_name": "AOSIS",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315322"
+          ],
+          "host_organization_lineage_names": [
+            "AOSIS"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Verbum et Ecclesia",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W101817882",
+      "doi": null,
+      "display_name": "Continuity in Iranian Leadership Legitimization: Farr-i Izadi, Shi\u2019ism, and Vilayet-i Faqih",
+      "publication_year": 2009,
+      "type": "article",
+      "best_oa_location": {
+        "id": "pmh:oai:scholarworks.boisestate.edu:td-1052",
+        "is_oa": true,
+        "landing_page_url": "https://scholarworks.boisestate.edu/td/53",
+        "pdf_url": "https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1052&context=td",
+        "source": {
+          "id": "https://openalex.org/S4306400258",
+          "display_name": "ScholarWorks (Boise State University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I120156002",
+          "host_organization_name": "Boise State University",
+          "host_organization_lineage": [
+            "https://openalex.org/I120156002"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Boise State University Theses and Dissertations",
+        "raw_type": "text"
+      },
+      "primary_location": {
+        "id": "pmh:oai:scholarworks.boisestate.edu:td-1052",
+        "is_oa": true,
+        "landing_page_url": "https://scholarworks.boisestate.edu/td/53",
+        "pdf_url": "https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1052&context=td",
+        "source": {
+          "id": "https://openalex.org/S4306400258",
+          "display_name": "ScholarWorks (Boise State University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I120156002",
+          "host_organization_name": "Boise State University",
+          "host_organization_lineage": [
+            "https://openalex.org/I120156002"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Boise State University Theses and Dissertations",
+        "raw_type": "text"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2990910120",
+      "doi": "https://doi.org/10.5194/isprs-archives-xlii-2-w18-31-2019",
+      "display_name": "BUDDHIST STELE OF SWAT VALLEY: POINT CLOUD ANALYSIS AND INTERPRETATION",
+      "publication_year": 2019,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.5194/isprs-archives-xlii-2-w18-31-2019",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/isprs-archives-xlii-2-w18-31-2019",
+        "pdf_url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W18/31/2019/isprs-archives-XLII-2-W18-31-2019.pdf",
+        "source": {
+          "id": "https://openalex.org/S2737215817",
+          "display_name": "\u0098The \u009cinternational archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+          "issn_l": "1682-1750",
+          "issn": [
+            "1682-1750",
+            "1682-1777",
+            "2194-9034"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.5194/isprs-archives-xlii-2-w18-31-2019",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5194/isprs-archives-xlii-2-w18-31-2019",
+        "pdf_url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W18/31/2019/isprs-archives-XLII-2-W18-31-2019.pdf",
+        "source": {
+          "id": "https://openalex.org/S2737215817",
+          "display_name": "\u0098The \u009cinternational archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences",
+          "issn_l": "1682-1750",
+          "issn": [
+            "1682-1750",
+            "1682-1777",
+            "2194-9034"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310313756",
+          "host_organization_name": "Copernicus Publications",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313756"
+          ],
+          "host_organization_lineage_names": [
+            "Copernicus Publications"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7120003294",
+      "doi": "https://doi.org/10.60018/acasva.xbmi1252",
+      "display_name": "The Buddha and the Sun Disk: Some Reflections on the Dialectics of Light in a Relief from Matkanai, Pakistan",
+      "publication_year": 2025,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.60018/acasva.xbmi1252",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.60018/acasva.xbmi1252",
+        "pdf_url": "http://www.aav.iksiopan.pl/images/AAV_38/aav_2025_38_07_Pons.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306500258",
+          "display_name": "Acta Asiatica Varsoviensia",
+          "issn_l": "0860-6102",
+          "issn": [
+            "0860-6102",
+            "2449-8653"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310317485",
+          "host_organization_name": "Polish Academy of Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310317485"
+          ],
+          "host_organization_lineage_names": [
+            "Polish Academy of Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Asiatica Varsoviensia",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.60018/acasva.xbmi1252",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.60018/acasva.xbmi1252",
+        "pdf_url": "http://www.aav.iksiopan.pl/images/AAV_38/aav_2025_38_07_Pons.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306500258",
+          "display_name": "Acta Asiatica Varsoviensia",
+          "issn_l": "0860-6102",
+          "issn": [
+            "0860-6102",
+            "2449-8653"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310317485",
+          "host_organization_name": "Polish Academy of Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310317485"
+          ],
+          "host_organization_lineage_names": [
+            "Polish Academy of Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Asiatica Varsoviensia",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2050261689",
+      "doi": "https://doi.org/10.1163/157342107x207245",
+      "display_name": "Magical Movement (\u02bePhrul \u02beKhor): Ancient Tibetan Yogic Practices from the Bon Religion and their Migration into Contemporary Medical Settings",
+      "publication_year": 2007,
+      "type": "article",
+      "best_oa_location": {
+        "id": "doi:10.1163/157342107x207245",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1163/157342107x207245",
+        "pdf_url": "https://brill.com/downloadpdf/journals/asme/3/1/article-p130_9.pdf",
+        "source": {
+          "id": "https://openalex.org/S13889178",
+          "display_name": "Asian Medicine",
+          "issn_l": "1573-420X",
+          "issn": [
+            "1573-420X",
+            "1573-4218"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320561",
+          "host_organization_name": "Brill",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320561"
+          ],
+          "host_organization_lineage_names": [
+            "Brill"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Asian Medicine",
+        "raw_type": "journal-article"
+      },
+      "primary_location": {
+        "id": "doi:10.1163/157342107x207245",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1163/157342107x207245",
+        "pdf_url": "https://brill.com/downloadpdf/journals/asme/3/1/article-p130_9.pdf",
+        "source": {
+          "id": "https://openalex.org/S13889178",
+          "display_name": "Asian Medicine",
+          "issn_l": "1573-420X",
+          "issn": [
+            "1573-420X",
+            "1573-4218"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320561",
+          "host_organization_name": "Brill",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320561"
+          ],
+          "host_organization_lineage_names": [
+            "Brill"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Asian Medicine",
+        "raw_type": "journal-article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W1603095592",
+      "doi": null,
+      "display_name": "Being and knowing in wholeness Chinese Chan, Tibetan Dzogchen, and the logic of immediacy in contemplation",
+      "publication_year": 2010,
+      "type": "dissertation",
+      "best_oa_location": {
+        "id": "pmh:oai:scholarship.rice.edu:1911/61982",
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/1911/61982",
+        "pdf_url": "http://hdl.handle.net/1911/61982",
+        "source": {
+          "id": "https://openalex.org/S4306401268",
+          "display_name": "Rice Digital Scholarship Archive (Rice University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I74775410",
+          "host_organization_name": "Rice University",
+          "host_organization_lineage": [
+            "https://openalex.org/I74775410"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "primary_location": {
+        "id": "pmh:oai:scholarship.rice.edu:1911/61982",
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/1911/61982",
+        "pdf_url": "http://hdl.handle.net/1911/61982",
+        "source": {
+          "id": "https://openalex.org/S4306401268",
+          "display_name": "Rice Digital Scholarship Archive (Rice University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I74775410",
+          "host_organization_name": "Rice University",
+          "host_organization_lineage": [
+            "https://openalex.org/I74775410"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "public-domain",
+        "license_id": "https://openalex.org/licenses/public-domain",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      }
+    },
+    {
+      "id": "https://openalex.org/W782036903",
+      "doi": "https://doi.org/10.5287/ora-do2mbmvoe",
+      "display_name": "Revelations of a modern mystic: the life and legacy of Kun bzang bde chen gling pa 1928-2006",
+      "publication_year": 2012,
+      "type": "dissertation",
+      "best_oa_location": {
+        "id": "pmh:oai:ora.ox.ac.uk:uuid:87c510cd-7fec-4366-b9d3-27561eb8317d",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "https://ora.ox.ac.uk/objects/uuid:87c510cd-7fec-4366-b9d3-27561eb8317d",
+        "source": {
+          "id": "https://openalex.org/S4306402636",
+          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I40120149",
+          "host_organization_name": "University of Oxford",
+          "host_organization_lineage": [
+            "https://openalex.org/I40120149"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "primary_location": {
+        "id": "pmh:oai:ora.ox.ac.uk:uuid:87c510cd-7fec-4366-b9d3-27561eb8317d",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "https://ora.ox.ac.uk/objects/uuid:87c510cd-7fec-4366-b9d3-27561eb8317d",
+        "source": {
+          "id": "https://openalex.org/S4306402636",
+          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I40120149",
+          "host_organization_name": "University of Oxford",
+          "host_organization_lineage": [
+            "https://openalex.org/I40120149"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      }
+    },
+    {
+      "id": "https://openalex.org/W2520554114",
+      "doi": null,
+      "display_name": "sLob dpon gyis b\u015bad pa: Explanation by the Master The Teachings on Meditation of an Unknown Bya\u1e45-cub-klu-dba\u1e45",
+      "publication_year": 2016,
+      "type": "article",
+      "best_oa_location": {
+        "id": "pmh:oai:philpapers.org/rec/DELSDG",
+        "is_oa": true,
+        "landing_page_url": "https://philpapers.org/rec/DELSDG",
+        "pdf_url": "https://philpapers.org/archive/DELSDG.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402130",
+          "display_name": "PhilPapers (PhilPapers Foundation)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      "primary_location": {
+        "id": "pmh:oai:philpapers.org/rec/DELSDG",
+        "is_oa": true,
+        "landing_page_url": "https://philpapers.org/rec/DELSDG",
+        "pdf_url": "https://philpapers.org/archive/DELSDG.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402130",
+          "display_name": "PhilPapers (PhilPapers Foundation)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7144015206",
+      "doi": "https://doi.org/10.24517/00069440",
+      "display_name": "Gandh\u0101ran Smiling Buddhas Revisited \u2014Farewll to the so-called Archaic Smile\u2014",
+      "publication_year": 2023,
+      "type": "article",
+      "best_oa_location": {
+        "id": "pmh:oai:irdb.nii.ac.jp:01288:0005805196",
+        "is_oa": true,
+        "landing_page_url": "https://kanazawa-u.repo.nii.ac.jp/records/63206",
+        "pdf_url": "https://kanazawa-u.repo.nii.ac.jp/record/63206/files/H-I_2021-2022-1-22.pdf",
+        "source": {
+          "id": "https://openalex.org/S7407056385",
+          "display_name": "Institutional Repositories DataBase (IRDB)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I184597095",
+          "host_organization_name": "National Institute of Informatics",
+          "host_organization_lineage": [
+            "https://openalex.org/I184597095"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Japan Society for Hellenistic-Islam Archaeological Studies",
+        "raw_type": "departmental bulletin paper"
+      },
+      "primary_location": {
+        "id": "pmh:oai:irdb.nii.ac.jp:01288:0005805196",
+        "is_oa": true,
+        "landing_page_url": "https://kanazawa-u.repo.nii.ac.jp/records/63206",
+        "pdf_url": "https://kanazawa-u.repo.nii.ac.jp/record/63206/files/H-I_2021-2022-1-22.pdf",
+        "source": {
+          "id": "https://openalex.org/S7407056385",
+          "display_name": "Institutional Repositories DataBase (IRDB)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I184597095",
+          "host_organization_name": "National Institute of Informatics",
+          "host_organization_lineage": [
+            "https://openalex.org/I184597095"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Japan Society for Hellenistic-Islam Archaeological Studies",
+        "raw_type": "departmental bulletin paper"
+      }
+    },
+    {
+      "id": "https://openalex.org/W7164980804",
+      "doi": null,
+      "display_name": "DECONSTRUCTING THE SIKRI FASTING BUDDHA: BUDDHIST ANICONISM AND THE THEOLOGICAL IMPLICATIONS OF THE BUDDHA\u2019S ICONIC FORM IN GANDHARAN ART",
+      "publication_year": 2026,
+      "type": "dissertation",
+      "best_oa_location": {
+        "id": "pmh:oai:minds.wisconsin.edu:1793/97654",
+        "is_oa": true,
+        "landing_page_url": "http://digital.library.wisc.edu/1793/97654",
+        "pdf_url": "https://minds.wisconsin.edu/bitstream/1793/97654/1/HauserUlrich_uwm_0263M_14285.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401622",
+          "display_name": "Minds at UW (University of Wisconsin)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I135310074",
+          "host_organization_name": "University of Wisconsin\u2013Madison",
+          "host_organization_lineage": [
+            "https://openalex.org/I135310074"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "thesis"
+      },
+      "primary_location": {
+        "id": "pmh:oai:minds.wisconsin.edu:1793/97654",
+        "is_oa": true,
+        "landing_page_url": "http://digital.library.wisc.edu/1793/97654",
+        "pdf_url": "https://minds.wisconsin.edu/bitstream/1793/97654/1/HauserUlrich_uwm_0263M_14285.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401622",
+          "display_name": "Minds at UW (University of Wisconsin)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I135310074",
+          "host_organization_name": "University of Wisconsin\u2013Madison",
+          "host_organization_lineage": [
+            "https://openalex.org/I135310074"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "thesis"
+      }
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 66,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (treasure revelation gter ma tibetan authenticity)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "treasure revelation gter ma tibetan authenticity",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:treasure revelation gter ma tibetan authenticity&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W782036903",
+      "doi": "https://doi.org/10.5287/ora-do2mbmvoe",
+      "display_name": "Revelations of a modern mystic: the life and legacy of Kun bzang bde chen gling pa 1928-2006",
+      "publication_year": 2012,
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ora.ox.ac.uk/objects/uuid:87c510cd-7fec-4366-b9d3-27561eb8317d",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W4321511807",
+      "doi": "https://doi.org/10.5406/15549399.55.4.02",
+      "display_name": "The Production of the Book of Mormon in Light of a Tibetan Buddhist Parallel",
+      "publication_year": 2022,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2601818785",
+      "doi": null,
+      "display_name": "Political Rivalry and Doctrinal Debates: A Modern Tibetan Response to the Controversy of Buddhist Revelation",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

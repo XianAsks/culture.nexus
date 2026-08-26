@@ -1,0 +1,1855 @@
+{
+  "hitCount": 8,
+  "nextCursorMark": "",
+  "results": [
+    {
+      "id": "33523896",
+      "source": "MED",
+      "pmid": "33523896",
+      "pmcid": "PMC7810370",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7810370"
+        ]
+      },
+      "doi": "10.1126/sciadv.abb9314",
+      "title": "Ancient protein analysis in archaeology.",
+      "authorString": "Hendy J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hendy J",
+            "firstName": "Jessica",
+            "lastName": "Hendy",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3718-1058"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BioArCh, Department of Archaeology, University of York, York, UK."
+                },
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany. Email: jessica.hendy@york.ac.uk."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3718-1058"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "3",
+        "volume": "7",
+        "journalIssueId": 3097707,
+        "dateOfPublication": "2021 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2021,
+        "printPublicationDate": "2021-01-01",
+        "journal": {
+          "title": "Science advances",
+          "medlineAbbreviation": "Sci Adv",
+          "isoabbreviation": "Sci Adv",
+          "nlmid": "101653440",
+          "essn": "2375-2548",
+          "issn": "2375-2548"
+        }
+      },
+      "pubYear": "2021",
+      "pageInfo": "eabb9314",
+      "abstractText": "The analysis of ancient proteins from paleontological, archeological, and historic materials is revealing insights into past subsistence practices, patterns of health and disease, evolution and phylogeny, and past environments. This review tracks the development of this field, discusses some of the major methodological strategies used, and synthesizes recent developments in archeological applications of ancient protein analysis. Moreover, this review highlights some of the challenges faced by the field and potential future directions, arguing that the development of minimally invasive or nondestructive techniques, strategies for protein authentication, and the integration of ancient protein analysis with other biomolecular techniques are important research strategies as this field grows.",
+      "affiliation": "BioArCh, Department of Archaeology, University of York, York, UK.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-Print",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "Philip Leverhulme Prize",
+            "agency": "Leverhulme Trust",
+            "orderIn": 0
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1126/sciadv.abb9314"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7810370"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7810370?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 63,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2021-02-01",
+      "firstIndexDate": "2021-02-02",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2022-04-18",
+      "electronicPublicationDate": "2021-01-15",
+      "firstPublicationDate": "2021-01-15"
+    },
+    {
+      "id": "37588355",
+      "source": "MED",
+      "pmid": "37588355",
+      "pmcid": "PMC10427276",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10427276"
+        ]
+      },
+      "doi": "10.1017/ehs.2020.4",
+      "title": "Tracing population movements in ancient East Asia through the linguistics and archaeology of textile production.",
+      "authorString": "Nelson S, Zhushchikhovskaya I, Li T, Hudson M, Robbeets M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nelson S",
+            "firstName": "Sarah",
+            "lastName": "Nelson",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, University of Denver, Denver, CO, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhushchikhovskaya I",
+            "firstName": "Irina",
+            "lastName": "Zhushchikhovskaya",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory of Medieval Archaeology, Institute of History, Archaeology and Ethnography of Peoples of Far East, Far Eastern Branch of Russian Academy of Sciences, Vladivostok, Russia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li T",
+            "firstName": "Tao",
+            "lastName": "Li",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1390-6309"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Eurasia3angle Research group, Max Planck Institute for the Science of Human History, Jena, Germany."
+                },
+                {
+                  "affiliation": "Department of Archaeology, Wuhan University, Wuhan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hudson M",
+            "firstName": "Mark",
+            "lastName": "Hudson",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9483-9303"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Eurasia3angle Research group, Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Robbeets M",
+            "firstName": "Martine",
+            "lastName": "Robbeets",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2860-0230"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Eurasia3angle Research group, Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1390-6309"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2860-0230"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9483-9303"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "2",
+        "journalIssueId": 2955634,
+        "dateOfPublication": "2020 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-01-01",
+        "journal": {
+          "title": "Evolutionary human sciences",
+          "medlineAbbreviation": "Evol Hum Sci",
+          "isoabbreviation": "Evol Hum Sci",
+          "nlmid": "101773423",
+          "essn": "2513-843X",
+          "issn": "2513-843X"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "e5",
+      "abstractText": "Archaeolinguistics, a field which combines language reconstruction and archaeology as a source of information on human prehistory, has much to offer to deepen our understanding of the Neolithic and Bronze Age in Northeast Asia. So far, integrated comparative analyses of words and tools for textile production are completely lacking for the Northeast Asian Neolithic and Bronze Age. To remedy this situation, here we integrate linguistic and archaeological evidence of textile production, with the aim of shedding light on ancient population movements in Northeast China, the Russian Far East, Korea and Japan. We show that the transition to more sophisticated textile technology in these regions can be associated not only with the adoption of millet agriculture but also with the spread of the languages of the so-called 'Transeurasian' family. In this way, our research provides indirect support for the Language/Farming Dispersal Hypothesis, which posits that language expansion from the Neolithic onwards was often associated with agricultural colonization.",
+      "affiliation": "Department of Anthropology, University of Denver, Denver, CO, USA.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Northeast Asia",
+          "Textile Technology",
+          "Archaeolinguistics",
+          "Transeurasian Language Family",
+          "Language/farming Dispersal Hypothesis"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/440213710888C5D9488901B27E047D03/S2513843X20000043a.pdf/div-class-title-tracing-population-movements-in-ancient-east-asia-through-the-linguistics-and-archaeology-of-textile-production-div.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1017/ehs.2020.4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10427276"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10427276?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 6,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2023-08-17",
+      "firstIndexDate": "2023-08-19",
+      "fullTextReceivedDate": "2023-08-21",
+      "dateOfRevision": "2023-08-18",
+      "electronicPublicationDate": "2020-02-14",
+      "firstPublicationDate": "2020-02-14"
+    },
+    {
+      "id": "31747407",
+      "source": "MED",
+      "pmid": "31747407",
+      "pmcid": "PMC6867603",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6867603"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0224741",
+      "title": "Investigating reindeer pastoralism and exploitation of high mountain zones in northern Mongolia through ice patch archaeology.",
+      "authorString": "Taylor W, Clark JK, Reichhardt B, Hodgins GWL, Bayarsaikhan J, Batchuluun O, Whitworth J, Nansalmaa M, Lee CM, Dixon EJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Taylor W",
+            "firstName": "William",
+            "lastName": "Taylor",
+            "initials": "W",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0836-7814"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany."
+                },
+                {
+                  "affiliation": "Museum of Natural History, University of Colorado-Boulder, Boulder, Colorado, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Clark JK",
+            "firstName": "Julia K",
+            "lastName": "Clark",
+            "initials": "JK",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeology, Flinders University, Adelaide, Australia."
+                },
+                {
+                  "affiliation": "NOMAD Science, Ulaanbaatar, Mongolia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Reichhardt B",
+            "firstName": "Bj\u00f6rn",
+            "lastName": "Reichhardt",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Central Asian Seminar, Institute for Asian and African Studies, Humboldt-Universit\u00e4t zu Berlin, Berlin, Germany."
+                },
+                {
+                  "affiliation": "Department of Archaeogenetics, Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hodgins GWL",
+            "firstName": "Gregory W L",
+            "lastName": "Hodgins",
+            "initials": "GWL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6669-0396"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Accelerator Mass Spectrometry Laboratory, University of Arizona, Tucson, Arizona, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bayarsaikhan J",
+            "firstName": "Jamsranjav",
+            "lastName": "Bayarsaikhan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Museum of Mongolia, Ulaanbaatar, Mongolia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Batchuluun O",
+            "firstName": "Oyundelger",
+            "lastName": "Batchuluun",
+            "initials": "O",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Museum of Mongolia, Ulaanbaatar, Mongolia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Whitworth J",
+            "firstName": "Jocelyn",
+            "lastName": "Whitworth",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Clearview Animal Hospital, Colorado Springs, Colorado, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nansalmaa M",
+            "firstName": "Myagmar",
+            "lastName": "Nansalmaa",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Unit of Diagnosis and Surveillance for Infectious and Parasitic Disease, State Central Veterinary Laboratory, Ulaanbaatar, Mongolia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lee CM",
+            "firstName": "Craig M",
+            "lastName": "Lee",
+            "initials": "CM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Arctic and Alpine Research, University of Colorado-Boulder, Boulder, Colorado, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dixon EJ",
+            "firstName": "E James",
+            "lastName": "Dixon",
+            "initials": "EJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, University of New Mexico, Albuquerque, New Mexico, United States of America."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0836-7814"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6669-0396"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "11",
+        "volume": "14",
+        "journalIssueId": 2876045,
+        "dateOfPublication": "2019 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-01-01",
+        "journal": {
+          "title": "PloS one",
+          "medlineAbbreviation": "PLoS One",
+          "isoabbreviation": "PLoS One",
+          "nlmid": "101285081",
+          "essn": "1932-6203",
+          "issn": "1932-6203"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "e0224741",
+      "abstractText": "In interior Eurasia, high mountain zones are crucial to pastoral subsistence, providing seasonally productive pastures and abundant wild resources. In some areas of northern Mongolia, mountainous tundra zones also support a low-latitude population of domestic reindeer herders-a lifestyle whose origins are poorly characterized in the archaeological record of early Mongolia. Traditionally, reindeer pastoralists make significant seasonal use of munkh mus (eternal ice) for their domestic herds, using these features to cool heat-stressed animals and provide respite from insect harassment. In recent years, many of these features have begun to melt entirely for the first time, producing urgent threats to traditional management techniques, the viability of summer pastures, and reindeer health. The melting ice is also exposing fragile organic archaeological materials that had previously been contained in the patch. We present the results of horseback survey of ice patches in Baruun Taiga special protected area, providing the first archaeological insights from the region. Results reveal new evidence of historic tool production and wild resource use for fishing or other activities, and indicate that ice patches are likely to contain one of the few material records of premodern domestic reindeer use in Mongolia and lower Central Asia. The area's ancient ice appears to be rapidly melting due to changing climate and warming summer temperatures, putting both cultural heritage and traditional reindeer herding at extreme risk in the years to come.",
+      "affiliation": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Animals, Domestic"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Reindeer"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Conservation of Natural Resources"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Seasons"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Ice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animal Husbandry",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mongolia"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Climate Change"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tundra"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Ice",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.pone.0224741"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6867603"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6867603?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 3,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-04-02",
+      "dateOfCreation": "2019-11-21",
+      "firstIndexDate": "2019-11-21",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2020-04-02",
+      "electronicPublicationDate": "2019-11-20",
+      "firstPublicationDate": "2019-11-20"
+    },
+    {
+      "id": "41120310",
+      "source": "MED",
+      "pmid": "41120310",
+      "pmcid": "PMC12540757",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12540757"
+        ]
+      },
+      "doi": "10.1038/s41597-025-05956-z",
+      "title": "Chronology of early China: A radiocarbon databank for Chinese archaeology.",
+      "authorString": "Qiu M, Du L, Staff R, Yan Z, Yan T, Cao H, Gosden C, Liu R, Dong G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Qiu M",
+            "firstName": "Menghan",
+            "lastName": "Qiu",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2891-4712"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Urban and Environmental Sciences, Peking University, Beijing, 100871, China."
+                },
+                {
+                  "affiliation": "Key Laboratory of Western China's Environmental System (Ministry of Education), College of Earth and Environmental Sciences, Lanzhou University, Lanzhou, 730000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Du L",
+            "firstName": "Linyao",
+            "lastName": "Du",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Western China's Environmental System (Ministry of Education), College of Earth and Environmental Sciences, Lanzhou University, Lanzhou, 730000, China."
+                },
+                {
+                  "affiliation": "National Centre for Archaeology, Beijing, 100013, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Staff R",
+            "firstName": "Richard",
+            "lastName": "Staff",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Archaeology, University of Oxford, Oxford, OX1 3QY, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yan Z",
+            "firstName": "Ziyun",
+            "lastName": "Yan",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Western China's Environmental System (Ministry of Education), College of Earth and Environmental Sciences, Lanzhou University, Lanzhou, 730000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yan T",
+            "firstName": "Tingting",
+            "lastName": "Yan",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Western China's Environmental System (Ministry of Education), College of Earth and Environmental Sciences, Lanzhou University, Lanzhou, 730000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao H",
+            "firstName": "Huihui",
+            "lastName": "Cao",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2252-8722"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Western China's Environmental System (Ministry of Education), College of Earth and Environmental Sciences, Lanzhou University, Lanzhou, 730000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gosden C",
+            "firstName": "Chris",
+            "lastName": "Gosden",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Archaeology, University of Oxford, Oxford, OX1 3QY, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu R",
+            "firstName": "Ruiliang",
+            "lastName": "Liu",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Department of Asia, British Museum, London, WC1B 3DG, United Kingdom. rliu@britishmuseum.org."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dong G",
+            "firstName": "Guanghui",
+            "lastName": "Dong",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8005-759X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Western China's Environmental System (Ministry of Education), College of Earth and Environmental Sciences, Lanzhou University, Lanzhou, 730000, China. ghdong@lzu.edu.cn."
+                },
+                {
+                  "affiliation": "State Key Laboratory of Loess, Institute of Earth Environment, Chinese Academy of Sciences, Xi'an, 710061, China. ghdong@lzu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8005-759X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2252-8722"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2891-4712"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "12",
+        "journalIssueId": 4025275,
+        "dateOfPublication": "2025 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-10-01",
+        "journal": {
+          "title": "Scientific data",
+          "medlineAbbreviation": "Sci Data",
+          "isoabbreviation": "Sci Data",
+          "nlmid": "101640192",
+          "essn": "2052-4463",
+          "issn": "2052-4463"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "1665",
+      "abstractText": "The role of radiocarbon dating in Chinese archaeology has grown increasingly significant in recent decades. Thousands of archaeological radiocarbon dates have been published along with the development of multiple laboratories. However, radiocarbon dates were published in a fragmented manner, in different languages and limited to specific archaeological sites or topics. This fragmentation has created substantial barriers to cross-regional and interdisciplinary research at various temporal and spatial scales. While several datasets have been compiled, there is a lack of crucial details regarding the archaeological context, geographic information, and essential parameters of the radiocarbon data. This databank seeks to bridge this gap by providing the most up-to-date comprehensive radiocarbon database of Chinese archaeology. This effort involves a systematic review of the relevant literature and the revision of earlier datasets. A total number of 7,083 radiocarbon dates, accompanied by their detailed information, were collected. This databank offers a valuable resource for interdisciplinary research that aims to quantify human activity in prehistoric China, and it establishes a foundational framework for future data collections.",
+      "affiliation": "College of Urban and Environmental Sciences, Peking University, Beijing, 100871, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "data-paper",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "101071707",
+            "agency": "European Research Council",
+            "orderIn": 0
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41597-025-05956-z"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12540757"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12540757?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 1,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2025-10-21",
+      "firstIndexDate": "2025-10-22",
+      "fullTextReceivedDate": "2025-11-29",
+      "dateOfRevision": "2025-10-24",
+      "electronicPublicationDate": "2025-10-21",
+      "firstPublicationDate": "2025-10-21"
+    },
+    {
+      "id": "42127202",
+      "source": "MED",
+      "pmid": "42127202",
+      "pmcid": "PMC13170673",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13170673"
+        ]
+      },
+      "doi": "10.1126/sciadv.ady7336",
+      "title": "Horse genetics, archaeology, and the beginning of riding.",
+      "authorString": "Anthony D, Trautmann M, Heyd V.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Anthony D",
+            "firstName": "David",
+            "lastName": "Anthony",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9122-0313"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Hartwick College, Oneonta, NY 13820, USA."
+                },
+                {
+                  "affiliation": "Harvard University, Cambridge, MA 02138, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Trautmann M",
+            "firstName": "Martin",
+            "lastName": "Trautmann",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0057-6563"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cultures/Archaeology, University of Helsinki, Helsinki, Finland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Heyd V",
+            "firstName": "Volker",
+            "lastName": "Heyd",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0889-6513"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Cultures/Archaeology, University of Helsinki, Helsinki, Finland."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9122-0313"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0889-6513"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0057-6563"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "20",
+        "volume": "12",
+        "journalIssueId": 4193655,
+        "dateOfPublication": "2026 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2026,
+        "printPublicationDate": "2026-05-01",
+        "journal": {
+          "title": "Science advances",
+          "medlineAbbreviation": "Sci Adv",
+          "isoabbreviation": "Sci Adv",
+          "nlmid": "101653440",
+          "essn": "2375-2548",
+          "issn": "2375-2548"
+        }
+      },
+      "pubYear": "2026",
+      "pageInfo": "eady7336",
+      "abstractText": "Recent papers argued that the domestication of horses can be equated with the appearance of favorable genetic mutations that are first evident in individuals in the DOM2 clade dated about \u223c2200-2100 BCE. We challenge the idea that this genetic shift alone defines domestication. Evidence from archaeology, ancient DNA, osteology, and other disciplines shows that horses from multiple genetic backgrounds (DOM1, DOM2, and, as we suggest here, DOM3) were managed, milked, and ridden long before 2200 BCE. Yamnaya groups (\u223c3200-2600 BCE) rode DOM2 horses-the direct ancestors of modern domestic stock-while incorporating them into diets, rituals, and mobility systems. Selection for traits linked to endurance and temperament began centuries earlier. Rather than a sudden breakthrough, domestication was a protracted, regionally varied process whose transformative effects on human mobility and social organization began as early as the fourth, if not the fifth millennium BCE, and set the stage for later DOM2 dominance.",
+      "affiliation": "Hartwick College, Oneonta, NY 13820, USA.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "788616",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "grantId": "#788616\u2013 YMPACT",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "grantId": "#9121035",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Horses",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Domestication"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Ancient",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Ancient",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1126/sciadv.ady7336"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13170673"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13170673?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2026-07-16",
+      "dateOfCreation": "2026-05-13",
+      "firstIndexDate": "2026-05-15",
+      "fullTextReceivedDate": "2026-05-20",
+      "dateOfRevision": "2026-08-13",
+      "electronicPublicationDate": "2026-05-13",
+      "firstPublicationDate": "2026-05-13"
+    },
+    {
+      "id": "40601722",
+      "source": "MED",
+      "pmid": "40601722",
+      "pmcid": "PMC12219491",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12219491"
+        ]
+      },
+      "doi": "10.1126/sciadv.adt5435",
+      "title": "Regional disparities in US media coverage of archaeology research.",
+      "authorString": "Alex B, Ji J, Flad R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Alex B",
+            "firstName": "Bridget",
+            "lastName": "Alex",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9683-9219"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Human Evolutionary Biology, Harvard University, Cambridge, MA, USA."
+                },
+                {
+                  "affiliation": "SAPIENS Magazine, New York, NY, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ji J",
+            "firstName": "Jenny",
+            "lastName": "Ji",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7901-5605"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Bioengineering, Stanford University, Stanford, CA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Flad R",
+            "firstName": "Rowan",
+            "lastName": "Flad",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7018-8868"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, Harvard University, Cambridge, MA, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7018-8868"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7901-5605"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9683-9219"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "27",
+        "volume": "11",
+        "journalIssueId": 3970371,
+        "dateOfPublication": "2025 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-07-01",
+        "journal": {
+          "title": "Science advances",
+          "medlineAbbreviation": "Sci Adv",
+          "isoabbreviation": "Sci Adv",
+          "nlmid": "101653440",
+          "essn": "2375-2548",
+          "issn": "2375-2548"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "eadt5435",
+      "abstractText": "Mass media represents a primary avenue for research to reach diverse publics, but relatively few peer-reviewed scientific papers become popular science news. Numerous gatekeepers determine which research manuscripts complete this dissemination pathway, and the resulting media landscape influences public understandings of scientific fields. Here, we compare scientific and popular publishing of archaeology about different geographic regions. Of 1155 archaeology papers in one specialist and six general science journals across 6 years, 32% were reported by at least one of 15\u00a0US news sources. Mixed-effects logistic regression models revealed variation across news sources, but overall papers about archaeology in United Kingdom, Israel/Palestine, and Australia were significantly more likely to receive coverage, compared to China/Taiwan. This disparity raises concerns as archaeology influences notions of identity and cultural achievement, and has been misappropriated by racist, nationalist ideologies. We recommend ways for actors in research dissemination to diversify archaeology coverage.",
+      "affiliation": "Department of Human Evolutionary Biology, Harvard University, Cambridge, MA, USA.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Research"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Mass Media"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "United States"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Australia"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1126/sciadv.adt5435"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1126/sciadv.adt5435"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12219491"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12219491?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-07-02",
+      "dateOfCreation": "2025-07-02",
+      "firstIndexDate": "2025-07-03",
+      "fullTextReceivedDate": "2025-11-29",
+      "dateOfRevision": "2025-07-04",
+      "electronicPublicationDate": "2025-07-02",
+      "firstPublicationDate": "2025-07-02"
+    },
+    {
+      "id": "37305356",
+      "source": "MED",
+      "pmid": "37305356",
+      "pmcid": "PMC10239220",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10239220"
+        ]
+      },
+      "doi": "10.1057/s41599-023-01800-0",
+      "title": "\"Bringing in\" and \"Going abroad\": A bibliometric evaluation of the internationalization of archaeology in Mainland China.",
+      "authorString": "Wei X, Lou W, Li T, Yang R, Li Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wei X",
+            "firstName": "Xuan",
+            "lastName": "Wei",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of History, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "Archaeological Institute for Yangtze Civilization, Wuhan University, Wuhan, 430072 China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lou W",
+            "firstName": "Wentai",
+            "lastName": "Lou",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of History, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "Archaeological Institute for Yangtze Civilization, Wuhan University, Wuhan, 430072 China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li T",
+            "firstName": "Ting",
+            "lastName": "Li",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of History, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "Archaeological Institute for Yangtze Civilization, Wuhan University, Wuhan, 430072 China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang R",
+            "firstName": "Ruxi",
+            "lastName": "Yang",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0001-5091-7840"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of History, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "Archaeological Institute for Yangtze Civilization, Wuhan University, Wuhan, 430072 China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "firstName": "Yinghua",
+            "lastName": "Li",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3925-8239"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of History, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "Archaeological Institute for Yangtze Civilization, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "Intellectual Computing Laboratory for Cultural Heritage, Wuhan University, Wuhan, 430072 China."
+                },
+                {
+                  "affiliation": "CNRS UMR 7041 ArScAn-AnTET, Universit\u00e9 Paris X, Maison de l'Arch\u00e9ologie et de l'Ethnologie, 21 all\u00e9e de l'Universit\u00e9, Nanterre, 92023 France."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3925-8239"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0001-5091-7840"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "10",
+        "journalIssueId": 3486621,
+        "dateOfPublication": "2023 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2023,
+        "printPublicationDate": "2023-01-01",
+        "journal": {
+          "title": "Humanities & social sciences communications",
+          "medlineAbbreviation": "Humanit Soc Sci Commun",
+          "isoabbreviation": "Humanit Soc Sci Commun",
+          "nlmid": "101772751",
+          "essn": "2662-9992",
+          "issn": "2662-9992"
+        }
+      },
+      "pubYear": "2023",
+      "pageInfo": "281",
+      "abstractText": "Chinese scholars' performance in international academic community and research on foreign archaeology has brought hot discussion about the internationalization of Chinese archaeology. Based on the databases of the China National Knowledge Infrastructure (CNKI) and the Web of Science core collection (WoS), this paper collected archaeology-related papers published by Chinese scholars in Chinese and world core journals (CCJs and WCJs for short), then filtered translated and original articles about foreign archaeology in CCJs, as well as all original archaeological articles in WCJs. Using Excel, CiteSpace and VOSviewer visualization software, we analyzed these data to give a bird's-eye view of how archaeology research in Mainland China has become internationalized. Chinese archaeology has seen active-interrupt-active phases characterized by learning from foreign academics in the last century. Over the past two decades, the number of articles published in WCJs by scholars from Mainland China has increased significantly, and most research topics are at the forefront of international scholarship. Collaboration networks largely expanded, with the number of Mainland China-led articles increasing significantly. Archaeological papers written by researchers from Mainland China have appeared in a more extensive range of journals, including those with high impact factors. However, articles related to joint Sino-foreign archaeological projects were mostly published in CCJs. The archaeology-related articles published by Chinese scholars in WCJs occupied only a small proportion of all archaeological articles in WCJs. Compared to articles in CCJs, the number of those published by Chinese scholars in WCJs is a drop in the ocean. Therefore the internationalization is not yet a dominant trend and with the introduction of the new inward-looking policy we need more time to observe where the trends of internationalization and localization in Chinese archaeology are heading.",
+      "affiliation": "School of History, Wuhan University, Wuhan, 430072 China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "History",
+          "Complex Networks"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1057/s41599-023-01800-0"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1057/s41599-023-01800-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10239220"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10239220?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2023-06-12",
+      "firstIndexDate": "2023-06-12",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2023-09-28",
+      "electronicPublicationDate": "2023-06-03",
+      "firstPublicationDate": "2023-06-03"
+    },
+    {
+      "id": "33938956",
+      "source": "MED",
+      "pmid": "33938956",
+      "pmcid": "PMC8159816",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC8159816"
+        ]
+      },
+      "doi": "10.1007/s00048-021-00298-4",
+      "title": "[Research in an Extreme Environment : Research Practices of Underwater Archaeology at Cape Gelidonya (1958-1961)].",
+      "authorString": "Heine EC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Heine EC",
+            "firstName": "Eike-Christian",
+            "lastName": "Heine",
+            "initials": "EC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5043-3096"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Geschichtswissenschaft, Abt. Wissenschafts- und Technikgeschichte, Technische Universit\u00e4t Braunschweig, Schleinitzstr.\u00a013, 38106, Braunschweig, Deutschland. eike-christian.heine@tu-braunschweig.de."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5043-3096"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "29",
+        "journalIssueId": 3176127,
+        "dateOfPublication": "2021 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2021,
+        "printPublicationDate": "2021-06-01",
+        "journal": {
+          "title": "NTM",
+          "medlineAbbreviation": "NTM",
+          "isoabbreviation": "NTM",
+          "nlmid": "0347631",
+          "essn": "1420-9144",
+          "issn": "0036-6978"
+        }
+      },
+      "pubYear": "2021",
+      "pageInfo": "171-202",
+      "abstractText": "In 1958, one of the first projects to carry out a\u00a0systematic archaeological campaign underwater began off the coast of Asia Minor. At Cape Gelidonya, the wreck of a\u00a0Bronze Age ship was investigated. To understand the concrete problems and working methods of underwater archaeology, it is important to account not only for the tangible objects of research and the technical aids used, but also the natural features and the political framework in which actors operated. Situated in the years between the end of the colonial era and the Cold War, this article traces the biographical paths that brought together central actors at the site of the discovery. This perspective is necessary for understanding why divers who were not established archaeologists initiated and carried out the campaign. The article also analyzes the research of the campaign carried out 1960 and explores some of the difficulties and solutions encountered in working underwater. The article is a\u00a0contribution to the still unwritten history of underwater archaeology.",
+      "affiliation": "Institut f\u00fcr Geschichtswissenschaft, Abt. Wissenschafts- und Technikgeschichte, Technische Universit\u00e4t Braunschweig, Schleinitzstr.\u00a013, 38106, Braunschweig, Deutschland. eike-christian.heine@tu-braunschweig.de.",
+      "publicationStatus": "ppublish",
+      "language": "ger",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article",
+          "English Abstract"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Technische Universit\u00e4t Braunschweig",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Field Studies",
+          "Underwater Archaeology",
+          "Fr\u00e9d\u00e9ric Dumas",
+          "Honor Frost",
+          "Peter Throckmorton",
+          "Sponge Divers"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://link.springer.com/content/pdf/10.1007/s00048-021-00298-4.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s00048-021-00298-4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8159816"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8159816?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2021-06-18",
+      "dateOfCreation": "2021-05-03",
+      "firstIndexDate": "2021-05-04",
+      "fullTextReceivedDate": "2025-02-05",
+      "dateOfRevision": "2024-04-02",
+      "electronicPublicationDate": "2021-05-03",
+      "firstPublicationDate": "2021-05-03"
+    }
+  ]
+}

@@ -1,0 +1,3440 @@
+{
+  "hitCount": 35,
+  "nextCursorMark": "AoJXAigzODgwMzExMQ==",
+  "results": [
+    {
+      "id": "26753840",
+      "source": "MED",
+      "pmid": "26753840",
+      "pmcid": "PMC4707776",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4707776"
+        ]
+      },
+      "doi": "10.1186/s13059-015-0866-z",
+      "title": "Ancient DNA and the rewriting of human history: be sparing with Occam's razor.",
+      "authorString": "Haber M, Mezzavilla M, Xue Y, Tyler-Smith C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Haber M",
+            "firstName": "Marc",
+            "lastName": "Haber",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1000-1448"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SA, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mezzavilla M",
+            "firstName": "Massimo",
+            "lastName": "Mezzavilla",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9000-4595"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SA, UK."
+                },
+                {
+                  "affiliation": "Institute for Maternal and Child Health, IRCCS BurloGarofolo, University of Trieste, 34137, Trieste, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xue Y",
+            "firstName": "Yali",
+            "lastName": "Xue",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SA, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tyler-Smith C",
+            "firstName": "Chris",
+            "lastName": "Tyler-Smith",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SA, UK. cts@sanger.ac.uk."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9000-4595"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1000-1448"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "17",
+        "journalIssueId": 2460734,
+        "dateOfPublication": "2016 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2016,
+        "printPublicationDate": "2016-01-01",
+        "journal": {
+          "title": "Genome biology",
+          "medlineAbbreviation": "Genome Biol",
+          "issn": "1474-7596",
+          "essn": "1474-760X",
+          "isoabbreviation": "Genome Biol",
+          "nlmid": "100960660"
+        }
+      },
+      "pubYear": "2016",
+      "pageInfo": "1",
+      "abstractText": "Ancient DNA research is revealing a human history far more complex than that inferred from parsimonious models based on modern DNA. Here, we review some of the key events in the peopling of the world in the light of the findings of work on ancient DNA.",
+      "affiliation": "The Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SA, UK.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "098051",
+            "agency": "Wellcome Trust",
+            "acronym": "WT_",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Selection, Genetic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Human Migration",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA",
+            "registryNumber": "9007-49-2"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-015-0866-z"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13059-015-0866-z"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4707776"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4707776?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 752,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp"
+        ]
+      },
+      "dateOfCompletion": "2016-10-06",
+      "dateOfCreation": "2016-01-13",
+      "firstIndexDate": "2016-01-13",
+      "fullTextReceivedDate": "2020-07-12",
+      "dateOfRevision": "2022-03-18",
+      "electronicPublicationDate": "2016-01-11",
+      "firstPublicationDate": "2016-01-11"
+    },
+    {
+      "id": "29745896",
+      "source": "MED",
+      "pmid": "29745896",
+      "pmcid": "PMC6008052",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6008052"
+        ]
+      },
+      "doi": "10.7554/elife.36666",
+      "title": "Neolithic and medieval virus genomes reveal complex evolution of hepatitis B.",
+      "authorString": "Krause-Kyora B, Susat J, Key FM, K\u00fchnert D, Bosse E, Immel A, Rinne C, Kornell SC, Yepes D, Franzenburg S, Heyne HO, Meier T, L\u00f6sch S, Meller H, Friederich S, Nicklisch N, Alt KW, Schreiber S, Tholey A, Herbig A, Nebel A, Krause J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Krause-Kyora B",
+            "firstName": "Ben",
+            "lastName": "Krause-Kyora",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9435-2872"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                },
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Susat J",
+            "firstName": "Julian",
+            "lastName": "Susat",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Key FM",
+            "firstName": "Felix M",
+            "lastName": "Key",
+            "initials": "FM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2812-6636"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "K\u00fchnert D",
+            "firstName": "Denise",
+            "lastName": "K\u00fchnert",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5657-018X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                },
+                {
+                  "affiliation": "Division of Infectious Diseases and Hospital Epidemiology, University Hospital Zurich, Zurich, Switzerland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bosse E",
+            "firstName": "Esther",
+            "lastName": "Bosse",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                },
+                {
+                  "affiliation": "Systematic Proteomics & Bioanalytics, Institute for Experimental Medicine, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Immel A",
+            "firstName": "Alexander",
+            "lastName": "Immel",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                },
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rinne C",
+            "firstName": "Christoph",
+            "lastName": "Rinne",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9829-6182"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Pre- and Protohistoric Archaeology, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kornell SC",
+            "firstName": "Sabin-Christin",
+            "lastName": "Kornell",
+            "initials": "SC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yepes D",
+            "firstName": "Diego",
+            "lastName": "Yepes",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Systematic Proteomics & Bioanalytics, Institute for Experimental Medicine, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Franzenburg S",
+            "firstName": "S\u00f6ren",
+            "lastName": "Franzenburg",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Heyne HO",
+            "firstName": "Henrike O",
+            "lastName": "Heyne",
+            "initials": "HO",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9893-3850"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Stanley Center for Psychiatric Research, Broad Institute, Cambridge, United States."
+                },
+                {
+                  "affiliation": "Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston, United States."
+                },
+                {
+                  "affiliation": "Program in Medical and Population Genetics, Broad Institute of MIT & Harvard, Cambridge, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meier T",
+            "firstName": "Thomas",
+            "lastName": "Meier",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Pre- and Protohistory and Near Eastern Archaeology, Heidelberg University, Heidelberg, Germany."
+                },
+                {
+                  "affiliation": "Heidelberg Center for the Environment, Heidelberg University, Heidelberg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "L\u00f6sch S",
+            "firstName": "Sandra",
+            "lastName": "L\u00f6sch",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3442-9764"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physical Anthropology, Institute of Forensic Medicine, University of Bern, Bern, Switzerland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meller H",
+            "firstName": "Harald",
+            "lastName": "Meller",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Office for Heritage Management and Archaeology Saxony-Anhalt, State Museum of Prehistory, Halle, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Friederich S",
+            "firstName": "Susanne",
+            "lastName": "Friederich",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Office for Heritage Management and Archaeology Saxony-Anhalt, State Museum of Prehistory, Halle, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nicklisch N",
+            "firstName": "Nicole",
+            "lastName": "Nicklisch",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Office for Heritage Management and Archaeology Saxony-Anhalt, State Museum of Prehistory, Halle, Germany."
+                },
+                {
+                  "affiliation": "Danube Private University, Krems, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alt KW",
+            "firstName": "Kurt W",
+            "lastName": "Alt",
+            "initials": "KW",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Office for Heritage Management and Archaeology Saxony-Anhalt, State Museum of Prehistory, Halle, Germany."
+                },
+                {
+                  "affiliation": "Danube Private University, Krems, Austria."
+                },
+                {
+                  "affiliation": "Department of Biomedical Engineering, University Hospital Basel, University of Basel, Basel, Switzerland."
+                },
+                {
+                  "affiliation": "Integrative Prehistory and Archaeological Science, University of Basel, Basel, Switzerland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schreiber S",
+            "firstName": "Stefan",
+            "lastName": "Schreiber",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                },
+                {
+                  "affiliation": "Clinic for Internal Medicine, University Hospital Schleswig-Holstein, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tholey A",
+            "firstName": "Andreas",
+            "lastName": "Tholey",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Systematic Proteomics & Bioanalytics, Institute for Experimental Medicine, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Herbig A",
+            "firstName": "Alexander",
+            "lastName": "Herbig",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nebel A",
+            "firstName": "Almut",
+            "lastName": "Nebel",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krause J",
+            "firstName": "Johannes",
+            "lastName": "Krause",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9144-3920"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9144-3920"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9435-2872"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9893-3850"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5657-018X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9829-6182"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2812-6636"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3442-9764"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "7",
+        "journalIssueId": 2677796,
+        "dateOfPublication": "2018 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2018,
+        "printPublicationDate": "2018-05-01",
+        "journal": {
+          "title": "eLife",
+          "medlineAbbreviation": "Elife",
+          "issn": "2050-084X",
+          "essn": "2050-084X",
+          "isoabbreviation": "Elife",
+          "nlmid": "101579614"
+        }
+      },
+      "pubYear": "2018",
+      "pageInfo": "e36666",
+      "abstractText": "The hepatitis B virus (HBV) is one of the most widespread human pathogens known today, yet its origin and evolutionary history are still unclear and controversial. Here, we report the analysis of three ancient HBV genomes recovered from human skeletons found at three different archaeological sites in Germany. We reconstructed two Neolithic and one medieval HBV genome by <i>de novo</i> assembly from shotgun DNA sequencing data. Additionally, we observed HBV-specific peptides using paleo-proteomics. Our results demonstrated that HBV has circulated in the European population for at least 7000 years. The Neolithic HBV genomes show a high genomic similarity to each other. In a phylogenetic network, they do not group with any human-associated HBV genome and are most closely related to those infecting African non-human primates. The ancient viruses appear to represent distinct lineages that have no close relatives today and possibly went extinct. Our results reveal the great potential of ancient DNA from human skeletons in order to study the long-time evolution of blood borne viruses.",
+      "affiliation": "Institute of Clinical Molecular Biology, Kiel University, Kiel, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "APGREID",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "grantId": "Al 287-7-1",
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "orderIn": 0
+          },
+          {
+            "grantId": "1266",
+            "agency": "Collaborative Research Center",
+            "orderIn": 0
+          },
+          {
+            "grantId": "171320",
+            "agency": "Swiss National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "Me 3245/1-1",
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "orderIn": 0
+          },
+          {
+            "grantId": "PMPDP3_171320/1",
+            "agency": "Swiss National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "HE7987/1-1",
+            "agency": "Deutsche Forschungsgemeinschaft",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Skeleton",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "VI",
+                  "qualifierName": "virology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hepatitis B virus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CL",
+                  "qualifierName": "classification",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteome",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Viral Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sequence Analysis, DNA"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Evolution, Molecular"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Viral"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Fossils",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "VI",
+                  "qualifierName": "virology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Germany"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Genetics",
+          "Hepatitis B",
+          "Microbiology",
+          "Infectious disease",
+          "Human evolution",
+          "Ancient DNA",
+          "Genomics",
+          "Virus evolution",
+          "Next Generation Sequencing",
+          "Ancient Pathogens"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Viral Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Proteome",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.7554/eLife.36666"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6008052"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6008052?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR11559",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 98,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2019-05-15",
+      "dateOfCreation": "2018-05-11",
+      "firstIndexDate": "2018-05-10",
+      "fullTextReceivedDate": "2020-07-09",
+      "dateOfRevision": "2019-05-24",
+      "electronicPublicationDate": "2018-05-10",
+      "firstPublicationDate": "2018-05-10"
+    },
+    {
+      "id": "28556824",
+      "source": "MED",
+      "pmid": "28556824",
+      "pmcid": "PMC5459999",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC5459999"
+        ]
+      },
+      "doi": "10.1038/ncomms15694",
+      "title": "Ancient Egyptian mummy genomes suggest an increase of Sub-Saharan African ancestry in post-Roman periods.",
+      "authorString": "Schuenemann VJ, Peltzer A, Welte B, van Pelt WP, Molak M, Wang CC, Wang CC, Furtw\u00e4ngler A, Urban C, Reiter E, Nieselt K, Te\u00dfmann B, Francken M, Harvati K, Haak W, Schiffels S, Krause J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Schuenemann VJ",
+            "firstName": "Verena J",
+            "lastName": "Schuenemann",
+            "initials": "VJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8593-3672"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "Senckenberg Centre for Human Evolution and Palaeoenvironment, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Peltzer A",
+            "firstName": "Alexander",
+            "lastName": "Peltzer",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6503-2180"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Integrative Transcriptomics, Center for Bioinformatics, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "Department for Archaeogenetics, Max Planck Institute for the Science of Human History, 07745 Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Welte B",
+            "firstName": "Beatrix",
+            "lastName": "Welte",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "van Pelt WP",
+            "firstName": "W Paul",
+            "lastName": "van Pelt",
+            "initials": "WP",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Archaeology, University of Cambridge, Cambridge CB2 3DZ, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Molak M",
+            "firstName": "Martyna",
+            "lastName": "Molak",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5068-8649"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Museum and Institute of Zoology, Polish Academy of Sciences, 00-679 Warsaw, Poland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang CC",
+            "firstName": "Chuan-Chao",
+            "lastName": "Wang",
+            "initials": "CC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9628-0307"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department for Archaeogenetics, Max Planck Institute for the Science of Human History, 07745 Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang CC",
+            "firstName": "Chuan-Chao",
+            "lastName": "Wang",
+            "initials": "CC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4630-5232"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department for Archaeogenetics, Max Planck Institute for the Science of Human History, 07745 Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Furtw\u00e4ngler A",
+            "firstName": "Anja",
+            "lastName": "Furtw\u00e4ngler",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1171-1655"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Urban C",
+            "firstName": "Christian",
+            "lastName": "Urban",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-9208-7024"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Reiter E",
+            "firstName": "Ella",
+            "lastName": "Reiter",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nieselt K",
+            "firstName": "Kay",
+            "lastName": "Nieselt",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1283-7065"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Integrative Transcriptomics, Center for Bioinformatics, University of T\u00fcbingen, 72076 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Te\u00dfmann B",
+            "firstName": "Barbara",
+            "lastName": "Te\u00dfmann",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Berlin Society of Anthropology, Ethnology and Prehistory, 10997 Berlin, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Francken M",
+            "firstName": "Michael",
+            "lastName": "Francken",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Harvati K",
+            "firstName": "Katerina",
+            "lastName": "Harvati",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "Senckenberg Centre for Human Evolution and Palaeoenvironment, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "DFG Centre for Advanced Studies 'Words, Bones, Genes, Tools: Tracking Linguistic, Cultural and Biological Trajectories of the Human Past', University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Haak W",
+            "firstName": "Wolfgang",
+            "lastName": "Haak",
+            "initials": "W",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2475-2007"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department for Archaeogenetics, Max Planck Institute for the Science of Human History, 07745 Jena, Germany."
+                },
+                {
+                  "affiliation": "School of Biological Sciences, The University of Adelaide, Adelaide, South Australia 5005, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schiffels S",
+            "firstName": "Stephan",
+            "lastName": "Schiffels",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1017-9150"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department for Archaeogenetics, Max Planck Institute for the Science of Human History, 07745 Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krause J",
+            "firstName": "Johannes",
+            "lastName": "Krause",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9144-3920"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "Senckenberg Centre for Human Evolution and Palaeoenvironment, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "Department for Archaeogenetics, Max Planck Institute for the Science of Human History, 07745 Jena, Germany."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5068-8649"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9144-3920"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9628-0307"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1017-9150"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1171-1655"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1283-7065"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6503-2180"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8593-3672"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2475-2007"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4630-5232"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0000-9208-7024"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "volume": "8",
+        "journalIssueId": 2550816,
+        "dateOfPublication": "2017 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2017,
+        "printPublicationDate": "2017-05-01",
+        "journal": {
+          "title": "Nature communications",
+          "medlineAbbreviation": "Nat Commun",
+          "issn": "2041-1723",
+          "essn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        }
+      },
+      "pubYear": "2017",
+      "pageInfo": "15694",
+      "abstractText": "Egypt, located on the isthmus of Africa, is an ideal region to study historical population dynamics due to its geographic location and documented interactions with ancient civilizations in Africa, Asia and Europe. Particularly, in the first millennium BCE Egypt endured foreign domination leading to growing numbers of foreigners living within its borders possibly contributing genetically to the local population. Here we present 90 mitochondrial genomes as well as genome-wide data sets from three individuals obtained from Egyptian mummies. The samples recovered from Middle Egypt span around 1,300 years of ancient Egyptian history from the New Kingdom to the Roman Period. Our analyses reveal that ancient Egyptians shared more ancestry with Near Easterners than present-day Egyptians, who received additional sub-Saharan admixture in more recent times. This analysis establishes ancient Egyptian mummies as a genetic source to study ancient human history and offers the perspective of deciphering Egypt's past at a genome-wide level.",
+      "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cell Nucleus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Mitochondrial",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Anthropology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Population Dynamics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genotype"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phenotype"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Library"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome, Human",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Geography"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Principal Component Analysis"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mummies",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Egypt"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Africa South of the Sahara"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Asia"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Europe"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Mitochondrial",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/ncomms15694"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5459999"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5459999?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "28569824",
+            "source": "MED",
+            "reference": "Nature. 2017 May 31;546(7656):16-17. doi: 10.1038/546016a.",
+            "type": "Comment in",
+            "orderIn": 1
+          },
+          {
+            "id": "28569832",
+            "source": "MED",
+            "reference": "Nature. 2017 May 30;546(7656):17. doi: 10.1038/546017a.",
+            "type": "Comment in",
+            "orderIn": 2
+          },
+          {
+            "id": "28572344",
+            "source": "MED",
+            "reference": "Science. 2017 Jun 2;356(6341):894. doi: 10.1126/science.356.6341.894.",
+            "type": "Comment in",
+            "orderIn": 3
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 95,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "dateOfCompletion": "2018-11-19",
+      "dateOfCreation": "2017-05-31",
+      "firstIndexDate": "2017-05-30",
+      "fullTextReceivedDate": "2020-07-14",
+      "dateOfRevision": "2026-01-27",
+      "electronicPublicationDate": "2017-05-30",
+      "firstPublicationDate": "2017-05-30"
+    },
+    {
+      "id": "35839101",
+      "source": "MED",
+      "pmid": "35839101",
+      "pmcid": "PMC9412968",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC9412968"
+        ]
+      },
+      "doi": "10.1021/acs.chemrev.1c00703",
+      "title": "Paleoproteomics.",
+      "authorString": "Warinner C, Korzow Richter K, Collins MJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Warinner C",
+            "firstName": "Christina",
+            "lastName": "Warinner",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4528-5877"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, Harvard University, Cambridge, Massachusetts 02138, United States."
+                },
+                {
+                  "affiliation": "Department of Archaeogenetics, Max Planck Institute for Evolutionary Anthropology, Leipzig 04103, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Korzow Richter K",
+            "firstName": "Kristine",
+            "lastName": "Korzow Richter",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, Harvard University, Cambridge, Massachusetts 02138, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Collins MJ",
+            "firstName": "Matthew J",
+            "lastName": "Collins",
+            "initials": "MJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4226-5501"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeology, Cambridge University, Cambridge CB2 3DZ, United Kingdom."
+                },
+                {
+                  "affiliation": "Section for Evolutionary Genomics, Globe Institute, University of Copenhagen, Copenhagen 1350, Denmark."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4528-5877"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4226-5501"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "16",
+        "volume": "122",
+        "journalIssueId": 3411591,
+        "dateOfPublication": "2022 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2022,
+        "printPublicationDate": "2022-08-01",
+        "journal": {
+          "title": "Chemical reviews",
+          "medlineAbbreviation": "Chem Rev",
+          "issn": "0009-2665",
+          "essn": "1520-6890",
+          "isoabbreviation": "Chem Rev",
+          "nlmid": "2985134R"
+        }
+      },
+      "pubYear": "2022",
+      "pageInfo": "13401-13446",
+      "abstractText": "Paleoproteomics, the study of ancient proteins, is a rapidly growing field at the intersection of molecular biology, paleontology, archaeology, paleoecology, and history. Paleoproteomics research leverages the longevity and diversity of proteins to explore fundamental questions about the past. While its origins predate the characterization of DNA, it was only with the advent of soft ionization mass spectrometry that the study of ancient proteins became truly feasible. Technological gains over the past 20 years have allowed increasing opportunities to better understand preservation, degradation, and recovery of the rich bioarchive of ancient proteins found in the archaeological and paleontological records. Growing from a handful of studies in the 1990s on individual highly abundant ancient proteins, paleoproteomics today is an expanding field with diverse applications ranging from the taxonomic identification of highly fragmented bones and shells and the phylogenetic resolution of extinct species to the exploration of past cuisines from dental calculus and pottery food crusts and the characterization of past diseases. More broadly, these studies have opened new doors in understanding past human-animal interactions, the reconstruction of past environments and environmental changes, the expansion of the hominin fossil record through large scale screening of nondiagnostic bone fragments, and the phylogenetic resolution of the vertebrate fossil record. Even with these advances, much of the ancient proteomic record still remains unexplored. Here we provide an overview of the history of the field, a summary of the major methods and applications currently in use, and a critical evaluation of current challenges. We conclude by looking to the future, for which innovative solutions and emerging technology will play an important role in enabling us to access the still unexplored \"dark\" proteome, allowing for a fuller understanding of the role ancient proteins can play in the interpretation of the past.",
+      "affiliation": "Department of Anthropology, Harvard University, Cambridge, Massachusetts 02138, United States.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "804884",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "agency": "Max Planck Harvard Center for the Archaeoscience of the Ancient Mediterranean",
+            "orderIn": 0
+          },
+          {
+            "agency": "Max-Planck-Gesellschaft",
+            "orderIn": 0
+          },
+          {
+            "grantId": "804844",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "agency": "Werner Siemens-Stiftung",
+            "orderIn": 0
+          },
+          {
+            "grantId": "787282",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "grantId": "DNRF128",
+            "agency": "Danmarks Grundforskningsfond",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteome"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Proteomics",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Paleontology",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Fossils"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Proteome",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9412968"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1021/acs.chemrev.1c00703"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9412968"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9412968?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 89,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "uniprot",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2022-08-25",
+      "dateOfCreation": "2022-07-15",
+      "firstIndexDate": "2022-07-15",
+      "fullTextReceivedDate": "2022-08-29",
+      "dateOfRevision": "2025-07-28",
+      "electronicPublicationDate": "2022-07-15",
+      "firstPublicationDate": "2022-07-15"
+    },
+    {
+      "id": "32778135",
+      "source": "MED",
+      "pmid": "32778135",
+      "pmcid": "PMC7418204",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7418204"
+        ]
+      },
+      "doi": "10.1186/s13059-020-02112-1",
+      "title": "A seventeenth-century Mycobacterium tuberculosis genome supports a Neolithic emergence of the Mycobacterium tuberculosis complex.",
+      "authorString": "Sabin S, Herbig A, V\u00e5gene \u00c5J, Ahlstr\u00f6m T, Bozovic G, Arcini C, K\u00fchnert D, Bos KI.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sabin S",
+            "firstName": "Susanna",
+            "lastName": "Sabin",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7876-6001"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeogenetics, Max Planck Institute for the Science of Human History, 07745, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Herbig A",
+            "firstName": "Alexander",
+            "lastName": "Herbig",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeogenetics, Max Planck Institute for the Science of Human History, 07745, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "V\u00e5gene \u00c5J",
+            "firstName": "\u00c5shild J",
+            "lastName": "V\u00e5gene",
+            "initials": "\u00c5J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7478-8297"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeogenetics, Max Planck Institute for the Science of Human History, 07745, Jena, Germany."
+                },
+                {
+                  "affiliation": "Present address: Section for Evolutionary Genomics, The GLOBE Institute, University of Copenhagen, 1353, Copenhagen, Denmark."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ahlstr\u00f6m T",
+            "firstName": "Torbj\u00f6rn",
+            "lastName": "Ahlstr\u00f6m",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7468-5979"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeology and Ancient History, Lund University, 221 00, Lund, Sweden."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bozovic G",
+            "firstName": "Gracijela",
+            "lastName": "Bozovic",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2146-8329"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medical Imaging and Clinical Physiology, Sk\u00e5ne University Hospital Lund and Lund University, 221 00, Lund, Sweden."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Arcini C",
+            "firstName": "Caroline",
+            "lastName": "Arcini",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Arkeologerna, National Historical Museum, 226 60, Lund, Sweden."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "K\u00fchnert D",
+            "firstName": "Denise",
+            "lastName": "K\u00fchnert",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5657-018X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Transmission, Infection, Diversification & Evolution Group, Max Planck Institute for the Science of Human History, 07745, Jena, Germany. kuehnert@shh.mpg.de."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bos KI",
+            "firstName": "Kirsten I",
+            "lastName": "Bos",
+            "initials": "KI",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2937-3006"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeogenetics, Max Planck Institute for the Science of Human History, 07745, Jena, Germany. bos@shh.mpg.de."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7468-5979"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2146-8329"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5657-018X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7478-8297"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7876-6001"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2937-3006"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "21",
+        "journalIssueId": 2990762,
+        "dateOfPublication": "2020 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-08-01",
+        "journal": {
+          "title": "Genome biology",
+          "medlineAbbreviation": "Genome Biol",
+          "issn": "1474-7596",
+          "essn": "1474-760X",
+          "isoabbreviation": "Genome Biol",
+          "nlmid": "100960660"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "201",
+      "abstractText": "<h4>Background</h4>Although tuberculosis accounts for the highest mortality from a bacterial infection on a global scale, questions persist regarding its origin. One hypothesis based on modern Mycobacterium tuberculosis complex (MTBC) genomes suggests their most recent common ancestor followed human migrations out of Africa approximately 70,000\u2009years before present. However, studies using ancient genomes as calibration points have yielded much younger dates of less than 6000\u2009years. Here, we aim to address this discrepancy through the analysis of the highest-coverage and highest-quality ancient MTBC genome available to date, reconstructed from a calcified lung nodule of Bishop Peder Winstrup of Lund (b. 1605-d. 1679).<h4>Results</h4>A metagenomic approach for taxonomic classification of whole DNA content permitted the identification of abundant DNA belonging to the human host and the MTBC, with few non-TB bacterial taxa comprising the background. Genomic enrichment enabled the reconstruction of a 141-fold coverage M. tuberculosis genome. In utilizing this high-quality, high-coverage seventeenth-century genome as a calibration point for dating the MTBC, we employed multiple Bayesian tree models, including birth-death models, which allowed us to model pathogen population dynamics and data sampling strategies more realistically than those based on the coalescent.<h4>Conclusions</h4>The results of our metagenomic analysis demonstrate the unique preservation environment calcified nodules provide for DNA. Importantly, we estimate a most recent common ancestor date for the MTBC of between 2190 and 4501 before present and for Lineage 4 of between 929 and 2084 before present using multiple models, confirming a Neolithic emergence for the MTBC.",
+      "affiliation": "Department of Archaeogenetics, Max Planck Institute for the Science of Human History, 07745, Jena, Germany.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "na",
+            "agency": "Erik Philip-S\u00f6rensen Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "na",
+            "agency": "Max-Planck-Gesellschaft",
+            "orderIn": 0
+          },
+          {
+            "grantId": "na",
+            "agency": "Crafoord Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Lung"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mycobacterium tuberculosis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CL",
+                  "qualifierName": "classification",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tuberculosis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "MI",
+                  "qualifierName": "microbiology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bayes Theorem"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Bacterial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, 17th Century"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Africa"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Metagenomics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeography"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mycobacterium tuberculosis",
+          "Tuberculosis",
+          "Ancient DNA",
+          "Metagenomics",
+          "Molecular Dating"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s13059-020-02112-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7418204"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7418204?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR74097",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 65,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2021-07-12",
+      "dateOfCreation": "2020-08-12",
+      "firstIndexDate": "2020-08-12",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2023-11-11",
+      "electronicPublicationDate": "2020-08-10",
+      "firstPublicationDate": "2020-08-10"
+    },
+    {
+      "id": "29300782",
+      "source": "MED",
+      "pmid": "29300782",
+      "pmcid": "PMC5754119",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC5754119"
+        ]
+      },
+      "doi": "10.1371/journal.ppat.1006750",
+      "title": "The paradox of HBV evolution as revealed from a 16th century mummy.",
+      "authorString": "Patterson Ross Z, Klunk J, Fornaciari G, Giuffra V, Duch\u00eane S, Duggan AT, Poinar D, Douglas MW, Eden JS, Holmes EC, Poinar HN.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Patterson Ross Z",
+            "firstName": "Zoe",
+            "lastName": "Patterson Ross",
+            "initials": "Z",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8228-0234"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Marie Bashir Institute for Infectious Diseases and Biosecurity, Charles Perkins Centre, School of Life and Environmental Sciences and Sydney Medical School, The University of Sydney, Sydney, New South Wales, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Klunk J",
+            "firstName": "Jennifer",
+            "lastName": "Klunk",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6521-8516"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "McMaster Ancient DNA Centre, Department of Anthropology, McMaster University, Hamilton, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fornaciari G",
+            "firstName": "Gino",
+            "lastName": "Fornaciari",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1334-1707"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Paleopathology, Department of Translational Research on New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Giuffra V",
+            "firstName": "Valentina",
+            "lastName": "Giuffra",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9108-039X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Paleopathology, Department of Translational Research on New Technologies in Medicine and Surgery, University of Pisa, Pisa, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Duch\u00eane S",
+            "firstName": "Sebastian",
+            "lastName": "Duch\u00eane",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2863-0907"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, Victoria, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Duggan AT",
+            "firstName": "Ana T",
+            "lastName": "Duggan",
+            "initials": "AT",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2582-2954"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "McMaster Ancient DNA Centre, Department of Anthropology, McMaster University, Hamilton, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Poinar D",
+            "firstName": "Debi",
+            "lastName": "Poinar",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "McMaster Ancient DNA Centre, Department of Anthropology, McMaster University, Hamilton, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Douglas MW",
+            "firstName": "Mark W",
+            "lastName": "Douglas",
+            "initials": "MW",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4621-3485"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Storr Liver Centre, The Westmead Institute for Medical Research, The University of Sydney and Westmead Hospital, Westmead, New South Wales, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Eden JS",
+            "firstName": "John-Sebastian",
+            "lastName": "Eden",
+            "initials": "JS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1374-3551"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Marie Bashir Institute for Infectious Diseases and Biosecurity, Charles Perkins Centre, School of Life and Environmental Sciences and Sydney Medical School, The University of Sydney, Sydney, New South Wales, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Holmes EC",
+            "firstName": "Edward C",
+            "lastName": "Holmes",
+            "initials": "EC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9596-3552"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Marie Bashir Institute for Infectious Diseases and Biosecurity, Charles Perkins Centre, School of Life and Environmental Sciences and Sydney Medical School, The University of Sydney, Sydney, New South Wales, Australia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Poinar HN",
+            "firstName": "Hendrik N",
+            "lastName": "Poinar",
+            "initials": "HN",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "McMaster Ancient DNA Centre, Department of Anthropology, McMaster University, Hamilton, ON, Canada."
+                },
+                {
+                  "affiliation": "Michael G. DeGroote Institute for Infectious Disease Research and the Department of Biochemistry, McMaster University, Hamilton, ON, Canada."
+                },
+                {
+                  "affiliation": "Humans and the Microbiome Program, Canadian Institute for Advanced Research, Toronto, ON, Canada."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8228-0234"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9108-039X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9596-3552"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1334-1707"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2582-2954"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2863-0907"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6521-8516"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1374-3551"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4621-3485"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "14",
+        "journalIssueId": 2633896,
+        "dateOfPublication": "2018 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2018,
+        "printPublicationDate": "2018-01-01",
+        "journal": {
+          "title": "PLoS pathogens",
+          "medlineAbbreviation": "PLoS Pathog",
+          "issn": "1553-7366",
+          "essn": "1553-7374",
+          "isoabbreviation": "PLoS Pathog",
+          "nlmid": "101238921"
+        }
+      },
+      "pubYear": "2018",
+      "pageInfo": "e1006750",
+      "abstractText": "Hepatitis B virus (HBV) is a ubiquitous viral pathogen associated with large-scale morbidity and mortality in humans. However, there is considerable uncertainty over the time-scale of its origin and evolution. Initial shotgun data from a mid-16th century Italian child mummy, that was previously paleopathologically identified as having been infected with Variola virus (VARV, the agent of smallpox), showed no DNA reads for VARV yet did for hepatitis B virus (HBV). Previously, electron microscopy provided evidence for the presence of VARV in this sample, although similar analyses conducted here did not reveal any VARV particles. We attempted to enrich and sequence for both VARV and HBV DNA. Although we did not recover any reads identified as VARV, we were successful in reconstructing an HBV genome at 163.8X coverage. Strikingly, both the HBV sequence and that of the associated host mitochondrial DNA displayed a nearly identical cytosine deamination pattern near the termini of DNA fragments, characteristic of an ancient origin. In contrast, phylogenetic analyses revealed a close relationship between the putative ancient virus and contemporary HBV strains (of genotype D), at first suggesting contamination. In addressing this paradox we demonstrate that HBV evolution is characterized by a marked lack of temporal structure. This confounds attempts to use molecular clock-based methods to date the origin of this virus over the time-frame sampled so far, and means that phylogenetic measures alone cannot yet be used to determine HBV sequence authenticity. If genuine, this phylogenetic pattern indicates that the genotypes of HBV diversified long before the 16th century, and enables comparison of potential pathogenic similarities between modern and ancient HBV. These results have important implications for our understanding of the emergence and evolution of this common viral pathogen.",
+      "affiliation": "Marie Bashir Institute for Infectious Diseases and Biosecurity, Charles Perkins Centre, School of Life and Environmental Sciences and Sydney Medical School, The University of Sydney, Sydney, New South Wales, Australia.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "Comparative Study",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "GNT1037231",
+            "agency": "National Health and Medical Research Council",
+            "orderIn": 0
+          },
+          {
+            "grantId": "GNT1065106",
+            "agency": "National Health and Medical Research Council",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hepatitis B virus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "UL",
+                  "qualifierName": "ultrastructure",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Virion",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "UL",
+                  "qualifierName": "ultrastructure",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Microscopy, Electron, Scanning"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Bayes Theorem"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Reproducibility of Results"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sequence Alignment"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Evolution, Molecular"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Base Sequence"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Consensus Sequence"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mutation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Library"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Viral"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Models, Genetic"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mummies",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "VI",
+                  "qualifierName": "virology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Child, Preschool"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Italy"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "High-Throughput Nucleotide Sequencing"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Ancient",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "IP",
+                  "qualifierName": "isolation & purification",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Ancient",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1006750&type=printable"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.ppat.1006750"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5754119"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5754119?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "29425240",
+            "source": "MED",
+            "reference": "PLoS Pathog. 2018 Feb 9;14(2):e1006887. doi: 10.1371/journal.ppat.1006887.",
+            "type": "Erratum in",
+            "orderIn": 1
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 62,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "refseq"
+        ]
+      },
+      "dateOfCompletion": "2018-06-25",
+      "dateOfCreation": "2018-01-05",
+      "firstIndexDate": "2018-01-05",
+      "fullTextReceivedDate": "2020-07-09",
+      "dateOfRevision": "2026-01-27",
+      "electronicPublicationDate": "2018-01-04",
+      "firstPublicationDate": "2018-01-04"
+    },
+    {
+      "id": "31791340",
+      "source": "MED",
+      "pmid": "31791340",
+      "pmcid": "PMC6889691",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6889691"
+        ]
+      },
+      "doi": "10.1186/s12915-019-0724-7",
+      "title": "Unlocking the origins and biology of domestic animals using ancient DNA and paleogenomics.",
+      "authorString": "McHugo GP, Dover MJ, MacHugh DE.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "McHugo GP",
+            "firstName": "Gillian P",
+            "lastName": "McHugo",
+            "initials": "GP",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6920-0041"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dover MJ",
+            "firstName": "Michael J",
+            "lastName": "Dover",
+            "initials": "MJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "MacHugh DE",
+            "firstName": "David E",
+            "lastName": "MacHugh",
+            "initials": "DE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8112-4704"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland. david.machugh@ucd.ie."
+                },
+                {
+                  "affiliation": "UCD Conway Institute of Biomolecular and Biomedical Research, University College Dublin, Dublin, D04 V1W8, Ireland. david.machugh@ucd.ie."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6920-0041"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8112-4704"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "wikipedia",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "17",
+        "journalIssueId": 2887392,
+        "dateOfPublication": "2019 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-12-01",
+        "journal": {
+          "title": "BMC biology",
+          "medlineAbbreviation": "BMC Biol",
+          "issn": "1741-7007",
+          "essn": "1741-7007",
+          "isoabbreviation": "BMC Biol",
+          "nlmid": "101190720"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "98",
+      "abstractText": "Animal domestication has fascinated biologists since Charles Darwin first drew the parallel between evolution via natural selection and human-mediated breeding of livestock and companion animals. In this review we show how studies of ancient DNA from domestic animals and their wild progenitors and congeners have shed new light on the genetic origins of domesticates, and on the process of domestication itself. High-resolution paleogenomic data sets now provide unprecedented opportunities to explore the development of animal agriculture across the world. In addition, functional population genomics studies of domestic and wild animals can deliver comparative information useful for understanding recent human evolution.",
+      "affiliation": "Animal Genomics Laboratory, UCD School of Agriculture and Food Science, University College Dublin, Dublin, D04 V1W8, Ireland.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals, Domestic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Breeding"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genomics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Biological Evolution"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Domestication"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Ancient",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Ancient",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12915-019-0724-7"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6889691"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6889691?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 41,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-05-11",
+      "dateOfCreation": "2019-12-04",
+      "firstIndexDate": "2019-12-04",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2024-07-22",
+      "electronicPublicationDate": "2019-12-02",
+      "firstPublicationDate": "2019-12-02"
+    },
+    {
+      "id": "30191172",
+      "source": "MED",
+      "pmid": "30191172",
+      "pmcid": "PMC6124919",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6124919"
+        ]
+      },
+      "doi": "10.1126/sciadv.aao1262",
+      "title": "Ancient genome-wide analyses infer kinship structure in an Early Medieval Alemannic graveyard.",
+      "authorString": "O'Sullivan N, Posth C, Coia V, Schuenemann VJ, Price TD, Wahl J, Pinhasi R, Zink A, Krause J, Maixner F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "O'Sullivan N",
+            "firstName": "Niall",
+            "lastName": "O'Sullivan",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3840-4292"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Mummy Studies, EURAC Research, Viale Druso 1, 39100 Bolzano, Italy."
+                },
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Kahlaische Strasse 10, 07745 Jena, Germany."
+                },
+                {
+                  "affiliation": "School of Archaeology and Earth Institute, University College Dublin, Belfield, Dublin, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Posth C",
+            "firstName": "Cosimo",
+            "lastName": "Posth",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Kahlaische Strasse 10, 07745 Jena, Germany."
+                },
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, R\u00fcmelinstrasse 23, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Coia V",
+            "firstName": "Valentina",
+            "lastName": "Coia",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4585-2579"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Mummy Studies, EURAC Research, Viale Druso 1, 39100 Bolzano, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Schuenemann VJ",
+            "firstName": "Verena J",
+            "lastName": "Schuenemann",
+            "initials": "VJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8593-3672"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, R\u00fcmelinstrasse 23, 72070 T\u00fcbingen, Germany."
+                },
+                {
+                  "affiliation": "Senckenberg Center for Human Evolution and Paleoecology, Palaeoanthropology, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Price TD",
+            "firstName": "T Douglas",
+            "lastName": "Price",
+            "initials": "TD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Laboratory for Archaeological Chemistry, University of Wisconsin, 1180 Observatory Drive, Madison, WI 53706, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wahl J",
+            "firstName": "Joachim",
+            "lastName": "Wahl",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5733-8905"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Office for Cultural Heritage Management Baden-W\u00fcrttemberg, Osteology, D-78467 Konstanz, Germany."
+                },
+                {
+                  "affiliation": "Institute for Archaeological Sciences, Palaeoanthropology, University of T\u00fcbingen, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pinhasi R",
+            "firstName": "Ron",
+            "lastName": "Pinhasi",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1629-8131"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Archaeology and Earth Institute, University College Dublin, Belfield, Dublin, Ireland."
+                },
+                {
+                  "affiliation": "Department of Anthropology, University of Vienna, Althanstrasse 14, 1090 Vienna, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zink A",
+            "firstName": "Albert",
+            "lastName": "Zink",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1461-747X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Mummy Studies, EURAC Research, Viale Druso 1, 39100 Bolzano, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krause J",
+            "firstName": "Johannes",
+            "lastName": "Krause",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9144-3920"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Kahlaische Strasse 10, 07745 Jena, Germany."
+                },
+                {
+                  "affiliation": "Institute for Archaeological Sciences, University of T\u00fcbingen, R\u00fcmelinstrasse 23, 72070 T\u00fcbingen, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Maixner F",
+            "firstName": "Frank",
+            "lastName": "Maixner",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2846-8994"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Mummy Studies, EURAC Research, Viale Druso 1, 39100 Bolzano, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9144-3920"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1461-747X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3840-4292"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4585-2579"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5733-8905"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8593-3672"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1629-8131"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2846-8994"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "issue": "9",
+        "volume": "4",
+        "journalIssueId": 2724836,
+        "dateOfPublication": "2018 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2018,
+        "printPublicationDate": "2018-09-01",
+        "journal": {
+          "title": "Science advances",
+          "medlineAbbreviation": "Sci Adv",
+          "issn": "2375-2548",
+          "essn": "2375-2548",
+          "isoabbreviation": "Sci Adv",
+          "nlmid": "101653440"
+        }
+      },
+      "pubYear": "2018",
+      "pageInfo": "eaao1262",
+      "abstractText": "From historical and archeological records, it is posited that the European medieval household was a combination of close relatives and recruits. However, this kinship structure has not yet been directly tested at a genomic level on medieval burials. The early 7th century CE burial at Niederstotzingen, discovered in 1962, is the most complete and richest example of Alemannic funerary practice in Germany. Excavations found 13 individuals who were buried with an array of inscribed bridle gear, jewelry, armor, and swords. These artifacts support the view that the individuals had contact with France, northern Italy, and Byzantium. This study analyzed genome-wide sequences recovered from the remains, in tandem with analysis of the archeological context, to reconstruct kinship and the extent of outside contact. Eleven individuals had sufficient DNA preservation to genetically sex them as male and identify nine unique mitochondrial haplotypes and two distinct Y chromosome lineages. Genome-wide analyses were performed on eight individuals to estimate genetic affiliation to modern west Eurasians and genetic kinship at the burial. Five individuals were direct relatives. Three other individuals were not detectably related; two of these showed genomic affinity to southern Europeans. The genetic makeup of the individuals shares no observable pattern with their orientation in the burial or the cultural association of their grave goods, with the five related individuals buried with grave goods associated with three diverse cultural origins. These findings support the idea that not only were kinship and fellowship held in equal regard: Diverse cultural appropriation was practiced among closely related individuals as well.",
+      "affiliation": "Institute for Mummy Studies, EURAC Research, Viale Druso 1, 39100 Bolzano, Italy.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "European Research Council (ERC) starting grant APGREID",
+            "orderIn": 0
+          },
+          {
+            "grantId": "1/40.3, 23.11.2012",
+            "agency": "Provincia Autonoma di Bolzano, grant legge 14 agreement",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "DNA, Mitochondrial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Polymerase Chain Reaction"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Polymorphism, Single Nucleotide"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Medieval"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Germany"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome-Wide Association Study",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Cemeteries"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sex Determination Analysis"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Mitochondrial",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1126/sciadv.aao1262"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6124919"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6124919?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 39,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2019-10-03",
+      "dateOfCreation": "2018-09-08",
+      "firstIndexDate": "2018-09-07",
+      "fullTextReceivedDate": "2020-07-12",
+      "dateOfRevision": "2019-10-07",
+      "electronicPublicationDate": "2018-09-05",
+      "firstPublicationDate": "2018-09-05"
+    }
+  ]
+}

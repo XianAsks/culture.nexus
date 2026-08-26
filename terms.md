@@ -2,7 +2,7 @@
 
 *Technical glossary. Register: `resources.md`. Method: `methods.md`. Markup: `tags.md`.*
 
-Status: rev. 1, 2026-08-23.
+Status: rev. 2, 2026-08-25.
 
 ---
 
@@ -256,6 +256,45 @@ structural analogues.
 - **transmitter / innovator** — the distinction Q8 turns on. A network that carries three religions
   across a continent without altering any of them is transmitting, not innovating; the Sogdian case
   is the type specimen. Conflating the two inflates every contact zone into a creative one.
+- **contingency / convergence** — the paleobiological form of the [[genealogy]]/[[analogy]]
+  distinction. Contingency (Gould) holds that outcomes are path-dependent and history is
+  irreproducible; convergence (Conway Morris) holds that similar constraints independently produce
+  similar solutions. Forty years of argument with a developed sense of what counts as evidence on
+  each side — worth mining for criteria, per `resources.md` §14.5.
+- **analog vs digital channel** — genes copy discretely over a four-letter alphabet with dedicated
+  error correction; culture transmits through perception and re-enactment of continuous signals, so
+  variation is **deformation rather than substitution** and there is no proofreading. Analog does not
+  mean unconstrained: acquisition biases act as strong structural attractors, which is why creoles
+  regularise. The disanalogy to carry, in place of the unsafe "cultural transmission is Lamarckian."
+  See `methods.md` §1.2a.
+- **cultural attractor** — a variant that reconstruction reliably converges on, so that transmission
+  is *transformation toward* it rather than copying of it (Sperber; Claidière & Sperber). The
+  developed form of the analog-channel position, and a direct rival to memetics, which requires
+  faithful replication.
+- **ghost lineage** — a branch inferred to have existed from the pattern of survivors, with no direct
+  record of its own. The textual analogue is a lost recension known only because two surviving
+  witnesses share errors neither could have got from the other.
+- **Signor–Lipps effect** — the last surviving record of something precedes its actual end, because
+  sampling is incomplete; consequently abrupt endings look gradual. Paleobiology's name for a bias
+  this project meets constantly under other names. See [[termination bias]], [[archival silence]].
+- **stemma / phylomemetics** — a stemma is a manuscript copying-tree; phylomemetics is the use of
+  phylogenetic inference to build one. Formally the same problem as reconstructing a species tree
+  from extant taxa, with the same survivorship conditioning — and the same need for *networks* rather
+  than trees where contamination (a scribe using two exemplars) creates reticulation.
+- **frozen accident** — an outcome that was contingent when it happened but became unrevisable once
+  everything downstream came to depend on it. In the Cambrian case, conserved gene-regulatory-network
+  kernels are the standard account of why body plans stopped changing. The reason radiations are rare
+  is not that the conditions are rare but that **the design space stays occupied**.
+- **memoryless (constant hazard)** — a lifetime distribution in which the probability of ending in
+  the next interval does not depend on how long the thing has already lasted; equivalently, an
+  exponential lifespan distribution. Van Valen (1973) argued this for taxa; Arbesman (2011) found it
+  for empires. Its consequence here is deflationary: **age carries no information about fragility**,
+  so "this polity lasted 400 years" is not evidence of robustness, and "they all ended" is not
+  evidence of anything. See [[termination bias]] for what survives the deflation.
+- **termination bias** — the over-representation in the record of phenomena that ended dramatically,
+  because catastrophe generates archives (refugees, polemics, inventories, destruction layers, sealed
+  caves) while continuity generates few. The mirror of [[archival silence]]: one biases downward what
+  was never written, the other biases upward what stopped loudly.
 - **archival silence** — the systematic absence from a record of what the record's makers did not
   write about. Because it is directional rather than random, it cannot be treated as noise: it
   biases every estimate of the silenced phenomenon downward. The household transmission channel is

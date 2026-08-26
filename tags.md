@@ -2,7 +2,7 @@
 
 *Controlled vocabulary and inline markup for the Spirit project. Research frame: `background.md`. Tagged corpus: `resources.md`.*
 
-Status: rev. 2, 2026-08-23.
+Status: rev. 3, 2026-08-25.
 
 ---
 
@@ -121,6 +121,9 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 #e/fringe       Outside scholarly consensus or methodologically unsound; read with care
 #e/devotional   Insider / confessional / self-descriptive — EMIC. Evidence of what a
                 tradition holds, not of what happened.
+#e/heuristic    NOT evidence. A source of hypotheses, framings and questions — fiction,
+                thought experiments, analogies. Generative, never citable in support of
+                a claim. Kept distinct from #e/speculative, which IS a weak factual claim.
 #e/unverified   Not yet checked against the source by us
 ```
 
@@ -129,7 +132,7 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 ### `#f/` — Form
 
 ```
-#f/monograph  #f/article  #f/edited-volume  #f/translation
+#f/article  #f/edited-volume  #f/translation
 #f/manuscript #f/reference #f/dataset  #f/popular  #f/lecture  #f/web
 #f/object     Artefact, image, sculpture, coin, inscription
 ```
@@ -174,6 +177,21 @@ Minimal and greppable; no tooling required.
 ```
 
 The invalid case is instructive. When an item genuinely straddles two `#e/` values, choose the one that governs how you will *use* it. We read Norbu for what the tradition says about itself, so `#e/devotional` governs — and that is the emic/etic discipline doing its work at the level of a single tag.
+
+### 5a. Notes from the 2026-08-25 census
+
+Two findings worth recording, because they change how the facets should be read.
+
+- **`#e/attested` is the unmarked default.** It runs at roughly half of all entries, past the
+  threshold §6 sets for promoting a tag to a heading. But the right reading is not that it should be
+  split: for a bibliography of scholarship, "well-evidenced" *is* the expected value. **The
+  information is in the other seven** — `#e/contested`, `#e/devotional`, `#e/heuristic` and the rest
+  are what discriminate. Treat `#e/attested` as "nothing unusual here."
+- **`#f/` has been largely superseded by the field line.** It appears on under a tenth of entries,
+  because `access:`, `src` and the entry prose already say what kind of object something is. It
+  remains optional and legitimate — `#f/manuscript`, `#f/dataset` and `#f/reference` still earn their
+  place — but it should not be reached for when a `#c/` tag would be more informative. `#f/monograph`
+  was pruned as never used.
 
 ## 6. Maintenance
 

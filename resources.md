@@ -2,7 +2,7 @@
 
 *Topical catalogue of sources. Reasoning: `methods.md`. Questions and findings: `background.md`. Markup: `tags.md`.*
 
-Status: rev. 3, 2026-08-23. Validate with `./validate.sh`.
+Status: rev. 4, 2026-08-25. Validate with `./validate.sh`.
 
 ---
 
@@ -59,7 +59,7 @@ Norbu's *Talks* is oral teaching in an acquired language, transcribed, translate
   `#d/bon #c/rainbow-body #e/primary` · subj claimed pre-7c · Q1 · access: unlocated · [unverified]
 - Dunhuang Tibetan manuscripts (IOL Tib J; Pelliot tibétain) — **the only genuinely 8th–10th c. Tibetan witnesses; the evidentiary floor under every dating claim here.** @dunhuang-tib
   `#d/central-asia #c/contact-route #e/primary` · subj 8–10c · Q6 · access: open (IDP)
-- `gter ma` literature generally — revealed texts attributed to earlier concealment. The sharpest emic/etic problem in Tibetan studies. @terma
+- `gter ma` literature generally — revealed texts attributed to earlier concealment. The sharpest emic/etic problem in Tibetan studies. @terma **A stronger reading follows from `methods.md` §1.2b**: Tibetan transmission requires `lung` and `dbang` — you cannot legitimately pass on what you have not received — which is institutional error-correction of the Vedic type. **Terma is a sanctioned *bypass* of that apparatus**, routing legitimacy through Padmasambhava rather than through living teachers, and so admitting novelty without breaking the chain. Not merely "legitimating innovation by attributing it to the past" but **reopening design space without requiring the institution to collapse** — the H13 mechanism, available from inside.
   `#c/emic-etic #d/nyingma #e/contested` · subj 11c+ (claimed 8c) · Q4 · access: n/a
 
 ? Does the ebook carry a series number, and is it the Sept. 1988 first printing? — **resolved: © 1982, 1st ed. 1st printing Sept 1988.**
@@ -118,12 +118,18 @@ Not one claim but a graded family; typology in `background.md` §4. Only type (a
 
 ### Primary references
 
+- **Type (a): `ring bsrel`** — relics reported in the cremation remains of realized practitioners; `'phags pa'i ring bsrel` for those of an ārya. **The only branch of the typology that leaves physical evidence**, and the one with a genuine Christian counterpart in relic culture and incorruptibility. §8's judgement stands: the relic parallel is less glamorous than the resurrection parallel and probably more real. @ring-bsrel
+  `#c/relics #d/tibetan #e/devotional` · subj 11c– · Q1 Q3 · access: n/a
+- **Type (c): `'ja' lus 'pho ba chen po`, the great transfer** — transformation without passing through death, the adept remaining available; ascribed to Padmasambhava, Vimalamitra, and in Bön to Tapihritsa. **The only branch with a Christian structural analogue** — assumption and translation (Enoch, Elijah), not resurrection — because it skips death, which is exactly what resurrection does not do. The H1 pivot. @great-transfer
+  `#c/great-transfer #r/analogy #e/devotional` · subj 8c– · Q3 H1 · access: n/a
+
+
 - Nyala Pema Dündul (`Nyag bla Padma bdud 'dul`), 1816–1872 — tertön of Nyarong; founded Kalzang Monastery 1860; teacher of Tertön Sogyal; rainbow body in Saga Dawa 1872 with the standard apparatus (rainbows, three earth-tremors, music, spheres of light, fragrance). **Type (b).** Norbu's "master of my master"; the intermediate is Changchub Dorje (d. 1978). @pema-dundul
   `#c/rainbow-body #d/nyingma #e/devotional` · subj 1816–72 · Q1 Q3 · access: n/a
 - Pema Dündul's terma: Guru Amitāyus long-life practice, "Union of Primordial Essences"; plus the cycle Norbu transcribes as **"Dzogchen Kazhag Rangdrol."** @pema-dundul-terma
   `#c/terma #f/manuscript #e/unverified` · subj 19c · Q1 · access: unlocated · chain: Tib→spoken It→En transcription
 - Khenpo A Chö, d. **1998 or 1999**, Kham — the best-documented modern case. @khenpo-acho
-  `#c/rainbow-body #f/object #e/contested` · subj 1998/99 · Q1 · access: n/a
+  `#c/rainbow-body #d/tibetan #e/contested` · subj 1998/99 · Q1 · access: n/a
 
 ### Potential sources
 
@@ -291,6 +297,9 @@ The project's most tractable thread: physical, datable, geographically located. 
   `#d/hellenistic #c/iconography #e/inferred` · subj 1–3c CE · src 2026 · H5 Q2 · access: held · license: unspecified
 - Mackenthun, Tamara C., *Continuity in Iranian Leadership Legitimization: Farr-i Izadi, Shi'ism, and…* (Boise State thesis, 2009) — traces *farr* across a very long span. A thesis, and the continuity claim is ambitious; orientation, not authority. @mackenthun-2009
   `#d/iranian #c/glory #e/inferred` · subj 1200 BCE–20c · src 2009 · H5 · access: held · license: unspecified
+
+- **Ravenna** — San Vitale and Sant'Apollinare Nuovo; 6th-c. mosaic programmes executed in Italy under Byzantine patronage. **A documented instance of the artisan channel**: technique and workshop practice moving with craftsmen between Constantinople and the Exarchate. The nearest well-evidenced European analogue to the Gandhāran case, and reached via the *Sarantine Mosaic* lead (§14.4). @ravenna
+  `#c/iconography #d/orthodox #e/attested` · subj 6c CE · H8 H5 · access: open (images) · [unverified]
 
 ? Does any Tibetan visual convention for the rainbow body descend from this complex, or is it independent? Tibetan nimbus conventions arrive via India and Central Asia, so the *image* has a traceable route even where the *doctrine* does not — a direct test of the §5 method caution.
 
@@ -511,11 +520,76 @@ Serves H8 and H9. The linguistic literature supplies both the mechanism and a me
 - Florentine banking diaspora (Bardi, Peruzzi, Medici branches at London, Bruges, Avignon, Lyon) and the Council of Ferrara-Florence 1438–39 → Gemistos Plethon → Ficino. **Florence's contact runs outward and arrives late and elite** — the evidence behind H9's *diaspora-return* type. @florence-contact
   `#c/nexus #r/analogy #e/inferred` · subj 13–15c · Q8a H9 · access: library · [unverified]
 
+- **Schafer, Edward H., *The Golden Peaches of Samarkand: A Study of T'ang Exotics* (1963)** — a catalogue of what actually moved into Tang China: goods, plants, animals, drugs, textiles, people. **The market-channel evidence base for the best-documented East Asian nexus**, and directly comparable to Begram in kind. Reached via the *Under Heaven* lead (§14.4). @schafer-1963
+  `#d/central-asia #c/material-culture #e/attested` · subj 7–9c · src 1963 · Q8a H8 · access: library · [unverified]
+- **Tang Chang'an** as a comparison case — Buddhism, Nestorian Christianity, Manichaeism and Zoroastrianism all institutionally present; Chan emerges as a genuine synthesis; and the **Huichang persecution of 845 closes it**. A positive case with a datable termination, which few of the others have. @changan
+  `#c/nexus #d/chan #e/attested` · subj 7–9c · Q8a Q6 · access: library · [unverified]
+- **al-Andalus** as a comparison case — the three-faith society, and the Greek→Arabic→Latin translation movement that carried philosophy across a religious boundary. A test for H7: doctrine *and* method crossed here, which the institutional-freeze reading has to accommodate. @al-andalus
+  `#c/nexus #r/genealogy #e/contested` · subj 8–13c · Q8a H7 · access: library · [unverified]
+- Nirenberg, David, *Communities of Violence* (1996) — argues that coexistence and systematic violence in medieval Iberia were **one system, not alternatives**. The corrective to any harmonised reading of *convivencia*, and a warning that "generative contact zone" may describe places that were also extremely violent. @nirenberg-1996
+  `#c/nexus #r/deflation #e/attested` · subj 13–14c · src 1996 · Q8a · access: library · [unverified]
+
+- **Van Valen, Leigh, "A New Evolutionary Law," *Evolutionary Theory* 1 (1973)** — log-linear taxonomic survivorship curves implying extinction probability essentially independent of age. The origin of the memorylessness claim; contested, with age-dependence counterexamples in later paleobiology. @vanvalen-1973
+  `#c/nexus #d/method #e/contested` · subj n/a · src 1973 · Q8a H10 · access: open · [unverified]
+- **Arbesman, Samuel, "The Life-Spans of Empires," *Historical Methods* 44:3 (2011)** — tests the claim directly on polities: N = 41 empires over three millennia, lifespans fitting a **memoryless exponential distribution**, collapse rate independent of age. **The load-bearing citation for H10**, and the reason "they all ended" cannot be treated as informative. Small N. @arbesman-2011
+  `#c/nexus #d/method #e/attested` · subj 3000 BCE–2000 CE · src 2011 · Q8a H10 · access: open (PDF)
+- **Norse–English contact and the Danelaw** — borrowing of the third-person plural pronouns (*they, them, their*) alongside core vocabulary and place-name elements. Pronoun borrowing sits near the top of the Thomason–Kaufman intensity scale: **the clearest available signature of household-level fusion**, and the comparison class's only *non-terminated* case. @norse-english
+  `#c/loanword #r/genealogy #e/attested` · subj 865–1100 · Q8a H8 · access: library · [unverified]
+- Kay, Guy Gavriel, *The Last Light of the Sun* (2004) — Norse, Anglo-Saxon and Celtic Britain. The lead that surfaced the Danelaw as Q8a's missing case. @kay-lastlight
+  `#c/nexus #d/method #e/heuristic` · subj 9–10c · src 2004 · Q8a · access: purchase
+
 ? **What did Dunhuang's co-presence actually produce?** The project needs this answer twice over —
 for Q8a as the negative case, and for §10, where the contact argument depends on it. If Dunhuang
 held Manichaeans, Church-of-the-East monks, Tibetan administrators and Chan translators in one oasis
 for sixty years and produced no doctrinal synthesis, that is strong evidence for H7 and a serious
 problem for H2.
+
+### 11.5 Eco-evolutionary analogies (heuristic only)
+
+Everything here is tagged `#e/heuristic`: real scholarship, used analogically, establishing **nothing
+about culture**. The `#e/` facet records *use*, not quality. Importing population-biology models into
+cultural history has a poor record — social Darwinism, crude memetics — and the specific disanalogies
+are severe: cultural transmission is Lamarckian (acquired traits inherit), heavily horizontal, and
+intentional. Treated as sources of questions, they are nonetheless unusually well matched to Q8.
+
+**Mapped to the right hypotheses**, which are not all the same one:
+
+- **Gould, Stephen Jay, *Wonderful Life* (1989)** — maximal *disparity* early, decimation after, and survival as substantially **contingent**. **The contingency claim must be split**: it governs *how* a radiation resolved — which lineages won, when — far more than *whether* one occurred. So it maps onto **Q8b** (which of many syntheses propagated is contingent) and **not** onto whether a zone is generative at all, which is structural. My earlier mapping onto H10 conflated the two. @gould-1989
+  `#c/nexus #d/method #e/heuristic` · subj 505 Ma · src 1989 · H10 Q8b · access: purchase · [unverified]
+- **Conway Morris, Simon, *Life's Solution: Inevitable Humans in a Lonely Universe* (2003)** — the direct rebuttal: **convergence, not contingency**, is the hallmark of evolutionary history; replay the tape and you get similar outcomes because the adaptive space is constrained. @conwaymorris-2003
+  `#c/nexus #r/deflation #e/heuristic` · subj 505 Ma– · src 2003 · Q8a · access: purchase · against: @gould-1989 · [unverified]
+- **May, Robert M., "Will a Large Complex System Be Stable?" *Nature* 238 (1972)** — in *random*-interaction models, increasing diversity and connectance destabilises. **Best used here as a null model, not an analogue.** Its value in ecology was never that real systems behave this way — the diversity–stability paradox is that they often do not — but that it forces you to say what structure real systems have that random ones lack. Transposed, the useful question is not "does plurality destabilise polities" but **"what structure does a persistent plural polity have that a random one would not?"** @may-1972
+  `#c/nexus #d/method #e/heuristic` · subj n/a · src 1972 · Q8a · access: open · [unverified]
+- **Intermediate disturbance hypothesis** (Connell 1978 and successors) — diversity peaks at *intermediate* disturbance: too little and competitive exclusion sets in, too much and only pioneers persist. The analogue behind **H11**. @connell-1978
+  `#c/nexus #d/method #e/heuristic` · subj n/a · src 1978 · Q8a H12 · access: library · [unverified]
+- Van Valen (1973) and the Red Queen — already entered at §11.4 for H10; the constant-hazard result belongs to this family. @vanvalen-1973
+  `#c/nexus #r/analogy #e/heuristic` · src 1973 · H10 · access: open
+
+- **Cambrian drivers — the ecological question, not the contingency one.** Current accounts combine (i) **unoccupied ecospace**, where limited species interaction let poorly-optimised body plans briefly persist; (ii) **predation and escalation**, the origin of durophagy and motile predators driving biomineralisation and defence; and (iii) **developmental innovation** in gene regulatory networks. The consolidation afterwards is the part that matters most here: **conservation of lineage-specific GRN kernels** is the standard explanation for why body plans froze and disparity never recurred. @cambrian-drivers
+  `#c/nexus #d/method #e/heuristic` · subj 540–485 Ma · Q8a H12 H13 · access: open · [unverified]
+- **Sperber, Dan, *Explaining Culture* (1996); Claidière & Sperber, "What are cultural attractors?"** — cultural attraction theory: transmission is **transformation rather than replication**, and distributions are shaped by attractors — variants that reconstruction reliably converges on. **Explicitly criticises the faithful-transmission assumption memetics requires.** The developed scholarly form of the analog-channel position (`methods.md` §1.2a). @sperber-attractors
+  `#c/loanword #r/deflation #e/attested` · src 1996, 2017 · Q7 H8 · access: open · [unverified]
+- **Vedic *vikṛti pāṭha*** — *krama*, *jaṭā*, *ghana* and the other permutation recitations: **literal error-detecting codes**, redundancy purchased at high training cost by a tradition needing centuries of fidelity without writing. The extreme confirming case for `methods.md` §1.2b. @vedic-patha
+  `#d/nikaya #c/translation-layer #e/attested` · subj 1000 BCE– · Q7 H7 · access: library · [unverified]
+
+- **Virulence–transmission tradeoff** — who bears the cost of a parasite's reproduction is frequency-dependent; high virulence damages the host population and feeds back as a cost to the parasite. **Transposed to culture it does not work, and H14 has been reformulated without it.** Two failures: (i) parasite virulence is a *byproduct* of within-host replication, whereas a doctrine's demands may be its content rather than a side-effect of spreading; (ii) the sign is wrong — see @iannaccone-1994. Retained as a worked example of an analogy that looked apt and was not. @virulence-tradeoff
+  `#c/nexus #r/deflation #e/heuristic` · subj n/a · Q2 H14 · access: library · [unverified]
+- **Iannaccone, Laurence R., "Why Strict Churches Are Strong," *American Journal of Sociology* 99:5 (1994), 1180–1211**; and "Sacrifice and Stigma," *JPE* 100:2 (1992) — costly demands **screen out free-riders and raise participation among those who remain**, so strictness makes groups stronger. Directly contradicts the naive reading in which demand caps spread. @iannaccone-1994
+  `#c/nexus #r/deflation #e/attested` · subj 20c · src 1992, 1994 · H14 · access: open · [unverified]
+- **The Shakers** — mandatory celibacy left growth dependent entirely on conversion and adoption; peak membership around 6,000 in the 1840s, now effectively extinct. **The extinction branch of H14**, and a case where demands were *not* moderated. Also xian's correction that the cap can be biological, not merely social. @shakers
+  `#c/nexus #d/christian #e/attested` · subj 1770–present · H14 · access: library · [unverified]
+- **Network effects and scale economies** — the right frame for "a common doctrine has infrastructure that amortises cost," which is economics rather than epidemiology. Demand-side network effects (a shared vocabulary is worth more the more people hold it) and supply-side scale economies (schools, copied texts) are distinct mechanisms and should not be merged. @network-effects
+  `#c/nexus #d/method #e/heuristic` · subj n/a · H14 · access: library · [unverified]
+
+**The debate is a pre-run of this project's own.** Gould's contingency and Conway Morris's
+convergence are, structurally, H10 versus the Q8a preconditions programme: is generativity a lucky
+draw, or does it follow reliably from conditions? That argument has run in paleobiology for
+thirty-five years without resolution, on a far better evidentiary base than Q8a will ever have —
+which is a sobering estimate of how tractable Q8a is, and an argument for prioritising Q8b.
+
+→ **A cross-link back to the main inquiry.** Conway Morris's convergence is the biological form of
+this project's deflator 4: similar conditions independently producing similar outcomes, no contact
+required. The nexus programme and the Dzogchen inquiry turn out to share an opponent.
 
 ---
 
@@ -574,6 +648,8 @@ move made by a different tradition for different reasons.
   `#d/christian #c/historical-jesus #e/attested` · subj 1c CE · src 1985, 1993 · Q4 · access: purchase · [unverified]
 - Allison, Dale C., *Constructing Jesus* (2010) — on memory, and on how much of the reconstruction the sources can actually bear. @allison-2010
   `#d/christian #c/historical-jesus #e/attested` · subj 1c CE · src 2010 · Q4 · access: purchase · [unverified]
+- **Realized versus consistent eschatology** — C. H. Dodd argued the kingdom is *already present* in Jesus's proclamation; Schweitzer that it is imminent and future. The current majority position resolves them as inaugurated eschatology, holding both in tension. **This is the axis on which the "primacy of the present moment" question turns** (Q3): the parallel to Buddhist framings of awakening is available on the realized reading and largely disappears on the consistent one. @eschatology-debate
+  `#d/christian #c/historical-jesus #e/contested` · subj 1c CE · src 1935– · Q3 · access: library · [unverified]
 - Crossan, J. D., *The Historical Jesus* (1991); Mack, Burton, *A Myth of Innocence* (1988) — the Cynic-sage reconstruction: itinerant, propertyless, aphoristic. **Contested**, and its premise of a thoroughly Hellenized Galilee is disputed by Meyers and others. Included as the live alternative to the apocalyptic reading. @crossan-mack
   `#d/christian #c/historical-jesus #e/contested` · subj 1c CE · src 1988, 1991 · Q4 · access: purchase · against: @sanders · [unverified]
 - Sepphoris and Tiberias — the archaeology of Hellenized Galilee. Material rather than textual evidence for the milieu. @galilee-archaeology
@@ -675,6 +751,396 @@ Protocol in `methods.md` §3. Sources only here.
 - Tucci, Giuseppe, and the IsMEO milieu in Naples — Norbu's institutional context, and a case where scholarship and its political setting are hard to separate. @tucci
   `#d/tibetan #c/emic-etic #e/inferred` · subj 1930–80 · Q5 · access: library · [unverified]
 
+### 14.4 Fiction as heuristic, and framing capture
+
+Fiction is not evidence about the past and is tagged `#e/heuristic` — generative, never citable. It
+belongs in §14 rather than a topical section because its relevance here is as a **transmission vector
+into the researcher**: it shapes the questions before the sources do.
+
+**Guy Gavriel Kay** writes historical fantasy by a consistent method: deep research into a period,
+then displacement into a secondary world with names changed and, in his phrase, a quarter turn to the
+fantastic. The method is more interesting than the genre label suggests, because **the displacement
+is itself an epistemic marker.** By declining to name Justinian, Kay signals that what follows is
+interpretation and not reconstruction — the same job the `#e/` facet performs in this register. A
+useful model of *disciplined imagination*: imagination that flags itself as such.
+
+- Kay, Guy Gavriel, *The Sarantine Mosaic* (*Sailing to Sarantium*, 1998; *Lord of Emperors*, 2000) — Justinianic Byzantium. **Its protagonist is a mosaicist**, and the books are substantially about craft, patronage, and an artisan's-eye view of empire. Closest of his works to this project: the market/workshop channel of H8, seen from inside. @kay-sarantine
+  `#c/iconography #d/method #e/heuristic` · subj 6c CE · src 1998–2000 · H8 Q8 · access: purchase
+- ——, *Under Heaven* (2010) — Tang China around the An Shi rebellion. **Produced a real lead**: the Huichang persecution of 845, now the fourth leg of `background.md` §7's 840s convergence. @kay-underheaven
+  `#d/chan #c/contact-route #e/heuristic` · subj 8c CE · src 2010 · Q6 Q8 · access: purchase
+- ——, *The Lions of Al-Rassan* (1995) — al-Andalus in the era of El Cid. Points at *convivencia* as a Q8 comparison case, and at the fact that its harmonious reading is contested. @kay-alrassan
+  `#c/nexus #d/method #e/heuristic` · subj 11c · src 1995 · Q8a · access: purchase
+- ——, *Tigana* (1990) — Renaissance Italy, and centrally about the **deliberate erasure of a conquered people's name from memory**. A dramatisation of transmission *failure*: §14's subject from the other side, and adjacent to the suppression question in Q4. @kay-tigana
+  `#c/translation-layer #d/method #e/heuristic` · subj 15–16c · src 1990 · Q4 · access: purchase
+- ——, *Children of Earth and Sky* (2016), *A Brightness Long Ago* (2019), *All the Seas of the World* (2022) — the Renaissance Adriatic and Mediterranean; Venice, Dubrovnik, the Ottoman frontier. A further Q8 comparison zone. @kay-adriatic
+  `#c/nexus #d/method #e/heuristic` · subj 15–16c · src 2016–22 · Q8a · access: purchase
+
+**Assessment.** Three risks; the third is the live one.
+
+1. *Invented interiority.* Kay's rendering of how people experienced these worlds is fiction. The
+   temptation is to let emotional plausibility substitute for evidence about experience — exactly the
+   substitution the emic/etic discipline exists to block.
+2. *Harmonisation.* His contact societies tend to be more convivial than the scholarship supports.
+   The *convivencia* of al-Andalus is contested; Nirenberg's *Communities of Violence* argues that
+   coexistence and systematic violence were not alternatives but one system.
+3. *A positive-only sample.* Not a belief that fusion is normal — the working expectation is the
+   opposite, that it is exceptional, which is precisely what makes Q8a worth asking. The real hazard
+   is narrower and structural: **Kay writes only about cases where something happened.** He will
+   never set a novel in a busy entrepôt where nothing came of it. So his corpus is a non-random
+   sample containing positives and no negatives — the same fault as sampling on the dependent
+   variable (`methods.md` §6, deflator 7), arriving by a different route. The influence is stated and
+   predates the project, so the correction is not "read him later" but to treat the corpus as what it
+   is: **a list of nominations, not of conclusions.**
+
+**The productive use follows from that.** Kay's selection criterion is narrower and better than
+"moments where cultures met interestingly": he picks **inflection points that left observable
+long-range impacts on multiple subsequent cultural lineages**. Several of his locales recur in
+Spinney's *Proto*, which is a weak independent check that the selection tracks something real. That
+criterion is much closer to **Q8b** — downstream traceability — than to Q8a, which makes his corpus a
+nomination list for the *tractable* half of Q8. So: **take his settings as candidate exceptional cases, then ask of each what
+the exception consisted in, and test against the negative class.** Nominations to be checked, which
+is exactly what `#e/heuristic` licenses.
+
+**And his selection has a pattern worth naming.** Justinian's Byzantium amid plague and imperial
+overreach; Tang at the An Shi rebellion; al-Rassan in the taifa period on the eve of the Reconquista;
+Arbonne before the Albigensian Crusade; *Tigana* after conquest, about erasure; the Adriatic after
+1453. **He does not write about fusion happening — he writes about fusion at the moment it is about
+to be destroyed.** That is a novelist's choice of register, but it has an analytic consequence for
+Q8a, developed in `background.md` §5.3: our case list may over-represent fusions that *ended*.
+
+→ Kay's value is real and lies in question-generation, not evidence. The *Under Heaven* → Huichang
+845 chain is the argument for the category: a novel pointed at a persecution edict that tightened a
+dating argument. That is what `#e/heuristic` is for.
+
+### 14.5 Cross-domain analogy: eco-evolutionary imports
+
+Tagged `#e/heuristic` for the same reason fiction is. **Importing evolutionary logic into cultural
+history has a poor track record** — social Darwinism, and memetics' thin yield — because the two
+domains differ where it matters: cultural transmission is Lamarckian, horizontal at will, blending,
+and intentional. These are analogies for generating questions, and are fenced accordingly.
+
+**One distinction the register must keep sharp.** @arbesman-2011 is *not* an analogy: he measured
+polity lifespans directly and found them memoryless. @vanvalen-1973 is its biological origin, and the
+Cambrian material below is analogy only. Same intellectual neighbourhood, three different epistemic
+statuses — which is the `#e/` facet doing exactly the work it exists for.
+
+- **Gould, Stephen Jay, *Wonderful Life: The Burgess Shale and the Nature of History* (1989)** — Cambrian disparity and the contingency thesis: replay the tape and you get a different world. @gould-1989
+  `#c/nexus #d/method #e/heuristic` · subj 538–515 Ma · src 1989 · Q7 Q8a · access: purchase · [unverified]
+- Conway Morris, Simon — the standing reply: convergence is pervasive, and similar solutions recur independently under similar constraints. @conwaymorris
+  `#d/method #r/deflation #e/heuristic` · src 1998– · Q7 · access: library · [unverified]
+- Carroll, Sean B., *Endless Forms Most Beautiful* (2005) — evo-devo and Cambrian body plans; the other candidate referent for the flagged citation. @carroll-2005
+  `#d/method #c/material-culture #e/heuristic` · src 2005 · Q8a · access: purchase · [unverified]
+
+? **Bibliographic**: the source was given as Dawkins, *A Beautiful Life*. No such Dawkins title was
+found. Gould's *Wonderful Life* is the likely referent given the Cambrian context; Carroll is the
+alternative. → Confirm which.
+
+**Three imports, in ascending order of usefulness.**
+
+1. *Weak incumbency permits innovation.* Cambrian disparity arose while ecospace was largely
+   unoccupied and incumbents few; as ecosystems filled, body-plan innovation was constrained. A
+   structural analogue to H7 — innovation where boundary-maintenance is weak — and to explanation
+   (c) in §5.3, since low incumbency is also low defence.
+2. **Gould versus Conway Morris is Q7 in another domain.** Contingency (history matters; outcomes
+   are path-dependent) against convergence (similar constraints produce similar solutions
+   independently) **is the genealogy/analogy distinction**, argued for forty years with a developed
+   sense of what counts as evidence on each side. The project should mine that debate for its
+   *criteria*, not its conclusions.
+3. *Innovation follows incumbency collapse, with a lag* — developed as **H13**, and it bears
+   directly on the Dzogchen dating obstacle. See `background.md` §7.
+
+### 14.5 Oral transmission regimes — who pays for error correction
+
+Serves H7 via `methods.md` §1.2b. Vedic and Homeric epic solve the same analog-channel problem by
+**opposite strategies**, and their diffusion histories differ accordingly.
+
+- **Parry, Milman**, *The Making of Homeric Verse* (1971); **Lord, Albert B., *The Singer of Tales* (1960)** — oral-formulaic composition: metrically-fitted formulae, type-scenes and story-patterns as a *generator* rather than a stored text; the South Slavic *guslari* fieldwork showing the song stable while the text varied between performances. **Contested** — hard vs soft Parryists, revived neoanalysis, Kullmann arguing for literate composition. @parry-lord
+  `#c/lineage-narrative #d/hellenistic #e/contested` · subj 8c BCE / 1930s · src 1960, 1971 · H7 · access: library · [unverified]
+- **Alexandrian textual scholarship** — Zenodotus (first librarian, c. 284–260 BCE) marking suspect lines with the *obelos*; Aristarchus of Samothrace (head librarian 216–144 BCE) developing the fuller sign system with *hypomnemata* justifying each judgement, preserved in Venetus A. **The first genuine error-correction apparatus for Homer, and it is philological rather than priestly.** Built at the nexus (§11). @alexandrian-editors
+  `#d/hellenistic #c/canon-formation #e/attested` · subj 3–2c BCE · Q8b H7 · access: open · [unverified]
+- Nagy, Gregory — the evolutionary model of Homeric textual fixation: progressive stabilisation through performance over centuries rather than a single dictation event. @nagy
+  `#d/hellenistic #c/canon-formation #e/contested` · subj 8–2c BCE · Q8b · access: library · [unverified]
+
+**The finding.** Error-correction regimes are **historically contingent, and the same material can
+pass between them** — for Homer: singer → polis → library, with *correct* meaning successively "scans
+and satisfies," "fits the agreed sequence," and "matches the best manuscripts." So which side of the
+technique/doctrine line a tradition falls on is not a fact about the material. It is a question about
+**which regime is currently paying**, and that changes.
+
+### 14.5a Terma as a gated channel — and why the reading depends on where you stand
+
+I called terma "a sanctioned form of the counterfeiting failure." **xian's correction — that the
+pathway is gated by prior social standing, and so is honest signalling rather than an open
+vulnerability — is better supported.** The apparatus:
+
+- **Tertöns are prophesied and are held to be rebirths of Padmasambhava's disciples.** The channel is
+  not open to all comers; it requires a prior recognition obtained through the ordinary route.
+  **The exception is credentialled by the rule.**
+- **Community authentication is central, not incidental.** Doctor's study is precisely about "the
+  crucial role of religious communities in the construction and authentication of revelation," and
+  about the polemics that surrounded it.
+- **The signal has an unusual structure.** The yellow scroll (`shog ser`) in ḍākinī script is held to
+  be decipherable *only* by the tertön it belongs to. So the object cannot be independently checked —
+  it is a **non-transferable, third-party-unverifiable** token. That is the exact inverse of the Vedic
+  case, where verification is public and any competent listener can perform it. When the signal itself
+  cannot be checked, the burden falls back onto costly prior investment — years of training and
+  recognition — which is the standard honest-signalling solution.
+
+**Two things complicate it, and both are worth keeping.**
+
+1. **Causality runs both ways.** Successful revelation *confers* standing as well as requiring it —
+   Nyala Pema Dündul's stature was built partly on his treasures (§3.3). So the gate is softer than a
+   pure prior-credential model: standing → revelation → more standing is a feedback loop, and a
+   self-reinforcing one.
+2. **The gate held inside Nyingma and not across schools.** Sakya Paṇḍita attacked Nyingma revelation
+   as fabricated tantra in *A Clear Differentiation of the Three Codes*. So the authentication was
+   **school-relative**.
+
+→ **Which dissolves the disagreement between the two readings.** *Within* the school, terma is honest
+signalling gated by credentials. *From outside*, it reads exactly as the counterfeiting failure mode,
+because the outsider cannot verify the token and does not accept the credential that substitutes for
+it. Both readings are correct from their respective positions — and **that an error-correction
+regime's authority stops at the school boundary is H7 appearing precisely where H7 predicts it.**
+
+- **Doctor, Andreas, *Tibetan Treasure Literature: Revelation, Tradition, and Accomplishment in Visionary Buddhism* (Snow Lion, 2005)** — the authentication question head-on: how a community decides whether a revealed text is Buddha Word. **The single best source for testing xian's gating hypothesis.** @doctor-2005
+  `#c/terma #d/nyingma #e/attested` · subj 11–19c · src 2005 · Q5 H7 · access: purchase · [unverified]
+- **Gyatso, Janet, "The Logic of Legitimation in the Tibetan Treasure Tradition," *History of Religions* (1993)**; and *Apparitions of the Self* (1998) on Jigme Lingpa. The foundational analysis of legitimation strategy. @gyatso-1993
+  `#c/lineage-narrative #d/nyingma #e/attested` · subj 14–18c · src 1993, 1998 · Q4 Q5 · access: library · [unverified]
+- **Sakya Paṇḍita, *sDom gsum rab dbye* (A Clear Differentiation of the Three Codes)**, 13th c. — attacks Nyingma revelation as fabricated. **A hostile witness, and therefore evidence that the authentication was contested at the time** rather than uniformly accepted. @sakya-pandita
+  `#d/tibetan #r/deflation #e/primary` · subj 13c · Q5 H7 · access: library · [unverified]
+- Mayer, Robert, & Cathy Cantwell — work on the Nyingma treasure tradition and its textual practices. @mayer-cantwell
+  `#c/terma #d/nyingma #e/attested` · subj 8–19c · access: library · [unverified]
+
+? **Does the terma mechanism appear only in traditions with strong chain-of-transmission
+requirements?** If revelation-bypass is a response to expensive lineage-based error-correction, it
+should not appear where transmission is cheap. **Bön having its own treasure tradition is the first
+check** — Bön also uses lineage transmission, so it is a confirming case rather than a test. A real
+test needs a tradition with *weak* chain requirements and no revelation-bypass, or a strong-chain
+tradition that never developed one. Chan is the obvious candidate: transmission is explicitly
+person-to-person, so does anything play terma's role there?
+
+### 14.5b The Latter-day Saint parallel — a well-lit instance of the same mechanism
+
+xian's observation, and **it is an established scholarly comparison**: "The Production of the Book of
+Mormon in Light of a Tibetan Buddhist Parallel," *Dialogue* (2022). It surfaced in this project's own
+`13-terma` query and was not followed up at the time.
+
+**The structural correspondence is close.**
+
+| Feature | Terma | Book of Mormon |
+|---|---|---|
+| Concealment narrative | Padmasambhava conceals for a prophesied revealer | Moroni buries the plates for a prophesied translator |
+| Token | yellow scroll (`shog ser`) | golden plates |
+| Decoding capacity | ḍākinī script, legible only to the destined tertön | "reformed Egyptian," via seer stone / Urim and Thummim |
+| Token afterwards | often reconcealed or consumed | returned to the angel |
+| Substitute verification | certification by established masters | the Three and Eight Witnesses' statements, printed in the book |
+| External verdict | rejected by Sakya Paṇḍita as fabricated tantra | rejected by mainstream Christianity |
+
+**The disanalogy is the informative part.** In the Tibetan case the credential *precedes* the
+revelation — the tertön is prophesied and recognised, so the bypass is licensed by an existing
+institution. Joseph Smith had **no prior standing to be gated by**: the credential *follows* the
+revelation, which constitutes the institution rather than drawing on it.
+
+→ **So the LDS case is a natural experiment on the gating hypothesis.** If gating by prior standing
+were *necessary*, Smith should have failed. He did not. Gating is therefore a **sufficient** solution
+to the unverifiable-token problem, not a necessary one — and the alternative is visible in what Smith
+actually did: **substitute witness testimony and rapid community formation for prior credentials.**
+The Witnesses' statements are a manufactured signal built to replace an absent one, which is the
+Akerlof remedy — certification — improvised on the spot.
+
+Both cases then confirm Doctor's central claim: **the community does the authenticating.** Terma
+routes that through prior individual credentials; Smith routed it through witnesses and fast group
+formation. Two paths to one function.
+
+**Why this is worth more to the project than a curiosity.** The Tibetan case is visible only through
+hagiography written long afterwards. The LDS case is **documented to a standard the project almost
+never gets**: contemporary newspapers, court records, affidavits, hostile witnesses, competing
+accounts by participants. For an inquiry that keeps running into archival silence (`methods.md` §7.1),
+a well-lit instance of a mechanism otherwise seen only through devotional sources is a genuine
+instrument — the modern case can be used to ask what the ancient sources would have looked like had
+anyone been taking notes.
+
+- **"The Production of the Book of Mormon in Light of a Tibetan Buddhist Parallel," *Dialogue: A Journal of Mormon Thought* 55:4 (2022)** — the comparison already made in print. @bom-terma-2022
+  `#c/terma #r/analogy #e/contested` · subj 8–19c · src 2022 · Q5 H7 · access: WANTED — closed · doi 10.5406/15549399.55.4.02
+- The Testimony of the Three Witnesses and of the Eight Witnesses, printed in the *Book of Mormon* (1830) — **a manufactured certification signal**, and a primary document of the substitute-verification strategy. @bom-witnesses
+  `#d/christian #c/canon-formation #e/primary` · subj 1829–30 · H7 · access: open
+- Bushman, Richard, *Joseph Smith: Rough Stone Rolling* (2005) — the standard scholarly biography; a believing historian writing critically, which makes it also a case study for `methods.md` §2.3 on insider/outsider versus emic/etic. @bushman-2005
+  `#d/christian #c/emic-etic #e/attested` · subj 1805–44 · src 2005 · Q5 · access: purchase · [unverified]
+- "Political Rivalry and Doctrinal Debates: A Modern Tibetan Response to the Controversy of Buddhist Revelation" (2017) — terma controversy in a modern setting. @tibetan-revelation-2017
+  `#c/terma #r/deflation #e/contested` · subj 20c · src 2017 · Q5 · access: WANTED — closed
+
+### 14.6 The Christian sequence — canon, scriptorium, pecia, press
+
+The same "who pays" question run through a second tradition, and it separates **two layers that
+§14.5 ran together**: *canon* decides which replicators are admitted; *copying* decides fidelity per
+replicator. They have different payers, different failure modes, and different histories.
+
+**Layer 1 — canon as admission control.** Marcion's canon (c. 144) as provocation; Irenaeus arguing
+for exactly four gospels; Eusebius sorting *homologoumena*, *antilegomena*, *notha*; Athanasius's
+39th Festal Letter (367) listing the 27; Hippo (393) and Carthage (397).
+
+**The stated criteria are apostolicity, catholicity and orthodoxy** — that is, provenance, spread,
+*and content*. An earlier version of this entry claimed the Gospel of Mary "failed a provenance test
+rather than a content test." **That claim is withdrawn as unsupported**, on two grounds:
+
+1. **Causal order is not recoverable.** Provenance judgements may well have been *reached because of*
+   content — a text read as Valentinian is then found to lack apostolic pedigree. The Fathers report
+   provenance as their criterion, but they are not disinterested witnesses to their own reasoning.
+   Taking their account of their criteria as the historical explanation is **emic capture**, the
+   failure mode `methods.md` §2.5 names. I committed it.
+2. **There may have been no adjudication at all.** The Gospel of Mary does not appear in the disputed
+   lists; Eusebius does not discuss it. Absence from a canon list is not evidence of exclusion — it
+   is compatible with simply not circulating widely enough to require a ruling.
+
+What survives is narrower and still worth having: **apostolicity is structurally a chain-of-custody
+criterion**, formally like the `lung` requirement (§1.3) and arrived at independently. Whether it did
+the deciding is a separate question this section cannot settle.
+
+**Layer 2 — copying fidelity.** Monastic scriptoria: a designated *corrector* checking against the
+exemplar; colophons cursing anyone who alters the text; the Carolingian reform under Alcuin producing
+a standardised Vulgate and Caroline minuscule — **a legibility standard is an error-reduction
+technology**. Cost: parchment measured in herds, and monk-years. The payer is a landed monastery.
+
+**The pecia system** is the sharpest instance. Medieval universities, facing demand-driven
+multiplication of bad copies, authenticated a master *exemplar*, divided it into numbered quires
+(*peciae*), and rented them one at a time. Copies therefore derive from the master rather than from
+each other: **an explicit anti-drift mechanism operating at the institutional level**, and a shift of
+the payer from monastery to stationer-and-university.
+
+**Print, and where the digitisation actually happens.** Eisenstein argues print supplied *fixity*,
+enabling comparison and correction instead of cumulative error. Johns contests it: fixity was an
+achievement, not an inherent property, and *"must be recognized in order to exist"* — typographical
+standardisation was far from settled by 1700.
+
+**Movable type resolves part of this, and the resolution is xian's.** A sort is either an M or an N;
+the typecase is a finite inventory of discrete physical objects. A scribe's hand is continuous —
+letterforms vary by degree and can be misread through gradual deformation. So **movable type
+genuinely digitises the channel, but only at the character level.** That is a real change of kind,
+not merely a lower price for the same analog problem, which is what an earlier version of this entry
+suggested.
+
+But digitisation at the character level buys no fidelity at the text level. Compositors misread copy,
+transpose and substitute; type gets pied; each new edition is a fresh resetting with fresh errors. So
+print delivers **a discrete alphabet with a still-noisy selection process.**
+
+**I first wrote "a digital code with no checksum." That was wrong, and the correction is xian's: the
+checksum moved to the market.** Print shops competed, and accuracy was a differentiator a buyer could
+pay for. Aldus Manutius built the Aldine reputation on exactly this — humanist collaborators editing
+the texts, Aldus reportedly going through copies by hand to catch errors — and the model was taken up
+by Froben at Basel, where Erasmus worked. **The corrector became a paid trade role inside a
+commercial enterprise**, rather than a monk under a rule or a librarian under a king.
+
+So the payer sequence completes, and the last step is a change of *kind*:
+
+| Regime | Payer | Correctness certified by |
+|---|---|---|
+| Scriptorium | landed monastery | the rule, and the exemplar |
+| *Pecia* | university and stationer | an authenticated master copy |
+| **Print** | **buyers, via the publisher** | **reputation — selection by purchasers, not certification by authority** |
+
+**Gresham's law states the limit precisely, and inverts the mechanism.** Bad money drives out good —
+but only under a specific condition: **legal compulsion to accept both at par.** Where that
+compulsion is absent, good money does not vanish; it circulates at a premium (Rolnick & Weber found
+historical cases where bad money failed to displace good). The modern reading makes it a prisoner's
+dilemma *created by* legal tender laws. The observation predates Gresham — Oresme and Copernicus
+state it earlier.
+
+Generalised: **selection tracks quality only if quality is priced at the point of exchange. Forced
+parity does not merely blunt the selection, it reverses it** — when a copy is a copy regardless of
+fidelity, the cheap copy wins.
+
+**Three distinct ways the signal layer fails.** An earlier version of this entry called Gresham "the
+forced-parity special case" of Akerlof. That is wrong: they are different failure modes reaching the
+same outcome by opposite routes, and the distinction is the useful part.
+
+| Failure | Condition | Mechanism | Remedy |
+|---|---|---|---|
+| **Blocked** — Gresham | quality *is* legible (you can weigh a coin) but law forces exchange at par | no gain from spending the good one, so it is hoarded | permit premium pricing; remove forced parity |
+| **Absent** — Akerlof | quality is *not* legible | buyers pay only the average, so good sellers exit; the market can unravel to lemons only | certification, brands, warranties, licensing |
+| **Counterfeited** — Johns | signal legible but forgeable | pirates copy the printer's device along with the text | enforcement: guild regulation, privileges, later copyright |
+
+**This reframes a whole class of apparatus as anti-Gresham technology.** Alexandrian critical signs,
+the *pecia* authentication mark, the printer's device and colophon, the imprimatur — each makes an
+*invisible* property (textual accuracy) *visible at exchange*, so that it can be priced. Without such
+a signal, an error-correction regime can pay for fidelity and still lose, because no buyer can tell.
+
+→ **The regime schema therefore needs a fourth column.** Not just payer / mechanism / referent but
+**signal**: how the check is made legible to whoever is choosing. See `background.md` §5.6.
+
+**Johns's piracy evidence is the third mode.** Early modern print carried unauthorised reprints,
+false imprints and misattribution: a book bearing a reputable printer's name might be a cheap pirated
+reset with fresh errors. Readers could not take a printed book to be what it claimed. That is why he
+holds fixity had to be *manufactured* — by guild regulation, personal vouching and reputation
+networks — rather than being delivered by the technology. **The printer's device was the quality
+signal, and pirates copied the device.**
+
+- **Gresham's law** — bad money drives out good *under forced parity*; contested in its strong form (Rolnick & Weber). **The sharpest available statement of when selection stops tracking quality**, and xian's addition. @greshams-law
+  `#c/nexus #d/method #e/contested` · subj 14c– · H7 · access: open · [unverified]
+- **Akerlof, George A., "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism," *Quarterly Journal of Economics* 84:3 (1970)** — where buyers cannot observe quality they pay only the average, so good sellers withdraw, average quality falls, and the market can unravel until only bad goods remain. **Not the general case of Gresham but a distinct failure mode** — unobservability rather than forced parity. Remedies are warranties, brands and certification, which is why signalling is a necessary component of any market-based correction regime. Connects to the costly-signalling literature at @iannaccone-1994. @akerlof-1970
+  `#c/nexus #d/method #e/attested` · src 1970 · H7 H14 · access: open · [unverified]
+
+**A convergence worth flagging.** About half the scribes, philologists, correctors and typesetters
+working on Aldine editions came from the **Greek diaspora in Venice** — largely post-1453. So a
+refugee population supplied the error-correction labour for a new medium, and that labour was the
+press's competitive advantage. **H11 operating inside the print case**, and a concrete instance of a
+diaspora diffusing innovation it did not originate.
+
+*(What I earlier compressed to "the Alexandrian move on a new substrate," unpacked: the Alexandrian
+librarians manufactured fixity for Homer by collation and editorial apparatus — comparing manuscripts,
+marking suspect lines, justifying each judgement. Print-era editors did the same thing with the same
+tools. But the print case is only **partly** that old move, because market reputation is a
+selection mechanism with no ancient analogue.)*
+
+- Athanasius, 39th Festal Letter (367); Eusebius, *Hist. Eccl.* III.25; Muratorian fragment. @canon-sources
+  `#d/christian #c/canon-formation #e/primary` · subj 2–4c · Q4 H7 · access: open
+- The pecia system; Carolingian scriptorium reform; Caroline minuscule. @pecia
+  `#d/catholic #c/translation-layer #e/attested` · subj 8–14c · H7 · access: library · [unverified]
+- **Economic selection as an error-correction regime** — xian's argument, and it generalises past print: where a market exists, buyers select among producers, and accuracy is one dimension they select on. Weaker than natural selection in force and leakier in operation, but not absent, and plausibly **the dominant selective mechanism in the modern period**. Connects to H9's *institutional-capital* nexus type, whose mechanism this is. @economic-selection
+  `#c/nexus #d/method #e/inferred` · subj 15c– · H7 H9 · access: n/a
+- **Graeber, David, *Debt: The First 5,000 Years* (2011)** — credit and debt relations as prior to and constitutive of markets, and economic relations as moral and social ones. **The relevant use here is deflationary**: it blocks treating "economic selection" as a natural force. Markets are institutional arrangements, so a market is one more error-correction *regime* with a payer structure, not the absence of one. Contested on historical specifics; the anti-barter argument is the best-received part. @graeber-2011
+  `#c/nexus #d/method #e/contested` · subj 3000 BCE–2011 · src 2011 · H7 H14 · access: purchase · [unverified]
+- Aldus Manutius and the Aldine press; Froben at Basel; the corrector as a paid trade role; the Greek diaspora in Venice supplying much of the Aldine correction labour. @aldine
+  `#d/hellenistic #c/contact-route #e/attested` · subj 1490–1520 · H7 H11 · access: library · [unverified]
+- Eisenstein, Elizabeth, *The Printing Press as an Agent of Change* (1979) vs **Johns, Adrian, *The Nature of the Book* (1998)** — fixity as inherent property vs as transitive achievement. @eisenstein-johns
+  `#c/translation-layer #d/method #e/contested` · subj 15–18c · src 1979, 1998 · H7 · access: library · [unverified]
+
+### 14.7 Survivorship — and the formal machinery a sister field already has
+
+The project's recurring bias problems — archival silence, termination bias, positive-only samples —
+share one structure: **inference conditioned on survival.** If it was not preserved, it is not
+observed. That is not a humanities peculiarity; it is the organising problem of phylogenetics, which
+reconstructs history almost entirely from survivors.
+
+**And the transfer is literal, not metaphorical.** Manuscript stemmatics and phylogenetic inference
+are formally the same problem: reconstruct a copying tree from extant witnesses. Barbrook, Howe,
+Blake and Robinson, "The phylogeny of *The Canterbury Tales*," *Nature* 394 (1998), applied split
+decomposition to 58 fifteenth-century manuscripts of the *Wife of Bath's Prologue* and found good
+agreement with the conventionally-derived stemma. The field has a name — **phylomemetics**.
+
+Paleobiology has also named the specific biases and built corrections: the **Signor–Lipps effect**
+(the last fossil occurrence precedes true extinction, so extinctions look gradual), **ghost
+lineages** (branches inferred to exist with no direct record), the **pull of the recent**. Each has a
+textual analogue: lost manuscripts, lost recensions, whole traditions inferable only from citation in
+their opponents.
+
+**The useful caveat is where the analogy was already tested and had to be modified.** Manuscripts
+*contaminate* — a scribe consulting two exemplars produces reticulation, not a tree. Which is exactly
+horizontal gene transfer, and it is why the 1998 study used a **network** method rather than a strict
+tree. The disanalogy was found and handled rather than waved away.
+
+- Barbrook, A. C., Howe, C. J., Blake, N., & Robinson, P., "The phylogeny of *The Canterbury Tales*," *Nature* 394 (1998), 839. @barbrook-1998
+  `#c/lineage-narrative #d/method #e/attested` · subj 15c · src 1998 · Q7 · access: open
+- Phylomemetics — the general programme of phylogenetic analysis beyond the gene (*PLOS Biology*, 2011). @phylomemetics
+  `#d/method #r/analogy #e/attested` · src 2011 · Q7 · access: open · [unverified]
+- Signor–Lipps effect; ghost lineages; pull of the recent — the named survivorship biases and their corrections. **The argument that this project's bias problems are tractable rather than sui generis.** @survivorship-biases
+  `#d/method #r/deflation #e/heuristic` · src 1982– · Q7 · access: library · [unverified]
+
+→ **The recommendation.** Where the project records a negative result (`methods.md` §7.1), the
+question "would this archive have registered it?" can sometimes be replaced by an *estimate* rather
+than a shrug. Birth–death and sampling-corrected models exist. Whether they are worth importing
+depends on whether the corpus is ever large enough to fit one — probably not for Dzogchen, plausibly
+for the manuscript traditions.
+
 ---
 
 ## 15. Reference tools and databases
@@ -715,7 +1181,7 @@ Live disagreements, recorded as pairs per `methods.md` §7 rather than resolved 
 Recorded per `methods.md` §7. Absence of evidence, noted as such, is a finding. Search
 provenance for everything below is in `lit/openalex/QUERIES.md` and `lit/epmc/QUERIES.md`.
 
-### 15.1 Database coverage — a standing constraint
+### 17.1 Database coverage — a standing constraint
 
 Two retrieval passes on 2026-08-23 established what these tools can and cannot reach. This
 governs how much weight any future "not found" deserves.
@@ -736,7 +1202,7 @@ governs how much weight any future "not found" deserves.
 - **Neither reaches Tibetan-language sources at all.** For §1.3 and the `terms.md` work, these
   tools are irrelevant; BDRC and the Dunhuang archives are the instruments.
 
-### 15.2 Searched, nothing found
+### 17.2 Searched, nothing found
 
 Zero-hit queries. Given 15.1, these are suggestive, not conclusive — for the humanities items,
 absence from the index is closer to "not indexed" than to "does not exist".
@@ -751,7 +1217,7 @@ absence from the index is closer to "not indexed" than to "does not exist".
 | Radiocarbon authentication of relics | Europe PMC `26-relics` | moderate — same |
 | Buddhist mummification | Europe PMC `30-mummy` | moderate |
 
-### 15.3 Still open from earlier passes
+### 17.3 Still open from earlier passes
 
 - **No Wylie recovered** for the Pema Dündul terma title "Dzogchen Kazhag Rangdrol." → `terms.md`.
 - **No documented Tibetan–Christian or Tibetan–Manichaean *textual* contact at Dunhuang** located —

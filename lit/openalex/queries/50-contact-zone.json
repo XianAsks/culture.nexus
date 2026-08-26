@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 116,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (contact zone cultural exchange frontier innovation antiquity)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "contact zone cultural exchange frontier innovation antiquity",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:contact zone cultural exchange frontier innovation antiquity&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4361861075",
+      "doi": "https://doi.org/10.1525/sla.2023.7.1.1",
+      "display_name": "National Borders and the Contours of Historical Knowledge",
+      "publication_year": 2023,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4245767931",
+      "doi": "https://doi.org/10.1525/jsah.2020.79.3.360",
+      "display_name": "Papers Delivered in the Thematic Sessions of the 73rd Annual International Conference of the Society of Architectural Historians",
+      "publication_year": 2020,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

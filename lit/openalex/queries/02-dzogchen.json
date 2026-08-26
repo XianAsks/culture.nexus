@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 138,
+    "db_response_time_ms": 121,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (dzogchen great perfection origins tibet)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "dzogchen great perfection origins tibet",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:dzogchen great perfection origins tibet&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4298277669",
+      "doi": "https://doi.org/10.5281/zenodo.3608886",
+      "display_name": "Tibetan Histories: A Bibliography of Tibetan-Language Historical Works",
+      "publication_year": 1997,
+      "cited_by_count": 84,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://zenodo.org/record/3608886",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2778124742",
+      "doi": null,
+      "display_name": "Integral Development: Taking 'The Middle Path' Towards Gross National Happiness",
+      "publication_year": 2002,
+      "cited_by_count": 21,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.dspace.cam.ac.uk/handle/1810/227017",
+        "any_repository_has_fulltext": true
+      },
+      "type": "other"
+    },
+    {
+      "id": "https://openalex.org/W2497997851",
+      "doi": "https://doi.org/10.4312/as.2016.4.2.59-83",
+      "display_name": "Sitting with the Demons \u2013 Mindfulness, Suffering, and Existential Transformation",
+      "publication_year": 2016,
+      "cited_by_count": 19,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revije.ff.uni-lj.si/as/article/download/6416/6687",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1868455186",
+      "doi": null,
+      "display_name": "Developments in Australian Buddhism: Facets of the Diamond",
+      "publication_year": 2002,
+      "cited_by_count": 15,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://researchonline.jcu.edu.au/24723/1/Buddhism_in_Australia_book.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "book"
+    },
+    {
+      "id": "https://openalex.org/W2280609353",
+      "doi": null,
+      "display_name": "Alternative Development on the Tibetan Plateau: The Case of the Slaughter Renunciation Movement",
+      "publication_year": 2012,
+      "cited_by_count": 13,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholar.colorado.edu/geog_gradetds/27",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2199635526",
+      "doi": "https://doi.org/10.7453/gahmj.2015.026.suppl",
+      "display_name": "Indo-Tibetan Philosophical and Medical Systems: Perspectives on the Biofield",
+      "publication_year": 2015,
+      "cited_by_count": 9,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.sagepub.com/doi/pdf/10.7453/gahmj.2015.026.suppl",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2076760458",
+      "doi": "https://doi.org/10.1163/15734218-12341249",
+      "display_name": "Embodying Enlightenment: Physical Culture in Dzogchen as revealed in Tibet\u2019s Lukhang Murals",
+      "publication_year": 2012,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/journals/asme/7/1/article-p225_9.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2586330988",
+      "doi": "https://doi.org/10.24972/ijts.2006.25.1.1",
+      "display_name": "Beyond Mind II: Further Steps to a Metatranspersonal Philosophy and Psychology",
+      "publication_year": 2006,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.24972/ijts.2006.25.1.1",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

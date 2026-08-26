@@ -2,7 +2,7 @@
 
 *Comparative and diffusionist inquiry into the transmission of contemplative and soteriological ideas across Eurasia, with Dzogchen and early Christianity as the anchoring cases.*
 
-Status: rev. 4, 2026-08-24. Companion documents: `methods.md` (how the work is done), `resources.md` (source register), `tags.md` (markup scheme).
+Status: rev. 5, 2026-08-25. Companion documents: `methods.md` (how the work is done), `resources.md` (source register), `tags.md` (markup scheme).
 
 ---
 
@@ -280,6 +280,135 @@ disappointing. Either the mechanism does not explain Florence, or Florence's gen
 different source — concentrated capital, guild competition, and a recovered antiquity rather than a
 living foreign presence. Which yields **H9**.
 
+#### Q8a — why every positive case is terminated
+
+Working expectation, stated plainly: **fusion is exceptional, not the normal outcome of proximity.**
+That is what makes Q8a a real question — if proximity sufficed there would be nothing to look for but
+traffic.
+
+Every positive case in the table below ended: Gandhāra with the Kushans, Chang'an with Huichang 845,
+al-Andalus with the Reconquista, Alexandria with late antiquity. **There are three competing
+explanations for that uniformity, and they are distinguishable.** Choosing between them is a real
+piece of work, not a rhetorical flourish.
+
+**(a) It is a truism.** Nothing lasts. Worse than trivially true: if institutional lifespans are
+*memoryless*, then age carries no information about fragility, and "these all ended" says nothing at
+all. This is not a loose analogy — Van Valen (1973) found taxonomic survivorship curves to be
+log-linear, implying an extinction probability essentially independent of a taxon's age, and
+**Arbesman (2011) tested the same claim directly on empires** (N = 41, three millennia) and found
+the lifespans fit a memoryless exponential distribution: the rate of collapse is independent of age.
+Both are contested — Van Valen's law has drawn age-dependence counterexamples, and N = 41 is small —
+but the burden now sits on anyone treating termination as informative.
+
+**(b) It is an archival artefact.** Catastrophe generates archives: refugees carry things out,
+polemics and laments get written, successor regimes compile inventories, destruction layers form,
+caves get sealed. Fusion that simply continues leaves little, because it is not news to the people
+inside it. **Dunhuang is the case in point and it cuts twice** — the library cave exists *because*
+it was sealed, most likely under threat around 1000. The project's richest contact-zone archive is a
+byproduct of that order ending. Note this survives (a): memorylessness governs *whether* things end,
+not *how loudly*, and only loud endings archive well.
+
+**(c) It is causal, and this is the interesting one.** H7 says fusion requires weak or plural
+boundary-policing institutions. But weakly-policed, plural polities may also be **worse at defending
+themselves** — the very openness that permits fusion raising the hazard of termination. If so, "all
+generative zones terminated" is a finding rather than a bias: the conditions for fusion and the
+conditions for vulnerability overlap. Gandhāra, the al-Andalus taifas, and Tang after An Shi are all
+plural-then-conquered.
+
+**(c) has a formal analogue, and it points at a synthesis.** In random-interaction models,
+increasing diversity and connectance *destabilises* (May 1972) — the closest thing to a stated
+mechanism for openness raising hazard. But the better-fitting ecological idea is the **intermediate
+disturbance hypothesis**: diversity peaks neither at maximum stability (competitive exclusion — one
+form dominates) nor at maximum disturbance (only pioneers persist), but in between. Transposed, that
+**reconciles H7 with H8 and H10**, which have been pulling against each other:
+
+- Too stable and well-policed → a single orthodoxy polices the boundary; nothing crosses (H7's
+  prediction).
+- Too disturbed → nothing persists the generations H8 requires.
+- **Generativity peaks in between.** That is **H12**.
+
+All of this is `#e/heuristic` (`resources.md` §11.5) and establishes nothing about culture; the
+disanalogies are severe, since cultural transmission is Lamarckian, horizontal and intentional.
+
+→ **These are separable.** (a) predicts generative and non-generative zones have the *same* duration
+distribution; (b) predicts a difference in documentation density but not in duration; (c) predicts
+generative zones are *shorter*-lived than comparably-sized closed polities. A duration table for the
+comparison class would begin to discriminate, and is cheap to build.
+
+#### H10 — generativity as a draw from the tail
+
+If lifespans are memoryless and H8 requires many generations of continuous accommodating co-presence,
+then **the required duration is rare by construction** — it sits in the exponential tail. Generative
+nexuses would then need no special preconditions beyond ordinary ones plus a long draw.
+
+This partly rehabilitates "serendipitous" and relocates it: not serendipity of *collision*, but
+serendipity of *persistence*.
+
+Rough first pass, and the pattern is in the predicted direction:
+
+| Zone | Continuous accommodating presence | Generative |
+|---|---|---|
+| Alexandria | ~600+ yr | yes |
+| Gandhāra (Alexander → Kushan) | ~450 yr | yes |
+| al-Andalus | ~370 yr to the fall of Córdoba | yes |
+| Tang Chang'an (618 → 845) | ~227 yr | yes |
+| Palmyra floruit | ~150–200 yr | no |
+| Dunhuang under Tibet | 62 yr | no |
+
+**Two confounds, both real.** Longer duration also means more surviving records, so duration and
+apparent generativity are entangled — this is (b) again. And Arbesman measured *empires*, whereas the
+relevant unit here is "continuous accommodating regime at one locale," which may have a different
+hazard rate. The table is a sketch, not a result.
+
+#### The missing case: fusion that continued
+
+Q8a needs at least one case of fusion that was *absorbed* rather than destroyed, or the comparison
+class answers a question about endings. **The Danelaw supplies it**, and it arrives via *The Last
+Light of the Sun*.
+
+Norse settlement in England from 865 produced contact of unusual depth. The linguistic signature is
+decisive on the Thomason–Kaufman scale: English borrowed not merely vocabulary (*sky, skin, egg,
+knife, husband, window, law, take, get, give*) and place-name elements (*-by, -thorpe, -thwaite*),
+but **the third-person plural pronouns — they, them, their.** Pronoun borrowing is rare and sits near
+the top of the intensity scale; it indicates sustained household-level contact, not trade. Norse and
+English speakers were intermarrying and raising children together.
+
+**And there is no termination.** No conquest ended this fusion, no persecution closed it, no cave was
+sealed. It was absorbed into English and became invisible by becoming ordinary — which is exactly why
+it is under-represented in a case list assembled from dramatic endings.
+
+→ **This forces a distinction H10 was blurring: polities and fusions have different lifespans.**
+The Danelaw as a *polity* lasted well under a century. The *fusion* completed and persists in every
+English sentence containing "they." Arbesman measures polities; H8 concerns fusions. Conflating the
+two would make H10 look better supported than it is, because a terminated polity is compatible with a
+completed fusion. The duration that matters for H8 is the duration of *co-residence*, which can
+outlast the regime that began it.
+
+#### The workshop-of-experimentation reading
+
+A distinct question from either (a), (b) or (c), and closer to what the Cambrian analogy is actually
+good for: **not why zones end, but why the generative phase is transient.**
+
+The Cambrian sequence is unoccupied ecospace → rapid disparity → escalation (predation, defence) →
+consolidation, after which conserved developmental kernels make body plans effectively unrevisable.
+The last step is the important one: **radiations are rare not because their triggers are rare but
+because the design space, once occupied, stays occupied.** Frozen accidents, in xian's phrasing.
+
+Transposed: a generative interval is a period when the design space is locally *unoccupied* — no
+incumbent form is entrenched, no institution has yet invested in error-correction (`methods.md`
+§1.2b) — and it closes not because the polity falls but because **something wins and entrenches**.
+That makes the generative phase self-terminating, independently of conquest.
+
+**Xerox PARC is the modern instance xian raises**, and it fits: unusual autonomy, funding decoupled
+from near-term product, and — decisively — **no incumbent to defend**, since Xerox's business was
+copiers and the computing group threatened nothing internal. The synthesis then consolidated
+*elsewhere* (Apple, Adobe, 3Com), which is the pattern H11 predicts: the diaspora carried it out.
+
+→ This is testable against the Dzogchen case and cuts against a purely political reading of §7: the
+Seminal Heart's emergence during the `phyi dar` would be a design space reopening after the imperial
+Buddhist establishment entrenched and then collapsed — not merely an absence of policing, but an
+absence of *incumbents*.
+
 #### The comparison class — matched entrepôts
 
 Q8a is answerable only against cases that had the traffic and did *not* produce durable innovation.
@@ -289,6 +418,8 @@ Q8a is answerable only against cases that had the traffic and did *not* produce 
 | Gandhāra / Kushan | yes | yes | Buddha image; early Mahāyāna texts; transmission east | positive |
 | Alexandria | yes | yes | Philo, Clement, Neoplatonism, "Gnostic" systems | positive |
 | **Dunhuang** | yes | **exceptionally** | a *library*; preservation, not synthesis | **the key negative case** |
+| **Tang Chang'an** | yes | yes | Chan as a genuine synthesis; absorbed four foreign religions | positive — **with a datable termination (Huichang, 845)** |
+| **al-Andalus** | yes | yes | Greek→Arabic→Latin translation movement; poetry; philosophy | positive — but *convivencia* is contested (Nirenberg) |
 | Palmyra | yes | moderately | wealth, distinctive funerary art; nothing that travelled | negative |
 | Sogdian Samarkand | yes | yes | carried Manichaeism, Buddhism, Christianity | **transmitter, not innovator** — the distinction matters |
 | Aksum | yes | moderately | adopted Christianity; limited outward transmission | negative |
@@ -317,6 +448,100 @@ Chains of custody, strongest first:
   descent and belongs to §6.
 - **Barlaam and Josaphat**, via Manichaean and Arabic intermediaries — rung 1, the loanword intact.
 
+### 5.5 "Universal replicator theory" — the frame, and a retracted objection
+
+**What "the cluster" refers to**: the group of hypotheses about how cultural material moves —
+H7 (error correction), H8 (household vs market channels), H11 (diasporas), H14 (transmission cost),
+together with the survivorship problems in `methods.md` §7.1. They share an assumption: that cultural
+items are copied, at a cost, through channels, under something like selection. xian's name for the
+group is *universal replicator theory*.
+
+**I claimed the frame contained a contradiction. That claim was wrong and is withdrawn.**
+
+The objection was: "replicator" implies discrete units copied faithfully, whereas the analog-channel
+position (`methods.md` §1.2a) says transmission is continuous deformation, and Sperber's cultural
+attraction theory was built to deny faithful replication. I called these two incompatible accounts —
+a *selectionist* one (items are copied, variants compete, the fit spread) and a *transformational*
+one (items are rebuilt each time and drift toward attractors) — and said the project was running on
+both at once.
+
+**The error was assuming that discreteness requires a digital channel.** It does not, and language is
+the counterexample. Speech is acoustically continuous, yet listeners bin it into phonemes: the
+perceptual space is warped so that category prototypes act, in the literature's own word, as
+**magnets** for incoming sounds. So the receiver quantises an analog signal. **Discreteness is
+manufactured at the receiving end, not carried by the channel.**
+
+Which means attractors and discreteness are not opposed — **attractors are one way discreteness gets
+produced.** A phoneme is an attractor that behaves like a discrete unit. A word can therefore be an
+analog-channel replicator without contradiction, which was xian's point.
+
+**What survives, weakened and reframed as a spectrum rather than a split:** fidelity varies, and it
+varies for reasons the project can investigate. Selectionist models presuppose fidelity high enough
+for variants to persist and compete; where fidelity is low, transformation toward attractors
+dominates. These are ends of a range, not rival doctrines, and the empirical work on transmission
+chains finds both — drift toward attractors for some content, high fidelity for other content.
+
+→ So the useful question is not "which theory is right" but **what sets the fidelity in a given
+case** — receiver-side quantisation, or an institutional correction regime, or neither. That is
+§5.6.
+
+→ On the name: no objection remains from this argument. *Universal replicator theory* is a
+reasonable label as long as "replicator" is not taken to smuggle in the strong selectionist package.
+
+### 5.6 Error-correction regimes as the spine
+
+The concept introduced in `methods.md` §1.2b turns out to reach further than H7, and may be the
+organising variable for much of the project rather than one hypothesis among several.
+
+**A tradition's error-correction regime is: who pays, by what mechanism, checked against what — and
+how that check is signalled to whoever is choosing.** The fourth column was added after xian raised
+Gresham's law: a regime can pay for fidelity and still lose if the quality it buys is invisible at the
+point of exchange, because under forced parity the cheap copy wins (`resources.md` §14.6). Critical
+signs, *pecia* marks, printers' devices and the imprimatur are all **anti-Gresham signalling
+technology** — they make accuracy legible so it can be priced.
+
+The signal layer fails in three distinct ways — **blocked** (legible but unpriceable: Gresham),
+**absent** (illegible: Akerlof), **counterfeited** (legible but forgeable: Johns's piracy) — each
+with its own remedy. See `resources.md` §14.6.
+
+Specify those four and a surprising amount follows.
+
+| Question | What the regime determines |
+|---|---|
+| H7 — what freezes at boundaries | Whether correctness can be checked without the institution. Metre and a working pot can; doctrine cannot. |
+| H8 — which channel carries it | Households transmit without formal correction; institutions add it, and pay for it. |
+| H12, H13 — institutional strength | The correction apparatus largely *is* the institutional strength that H12 says must be intermediate. |
+| H14 — cost | Correction is the dominant cost of high-fidelity transmission. |
+| §7.1 — what we can observe | What survives to be studied is what some regime paid to preserve. |
+| Q8 — nexus generativity | A nexus may be a place where correction regimes are weak, plural, or being handed over. |
+| §5.5 — fidelity | Where receiver-side quantisation is weak, an institution must supply the fidelity or there is none. |
+
+**Worked cases already in the register** (`resources.md` §14.5–14.7):
+
+| Regime | Payer | Mechanism | Checked against | Signalled by |
+|---|---|---|---|---|
+| Vedic | priesthood | permutation recitation | the code itself | **public performance — you can hear whether a reciter can do *ghana pāṭha*** |
+| Homeric | singer, then polis, then library | generative formula-system; later collation | **metre**, then manuscripts | performance; later the critical signs |
+| Christian canon | bishops and councils | admission lists | apostolicity, catholicity, orthodoxy | the canon list; later the imprimatur |
+| Christian copying | monastery, then university | corrector, exemplar, *pecia* | the authenticated master | the *pecia* mark, the colophon |
+| Tibetan | lineage holders | `lung`, `dbang` | an unbroken chain — with terma as a **credentialled bypass**, gated by prior recognition | recited lineage; for terma, a **non-transferable token no third party can read**, so standing substitutes for verification |
+| Market | buyers | competition | reputation | device, colophon, imprint |
+
+**A pattern falls out of the last column.** In the oral regimes **the check and the signal are the
+same act** — hearing a line scan, or hearing a reciter execute the permutations, *is* the
+verification, performed in public and available to anyone competent. In the written regimes they come
+apart: the check happens privately, in a scriptorium or an editor's study, so a **separate signalling
+apparatus has to be built** — marks, colophons, devices, imprimaturs.
+
+That is a partial answer to a question this project keeps circling: why written traditions develop
+certification bureaucracies and oral ones largely do not. It is not that writing is less reliable. It
+is that **writing separates the moment of verification from the moment of reception**, and the gap
+has to be bridged by a signal that can itself be counterfeited.
+
+→ The research move this suggests: **characterise the regime for every tradition in the register** —
+three columns, payer / mechanism / referent. It is cheap, it is comparative, and it would test H7
+directly rather than by anecdote.
+
 ## 6. Working hypotheses (to be falsified, not defended)
 
 | # | Hypothesis | Standing |
@@ -327,13 +552,60 @@ Chains of custody, strongest first:
 | H4 | A measurable fraction of every perceived parallel here is introduced downstream — in translation, in reception, or in prior scholarship's framing. | Generalised from the Norbu case; testable in several places. |
 | H5 | **An Iranian–Hellenistic "glory/radiance" complex (*khvarenah*, radiate nimbus) is a common ancestor to Buddhist, Christian, Manichaean and Syriac light-imagery** — homology, not borrowing. Testable in material culture, which is datable. | New; most tractable. |
 | H6 | Lineage-origin narratives across traditions converge because the *genre* converges, not because the histories touch. | New; needs multi-term test. |
-| H7 | **The freeze is institutional, not doctrinal.** Doctrine does not have intrinsic viscosity; it is *guarded* — creeds, canons and monastic rules are maintained by institutions whose function is boundary policing. Technique has no such office, so it crosses freely. Predicts that a contact zone's generativity varies inversely with the strength and singularity of its doctrinal institutions. | Favoured. Explains Gandhāra (plural, weakly-policed) and the Chan case (doctrine crossed, then mutated where no single authority held it). |
+| H7 | **The freeze is institutional, not doctrinal.** Doctrine does not have intrinsic viscosity; it is *guarded* — creeds, canons and monastic rules are maintained by institutions whose function is boundary policing. Technique has no such office, so it crosses freely. Predicts that a contact zone's generativity varies inversely with the strength and singularity of its doctrinal institutions. | Favoured. Explains Gandhāra (plural, weakly-policed) and the Chan case (doctrine crossed, then mutated where no single authority held it). **Mechanism (added):** technique carries an external error check — the pot holds water, so a stranger can re-derive the method from the object — while doctrine has no such referent and its only error-correction is an interpretive community, which is costly and does not travel. See `methods.md` §1.2b. |
 | H8 | **Assembly is decadal; assimilation is generational.** A contact zone can co-locate people, goods and texts in years, but can only produce a fused repertoire over generations, and only where social structure permits intermarriage and shared child-rearing — because the deep-transmission channel is the household, not the market. Predicts that *generations of settled co-presence*, not intensity of traffic, is the discriminating variable, and that **degree of structural (not lexical) borrowing** is its measurable proxy. | Strong. Fits Gandhāra (~18 generations, with settlement), Dunhuang (~2.5, garrison), the Sogdian network (long but endogamous), and the American South (the type specimen). See §5.4. |
 | H9 | **"Nexus" lumps distinct mechanisms, and Q8a's search for common preconditions may be misconceived.** Candidate typology: *settlement-fusion* (Gandhāra), *diaspora-return* (Florence — its merchants went out and came back), *immigration-fusion* (New Orleans, New York), *institutional-capital* (Silicon Valley). If the mechanisms differ, the deliverable is a typology, not a precondition list. | New; arises from Florence failing to fit H8 (§5.4). Testable by asking of each case *which channel carried what*. |
+| H10 | **Generativity may be a draw from the tail of a persistence distribution, not a product of special preconditions.** If polity lifespans are memoryless (Van Valen 1973; Arbesman 2011 on empires, N=41) and H8 requires many generations of continuous accommodating co-presence, long-enough persistence is rare by construction. Relocates "serendipitous" from collision to persistence. | New, from Q8a §5.3. Predicts generative zones are systematically longer-lived; first pass is in the predicted direction but confounded with documentation density. |
+| H11 | **Diasporas incite observable diffusion of innovation.** A dispersed population maintaining ties across polities is a standing channel that does not depend on any one regime persisting — so diffusion can outrun the lifespan of the zone that produced it. Predicts that traceable long-range impacts (Q8b) correlate with diaspora presence more strongly than with nexus duration. | xian's. Distinguish sharply from the transmitter/innovator question: a diaspora may diffuse innovation it did not originate. Candidates: Sogdian, Jewish, Armenian, Florentine, Greek post-1453. |
+| H12 | **Generativity peaks at intermediate institutional strength**, not at its minimum. Too strong and singular, and boundaries are policed (H7); too weak or too disturbed, and nothing persists the generations H8 requires. Reconciles H7, H8 and H10, which otherwise pull against each other. Analogue: the intermediate disturbance hypothesis. **Compatible with H11 rather than rival to it**: H11 is about temporal sequence, H12 about level, and incumbent collapse is one way a zone arrives at the intermediate level. | New, from the eco-evolutionary analogy (§5.3, `resources.md` §11.5). Predicts a non-monotonic relationship, so it is falsified by any strong linear trend either way. |
+| H13 | **Innovation follows the collapse of an incumbent, with a lag.** Weak boundary-policing permits synthesis (H7), and incumbency collapse is how a zone becomes weakly policed. Predicts a characteristic sequence: incumbent collapse → low-policing interval → synthesis → re-consolidation ending the generative phase. Analogous to Cambrian radiation into unoccupied ecospace. | Written in a cancelled branch and preserved by a rewind; author uncertain, treat as Claude's. Bears on §7's dating obstacle. Several positive cases are post-disruption: Kushan after Greek/Scythian/Parthian layering, Tang after Sui, the al-Andalus taifas, Alexandria as a new foundation. |
+| H14 | **Traditions that grow tend to reduce their demands over time, partition into tiers, or die out.** Reformulated: the original version invoked parasite virulence and does not survive scrutiny (see standing). The claim is about *change within a tradition over time* — Weber's routinisation — not about cross-sectional frequency, which would be circular. Three branches, not two: moderate, partition, or go extinct. | **Substantially demoted.** The virulence analogy is wrong-signed: Iannaccone (1994) finds strict churches *stronger*, because cost screens free-riders — so demand can raise group fitness rather than cap it. Confirming case: §5.1's forest-ascetic Mahāyāna moderating into institutional privilege, with the monastic/lay split as the tiered branch. Extinction branch: the Shakers, whose celibacy left only conversion and who did not moderate. |
 
 ## 7. The dating obstacle
 
-Stated once, because it governs H2 and much of §3 Q6: the Central Asian contact window closes in the mid-9th century, but the rainbow body is prominent in Seminal Heart (`snying thig`) literature from the **11th**, and Germano locates its emergence in a *Tibetan* mortuary substrate. Any contact argument must explain a two-century gap between alleged borrowing and attested appearance. The halo case (H5) has no such problem, which is why it is the better first target.
+Stated once, because it governs H2 and much of Q6.
+
+**What "the contact window closes in the mid-9th century" means.** Four collapses inside one decade:
+
+- **840** — the Uyghur Khaganate is destroyed by the Kyrgyz. Manichaeism loses its state sponsor in
+  the Tarim.
+- **842** — Langdarma is assassinated; the Tibetan empire fragments, ending the imperial translation
+  apparatus along with central authority.
+- **845** — the Huichang persecution under Emperor Wuzong closes the Tang capital's religious
+  cosmopolitanism, targeting Buddhism and, with it, Manichaeism, Nestorian Christianity and
+  Zoroastrianism.
+- **848** — Zhang Yichao's uprising takes Dunhuang from Tibetan control.
+
+**The convergence is tighter than three data points suggested**: the entire Central and East Asian
+religious-cosmopolitan order closes within about eight years. The 845 item came late, out of
+assessing Kay's *Under Heaven* (§`resources.md` 14.4) — a fiction lead that produced a real
+historical finding, which is the argument for keeping such leads in the register at all.
+
+**Two caveats that survive the strengthening.** "Closes" still overstates it: trade and manuscripts
+kept moving, and Dunhuang's library cave was not sealed until c. 1000. What ended was *institutional,
+state-sponsored* contact and the translation bureaux that made organised doctrinal importation
+possible. And per `methods.md` §4, long gaps between contact and textual attestation are normal —
+Mahāyāna is the standing example.
+
+**A possible reading of the gap, not a resolution of it (H13).** Tibet's imperial collapse in 842
+opens the era of fragmentation; Seminal Heart literature emerges in the 11th century, during the
+later diffusion (`phyi dar`) — that is, *after* the central authority capable of policing doctrine
+had gone. If H13 holds, the two-century gap is what the model predicts rather than an anomaly to
+explain away: material acquired under the empire, synthesised only once the empire's boundary-keeping
+collapsed. Contact and innovation would then be expected to be separated in time, not simultaneous.
+
+**Three cautions, and they matter more than the reading does.** (i) This removes an objection to H2;
+it supplies no evidence *for* it, and an elegant analogy must not be allowed to do evidentiary work
+— that is deflator 5. (ii) Germano's Tibetan mortuary-substrate account explains the same 11th-century
+emergence and requires no contact at all; it remains the simpler hypothesis. (iii) The move has the
+same shape as arguments from absence that this project has treated with suspicion elsewhere. H13 is
+therefore tagged speculative and is **not** to be cited in support of H2 unless independent contact
+evidence appears.
+
+**The obstacle itself.** The rainbow body is prominent in Seminal Heart (`snying thig`) literature
+from the **11th** century, and Germano locates its emergence in a *Tibetan* mortuary substrate. Any
+contact argument must explain a two-century gap between alleged borrowing and attested appearance.
+The halo case (H5) has no such problem, which is why it remains the better first target.
 
 ## 8. Method commitments
 
@@ -366,6 +638,17 @@ question, promoted to Q8 with H7 restated and H8 added (§5.3).
 **On Bön (previously unclear, restated):** Bön matters for two reasons, and the second is the interesting one.
 1. *As a control case.* Bön has its own rainbow-body lineage — Tapihritsa, the *Zhang Zhung Nyen Gyud* — with no plausible route of Christian influence. If the same doctrine appears in a tradition Christianity could not have reached, a Christian-influence hypothesis loses its explanatory advantage.
 2. *As an emic claim of western origin.* Bön's own account traces its origin to **Tazig** (`sTag gzig`) and Olmo Lungring — a land conventionally identified with **Iranian** territory. That is a tradition's self-report of exactly the westward connection H5 proposes on material grounds. The emic and etic lines converge here, which makes Bön the sharpest available test of §2.2's whole method.
+
+**Marked for inspection.**
+
+- **Diasporas as catalysts of transmission.** Recurring across the material and not yet treated as a
+  single thread: Sogdians (transmitters, largely endogamous); the Florentine banking diaspora
+  (outward, returning); the Jewish and Armenian mercantile networks; the African diaspora (the
+  household-channel type specimen). The open question is whether diaspora is a *distinct* mechanism
+  in H9's typology or a cross-cutting condition on the others — and whether the transmitter/innovator
+  distinction sorts them.
+- **Duration table for the comparison class.** Cheap, and it discriminates between explanations
+  (a), (b) and (c) in §5.3.
 
 **Still open:**
 1. **Wylie for the Pema Dündul terma title** (§4). Searched, not found — `resources.md` §17.3.

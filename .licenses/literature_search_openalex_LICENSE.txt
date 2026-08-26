@@ -1,0 +1,17 @@
+OpenAlex skill — license notification
+Recorded: 2026-08-23T22:35:58-04:00
+Workspace: /home/xian/projects/spirit
+
+NOTIFICATION TEXT PRESENTED TO USER:
+
+  OpenAlex data is subject to the terms published at
+  https://developers.openalex.org/ — check them before relying on or
+  redistributing retrieved metadata.
+
+  Separately, every paper retrieved by this skill carries its own license,
+  and those licenses vary. Open access does not imply unrestricted reuse.
+  Always check the license of each retrieved paper for restrictions before
+  redistributing, republishing, or quoting at length.
+
+Skill: google-deepmind:literature_search_openalex
+Skill root: /home/xian/.claude.home/skills/google-deepmind/skills/literature_search_openalex

@@ -1,0 +1,948 @@
+{
+  "hitCount": 4,
+  "nextCursorMark": "",
+  "results": [
+    {
+      "id": "40399720",
+      "source": "MED",
+      "pmid": "40399720",
+      "pmcid": "PMC12325481",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12325481"
+        ]
+      },
+      "doi": "10.1007/s11013-025-09914-7",
+      "title": "Death and Happiness: Exploring the Temporalities of the Meditated Death and Everyday Life in Tibetan Buddhist Practice of Tukdam.",
+      "authorString": "Namdul T.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Namdul T",
+            "firstName": "Tenzin",
+            "lastName": "Namdul",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0310-7869"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Earl E. Bakken Center for Spirituality & Healing, University of Minnesota, 420 Delaware St SE, MMC 505, Minneapolis, MN, 55455, USA. tenzin@umn.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0310-7869"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "49",
+        "journalIssueId": 3990210,
+        "dateOfPublication": "2025 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-06-01",
+        "journal": {
+          "title": "Culture, medicine and psychiatry",
+          "medlineAbbreviation": "Cult Med Psychiatry",
+          "issn": "0165-005X",
+          "essn": "1573-076X",
+          "isoabbreviation": "Cult Med Psychiatry",
+          "nlmid": "7707467"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "416-433",
+      "abstractText": "Although tukdam-a meditative state entered through various practices resting in extremely subtle consciousness while dying-is seen to only be achieved by adept practitioners, the philosophy and psychology that underpin tukdam inform Tibetan communities beyond just accomplished adepts and frame the very way death and dying is conceived. Based on an 18-month ethnographic study, this article explores the significance of death as a Tibetan Buddhist cultural-reference that offers a moral heuristic ground for adaptive methods in transforming orientations to self and others and in cultivating compassion and resilience. Tibetan Buddhist practitioners emphasize a strong correlation between a true understanding of self and sustained happiness. This article thus asks a dual conceptual question: (1) Why do Tibetans believe that meditating on death is the key to experiences of well-being in their day-to-day life? (2) What is the relation between the temporalities of the meditated death and that of the day-to-day life? Furthermore, the article proposes that Tibetan Buddhist practices that culminate in tukdam symbolize the way death and dying is assumed to be approached more broadly beyond advanced practitioners, and thereby, provides a cultural model for an \"ideal\" death that guides approaches to dying for oneself and others.",
+      "affiliation": "Earl E. Bakken Center for Spirituality & Healing, University of Minnesota, 420 Delaware St SE, MMC 505, Minneapolis, MN, 55455, USA. tenzin@umn.edu.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "TL1R002493",
+            "agency": "NCATS NIH HHS",
+            "acronym": "TR",
+            "orderIn": 0
+          },
+          {
+            "grantId": "TL1R002493",
+            "agency": "National Center for Advancing Translational Sciences",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P022A160058",
+            "agency": "Fulbright Program",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Meditation",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Attitude to Death",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Happiness"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Buddhism",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "India",
+          "Tibetan medicine",
+          "Death",
+          "Meditation",
+          "Tibetan Buddhism",
+          "Tukdam"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11013-025-09914-7"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325481"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325481?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 1,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-08-05",
+      "dateOfCreation": "2025-05-21",
+      "firstIndexDate": "2025-05-23",
+      "fullTextReceivedDate": "2025-08-08",
+      "dateOfRevision": "2025-08-08",
+      "electronicPublicationDate": "2025-05-21",
+      "firstPublicationDate": "2025-05-21"
+    },
+    {
+      "id": "38393648",
+      "source": "MED",
+      "pmid": "38393648",
+      "pmcid": "PMC12325478",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12325478"
+        ]
+      },
+      "doi": "10.1007/s11013-023-09844-2",
+      "title": "Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for\u00a0the Tibetan Tukdam Postmortem Meditative State.",
+      "authorString": "Tidwell TL.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Tidwell TL",
+            "firstName": "Tawni L",
+            "lastName": "Tidwell",
+            "initials": "TL",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9358-9958"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9358-9958"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "49",
+        "journalIssueId": 3990210,
+        "dateOfPublication": "2025 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-06-01",
+        "journal": {
+          "title": "Culture, medicine and psychiatry",
+          "medlineAbbreviation": "Cult Med Psychiatry",
+          "issn": "0165-005X",
+          "essn": "1573-076X",
+          "isoabbreviation": "Cult Med Psychiatry",
+          "nlmid": "7707467"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "434-464",
+      "abstractText": "This article presents two cases from a collaborative study among Tibetan monastic populations in India on the postdeath meditative state called \"tukdam (Tib., thugs dam)\". Entered by advanced Tibetan Buddhist practitioners through a variety of different practices, this state provides an ontological frame that is investigated by two distinct intellectual traditions-the Tibetan Buddhist and medical tradition on one hand and the Euroamerican biomedical and scientific tradition on the other-using their respective means of inquiry. Through the investigation, the traditions enact two paradigms of the body at the time of death alongside attendant conceptualizations of what constitutes life itself. This work examines when epistemologies of these two traditions might converge, under what ontological contexts, and through which correlated indicators of evidence. In doing so, this work explores how these two intellectual traditions might answer how the time course and characteristics of physiological changes during the postmortem period might exhibit variation across individuals. Centrally, this piece presents an epistemological inquiry delineating the types of valid evidence that constitute exceptional processes post-clinical death and their potential ontological implications.",
+      "affiliation": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "AAG8698",
+            "agency": "College of Letters and Sciences, University of Wisconsin-Whitewater",
+            "orderIn": 0
+          },
+          {
+            "grantId": "AAG8698",
+            "agency": "College of Letters and Sciences, University of Wisconsin\u2013Whitewater",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Attitude to Death",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cues"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Buddhism",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PX",
+                  "qualifierName": "psychology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "India",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EH",
+                  "qualifierName": "ethnology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biomarkers"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Tibetan medicine",
+          "Death",
+          "Epistemology",
+          "Ontology",
+          "Postmortem Meditation",
+          "Tukdam"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Biomarkers",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1007/s11013-023-09844-2"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325478"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12325478?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "40705208",
+            "source": "MED",
+            "reference": "Cult Med Psychiatry. 2025 Jun;49(2):465-466. doi: 10.1007/s11013-025-09935-2.",
+            "type": "Erratum in",
+            "orderIn": 1
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 1,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-08-05",
+      "dateOfCreation": "2024-02-23",
+      "firstIndexDate": "2024-02-24",
+      "fullTextReceivedDate": "2025-08-08",
+      "dateOfRevision": "2025-08-29",
+      "electronicPublicationDate": "2024-02-23",
+      "firstPublicationDate": "2024-02-23"
+    },
+    {
+      "id": "41209790",
+      "source": "MED",
+      "pmid": "41209790",
+      "pmcid": "PMC12591965",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12591965"
+        ]
+      },
+      "doi": "10.3389/fpsyg.2025.1644684",
+      "title": "\"I was trying to save the world\": delusion-like ideation and associated impacts reported by Western practitioners of Buddhist meditation.",
+      "authorString": "Solomonova E, Lindahl JR, Gold I, Cooper DJ, Little C, Arteca D, Cao C, Britton WB.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Solomonova E",
+            "firstName": "Elizaveta",
+            "lastName": "Solomonova",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurophilosophy Lab, McGill University, Montreal, QC, Canada."
+                },
+                {
+                  "affiliation": "Department of Philosophy, McGill University, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lindahl JR",
+            "firstName": "Jared R",
+            "lastName": "Lindahl",
+            "initials": "JR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Religious Studies, Brown University, Providence, RI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gold I",
+            "firstName": "Ian",
+            "lastName": "Gold",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurophilosophy Lab, McGill University, Montreal, QC, Canada."
+                },
+                {
+                  "affiliation": "Department of Philosophy, McGill University, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cooper DJ",
+            "firstName": "David J",
+            "lastName": "Cooper",
+            "initials": "DJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Psychiatry and Human Behavior, Warren Alpert Medical School, Brown University, Providence, RI, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Little C",
+            "firstName": "Charlotte",
+            "lastName": "Little",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurophilosophy Lab, McGill University, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Arteca D",
+            "firstName": "Damian",
+            "lastName": "Arteca",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurophilosophy Lab, McGill University, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao C",
+            "firstName": "Chenxi",
+            "lastName": "Cao",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Neurophilosophy Lab, McGill University, Montreal, QC, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Britton WB",
+            "firstName": "Willoughby B",
+            "lastName": "Britton",
+            "initials": "WB",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Psychiatry and Human Behavior, Warren Alpert Medical School, Brown University, Providence, RI, United States."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "16",
+        "journalIssueId": 3893293,
+        "dateOfPublication": "2025 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-01-01",
+        "journal": {
+          "title": "Frontiers in psychology",
+          "medlineAbbreviation": "Front Psychol",
+          "issn": "1664-1078",
+          "essn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "1644684",
+      "abstractText": "Delusional ideation is characteristic of psychopathology (e.g., psychosis, bipolar disorder) and is also found among the general population. Contemporary case studies have documented delusional ideation as a feature of meditation-induced psychosis, and Buddhist literature on the side effects and adverse effects of meditation also includes discussion of transient experiences that could be considered delusional or delusion-like ideation. Drawing upon interviews with more than 100 Buddhist meditation practitioners and meditation experts (teachers and clinicians) in the West, this paper presents a mixed-methods study of delusion-like ideation (DLI) associated with meditation. We establish a typology of eight types of DLI and report their relative frequencies among the sample; we identify impacts and treatment outcomes associated with DLI; and we provide four case studies that illustrate the risk factors, trajectories, outcomes, and appraisals associated with DLI. We show how responses to DLI are shaped not only by the type of DLI but also by their duration, severity, and impact, as well as the associated appraisals made both by meditators and by meditation teachers and psychiatrists. In some cases, the phenomenology of DLI suggests influences from the lived context of Buddhist meditation cultures. Furthermore, although DLI are normalized in Buddhist meditation culture under certain circumstances, meditation experts also noted the potential severity of meditation-related DLI, with some identifying it as a \"red flag\" meriting close monitoring if not immediate intervention. Finally, we discuss various explanatory models that could account for the presence, content, and impacts of DLI among meditators, drawing upon the environmental conditions and social contexts of meditation retreats, the role of attention and sensory attenuation in meditation practice, and the ways in which meditation-related DLI can function as a cultural and spiritual \"idiom of distress.\"",
+      "affiliation": "Neurophilosophy Lab, McGill University, Montreal, QC, Canada.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mental health",
+          "Delusional Ideation",
+          "Meditation-Induced Psychosis",
+          "Meditation-related Challenges",
+          "Meditation And Culture"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2025.1644684"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12591965"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12591965?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-11-12",
+      "dateOfCreation": "2025-11-10",
+      "firstIndexDate": "2025-11-10",
+      "fullTextReceivedDate": "2025-12-04",
+      "dateOfRevision": "2025-11-12",
+      "electronicPublicationDate": "2025-10-24",
+      "firstPublicationDate": "2025-10-24"
+    },
+    {
+      "id": "40823996",
+      "source": "MED",
+      "pmid": "40823996",
+      "pmcid": "PMC12360125",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12360125"
+        ]
+      },
+      "doi": "10.1002/jhbs.70034",
+      "title": "\"Intelligence Running Wild\": Edward Podvoll (1936-2003) and the Unfolding of the \"Contemplative Psychotherapy\" Project.",
+      "authorString": "Priviero T.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Priviero T",
+            "firstName": "Tommaso",
+            "lastName": "Priviero",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9509-8378"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Leverhulme Early Career Fellow, Queen Mary University of London (QMUL), London, UK."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9509-8378"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "4",
+        "volume": "61",
+        "journalIssueId": 3996303,
+        "dateOfPublication": "2025 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-07-01",
+        "journal": {
+          "title": "Journal of the history of the behavioral sciences",
+          "medlineAbbreviation": "J Hist Behav Sci",
+          "issn": "0022-5061",
+          "essn": "1520-6696",
+          "isoabbreviation": "J Hist Behav Sci",
+          "nlmid": "18020010R"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "e70034",
+      "abstractText": "This paper explores the origins and development of the \"contemplative psychotherapy\" project in the United States, emerging around psychoanalyst Edward Podvoll and the intellectual environment at Naropa University during the 1970s and 1980s. It situates Podvoll's work within the broader dialogue between Buddhism and Western psychotherapy, highlighting how his contributions shed light on this dynamic and complex encounter. The paper begins by outlining Podvoll's psychiatric and psychoanalytic background, then examines the establishment of contemplative psychotherapy at Naropa, and finally discusses the creation of the Windhorse community therapy model-while contextualising Podvoll's dialogues with influential figures such as Ch\u00f6gyam Trungpa, Erik Erikson, Manfred Bleuler, and Oliver Sacks. Drawing on published and unpublished material by Podvoll, it argues that his work exemplified a pioneering effort to integrate Buddhist and psychoanalytic perspectives on mental health and recovery. At the same time, the paper reflects on some of the conceptual and therapeutic tensions that arise when spiritual and clinical paradigms converge. By examining contemplative psychotherapy as both a historical case study and a continuing experiment, the paper contributes to ongoing debates about the possibilities-and limits-of East-West intersections in psychological practice.",
+      "affiliation": "Leverhulme Early Career Fellow, Queen Mary University of London (QMUL), London, UK.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mental Disorders",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Psychoanalysis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Psychotherapy",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, 20th Century"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, 21st Century"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Buddhism",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "United States"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Psychoanalysis",
+          "Buddhism",
+          "History Of Psychology",
+          "Meditation",
+          "psychotherapy"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1002/jhbs.70034"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12360125"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12360125?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-09-14",
+      "dateOfCreation": "2025-08-18",
+      "firstIndexDate": "2025-08-21",
+      "fullTextReceivedDate": "2025-08-22",
+      "dateOfRevision": "2025-09-14",
+      "firstPublicationDate": "2025-07-01"
+    }
+  ]
+}

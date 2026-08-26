@@ -5,6 +5,8 @@
 !.env.example
 
 # ---- scratch ----
+# drafted commit messages and working files
+.tmp/
 *.err
 *.tmp
 .DS_Store

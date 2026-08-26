@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 118,
+    "db_response_time_ms": 162,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (genomic origins bronze age tarim basin mummies)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "genomic origins bronze age tarim basin mummies",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:genomic origins bronze age tarim basin mummies&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4391717697",
+      "doi": "https://doi.org/10.1038/s41597-024-03031-7",
+      "display_name": "The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes",
+      "publication_year": 2024,
+      "cited_by_count": 374,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41597-024-03031-7.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "data-paper"
+    },
+    {
+      "id": "https://openalex.org/W3209071234",
+      "doi": "https://doi.org/10.1038/s41586-021-04052-7",
+      "display_name": "The genomic origins of the Bronze Age Tarim Basin mummies",
+      "publication_year": 2021,
+      "cited_by_count": 194,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1038/s41586-021-04052-7",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2623034880",
+      "doi": "https://doi.org/10.1093/molbev/msx177",
+      "display_name": "Genetic History of Xinjiang\u2019s Uyghurs Suggests Bronze Age Multiple-Way Contacts in Eurasia",
+      "publication_year": 2017,
+      "cited_by_count": 96,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/mbe/article-pdf/34/10/2572/20129990/msx177.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4407157703",
+      "doi": "https://doi.org/10.1038/s41586-024-08531-5",
+      "display_name": "The genetic origin of the Indo-Europeans",
+      "publication_year": 2025,
+      "cited_by_count": 96,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1038/s41586-024-08531-5",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4389167331",
+      "doi": "https://doi.org/10.1038/s41588-023-01571-z",
+      "display_name": "Pangenome analysis reveals genomic variations associated with domestication traits in broomcorn millet",
+      "publication_year": 2023,
+      "cited_by_count": 89,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nature.com/articles/s41588-023-01571-z.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4395110588",
+      "doi": "https://doi.org/10.1038/s41586-024-07312-4",
+      "display_name": "Network of large pedigrees reveals social practices of Avar communities",
+      "publication_year": 2024,
+      "cited_by_count": 75,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.nature.com/articles/s41586-024-07312-4.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1754651357",
+      "doi": "https://doi.org/10.1186/s12863-015-0237-5",
+      "display_name": "Analysis of ancient human mitochondrial DNA from the Xiaohe cemetery: insights into prehistoric population movements in the Tarim Basin, China",
+      "publication_year": 2015,
+      "cited_by_count": 74,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://bmcgenomdata.biomedcentral.com/counter/pdf/10.1186/s12863-015-0237-5",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4378716443",
+      "doi": "https://doi.org/10.1038/s41467-023-38828-4",
+      "display_name": "Prehistoric population expansion in Central Asia promoted by the Altai Holocene Climatic Optimum",
+      "publication_year": 2023,
+      "cited_by_count": 68,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41467-023-38828-4.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

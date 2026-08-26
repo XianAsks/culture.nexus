@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 86,
+    "db_response_time_ms": 148,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (rainbow body dzogchen tibetan buddhism)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "rainbow body dzogchen tibetan buddhism",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:rainbow body dzogchen tibetan buddhism&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2831018033",
+      "doi": "https://doi.org/10.30664/ar.67574",
+      "display_name": "A brief history of Spiral Dynamics",
+      "publication_year": 2015,
+      "cited_by_count": 26,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://journal.fi/ar/article/download/67574/27870",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2612612805",
+      "doi": null,
+      "display_name": "Realization and Embodiment: Psychological Work in the Service of Spiritual Development",
+      "publication_year": 1999,
+      "cited_by_count": 10,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.ciis.edu/cgi/viewcontent.cgi?article=1320&context=ijts-transpersonalstudies",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2076760458",
+      "doi": "https://doi.org/10.1163/15734218-12341249",
+      "display_name": "Embodying Enlightenment: Physical Culture in Dzogchen as revealed in Tibet\u2019s Lukhang Murals",
+      "publication_year": 2012,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://brill.com/downloadpdf/journals/asme/7/1/article-p225_9.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1997617533",
+      "doi": "https://doi.org/10.3390/rel3020163",
+      "display_name": "Ch\u00f6gyal Namkhai Norbu Rinpoche: Dzogchen and Tibetan Tradition. From Shang Shung to the West",
+      "publication_year": 2012,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/3/2/163/pdf?version=1332509874",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W747312308",
+      "doi": "https://doi.org/10.25911/5d74e18ec27e7",
+      "display_name": "Rediscovering Western Tibet : Gonpa, Chorten and the continuity of practice with a Tibetan Buddhist community in the Indian Himalaya",
+      "publication_year": 1991,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1885/11288",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W4392096242",
+      "doi": "https://doi.org/10.1007/s11013-023-09844-2",
+      "display_name": "Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for the Tibetan Tukdam Postmortem Meditative State",
+      "publication_year": 2024,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1007/s11013-023-09844-2",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W3117375671",
+      "doi": "https://doi.org/10.25911/5f3a5cec3373d",
+      "display_name": "Contested past, challenging future: an ethnography of pre-Buddhist Bon religious practices in central Bhutan",
+      "publication_year": 2020,
+      "cited_by_count": 4,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://hdl.handle.net/1885/202646",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W2790327116",
+      "doi": "https://doi.org/10.24972/ijts.2001.20.1.151",
+      "display_name": "Death, Identity, and Enlightenment in Tibetan Culture",
+      "publication_year": 2001,
+      "cited_by_count": 3,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.24972/ijts.2001.20.1.151",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

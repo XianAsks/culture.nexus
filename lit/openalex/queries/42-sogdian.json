@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 55,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (sogdian merchants silk road network diaspora)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "sogdian merchants silk road network diaspora",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:sogdian merchants silk road network diaspora&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2123941965",
+      "doi": "https://doi.org/10.1163/156852003772914866",
+      "display_name": "The Sogdian Trade Diaspora in East Turkestan During the Seventh and Eighth Centuries",
+      "publication_year": 2003,
+      "cited_by_count": 66,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7167237154",
+      "doi": "https://doi.org/10.5281/zenodo.21154776",
+      "display_name": "SOGDIAN LANGUAGE AS AN ECONOMIC, SOCIAL AND CULTURAL INTEGRATIVE FACTOR IN CENTRAL ASIA AND ALONG THE GREAT SILK ROAD",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.5281/zenodo.21154776",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dataset"
+    },
+    {
+      "id": "https://openalex.org/W7167288161",
+      "doi": "https://doi.org/10.5281/zenodo.21154777",
+      "display_name": "SOGDIAN LANGUAGE AS AN ECONOMIC, SOCIAL AND CULTURAL INTEGRATIVE FACTOR IN CENTRAL ASIA AND ALONG THE GREAT SILK ROAD",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.5281/zenodo.21154777",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dataset"
+    },
+    {
+      "id": "https://openalex.org/W4415618671",
+      "doi": "https://doi.org/10.54254/2753-7064/2025.ht28823",
+      "display_name": "Reading Hierarchy on the Silk Road-- The Ancient Sogdian Letters and Sogdian Social Structure",
+      "publication_year": 2025,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.ewadirect.com/proceedings/chr/article/view/28823/pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 114,
+    "db_response_time_ms": 101,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (manichaeism central asia turfan light body)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "manichaeism central asia turfan light body",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:manichaeism central asia turfan light body&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2082847601",
+      "doi": "https://doi.org/10.12773/arwh.2014.2.1.105",
+      "display_name": "The Silk Road in World History: A Review Essay",
+      "publication_year": 2014,
+      "cited_by_count": 36,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://koreascience.or.kr:80/article/JAKO201405262621094.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4362572288",
+      "doi": "https://doi.org/10.1163/9789004508828_010",
+      "display_name": "Alignment Change and Changing Alignments: Armenian Syntax and the First \u2018Death\u2019 of Parthian",
+      "publication_year": 2022,
+      "cited_by_count": 19,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1163/9789004508828_010",
+        "any_repository_has_fulltext": true
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W2093253514",
+      "doi": "https://doi.org/10.4102/ve.v27i2.172",
+      "display_name": "Augustine and manichaeism: new discoveries, new perspectives",
+      "publication_year": 2006,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://verbumetecclesia.org.za/index.php/ve/article/download/172/139",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2159213649",
+      "doi": "https://doi.org/10.4102/ve.v30i2.362",
+      "display_name": "Manichaeism: Its sources and influences on Western Christianity",
+      "publication_year": 2009,
+      "cited_by_count": 6,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://verbumetecclesia.org.za/index.php/ve/article/download/362/319",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1521636837",
+      "doi": "https://doi.org/10.18910/8205",
+      "display_name": "Epistolary Formulae of the Old Uighur Letters from the Eastern Silk Road (Part 1)",
+      "publication_year": 2012,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/8205/mgsl051_A032.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W3033090053",
+      "doi": "https://doi.org/10.1007/s00048-020-00244-w",
+      "display_name": "The Conceptual Image of the Planets in Ancient Iran and the Process of Their Demonization: Visual Materials and Models of Inclusion and Exclusion in Iranian History of Knowledge",
+      "publication_year": 2020,
+      "cited_by_count": 5,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s00048-020-00244-w.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4394610323",
+      "doi": "https://doi.org/10.1163/9789004687288_005",
+      "display_name": "Uyghur Buddhism and the Impact of Manichaeism and Native Religion: The Case of Religious Terminology",
+      "publication_year": 2024,
+      "cited_by_count": 4,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://brill.com/downloadpdf/display/book/9789004687288/BP000018.pdf",
+        "any_repository_has_fulltext": null
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W3209058988",
+      "doi": "https://doi.org/10.46586/er.11.2020.9279",
+      "display_name": "Buddhist Indian Loanwords in Sogdian and the Development of Sogdian Buddhism",
+      "publication_year": 2021,
+      "cited_by_count": 4,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://er.ceres.rub.de/index.php/ER/article/download/9279/8830",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

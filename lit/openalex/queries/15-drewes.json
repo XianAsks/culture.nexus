@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "count": 6,
+    "db_response_time_ms": 144,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (early indian mahayana buddhism recent scholarship)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "early indian mahayana buddhism recent scholarship",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:early indian mahayana buddhism recent scholarship&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1601048442",
+      "doi": "https://doi.org/10.5860/choice.39-5769",
+      "display_name": "Buddhism: introducing the Buddhist experience",
+      "publication_year": 2002,
+      "cited_by_count": 102,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-review"
+    },
+    {
+      "id": "https://openalex.org/W612511974",
+      "doi": "https://doi.org/10.5860/choice.49-2004",
+      "display_name": "The taming of the demons: violence and liberation in Tibetan Buddhism",
+      "publication_year": 2011,
+      "cited_by_count": 75,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-review"
+    },
+    {
+      "id": "https://openalex.org/W2790280346",
+      "doi": "https://doi.org/10.1093/obo/9780195393521-0107",
+      "display_name": "Buddhism in India",
+      "publication_year": 2013,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "reference-entry"
+    },
+    {
+      "id": "https://openalex.org/W2791289756",
+      "doi": "https://doi.org/10.1093/obo/9780195393521-0084",
+      "display_name": "Mah\u0101mudr\u0101 in India",
+      "publication_year": 2012,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "reference-entry"
+    },
+    {
+      "id": "https://openalex.org/W4297971081",
+      "doi": "https://doi.org/10.1353/jbp.2018.0007",
+      "display_name": "Historical Dictionary of Chan Buddhism by Youru Wang\u2019s",
+      "publication_year": 2018,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2021358450",
+      "doi": "https://doi.org/10.1353/jas.2013.0004",
+      "display_name": "The Taming of the Demons: Violence and Liberation in Tibetan Buddhism by Jacob P. Dalton (review)",
+      "publication_year": 2013,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

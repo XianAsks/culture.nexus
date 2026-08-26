@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 389,
+    "db_response_time_ms": 159,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (gospel of mary magdalene gnostic apostle)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "gospel of mary magdalene gnostic apostle",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:gospel of mary magdalene gnostic apostle&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2120680572",
+      "doi": "https://doi.org/10.1017/s0017816014000133",
+      "display_name": "\u201cJesus said to them, \u2018My wife . . .'\u201d: A New Coptic Papyrus Fragment",
+      "publication_year": 2014,
+      "cited_by_count": 71,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://dash.harvard.edu/bitstreams/7312037d-26c9-6bd4-e053-0100007fdf3b/download",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2618450480",
+      "doi": null,
+      "display_name": "Revisiting the Empty Tomb: The Early History of Easter",
+      "publication_year": 2010,
+      "cited_by_count": 37,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ir.lib.uwo.ca/huron_theologypub/1",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W49390652",
+      "doi": "https://doi.org/10.1553/wst120s35",
+      "display_name": "Icarius Jesus Christ? Dionysiac Passion and Biblical Narrative in Nonnus Icarius Episode (Dion. 47, 1 264)",
+      "publication_year": 2007,
+      "cited_by_count": 25,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://www.austriaca.at/0xc1aa5572_0x0016ae88.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2163544067",
+      "doi": "https://doi.org/10.4102/hts.v57i1/2.1850",
+      "display_name": "The \"cause of Jesus\" (Sache Jesu) as the Canon behind the Canon",
+      "publication_year": 2001,
+      "cited_by_count": 24,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://hts.org.za/index.php/hts/article/download/1850/3143",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W282925401",
+      "doi": null,
+      "display_name": "Aspects of Historicity in the Gospel of John: Implications for Investigations of Jesus and Archaeology",
+      "publication_year": 2006,
+      "cited_by_count": 21,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.georgefox.edu/ccs/95",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2918085701",
+      "doi": "https://doi.org/10.1007/978-3-030-11111-3",
+      "display_name": "Mary and Early Christian Women : Hidden Leadership",
+      "publication_year": 2019,
+      "cited_by_count": 19,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://www.oapen.org/search?identifier=1007266",
+        "any_repository_has_fulltext": true
+      },
+      "type": "book"
+    },
+    {
+      "id": "https://openalex.org/W2969964194",
+      "doi": "https://doi.org/10.1080/0039338x.2018.1552894",
+      "display_name": "Fan fiction and early Christian apocrypha",
+      "publication_year": 2019,
+      "cited_by_count": 19,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://pure.au.dk/ws/files/212259767/Fan_Fiction_and_Early_Christian_Apocrypha_Comparing_Hypertextual_Apocrypha_AM.pdf",
+        "any_repository_has_fulltext": null
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2957469880",
+      "doi": "https://doi.org/10.35285/ucc2.1.2016.art2",
+      "display_name": "The Pauline Canon and Gnosticism",
+      "publication_year": 2016,
+      "cited_by_count": 16,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://uniocc.com/account/download_journal/2",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,3363 @@
+{
+  "hitCount": 69,
+  "nextCursorMark": "AoJbBCg0MjE1NDU4Ng==",
+  "results": [
+    {
+      "id": "25043035",
+      "source": "MED",
+      "pmid": "25043035",
+      "pmcid": "PMC4134395",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4134395"
+        ]
+      },
+      "doi": "10.1038/nature13408",
+      "title": "Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA.",
+      "authorString": "Huerta-S\u00e1nchez E, Jin X, Asan, Bianba Z, Peter BM, Vinckenbosch N, Liang Y, Yi X, He M, Somel M, Ni P, Wang B, Ou X, Huasang, Luosang J, Cuo ZX, Li K, Gao G, Yin Y, Wang W, Zhang X, Xu X, Yang H, Li Y, Wang J, Wang J, Nielsen R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Huerta-S\u00e1nchez E",
+            "firstName": "Emilia",
+            "lastName": "Huerta-S\u00e1nchez",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Department of Integrative Biology, University of California, Berkeley, California 94720 USA [3] School of Natural Sciences, University of California, Merced, California 95343 USA [4]."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jin X",
+            "firstName": "Xin",
+            "lastName": "Jin",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7554-4975"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] School of Bioscience and Bioengineering, South China University of Technology, Guangzhou 510006, China [3]."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Asan",
+            "lastName": "Asan",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Binhai Genomics Institute, BGI-Tianjin, Tianjin 300308, China [3] Tianjin Translational Genomics Center, BGI-Tianjin, Tianjin 300308, China [4]."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bianba Z",
+            "firstName": "Zhuoma",
+            "lastName": "Bianba",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] The People's Hospital of Lhasa, Lhasa 850000, China [2]."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Peter BM",
+            "firstName": "Benjamin M",
+            "lastName": "Peter",
+            "initials": "BM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Integrative Biology, University of California, Berkeley, California 94720 USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Vinckenbosch N",
+            "firstName": "Nicolas",
+            "lastName": "Vinckenbosch",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Integrative Biology, University of California, Berkeley, California 94720 USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liang Y",
+            "firstName": "Yu",
+            "lastName": "Liang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Binhai Genomics Institute, BGI-Tianjin, Tianjin 300308, China [3] Tianjin Translational Genomics Center, BGI-Tianjin, Tianjin 300308, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yi X",
+            "firstName": "Xin",
+            "lastName": "Yi",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Binhai Genomics Institute, BGI-Tianjin, Tianjin 300308, China [3] Tianjin Translational Genomics Center, BGI-Tianjin, Tianjin 300308, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He M",
+            "firstName": "Mingze",
+            "lastName": "He",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8164-2480"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Bioinformatics and Computational Biology Program, Iowa State University, Ames, Iowa 50011, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Somel M",
+            "firstName": "Mehmet",
+            "lastName": "Somel",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3138-1307"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biological Sciences, Middle East Technical University, 06800 Ankara, Turkey."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ni P",
+            "firstName": "Peixiang",
+            "lastName": "Ni",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang B",
+            "firstName": "Bo",
+            "lastName": "Wang",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ou X",
+            "firstName": "Xiaohua",
+            "lastName": "Ou",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huasang",
+            "lastName": "Huasang",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Luosang J",
+            "firstName": "Jiangbai",
+            "lastName": "Luosang",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cuo ZX",
+            "firstName": "Zha Xi Ping",
+            "lastName": "Cuo",
+            "initials": "ZX",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The Second People's Hospital of Tibet Autonomous Region, Lhasa 850000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li K",
+            "firstName": "Kui",
+            "lastName": "Li",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The People's Hospital of the Tibet Autonomous Region, Lhasa 850000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao G",
+            "firstName": "Guoyi",
+            "lastName": "Gao",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2090-8369"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "The hospital of XiShuangBanNa Dai Nationalities, Autonomous Jinghong, 666100 Yunnan, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yin Y",
+            "firstName": "Ye",
+            "lastName": "Yin",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang W",
+            "firstName": "Wei",
+            "lastName": "Wang",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang X",
+            "firstName": "Xiuqing",
+            "lastName": "Zhang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] The Guangdong Enterprise Key Laboratory of Human Disease Genomics, BGI-Shenzhen, 518083 Shenzhen, China [3] Shenzhen Key Laboratory of Transomics Biotechnologies, BGI-Shenzhen, 518083 Shenzhen, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu X",
+            "firstName": "Xun",
+            "lastName": "Xu",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5338-5173"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang H",
+            "firstName": "Huanming",
+            "lastName": "Yang",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0858-3410"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Princess Al Jawhara Center of Excellence in the Research of Hereditary Disorders, King Abdulaziz University, Jeddah 21589, Saudi Arabia [3] James D. Watson Institute of Genome Science, 310008 Hangzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li Y",
+            "firstName": "Yingrui",
+            "lastName": "Li",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "BGI-Shenzhen, Shenzhen 518083, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang J",
+            "firstName": "Jian",
+            "lastName": "Wang",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] James D. Watson Institute of Genome Science, 310008 Hangzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang J",
+            "firstName": "Jun",
+            "lastName": "Wang",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Princess Al Jawhara Center of Excellence in the Research of Hereditary Disorders, King Abdulaziz University, Jeddah 21589, Saudi Arabia [3] Department of Biology, University of Copenhagen, Ole Maal\u00f8esVej 5, 2200 Copenhagen, Denmark [4] Macau University of Science and Technology, AvenidaWai long, Taipa, Macau 999078, China [5] Department of Medicine, University of Hong Kong 999077, Hong Kong."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nielsen R",
+            "firstName": "Rasmus",
+            "lastName": "Nielsen",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0513-6591"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Department of Integrative Biology, University of California, Berkeley, California 94720 USA [3] Department of Statistics, University of California, Berkeley, California 94720, USA [4] Department of Biology, University of Copenhagen, 2200 Copenhagen, Denmark."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7554-4975"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0858-3410"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2113-5874"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3138-1307"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5338-5173"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8164-2480"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8540-8931"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0513-6591"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2090-8369"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data",
+          "recommended_reviews",
+          "related_data",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "issue": "7513",
+        "volume": "512",
+        "journalIssueId": 2191000,
+        "dateOfPublication": "2014 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2014,
+        "printPublicationDate": "2014-08-01",
+        "journal": {
+          "title": "Nature",
+          "medlineAbbreviation": "Nature",
+          "essn": "1476-4687",
+          "isoabbreviation": "Nature",
+          "issn": "0028-0836",
+          "nlmid": "0410462"
+        }
+      },
+      "pubYear": "2014",
+      "pageInfo": "194-197",
+      "abstractText": "As modern humans migrated out of Africa, they encountered many new environmental conditions, including greater temperature extremes, different pathogens and higher altitudes. These diverse environments are likely to have acted as agents of natural selection and to have led to local adaptations. One of the most celebrated examples in humans is the adaptation of Tibetans to the hypoxic environment of the high-altitude Tibetan plateau. A hypoxia pathway gene, EPAS1, was previously identified as having the most extreme signature of positive selection in Tibetans, and was shown to be associated with differences in haemoglobin concentration at high altitude. Re-sequencing the region around EPAS1 in 40 Tibetan and 40 Han individuals, we find that this gene has a highly unusual haplotype structure that can only be convincingly explained by introgression of DNA from Denisovan or Denisovan-related individuals into humans. Scanning a larger set of worldwide populations, we find that the selected haplotype is only found in Denisovans and in Tibetans, and at very low frequency among Han Chinese. Furthermore, the length of the haplotype, and the fact that it is not found in any other populations, makes it unlikely that the haplotype sharing between Tibetans and Denisovans was caused by incomplete ancestral lineage sorting rather than introgression. Our findings illustrate that admixture with other hominin species has provided genetic variation that helped humans to adapt to new environments.",
+      "affiliation": "1] BGI-Shenzhen, Shenzhen 518083, China [2] Department of Integrative Biology, University of California, Berkeley, California 94720 USA [3] School of Natural Sciences, University of California, Merced, California 95343 USA [4].",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "R01HG003229-08S2",
+            "agency": "NHGRI NIH HHS",
+            "acronym": "HG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01HG003229",
+            "agency": "NHGRI NIH HHS",
+            "acronym": "HG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 HG003229",
+            "agency": "NHGRI NIH HHS",
+            "acronym": "HG",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hominidae",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Altitude"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adaptation, Physiological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Frequency"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Polymorphism, Single Nucleotide"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genetic Variation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Asian People",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Basic Helix-Loop-Helix Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Endothelial PAS Domain-Containing Protein 1"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA",
+            "registryNumber": "9007-49-2"
+          },
+          {
+            "name": "basic helix-loop-helix proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "endothelial PAS domain-containing protein 1",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nature13408"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4134395"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4134395?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "25022908",
+            "source": "MED",
+            "reference": "Nat Rev Genet. 2014 Sep;15(9):573. doi: 10.1038/nrg3793.",
+            "type": "Comment in",
+            "orderIn": 1
+          },
+          {
+            "id": "25247359",
+            "source": "MED",
+            "reference": "Curr Biol. 2014 Sep 22;24(18):R845-R848. doi: 10.1016/j.cub.2014.07.079.",
+            "type": "Comment in",
+            "orderIn": 2
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 796,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "OMIM",
+          "UNIPROT"
+        ]
+      },
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "Y",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "Y",
+      "manuscriptId": "NIHMS590621",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2014-09-05",
+      "dateOfCreation": "2014-07-22",
+      "firstIndexDate": "2014-07-22",
+      "fullTextReceivedDate": "2025-02-05",
+      "dateOfRevision": "2026-01-28",
+      "electronicPublicationDate": "2014-07-02",
+      "firstPublicationDate": "2014-07-02"
+    },
+    {
+      "id": "25319824",
+      "source": "MED",
+      "pmid": "25319824",
+      "pmcid": "PMC4201282",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4201282"
+        ]
+      },
+      "doi": "10.1101/gad.250167.114",
+      "title": "Human high-altitude adaptation: forward genetics meets the HIF pathway.",
+      "authorString": "Bigham AW, Lee FS.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bigham AW",
+            "firstName": "Abigail W",
+            "lastName": "Bigham",
+            "initials": "AW",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, University of Michigan, Ann Arbor, Michigan 48109, USA;"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lee FS",
+            "firstName": "Frank S",
+            "lastName": "Lee",
+            "initials": "FS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2511-1834"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA franklee@mail.med.upenn.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2511-1834"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "20",
+        "volume": "28",
+        "journalIssueId": 2212155,
+        "dateOfPublication": "2014 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2014,
+        "printPublicationDate": "2014-10-01",
+        "journal": {
+          "title": "Genes & development",
+          "medlineAbbreviation": "Genes Dev",
+          "essn": "1549-5477",
+          "isoabbreviation": "Genes Dev",
+          "issn": "0890-9369",
+          "nlmid": "8711660"
+        }
+      },
+      "pubYear": "2014",
+      "pageInfo": "2189-2204",
+      "abstractText": "Humans have adapted to the chronic hypoxia of high altitude in several locations, and recent genome-wide studies have indicated a genetic basis. In some populations, genetic signatures have been identified in the hypoxia-inducible factor (HIF) pathway, which orchestrates the transcriptional response to hypoxia. In Tibetans, they have been found in the HIF2A (EPAS1) gene, which encodes for HIF-2\u03b1, and the prolyl hydroxylase domain protein 2 (PHD2, also known as EGLN1) gene, which encodes for one of its key regulators, PHD2. High-altitude adaptation may be due to multiple genes that act in concert with one another. Unraveling their mechanism of action can offer new therapeutic approaches toward treating common human diseases characterized by chronic hypoxia.",
+      "affiliation": "Department of Anthropology, University of Michigan, Ann Arbor, Michigan 48109, USA;",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "R01-CA153347",
+            "agency": "NCI NIH HHS",
+            "acronym": "CA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01-GM090301",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 CA153347",
+            "agency": "NCI NIH HHS",
+            "acronym": "CA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01-CA153347",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21-HL120751",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "BCS-1132310",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01-GM090301",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 GM090301",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21 HL120751",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21-HL120751",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Altitude"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adaptation, Physiological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hypoxia-Inducible Factor-Proline Dioxygenases",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hypoxia",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Basic Helix-Loop-Helix Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Endothelial PAS Domain-Containing Protein 1"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Hypoxia",
+          "Hif",
+          "Egln1",
+          "High-altitude Adaptation",
+          "Phd2",
+          "Tibetan Adaptation"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "basic helix-loop-helix proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "EGLN1 protein, human",
+            "registryNumber": "EC 1.14.11.2"
+          },
+          {
+            "name": "endothelial PAS domain-containing protein 1",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Hypoxia-Inducible Factor-Proline Dioxygenases",
+            "registryNumber": "EC 1.14.11.29"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1101/gad.250167.114"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4201282"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4201282?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 269,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp"
+        ]
+      },
+      "dateOfCompletion": "2014-12-12",
+      "dateOfCreation": "2014-10-17",
+      "firstIndexDate": "2014-10-17",
+      "fullTextReceivedDate": "2020-07-10",
+      "dateOfRevision": "2026-01-28",
+      "firstPublicationDate": "2014-10-01"
+    },
+    {
+      "id": "31154977",
+      "source": "MED",
+      "pmid": "31154977",
+      "pmcid": "PMC6560271",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6560271"
+        ]
+      },
+      "doi": "10.1098/rstb.2018.0235",
+      "title": "Convergent evolution in human and domesticate adaptation to high-altitude environments.",
+      "authorString": "Witt KE, Huerta-S\u00e1nchez E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Witt KE",
+            "firstName": "Kelsey E",
+            "lastName": "Witt",
+            "initials": "KE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3242-2123"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1 Cell and Molecular Biology, University of California-Merced , 5200 Lake Road., Merced, CA 95340 , USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huerta-S\u00e1nchez E",
+            "firstName": "Emilia",
+            "lastName": "Huerta-S\u00e1nchez",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "1 Cell and Molecular Biology, University of California-Merced , 5200 Lake Road., Merced, CA 95340 , USA."
+                },
+                {
+                  "affiliation": "2 Ecology and Evolutionary Biology, Brown University , Box G-W, 80 Waterman Street, Providence, RI 02912 , USA."
+                },
+                {
+                  "affiliation": "3 Center for Computational Biology, Brown University , Box G-W, 115 Waterman Street., Providence, RI 02912 , USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3242-2123"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1777",
+        "volume": "374",
+        "journalIssueId": 2822437,
+        "dateOfPublication": "2019 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-07-01",
+        "journal": {
+          "title": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+          "medlineAbbreviation": "Philos Trans R Soc Lond B Biol Sci",
+          "essn": "1471-2970",
+          "isoabbreviation": "Philos Trans R Soc Lond B Biol Sci",
+          "issn": "0962-8436",
+          "nlmid": "7503623"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "20180235",
+      "abstractText": "Humans and their domestic animals have lived and thrived in high-altitude environments worldwide for thousands of years. These populations have developed a number of adaptations to survive in a hypoxic environment, and several genomic studies have been conducted to identify the genes that drive these adaptations. Here, we discuss the various adaptations and genetic variants that have been identified as adaptive in human and domestic animal populations and the ways in which convergent evolution has occurred as these populations have adapted to high-altitude environments. We found that human and domesticate populations have adapted to hypoxic environments in similar ways. Specific genes and biological pathways have been involved in high-altitude adaptation for multiple populations, although the specific variants differ between populations. Additionally, we found that the gene EPAS1 is often a target of selection in hypoxic environments and has been involved in multiple adaptive introgression events. High-altitude environments exert strong selective pressures, and human and animal populations have evolved in convergent ways to cope with a chronic lack of oxygen. This article is part of the theme issue 'Convergent evolution in the genomics era: new insights and directions'.",
+      "affiliation": "1 Cell and Molecular Biology, University of California-Merced , 5200 Lake Road., Merced, CA 95340 , USA.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "NSF DEB-1557151",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "1R35GM128946-01",
+            "agency": "National Institute of General Medical Sciences",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35 GM128946",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Oxygen",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Altitude"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Adaptation, Physiological"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Acclimatization"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Selection, Genetic"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Biological Evolution"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Domestication"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Domestication",
+          "High altitude",
+          "Convergent Evolution",
+          "Human Adaptation"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Oxygen",
+            "registryNumber": "S88TT14065"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0235"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1098/rstb.2018.0235"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6560271"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6560271?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 125,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-04-27",
+      "dateOfCreation": "2019-06-04",
+      "firstIndexDate": "2019-06-03",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2020-04-27",
+      "electronicPublicationDate": "2019-06-03",
+      "firstPublicationDate": "2019-06-03"
+    },
+    {
+      "id": "36737647",
+      "source": "MED",
+      "pmid": "36737647",
+      "pmcid": "PMC9897628",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC9897628"
+        ]
+      },
+      "doi": "10.1038/s41576-022-00568-4",
+      "title": "Human-specific genetics: new tools to explore the molecular and cellular basis of human evolution.",
+      "authorString": "Pollen AA, Kilik U, Lowe CB, Camp JG.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Pollen AA",
+            "firstName": "Alex A",
+            "lastName": "Pollen",
+            "initials": "AA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3263-8634"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, San Francisco, CA, USA. alex.pollen@ucsf.edu."
+                },
+                {
+                  "affiliation": "Department of Neurology, University of California, San Francisco, San Francisco, CA, USA. alex.pollen@ucsf.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kilik U",
+            "firstName": "Umut",
+            "lastName": "Kilik",
+            "initials": "U",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6386-8294"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Human Biology (IHB), Roche Pharma Research and Early Development, Roche Innovation Center Basel, Basel, Switzerland."
+                },
+                {
+                  "affiliation": "University of Basel, Basel, Switzerland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lowe CB",
+            "firstName": "Craig B",
+            "lastName": "Lowe",
+            "initials": "CB",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6838-1976"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Genetics and Microbiology, Duke University School of Medicine, Durham, NC, USA. craig.lowe@duke.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Camp JG",
+            "firstName": "J Gray",
+            "lastName": "Camp",
+            "initials": "JG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Human Biology (IHB), Roche Pharma Research and Early Development, Roche Innovation Center Basel, Basel, Switzerland. jarrettgrayson.camp@unibas.ch."
+                },
+                {
+                  "affiliation": "University of Basel, Basel, Switzerland. jarrettgrayson.camp@unibas.ch."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6386-8294"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6838-1976"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3263-8634"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "10",
+        "volume": "24",
+        "journalIssueId": 3633912,
+        "dateOfPublication": "2023 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2023,
+        "printPublicationDate": "2023-10-01",
+        "journal": {
+          "title": "Nature reviews. Genetics",
+          "medlineAbbreviation": "Nat Rev Genet",
+          "essn": "1471-0064",
+          "isoabbreviation": "Nat Rev Genet",
+          "issn": "1471-0056",
+          "nlmid": "100962779"
+        }
+      },
+      "pubYear": "2023",
+      "pageInfo": "687-711",
+      "abstractText": "Our ancestors acquired morphological, cognitive and metabolic modifications that enabled humans to colonize diverse habitats, develop extraordinary technologies and reshape the biosphere. Understanding the genetic, developmental and molecular bases for these changes will provide insights into how we became human. Connecting human-specific genetic changes to species differences has been challenging owing to an abundance of low-effect size genetic changes, limited descriptions of phenotypic differences across development at the level of cell types and lack of experimental models. Emerging approaches for single-cell sequencing, genetic manipulation and stem cell culture now support descriptive and functional studies in defined cell types with a human or ape genetic background. In this Review, we describe how the sequencing of genomes from modern and archaic hominins, great apes and other primates is revealing human-specific genetic changes and how new molecular and cellular approaches - including cell atlases and organoids - are enabling exploration of the candidate causal factors that underlie human-specific traits.",
+      "affiliation": "Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California, San Francisco, San Francisco, CA, USA. alex.pollen@ucsf.edu.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "803441",
+            "agency": "European Research Council",
+            "orderIn": 0
+          },
+          {
+            "grantId": "DP2 MH122400",
+            "agency": "NIMH NIH HHS",
+            "acronym": "MH",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35 HG011332",
+            "agency": "NHGRI NIH HHS",
+            "acronym": "HG",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Organoids"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Hominidae",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Evolution, Molecular"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Biological Evolution"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41576-022-00568-4.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41576-022-00568-4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9897628"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9897628?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 93,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "pdb"
+        ]
+      },
+      "dateOfCompletion": "2023-09-18",
+      "dateOfCreation": "2023-02-03",
+      "firstIndexDate": "2023-02-04",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2024-09-12",
+      "electronicPublicationDate": "2023-02-03",
+      "firstPublicationDate": "2023-02-03"
+    },
+    {
+      "id": "32555579",
+      "source": "MED",
+      "pmid": "32555579",
+      "pmcid": "PMC7326285",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7326285"
+        ]
+      },
+      "doi": "10.1371/journal.pgen.1008867",
+      "title": "VolcanoFinder: Genomic scans for adaptive introgression.",
+      "authorString": "Setter D, Mousset S, Cheng X, Nielsen R, DeGiorgio M, Hermisson J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Setter D",
+            "firstName": "Derek",
+            "lastName": "Setter",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7101-443X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mathematics, University of Vienna, Vienna, Austria."
+                },
+                {
+                  "affiliation": "Vienna Graduate School of Population Genetics, Vienna, Austria."
+                },
+                {
+                  "affiliation": "School of Biological Sciences, University of Edinburgh, Edinburgh, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mousset S",
+            "firstName": "Sylvain",
+            "lastName": "Mousset",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mathematics, University of Vienna, Vienna, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cheng X",
+            "firstName": "Xiaoheng",
+            "lastName": "Cheng",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4967-8907"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Huck Institutes of the Life Sciences, Pennsylvania State University, University Park, Pennsylvania, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nielsen R",
+            "firstName": "Rasmus",
+            "lastName": "Nielsen",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Departments of Integrative Biology and Statistics, University of California, Berkeley, Berkeley, California, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "DeGiorgio M",
+            "firstName": "Michael",
+            "lastName": "DeGiorgio",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4908-7234"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Computer and Electrical Engineering and Computer Science, Florida Atlantic University, Boca Raton, Florida, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hermisson J",
+            "firstName": "Joachim",
+            "lastName": "Hermisson",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7476-9283"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Mathematics, University of Vienna, Vienna, Austria."
+                },
+                {
+                  "affiliation": "Vienna Graduate School of Population Genetics, Vienna, Austria."
+                },
+                {
+                  "affiliation": "Max F. Perutz Laboratories, University of Vienna, Vienna, Austria."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7476-9283"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7101-443X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4908-7234"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4967-8907"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "6",
+        "volume": "16",
+        "journalIssueId": 2961150,
+        "dateOfPublication": "2020 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-06-01",
+        "journal": {
+          "title": "PLoS genetics",
+          "medlineAbbreviation": "PLoS Genet",
+          "essn": "1553-7404",
+          "isoabbreviation": "PLoS Genet",
+          "issn": "1553-7390",
+          "nlmid": "101239074"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "e1008867",
+      "abstractText": "Recent research shows that introgression between closely-related species is an important source of adaptive alleles for a wide range of taxa. Typically, detection of adaptive introgression from genomic data relies on comparative analyses that require sequence data from both the recipient and the donor species. However, in many cases, the donor is unknown or the data is not currently available. Here, we introduce a genome-scan method-VolcanoFinder-to detect recent events of adaptive introgression using polymorphism data from the recipient species only. VolcanoFinder detects adaptive introgression sweeps from the pattern of excess intermediate-frequency polymorphism they produce in the flanking region of the genome, a pattern which appears as a volcano-shape in pairwise genetic diversity. Using coalescent theory, we derive analytical predictions for these patterns. Based on these results, we develop a composite-likelihood test to detect signatures of adaptive introgression relative to the genomic background. Simulation results show that VolcanoFinder has high statistical power to detect these signatures, even for older sweeps and for soft sweeps initiated by multiple migrant haplotypes. Finally, we implement VolcanoFinder to detect archaic introgression in European and sub-Saharan African human populations, and uncovered interesting candidates in both populations, such as TSHR in Europeans and TCHH-RPTN in Africans. We discuss their biological implications and provide guidelines for identifying and circumventing artifactual signals during empirical applications of VolcanoFinder.",
+      "affiliation": "Department of Mathematics, University of Vienna, Vienna, Austria.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "R35 GM128590",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "W 1225",
+            "agency": "Austrian Science Fund FWF",
+            "acronym": "FWF_",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Intermediate Filament Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "S100 Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Receptors, Thyrotropin",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Antigens",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genetics, Population",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "MT",
+                  "qualifierName": "methods",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Evolution, Molecular"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Polymorphism, Genetic"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Alleles"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome, Human",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Models, Genetic"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Computer Simulation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Software"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Africa South of the Sahara"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Europe"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Selection, Genetic"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genetic Introgression"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "White People",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Black People",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Antigens",
+            "registryNumber": "0"
+          },
+          {
+            "name": "S100 Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Intermediate Filament Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Receptors, Thyrotropin",
+            "registryNumber": "0"
+          },
+          {
+            "name": "TCHH protein, human",
+            "registryNumber": "0"
+          },
+          {
+            "name": "RPTN protein, human",
+            "registryNumber": "0"
+          },
+          {
+            "name": "TSHR protein, human",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.pgen.1008867"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7326285"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7326285?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR85406",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 87,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2020-08-31",
+      "dateOfCreation": "2020-06-20",
+      "firstIndexDate": "2020-06-20",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2025-05-30",
+      "electronicPublicationDate": "2020-06-18",
+      "firstPublicationDate": "2020-06-18"
+    },
+    {
+      "id": "28448578",
+      "source": "MED",
+      "pmid": "28448578",
+      "pmcid": "PMC5407610",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC5407610"
+        ]
+      },
+      "doi": "10.1371/journal.pgen.1006675",
+      "title": "Evolutionary history of Tibetans inferred from whole-genome sequencing.",
+      "authorString": "Hu H, Petousi N, Glusman G, Yu Y, Bohlender R, Tashi T, Downie JM, Roach JC, Cole AM, Lorenzo FR, Rogers AR, Brunkow ME, Cavalleri G, Hood L, Alpatty SM, Prchal JT, Jorde LB, Robbins PA, Simonson TS, Huff CD.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hu H",
+            "firstName": "Hao",
+            "lastName": "Hu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology, University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Petousi N",
+            "firstName": "Nayia",
+            "lastName": "Petousi",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5524-020X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Glusman G",
+            "firstName": "Gustavo",
+            "lastName": "Glusman",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8060-5955"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Systems Biology, Seattle, Washington, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yu Y",
+            "firstName": "Yao",
+            "lastName": "Yu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology, University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bohlender R",
+            "firstName": "Ryan",
+            "lastName": "Bohlender",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6347-0494"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, University of Utah, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tashi T",
+            "firstName": "Tsewang",
+            "lastName": "Tashi",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2785-866X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, University of Utah School of Medicine and George E. Wahlin Veterans Administration Medical Center, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Downie JM",
+            "firstName": "Jonathan M",
+            "lastName": "Downie",
+            "initials": "JM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5424-4401"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Human Genetics, University of Utah, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Roach JC",
+            "firstName": "Jared C",
+            "lastName": "Roach",
+            "initials": "JC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Systems Biology, Seattle, Washington, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cole AM",
+            "firstName": "Amy M",
+            "lastName": "Cole",
+            "initials": "AM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4429-1105"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Cellular Therapeutics, The Royal College of Surgeons in Ireland, Dublin, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lorenzo FR",
+            "firstName": "Felipe R",
+            "lastName": "Lorenzo",
+            "initials": "FR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, University of Utah School of Medicine and George E. Wahlin Veterans Administration Medical Center, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rogers AR",
+            "firstName": "Alan R",
+            "lastName": "Rogers",
+            "initials": "AR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3987-3346"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology, University of Utah, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Brunkow ME",
+            "firstName": "Mary E",
+            "lastName": "Brunkow",
+            "initials": "ME",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Systems Biology, Seattle, Washington, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cavalleri G",
+            "firstName": "Gianpiero",
+            "lastName": "Cavalleri",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9802-0506"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular and Cellular Therapeutics, The Royal College of Surgeons in Ireland, Dublin, Ireland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hood L",
+            "firstName": "Leroy",
+            "lastName": "Hood",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Systems Biology, Seattle, Washington, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Alpatty SM",
+            "firstName": "Sama M",
+            "lastName": "Alpatty",
+            "initials": "SM",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Skaggs School of Pharmacy and Pharmaceutical Science, UC San Diego, La Jolla, California, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Prchal JT",
+            "firstName": "Josef T",
+            "lastName": "Prchal",
+            "initials": "JT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, University of Utah School of Medicine and George E. Wahlin Veterans Administration Medical Center, Salt Lake City, Utah, United States of America."
+                },
+                {
+                  "affiliation": "Department of Human Genetics, University of Utah, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jorde LB",
+            "firstName": "Lynn B",
+            "lastName": "Jorde",
+            "initials": "LB",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Human Genetics, University of Utah, Salt Lake City, Utah, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Robbins PA",
+            "firstName": "Peter A",
+            "lastName": "Robbins",
+            "initials": "PA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4975-0609"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, United Kingdom."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Simonson TS",
+            "firstName": "Tatum S",
+            "lastName": "Simonson",
+            "initials": "TS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Medicine, Division of Physiology, University of California San Diego, La Jolla, California, United States of America."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huff CD",
+            "firstName": "Chad D",
+            "lastName": "Huff",
+            "initials": "CD",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology, University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8060-5955"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2785-866X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4975-0609"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5424-4401"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5524-020X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6347-0494"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9802-0506"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3987-3346"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4429-1105"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "4",
+        "volume": "13",
+        "journalIssueId": 2543034,
+        "dateOfPublication": "2017 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2017,
+        "printPublicationDate": "2017-04-01",
+        "journal": {
+          "title": "PLoS genetics",
+          "medlineAbbreviation": "PLoS Genet",
+          "essn": "1553-7404",
+          "isoabbreviation": "PLoS Genet",
+          "issn": "1553-7390",
+          "nlmid": "101239074"
+        }
+      },
+      "pubYear": "2017",
+      "pageInfo": "e1006675",
+      "abstractText": "The indigenous people of the Tibetan Plateau have been the subject of much recent interest because of their unique genetic adaptations to high altitude. Recent studies have demonstrated that the Tibetan EPAS1 haplotype is involved in high altitude-adaptation and originated in an archaic Denisovan-related population. We sequenced the whole-genomes of 27 Tibetans and conducted analyses to infer a detailed history of demography and natural selection of this population. We detected evidence of population structure between the ancestral Han and Tibetan subpopulations as early as 44 to 58 thousand years ago, but with high rates of gene flow until approximately 9 thousand years ago. The CMS test ranked EPAS1 and EGLN1 as the top two positive selection candidates, and in addition identified PTGIS, VDR, and KCTD12 as new candidate genes. The advantageous Tibetan EPAS1 haplotype shared many variants with the Denisovan genome, with an ancient gene tree divergence between the Tibetan and Denisovan haplotypes of about 1 million years ago. With the exception of EPAS1, we observed no evidence of positive selection on Denisovan-like haplotypes.",
+      "affiliation": "Department of Epidemiology, University of Texas MD Anderson Cancer Center, Houston, Texas, United States of America.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "I01 CX001372",
+            "agency": "CSRD VA",
+            "acronym": "CX",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CA016672",
+            "agency": "National Cancer Institute",
+            "orderIn": 0
+          },
+          {
+            "grantId": "GM104390",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "AMS-SGCL11-Petousi",
+            "agency": "Academy of Medical Sciences",
+            "acronym": "AMS_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R00 HL118215",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R25 CA057730",
+            "agency": "NCI NIH HHS",
+            "acronym": "CA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "GM118335",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R25CA057730",
+            "agency": "National Cancer Institute",
+            "orderIn": 0
+          },
+          {
+            "grantId": "GM59290",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P50 GM076547",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 GM059290",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": " 089457/Z/09/Z",
+            "agency": "Wellcome Trust",
+            "acronym": "WT_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CL-2013-13-003",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          },
+          {
+            "agency": "Wellcome Trust",
+            "acronym": "WT_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "089457/Z/09/Z",
+            "agency": "Wellcome Trust",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P30 CA016672",
+            "agency": "NCI NIH HHS",
+            "acronym": "CA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R00 HL118215,",
+            "agency": "National Heart, Lung, and Blood Institute",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 GM104390",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35 GM118335",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cytochrome P-450 Enzyme System",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Receptors, Calcitriol",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Altitude"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adaptation, Physiological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Human"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Selection, Genetic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Molecular Sequence Annotation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "High-Throughput Nucleotide Sequencing"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hypoxia-Inducible Factor-Proline Dioxygenases",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Basic Helix-Loop-Helix Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Endothelial PAS Domain-Containing Protein 1"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "PTGIS protein, human",
+            "registryNumber": "EC 5.3.99.4"
+          },
+          {
+            "name": "Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Cytochrome P-450 Enzyme System",
+            "registryNumber": "9035-51-2"
+          },
+          {
+            "name": "Receptors, Calcitriol",
+            "registryNumber": "0"
+          },
+          {
+            "name": "basic helix-loop-helix proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "EGLN1 protein, human",
+            "registryNumber": "EC 1.14.11.2"
+          },
+          {
+            "name": "endothelial PAS domain-containing protein 1",
+            "registryNumber": "0"
+          },
+          {
+            "name": "KCTD12 protein, human",
+            "registryNumber": "0"
+          },
+          {
+            "name": "VDR protein, human",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Hypoxia-Inducible Factor-Proline Dioxygenases",
+            "registryNumber": "EC 1.14.11.29"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1371/journal.pgen.1006675"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5407610"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5407610?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 80,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "dbgap",
+          "go"
+        ]
+      },
+      "dateOfCompletion": "2017-05-30",
+      "dateOfCreation": "2017-04-28",
+      "firstIndexDate": "2017-04-28",
+      "fullTextReceivedDate": "2020-07-11",
+      "dateOfRevision": "2026-01-27",
+      "electronicPublicationDate": "2017-04-27",
+      "firstPublicationDate": "2017-04-27"
+    },
+    {
+      "id": "34050022",
+      "source": "MED",
+      "pmid": "34050022",
+      "pmcid": "PMC8179186",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC8179186"
+        ]
+      },
+      "doi": "10.1073/pnas.2020803118",
+      "title": "The history and evolution of the Denisovan-<i>EPAS1</i> haplotype in Tibetans.",
+      "authorString": "Zhang X, Witt KE, Ba\u00f1uelos MM, Ko A, Yuan K, Xu S, Nielsen R, Huerta-Sanchez E.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhang X",
+            "firstName": "Xinjun",
+            "lastName": "Zhang",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1298-3545"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA 90095."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Witt KE",
+            "firstName": "Kelsey E",
+            "lastName": "Witt",
+            "initials": "KE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-3242-2123"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ecology and Evolutionary Biology, Brown University, Providence, RI 02912."
+                },
+                {
+                  "affiliation": "Center for Computational Molecular Biology, Brown University, Providence, RI 02912."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ba\u00f1uelos MM",
+            "firstName": "Mayra M",
+            "lastName": "Ba\u00f1uelos",
+            "initials": "MM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6292-6269"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ecology and Evolutionary Biology, Brown University, Providence, RI 02912."
+                },
+                {
+                  "affiliation": "Center for Computational Molecular Biology, Brown University, Providence, RI 02912."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ko A",
+            "firstName": "Amy",
+            "lastName": "Ko",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Integrative Biology, University of California, Berkeley, CA 94720."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yuan K",
+            "firstName": "Kai",
+            "lastName": "Yuan",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8460-6581"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Excellence in Animal Evolution and Genetics, Chinese Academy of Sciences, Kunming 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu S",
+            "firstName": "Shuhua",
+            "lastName": "Xu",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1975-1002"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Excellence in Animal Evolution and Genetics, Chinese Academy of Sciences, Kunming 650223, China."
+                },
+                {
+                  "affiliation": "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+                },
+                {
+                  "affiliation": "State Key Laboratory of Genetic Engineering, Collaborative Innovation Center for Genetics and Development, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nielsen R",
+            "firstName": "Rasmus",
+            "lastName": "Nielsen",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Integrative Biology, University of California, Berkeley, CA 94720."
+                },
+                {
+                  "affiliation": "Globe Institute, University of Copenhagen, DK-1165 Copenhagen, Denmark."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huerta-Sanchez E",
+            "firstName": "Emilia",
+            "lastName": "Huerta-Sanchez",
+            "initials": "E",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1506-5494"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Ecology and Evolutionary Biology, Brown University, Providence, RI 02912; emilia_huerta-sanchez@brown.edu."
+                },
+                {
+                  "affiliation": "Center for Computational Molecular Biology, Brown University, Providence, RI 02912."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1506-5494"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1975-1002"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-3242-2123"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6292-6269"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8460-6581"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1298-3545"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data",
+          "related_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "22",
+        "volume": "118",
+        "journalIssueId": 3168397,
+        "dateOfPublication": "2021 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2021,
+        "printPublicationDate": "2021-06-01",
+        "journal": {
+          "title": "Proceedings of the National Academy of Sciences of the United States of America",
+          "medlineAbbreviation": "Proc Natl Acad Sci U S A",
+          "essn": "1091-6490",
+          "isoabbreviation": "Proc Natl Acad Sci U S A",
+          "issn": "0027-8424",
+          "nlmid": "7505876"
+        }
+      },
+      "pubYear": "2021",
+      "pageInfo": "e2020803118",
+      "abstractText": "Recent studies suggest that admixture with archaic hominins played an important role in facilitating biological adaptations to new environments. For example, interbreeding with Denisovans facilitated the adaptation to high-altitude environments on the Tibetan Plateau. Specifically, the <i>EPAS1</i> gene, a transcription factor that regulates the response to hypoxia, exhibits strong signatures of both positive selection and introgression from Denisovans in Tibetan individuals. Interestingly, despite being geographically closer to the Denisova Cave, East Asian populations do not harbor as much Denisovan ancestry as populations from Melanesia. Recently, two studies have suggested two independent waves of Denisovan admixture into East Asians, one of which is shared with South Asians and Oceanians. Here, we leverage data from <i>EPAS1</i> in 78 Tibetan individuals to interrogate which of these two introgression events introduced the <i>EPAS1</i> beneficial sequence into the ancestral population of Tibetans, and we use the distribution of introgressed segment lengths at this locus to infer the timing of the introgression and selection event. We find that the introgression event unique to East Asians most likely introduced the beneficial haplotype into the ancestral population of Tibetans around 48,700 (16,000-59,500) y ago, and selection started around 9,000 (2,500-42,000) y ago. Our estimates suggest that one of the most convincing examples of adaptive introgression is in fact selection acting on standing archaic variation.",
+      "affiliation": "Department of Ecology and Evolutionary Biology, University of California, Los Angeles, CA 90095.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "T32 GM128596",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35GM128946",
+            "agency": "HHS | NIH | National Institute of General Medical Sciences",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35 GM128946",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35 GM119856",
+            "agency": "NIGMS NIH HHS",
+            "acronym": "GM",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Altitude"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adaptation, Physiological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Evolution, Molecular"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Basic Helix-Loop-Helix Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Endothelial PAS Domain-Containing Protein 1"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Adaptation",
+          "Natural selection",
+          "High altitude",
+          "Admixture",
+          "Archaic Introgression"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "basic helix-loop-helix proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "endothelial PAS domain-containing protein 1",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "https://escholarship.org/uc/item/5gn666mz"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1073/pnas.2020803118"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8179186"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8179186?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "PPR220516",
+            "source": "PPR",
+            "type": "Preprint in",
+            "note": "CrossRef Pre-print loader",
+            "orderIn": 10002
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 75,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "UNIPROT"
+        ]
+      },
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2021-12-03",
+      "dateOfCreation": "2021-05-29",
+      "firstIndexDate": "2021-05-30",
+      "fullTextReceivedDate": "2025-02-02",
+      "dateOfRevision": "2026-01-27",
+      "firstPublicationDate": "2021-06-01"
+    },
+    {
+      "id": "32849780",
+      "source": "MED",
+      "pmid": "32849780",
+      "pmcid": "PMC7387696",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7387696"
+        ]
+      },
+      "doi": "10.3389/fgene.2020.00743",
+      "title": "Cross-Species Insights Into Genomic Adaptations to Hypoxia.",
+      "authorString": "Pamenter ME, Hall JE, Tanabe Y, Simonson TS.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Pamenter ME",
+            "firstName": "Matthew E",
+            "lastName": "Pamenter",
+            "initials": "ME",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biology, University of Ottawa, Ottawa, ON, Canada."
+                },
+                {
+                  "affiliation": "Ottawa Brain and Mind Research Institute, University of Ottawa, Ottawa, ON, Canada."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hall JE",
+            "firstName": "James E",
+            "lastName": "Hall",
+            "initials": "JE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9843-7520"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Pulmonary, Critical Care, and Sleep Medicine, Department of Medicine, School of Medicine, University of California, San Diego, San Diego, CA, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tanabe Y",
+            "firstName": "Yuuka",
+            "lastName": "Tanabe",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Pulmonary, Critical Care, and Sleep Medicine, Department of Medicine, School of Medicine, University of California, San Diego, San Diego, CA, United States."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Simonson TS",
+            "firstName": "Tatum S",
+            "lastName": "Simonson",
+            "initials": "TS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Division of Pulmonary, Critical Care, and Sleep Medicine, Department of Medicine, School of Medicine, University of California, San Diego, San Diego, CA, United States."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9843-7520"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "11",
+        "journalIssueId": 2914987,
+        "dateOfPublication": "2020 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2020,
+        "printPublicationDate": "2020-01-01",
+        "journal": {
+          "title": "Frontiers in genetics",
+          "medlineAbbreviation": "Front Genet",
+          "essn": "1664-8021",
+          "isoabbreviation": "Front Genet",
+          "issn": "1664-8021",
+          "nlmid": "101560621"
+        }
+      },
+      "pubYear": "2020",
+      "pageInfo": "743",
+      "abstractText": "Over millions of years, vertebrate species populated vast environments spanning the globe. Among the most challenging habitats encountered were those with limited availability of oxygen, yet many animal and human populations inhabit and perform life cycle functions and/or daily activities in varying degrees of hypoxia today. Of particular interest are species that inhabit high-altitude niches, which experience chronic hypobaric hypoxia throughout their lives. Physiological and molecular aspects of adaptation to hypoxia have long been the focus of high-altitude populations and, within the past decade, genomic information has become increasingly accessible. These data provide an opportunity to search for common genetic signatures of selection across uniquely informative populations and thereby augment our understanding of the mechanisms underlying adaptations to hypoxia. In this review, we synthesize the available genomic findings across hypoxia-tolerant species to provide a comprehensive view of putatively hypoxia-adaptive genes and pathways. In many cases, adaptive signatures across species converge on the same genetic pathways or on genes themselves [i.e., the hypoxia inducible factor (HIF) pathway). However, specific variants thought to underlie function are distinct between species and populations, and, in most cases, the precise functional role of these genomic differences remains unknown. Efforts to standardize these findings and explore relationships between genotype and phenotype will provide important clues into the evolutionary and mechanistic bases of physiological adaptations to environmental hypoxia.",
+      "affiliation": "Department of Biology, University of Ottawa, Ottawa, ON, Canada.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "T32 HL134632",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Hypoxia",
+          "Tibetan",
+          "Epas1",
+          "Ethiopian",
+          "Genomic Adaptations",
+          "Andean",
+          "Hif Pathway",
+          "High-Altitude Adaption"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fgene.2020.00743"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7387696"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7387696?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 75,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "pdb",
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2020-08-28",
+      "firstIndexDate": "2020-08-29",
+      "fullTextReceivedDate": "2025-02-05",
+      "dateOfRevision": "2024-03-29",
+      "electronicPublicationDate": "2020-07-22",
+      "firstPublicationDate": "2020-07-22"
+    }
+  ]
+}

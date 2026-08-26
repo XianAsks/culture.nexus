@@ -1,0 +1,3124 @@
+{
+  "hitCount": 9,
+  "nextCursorMark": "AoJBKDUyNDA4MzIy",
+  "results": [
+    {
+      "id": "34707286",
+      "source": "MED",
+      "pmid": "34707286",
+      "pmcid": "PMC8580821",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC8580821"
+        ]
+      },
+      "doi": "10.1038/s41586-021-04052-7",
+      "title": "The genomic origins of the Bronze Age Tarim Basin mummies.",
+      "authorString": "Zhang F, Ning C, Scott A, Fu Q, Bj\u00f8rn R, Li W, Wei D, Wang W, Fan L, Abuduresule I, Hu X, Ruan Q, Niyazi A, Dong G, Cao P, Liu F, Dai Q, Feng X, Yang R, Tang Z, Ma P, Li C, Gao S, Xu Y, Wu S, Wen S, Zhu H, Zhou H, Robbeets M, Kumar V, Krause J, Warinner C, Jeong C, Cui Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhang F",
+            "firstName": "Fan",
+            "lastName": "Zhang",
+            "initials": "F",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9259-2223"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ning C",
+            "firstName": "Chao",
+            "lastName": "Ning",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8848-3961"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany. ning@shh.mpg.de."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Scott A",
+            "firstName": "Ashley",
+            "lastName": "Scott",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8892-1557"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fu Q",
+            "firstName": "Qiaomei",
+            "lastName": "Fu",
+            "initials": "Q",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7141-0002"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bj\u00f8rn R",
+            "firstName": "Rasmus",
+            "lastName": "Bj\u00f8rn",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2861-5755"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li W",
+            "firstName": "Wenying",
+            "lastName": "Li",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Institute of Cultural Relics and Archaeology, \u00dcr\u00fcmqi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wei D",
+            "firstName": "Dong",
+            "lastName": "Wei",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Archaeology, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang W",
+            "firstName": "Wenjun",
+            "lastName": "Wang",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fan L",
+            "firstName": "Linyuan",
+            "lastName": "Fan",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Abuduresule I",
+            "firstName": "Idilisi",
+            "lastName": "Abuduresule",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Institute of Cultural Relics and Archaeology, \u00dcr\u00fcmqi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hu X",
+            "firstName": "Xingjun",
+            "lastName": "Hu",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Institute of Cultural Relics and Archaeology, \u00dcr\u00fcmqi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ruan Q",
+            "firstName": "Qiurong",
+            "lastName": "Ruan",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Institute of Cultural Relics and Archaeology, \u00dcr\u00fcmqi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Niyazi A",
+            "firstName": "Alipujiang",
+            "lastName": "Niyazi",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Institute of Cultural Relics and Archaeology, \u00dcr\u00fcmqi, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dong G",
+            "firstName": "Guanghui",
+            "lastName": "Dong",
+            "initials": "G",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8005-759X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "MOE Key Laboratory of Western China's Environmental Systems, College of Earth & Environmental Sciences, Lanzhou University, Lanzhou, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cao P",
+            "firstName": "Peng",
+            "lastName": "Cao",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu F",
+            "firstName": "Feng",
+            "lastName": "Liu",
+            "initials": "F",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dai Q",
+            "firstName": "Qingyan",
+            "lastName": "Dai",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Feng X",
+            "firstName": "Xiaotian",
+            "lastName": "Feng",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang R",
+            "firstName": "Ruowei",
+            "lastName": "Yang",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tang Z",
+            "firstName": "Zihua",
+            "lastName": "Tang",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Cenozoic Geology and Environment, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma P",
+            "firstName": "Pengcheng",
+            "lastName": "Ma",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3446-9125"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li C",
+            "firstName": "Chunxiang",
+            "lastName": "Li",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao S",
+            "firstName": "Shizhu",
+            "lastName": "Gao",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Pharmacia Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu Y",
+            "firstName": "Yang",
+            "lastName": "Xu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wu S",
+            "firstName": "Sihao",
+            "lastName": "Wu",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wen S",
+            "firstName": "Shaoqing",
+            "lastName": "Wen",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Archaeological Science, Fudan University, Shanghai, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu H",
+            "firstName": "Hong",
+            "lastName": "Zhu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Archaeology, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou H",
+            "firstName": "Hui",
+            "lastName": "Zhou",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Robbeets M",
+            "firstName": "Martine",
+            "lastName": "Robbeets",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2860-0230"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kumar V",
+            "firstName": "Vikas",
+            "lastName": "Kumar",
+            "initials": "V",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-5263-9303"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins, Institute of Vertebrate Paleontology and Paleoanthropology, Center for Excellence in Life and Paleoenvironment, Chinese Academy of Sciences, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Krause J",
+            "firstName": "Johannes",
+            "lastName": "Krause",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9144-3920"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany. krause@shh.mpg.de."
+                },
+                {
+                  "affiliation": "Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany. krause@shh.mpg.de."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Warinner C",
+            "firstName": "Christina",
+            "lastName": "Warinner",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-4528-5877"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Max Planck Institute for the Science of Human History, Jena, Germany. warinner@shh.mpg.de."
+                },
+                {
+                  "affiliation": "Department of Anthropology, Harvard University, Cambridge, MA, USA. warinner@shh.mpg.de."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jeong C",
+            "firstName": "Choongwon",
+            "lastName": "Jeong",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3049-2352"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Biological Sciences, Seoul National University, Seoul, Republic of Korea. cwjeong@snu.ac.kr."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cui Y",
+            "firstName": "Yinqiu",
+            "lastName": "Cui",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3702-5773"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Life Sciences, Jilin University, Changchun, China. cuiyq@jlu.edu.cn."
+                },
+                {
+                  "affiliation": "Key Laboratory for Evolution of Past Life and Environment in Northeast Asia, Ministry of Education, Jilin University, Changchun, China. cuiyq@jlu.edu.cn."
+                },
+                {
+                  "affiliation": "Research Center for Chinese Frontier Archaeology of Jilin University, Jilin University, Changchun, China. cuiyq@jlu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8005-759X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8892-1557"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9144-3920"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9259-2223"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2860-0230"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4528-5877"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-5263-9303"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7141-0002"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8848-3961"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2861-5755"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3049-2352"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3446-9125"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3702-5773"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "7884",
+        "volume": "599",
+        "journalIssueId": 3266307,
+        "dateOfPublication": "2021 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2021,
+        "printPublicationDate": "2021-11-01",
+        "journal": {
+          "title": "Nature",
+          "medlineAbbreviation": "Nature",
+          "issn": "0028-0836",
+          "essn": "1476-4687",
+          "isoabbreviation": "Nature",
+          "nlmid": "0410462"
+        }
+      },
+      "pubYear": "2021",
+      "pageInfo": "256-261",
+      "abstractText": "The identity of the earliest inhabitants of Xinjiang, in the heart of Inner Asia, and the languages that they spoke have long been debated and remain contentious<sup>1</sup>. Here we present genomic data from 5 individuals dating to around 3000-2800\u2009BC from the Dzungarian Basin and 13 individuals dating to around 2100-1700\u2009BC\ufeff from the Tarim Basin, representing the earliest yet discovered human remains from North and South Xinjiang, respectively. We find that the Early Bronze Age Dzungarian individuals exhibit a predominantly Afanasievo ancestry with an additional local contribution, and the Early-Middle Bronze Age Tarim individuals contain only a local ancestry. The Tarim individuals from the site of Xiaohe further exhibit strong evidence of milk proteins in their dental calculus, indicating a reliance on dairy pastoralism at the site since its founding. Our results do not support previous hypotheses for the origin of the Tarim mummies, who were argued to be Proto-Tocharian-speaking pastoralists descended from the Afanasievo<sup>1,2</sup> or to have originated among the Bactria-Margiana Archaeological Complex<sup>3</sup> or Inner Asian Mountain Corridor cultures<sup>4</sup>. Instead, although Tocharian may have been plausibly introduced to the Dzungarian Basin by Afanasievo migrants during the Early Bronze Age, we find that the earliest Tarim Basin cultures appear to have arisen from a genetically isolated local population that adopted neighbouring pastoralist and agriculturalist practices, which allowed them to settle and thrive along the shifting riverine oases of the Taklamakan Desert.",
+      "affiliation": "School of Life Sciences, Jilin University, Changchun, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "European Research Council",
+            "acronym": "ERC_",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Dental Calculus",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "CH",
+                  "qualifierName": "chemistry",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cattle"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Goats"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sheep"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Milk Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteome",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Diet",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Proteomics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genomics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Desert Climate"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Phylogeny"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome, Human",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Principal Component Analysis"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cultural Characteristics"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mummies",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Agriculture",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Europe"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Phylogeography"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Human Migration",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Grassland"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Whole Genome Sequencing"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Milk Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Proteome",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41586-021-04052-7.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41586-021-04052-7"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8580821"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8580821?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "34707262",
+            "source": "MED",
+            "reference": "Nature. 2021 Nov;599(7884):204-206. doi: 10.1038/d41586-021-02872-1",
+            "type": "Comment in",
+            "orderIn": 1
+          },
+          {
+            "id": "34707265",
+            "source": "MED",
+            "reference": "Nature. 2021 Nov;599(7883):19-20. doi: 10.1038/d41586-021-02948-y",
+            "type": "Comment in",
+            "orderIn": 2
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 80,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refseq"
+        ]
+      },
+      "dateOfCompletion": "2022-01-31",
+      "dateOfCreation": "2021-10-28",
+      "firstIndexDate": "2021-11-26",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2022-10-30",
+      "electronicPublicationDate": "2021-10-27",
+      "firstPublicationDate": "2021-10-27"
+    },
+    {
+      "id": "20163704",
+      "source": "MED",
+      "pmid": "20163704",
+      "pmcid": "PMC2838831",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC2838831"
+        ]
+      },
+      "doi": "10.1186/1741-7007-8-15",
+      "title": "Evidence that a West-East admixed population lived in the Tarim Basin as early as the early Bronze Age.",
+      "authorString": "Li C, Li H, Cui Y, Xie C, Cai D, Li W, Mair VH, Xu Z, Zhang Q, Abuduresule I, Jin L, Zhu H, Zhou H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li C",
+            "firstName": "Chunxiang",
+            "lastName": "Li",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ancient DNA Laboratory, Research Center for Chinese Frontier Archaeology, Jilin University, Changchun 130012, PR China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Hongjie",
+            "lastName": "Li",
+            "initials": "H"
+          },
+          {
+            "fullName": "Cui Y",
+            "firstName": "Yinqiu",
+            "lastName": "Cui",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3702-5773"
+            }
+          },
+          {
+            "fullName": "Xie C",
+            "firstName": "Chengzhi",
+            "lastName": "Xie",
+            "initials": "C"
+          },
+          {
+            "fullName": "Cai D",
+            "firstName": "Dawei",
+            "lastName": "Cai",
+            "initials": "D"
+          },
+          {
+            "fullName": "Li W",
+            "firstName": "Wenying",
+            "lastName": "Li",
+            "initials": "W"
+          },
+          {
+            "fullName": "Mair VH",
+            "firstName": "Victor H",
+            "lastName": "Mair",
+            "initials": "VH"
+          },
+          {
+            "fullName": "Xu Z",
+            "firstName": "Zhi",
+            "lastName": "Xu",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Zhang Q",
+            "firstName": "Quanchao",
+            "lastName": "Zhang",
+            "initials": "Q"
+          },
+          {
+            "fullName": "Abuduresule I",
+            "firstName": "Idelisi",
+            "lastName": "Abuduresule",
+            "initials": "I"
+          },
+          {
+            "fullName": "Jin L",
+            "firstName": "Li",
+            "lastName": "Jin",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9201-2321"
+            }
+          },
+          {
+            "fullName": "Zhu H",
+            "firstName": "Hong",
+            "lastName": "Zhu",
+            "initials": "H"
+          },
+          {
+            "fullName": "Zhou H",
+            "firstName": "Hui",
+            "lastName": "Zhou",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5858-5636"
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5858-5636"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9201-2321"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3702-5773"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data",
+          "related_data",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "volume": "8",
+        "journalIssueId": 2468048,
+        "dateOfPublication": "2010 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2010,
+        "printPublicationDate": "2010-02-01",
+        "journal": {
+          "title": "BMC biology",
+          "medlineAbbreviation": "BMC Biol",
+          "issn": "1741-7007",
+          "essn": "1741-7007",
+          "isoabbreviation": "BMC Biol",
+          "nlmid": "101190720"
+        }
+      },
+      "pubYear": "2010",
+      "pageInfo": "15",
+      "abstractText": "<h4>Background</h4>The Tarim Basin, located on the ancient Silk Road, played a very important role in the history of human migration and cultural communications between the West and the East. However, both the exact period at which the relevant events occurred and the origins of the people in the area remain very obscure. In this paper, we present data from the analyses of both Y chromosomal and mitochondrial DNA (mtDNA) derived from human remains excavated from the Xiaohe cemetery, the oldest archeological site with human remains discovered in the Tarim Basin thus far.<h4>Results</h4>Mitochondrial DNA analysis showed that the Xiaohe people carried both the East Eurasian haplogroup (C) and the West Eurasian haplogroups (H and K), whereas Y chromosomal DNA analysis revealed only the West Eurasian haplogroup R1a1a in the male individuals.<h4>Conclusion</h4>Our results demonstrated that the Xiaohe people were an admixture from populations originating from both the West and the East, implying that the Tarim Basin had been occupied by an admixed population since the early Bronze Age. To our knowledge, this is the earliest genetic evidence of an admixed population settled in the Tarim Basin.",
+      "affiliation": "Ancient DNA Laboratory, Research Center for Chinese Frontier Archaeology, Jilin University, Changchun 130012, PR China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Chromosomes, Human, Y",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Mitochondrial",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Polymerase Chain Reaction"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genetics, Population",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "HI",
+                  "qualifierName": "history",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Geography"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Archaeology"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Mitochondrial",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/1741-7007-8-15"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "BioMedCentral",
+            "url": "http://www.biomedcentral.com/content/pdf/1741-7007-8-15.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "abs",
+            "site": "BioMedCentral",
+            "url": "http://www.biomedcentral.com/1741-7007/8/15/abstract"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "BioMedCentral",
+            "url": "http://www.biomedcentral.com/1741-7007/8/15"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/1741-7007-8-15"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC2838831"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC2838831?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 45,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "EMBL"
+        ]
+      },
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "dateOfCompletion": "2010-05-05",
+      "dateOfCreation": "2010-02-19",
+      "firstIndexDate": "2010-10-01",
+      "fullTextReceivedDate": "2025-02-02",
+      "dateOfRevision": "2021-10-20",
+      "electronicPublicationDate": "2010-02-17",
+      "firstPublicationDate": "2010-02-17"
+    },
+    {
+      "id": "34691966",
+      "source": "MED",
+      "pmid": "34691966",
+      "pmcid": "PMC8291513",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC8291513"
+        ]
+      },
+      "doi": "10.1093/nsr/nwx015",
+      "title": "Tianshanbeilu and the Isotopic Millet Road: reviewing the late Neolithic/Bronze Age radiation of human millet consumption from north China to Europe.",
+      "authorString": "Wang T, Wei D, Chang X, Yu Z, Zhang X, Wang C, Hu Y, Fuller BT.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wang T",
+            "firstName": "Tingting",
+            "lastName": "Wang",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Palaeontology and Palaeoanthropology, Chinese Academy of Sciences, Beijing 100044, China."
+                },
+                {
+                  "affiliation": "Department of Archaeology and Anthropology, University of Chinese Academy of Sciences, Beijing 100049, China."
+                },
+                {
+                  "affiliation": "Department of Anthropology, School of Sociology and Anthropology, Sun Yat-sen University, Guangzhou 510275, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wei D",
+            "firstName": "Dong",
+            "lastName": "Wei",
+            "initials": "D",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Center for Chinese Frontier Archaeology, Jilin University, Changchun 130012, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chang X",
+            "firstName": "Xien",
+            "lastName": "Chang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Archaeology and Cultural Relics of Xinjiang Uyghur Autonomous Region, Urumqi 830000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yu Z",
+            "firstName": "Zhiyong",
+            "lastName": "Yu",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Archaeology and Cultural Relics of Xinjiang Uyghur Autonomous Region, Urumqi 830000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhang X",
+            "firstName": "Xinyu",
+            "lastName": "Zhang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Palaeontology and Palaeoanthropology, Chinese Academy of Sciences, Beijing 100044, China."
+                },
+                {
+                  "affiliation": "Department of Archaeology and Anthropology, University of Chinese Academy of Sciences, Beijing 100049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang C",
+            "firstName": "Changsui",
+            "lastName": "Wang",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Palaeontology and Palaeoanthropology, Chinese Academy of Sciences, Beijing 100044, China."
+                },
+                {
+                  "affiliation": "Department of Archaeology and Anthropology, University of Chinese Academy of Sciences, Beijing 100049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hu Y",
+            "firstName": "Yaowu",
+            "lastName": "Hu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Palaeontology and Palaeoanthropology, Chinese Academy of Sciences, Beijing 100044, China."
+                },
+                {
+                  "affiliation": "Department of Archaeology and Anthropology, University of Chinese Academy of Sciences, Beijing 100049, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fuller BT",
+            "firstName": "Benjamin T",
+            "lastName": "Fuller",
+            "initials": "BT",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Archaeology and Anthropology, University of Chinese Academy of Sciences, Beijing 100049, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7043-7756"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "5",
+        "volume": "6",
+        "journalIssueId": 2892641,
+        "dateOfPublication": "2019 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-10-01",
+        "journal": {
+          "title": "National science review",
+          "medlineAbbreviation": "Natl Sci Rev",
+          "issn": "2095-5138",
+          "essn": "2053-714X",
+          "isoabbreviation": "Natl Sci Rev",
+          "nlmid": "101633095"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "1024-1039",
+      "abstractText": "The westward expansion of human millet consumption from north China has important implications for understanding early interactions between the East and West. However, few studies have focused on the Xinjiang Uyghur Autonomous Region, the vast geographical area directly linking the ancient cultures of the Eurasian Steppe and the Gansu Corridor of China. In this study, we present the largest isotopic investigation of Bronze Age China (<i>n</i> = 110) on material from the key site of Tianshanbeilu, in eastern Xinjiang. The large range of \u03b4<sup>13</sup>C values (-17.6\u2030 to -7.2\u2030; -15.5\u2009\u00b1\u20091.2\u2030) provides direct evidence of unique dietary diversity and consumption of significant C<sub>4</sub> resources (millets). The high \u03b4<sup>15</sup>N results (10.3\u2030 to 16.7\u2030; 14.7\u2009\u00b1\u20090.8\u2030) likely reflect sheep/goat and wild game consumption and the arid climate of the Taklamakan Desert. Radiocarbon dates from four individuals indicate Tianshanbeilu was in use between 1940 and 1215\u2009cal bc. The Tianshanbeilu results are then analysed with respect to 52 Bronze Age sites from across Eurasia, to investigate the spread and chronology of significant human millet consumption and human migration. This isotopic survey finds novel evidence that the second millennium bc was a dynamic period, with significant dietary interconnectivity occurring between north China, Central Asia and Siberia. Further, we argue that this 'Isotopic Millet Road' extended all the way to the Mediterranean and Central Europe, and conclude that these C<sub>4</sub> dietary signatures of millet consumption reflect early links (migration and/or resource transfer) between the Bronze Age inhabitants of modern-day China and Europe.",
+      "affiliation": "Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Palaeontology and Palaeoanthropology, Chinese Academy of Sciences, Beijing 100044, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "2016VBC002",
+            "agency": "Chinese Academy of Sciences International Visiting Scholar Fellowship",
+            "orderIn": 0
+          },
+          {
+            "grantId": "41550110224",
+            "agency": "National Natural Science Foundation of China Research Fund for International Young Scientists",
+            "orderIn": 0
+          },
+          {
+            "grantId": "41373018",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "2015CB953803",
+            "agency": "National Basic Research Program of China",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Xinjiang",
+          "Silk Road",
+          "Inner Asian Mountain Corridor",
+          "Old World Crop Globalization",
+          "Shang Dynasty"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/nsr/nwx015"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8291513"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8291513?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 24,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2021-10-25",
+      "firstIndexDate": "2021-11-24",
+      "fullTextReceivedDate": "2025-02-02",
+      "dateOfRevision": "2021-10-26",
+      "electronicPublicationDate": "2017-02-24",
+      "firstPublicationDate": "2017-02-24"
+    },
+    {
+      "id": "26153446",
+      "source": "MED",
+      "pmid": "26153446",
+      "pmcid": "PMC4495690",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4495690"
+        ]
+      },
+      "doi": "10.1186/s12863-015-0237-5",
+      "title": "Analysis of ancient human mitochondrial DNA from the Xiaohe cemetery: insights into prehistoric population movements in the Tarim Basin, China.",
+      "authorString": "Li C, Ning C, Hagelberg E, Li H, Zhao Y, Li W, Abuduresule I, Zhu H, Zhou H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li C",
+            "firstName": "Chunxiang",
+            "lastName": "Li",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Life Science, Jilin University, Changchun, 130023, P. R. China. chunxiangli@jlu.edu.cn."
+                },
+                {
+                  "affiliation": "Ancient DNA Laboratory, Research Center for Chinese Frontier Archaeology, Jilin University, Changchun, 130012, P. R. China. chunxiangli@jlu.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ning C",
+            "firstName": "Chao",
+            "lastName": "Ning",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8848-3961"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Life Science, Jilin University, Changchun, 130023, P. R. China. 775125751@qq.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hagelberg E",
+            "firstName": "Erika",
+            "lastName": "Hagelberg",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Biosciences, University of Oslo, 0316, Oslo, Norway. erika.hagelberg@ibv.uio.no."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Hongjie",
+            "lastName": "Li",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ancient DNA Laboratory, Research Center for Chinese Frontier Archaeology, Jilin University, Changchun, 130012, P. R. China. hongjiehappy619@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao Y",
+            "firstName": "Yongbin",
+            "lastName": "Zhao",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Life Science College, Jilin Normal University, Siping, 136000, P. R.China. sy_ding@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li W",
+            "firstName": "Wenying",
+            "lastName": "Li",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Cultural Relics and Archaeology Institute, \u00dcr\u00fcmchi, 830000, P. R. China. yingpanli@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Abuduresule I",
+            "firstName": "Idelisi",
+            "lastName": "Abuduresule",
+            "initials": "I",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Xinjiang Cultural Relics and Archaeology Institute, \u00dcr\u00fcmchi, 830000, P. R. China. yidilisi@hotmail.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhu H",
+            "firstName": "Hong",
+            "lastName": "Zhu",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ancient DNA Laboratory, Research Center for Chinese Frontier Archaeology, Jilin University, Changchun, 130012, P. R. China. zhuhong1951@qq.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou H",
+            "firstName": "Hui",
+            "lastName": "Zhou",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of Life Science, Jilin University, Changchun, 130023, P. R. China. zhouhui@jlu.edu.cn."
+                },
+                {
+                  "affiliation": "Ancient DNA Laboratory, Research Center for Chinese Frontier Archaeology, Jilin University, Changchun, 130012, P. R. China. zhouhui@jlu.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8848-3961"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data",
+          "related_data",
+          "wikipedia"
+        ]
+      },
+      "journalInfo": {
+        "volume": "16",
+        "journalIssueId": 2476233,
+        "dateOfPublication": "2015 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2015,
+        "printPublicationDate": "2015-07-01",
+        "journal": {
+          "title": "BMC genetics",
+          "medlineAbbreviation": "BMC Genet",
+          "issn": "1471-2156",
+          "essn": "1471-2156",
+          "isoabbreviation": "BMC Genet",
+          "nlmid": "100966978"
+        }
+      },
+      "pubYear": "2015",
+      "pageInfo": "78",
+      "abstractText": "<h4>Background</h4>The Tarim Basin in western China, known for its amazingly well-preserved mummies, has been for thousands of years an important crossroad between the eastern and western parts of Eurasia. Despite its key position in communications and migration, and highly diverse peoples, languages and cultures, its prehistory is poorly understood. To shed light on the origin of the populations of the Tarim Basin, we analysed mitochondrial DNA polymorphisms in human skeletal remains excavated from the Xiaohe cemetery, used by the local community between 4000 and 3500 years before present, and possibly representing some of the earliest settlers.<h4>Results</h4>Xiaohe people carried a wide variety of maternal lineages, including West Eurasian lineages H, K, U5, U7, U2e, T, R*, East Eurasian lineages B, C4, C5, D, G2a and Indian lineage M5.<h4>Conclusion</h4>Our results indicate that the people of the Tarim Basin had a diverse maternal ancestry, with origins in Europe, central/eastern Siberia and southern/western Asia. These findings, together with information on the cultural context of the Xiaohe cemetery, can be used to test contrasting hypotheses of route of settlement into the Tarim Basin.",
+      "affiliation": "College of Life Science, Jilin University, Changchun, 130023, P. R. China. chunxiangli@jlu.edu.cn.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "31200935",
+            "agency": "the National Natural Science Foundation of China",
+            "orderIn": 0
+          },
+          {
+            "grantId": "31371266,J1210007",
+            "agency": "National Natural Science Foundation of China",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "DNA, Mitochondrial"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cluster Analysis"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genetics, Population"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Geography"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Molecular Sequence Data"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Molecular Typing"
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Mitochondrial",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12863-015-0237-5"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4495690"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4495690?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 21,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "EMBL"
+        ]
+      },
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "dateOfCompletion": "2016-03-24",
+      "dateOfCreation": "2015-07-09",
+      "firstIndexDate": "2015-07-09",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2018-11-13",
+      "electronicPublicationDate": "2015-07-08",
+      "firstPublicationDate": "2015-07-08"
+    },
+    {
+      "id": "20659353",
+      "source": "MED",
+      "pmid": "20659353",
+      "pmcid": "PMC2908064",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC2908064"
+        ]
+      },
+      "doi": "10.1186/1741-7007-8-98",
+      "title": "A question of scale: Human migrations writ large and small.",
+      "authorString": "Cox MP, Hammer MF.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cox MP",
+            "firstName": "Murray P",
+            "lastName": "Cox",
+            "initials": "MP",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1936-0236"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Molecular BioSciences, Allan Wilson Centre for Molecular Ecology and Evolution, Massey University, Palmerston North, New Zealand. m.p.cox@massey.ac.nz"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hammer MF",
+            "firstName": "Michael F",
+            "lastName": "Hammer",
+            "initials": "MF"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1936-0236"
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "8",
+        "journalIssueId": 2468557,
+        "dateOfPublication": "2010 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2010,
+        "printPublicationDate": "2010-07-01",
+        "journal": {
+          "title": "BMC biology",
+          "medlineAbbreviation": "BMC Biol",
+          "issn": "1741-7007",
+          "essn": "1741-7007",
+          "isoabbreviation": "BMC Biol",
+          "nlmid": "101190720"
+        }
+      },
+      "pubYear": "2010",
+      "pageInfo": "98",
+      "abstractText": "Several recent papers illustrate the importance of migration and gene flow in molding the patterns of genetic variation observed in humans today. We place the varied demographic processes covered by these terms into a more general framework, and discuss some of the challenges facing attempts to reconstruct past human mobility and determine its influence on our genetic heritage.",
+      "affiliation": "Institute of Molecular BioSciences, Allan Wilson Centre for Molecular Ecology and Evolution, Massey University, Palmerston North, New Zealand. m.p.cox@massey.ac.nz",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Population Dynamics"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Emigration and Immigration"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Gene Flow"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "abs",
+            "site": "BioMedCentral",
+            "url": "http://www.biomedcentral.com/1741-7007/8/98/abstract"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "BioMedCentral",
+            "url": "http://www.biomedcentral.com/content/pdf/1741-7007-8-98.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "BioMedCentral",
+            "url": "http://www.biomedcentral.com/1741-7007/8/98"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/1741-7007-8-98"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC2908064"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC2908064?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 6,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2010-10-26",
+      "dateOfCreation": "2010-07-28",
+      "firstIndexDate": "2010-10-27",
+      "fullTextReceivedDate": "2020-07-09",
+      "dateOfRevision": "2021-10-20",
+      "electronicPublicationDate": "2010-07-21",
+      "firstPublicationDate": "2010-07-21"
+    },
+    {
+      "id": "40795059",
+      "source": "MED",
+      "pmid": "40795059",
+      "pmcid": "PMC12391873",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12391873"
+        ]
+      },
+      "doi": "10.1093/molbev/msaf196",
+      "title": "Tracing the Genetic Heritage of the Kirgiz People: Dual-Wave Admixture and Ancestry-Biased Adaptation.",
+      "authorString": "Chen S, Lu Y, Chen H, Pan Y, Liu J, Li S, Jin L, Mamatyusupu D, Xu S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chen S",
+            "firstName": "Shuanghui",
+            "lastName": "Chen",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0905-5492"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                },
+                {
+                  "affiliation": "School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lu Y",
+            "firstName": "Yan",
+            "lastName": "Lu",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6907-0443"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen H",
+            "firstName": "Hao",
+            "lastName": "Chen",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1571-7509"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pan Y",
+            "firstName": "Yuwen",
+            "lastName": "Pan",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0342-4872"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu J",
+            "firstName": "Jiaojiao",
+            "lastName": "Liu",
+            "initials": "J",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0003-9521-4844"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li S",
+            "firstName": "Shilin",
+            "lastName": "Li",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2371-938X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jin L",
+            "firstName": "Li",
+            "lastName": "Jin",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9201-2321"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                },
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Contemporary Anthropology, Fudan University, Shanghai 201203, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mamatyusupu D",
+            "firstName": "Dolikun",
+            "lastName": "Mamatyusupu",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-9809-1070"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "College of the Life Sciences and Technology, Xinjiang University, Urumqi 830046, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu S",
+            "firstName": "Shuhua",
+            "lastName": "Xu",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1975-1002"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China."
+                },
+                {
+                  "affiliation": "School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China."
+                },
+                {
+                  "affiliation": "Shanghai Institute of Nutrition and Health, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China."
+                },
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Contemporary Anthropology, Fudan University, Shanghai 201203, China."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6907-0443"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9201-2321"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0905-5492"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1975-1002"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2371-938X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0342-4872"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1571-7509"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0003-9521-4844"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0009-9809-1070"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "8",
+        "volume": "42",
+        "journalIssueId": 3984746,
+        "dateOfPublication": "2025 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-07-01",
+        "journal": {
+          "title": "Molecular biology and evolution",
+          "medlineAbbreviation": "Mol Biol Evol",
+          "issn": "0737-4038",
+          "essn": "1537-1719",
+          "isoabbreviation": "Mol Biol Evol",
+          "nlmid": "8501455"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "msaf196",
+      "abstractText": "The Kirgiz, a Turkic-speaking ethnic group with a rich nomadic heritage, represent a pivotal population for understanding human migration and adaptation in Central Asia. However, their genetic origins and admixture history remain largely unexplored. Here, we present the first comprehensive genomic study of Kirgiz populations from Xinjiang, China (XJ.KGZ, n = 36) and their counterparts in Kyrgyzstan (KRG), integrating genome-wide data of 2,406 global individuals. Our analyses reveal four primary ancestry components in XJ.KGZ: East Asian (41.7%), Siberian (25.6%), West Eurasian (25.2%), and South Asian (7.6%). Despite close genetic affinity (FST = 0.13%), XJ.KGZ and KRG diverged \u223c447 years ago, with limited gene flow post-split. A two-wave admixture model elucidates their demographic history: an initial East-West Eurasian mixture \u223c2,225 years ago, likely reflecting west-east contacts during the period of the Warring States and the Qin Dynasty, followed by secondary admixture events (\u223c875 to 425 years ago) linked to historical migrations under Mongol and post-Mongol rule. Local adaptation signatures implicate genes critical for cellular tight junction (e.g. PATJ), pathogen invasion (e.g. OR14I1), and cardiac functions (e.g. RYR2) with allele frequency deviations suggesting ancestry-specific selection. While no classical high-altitude adaptation genes (e.g. EPAS1) showed selection signals, RYR2 and C10orf67-implicated in hypoxia response in Tibetan fauna-displayed Western ancestry bias, hinting at convergent adaptation mechanisms. This study advances our understanding of the genetic makeup and admixture history of the Kirgiz people and provides novel insights into human dispersal in Central Asia.",
+      "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai 200438, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genetics, Population"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adaptation, Biological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Adaptation, Physiological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Kyrgyzstan"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Flow"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Human Migration"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Ethnicity",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Central Asian People",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Central Asia",
+          "Genetic Admixture",
+          "High-altitude Adaptation",
+          "Kirgiz",
+          "Ancestry-biased Selection",
+          "Two-wave Model"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1093/molbev/msaf196"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1093/molbev/msaf196"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12391873"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12391873?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 4,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2025-08-28",
+      "dateOfCreation": "2025-08-12",
+      "firstIndexDate": "2025-08-21",
+      "fullTextReceivedDate": "2025-11-28",
+      "dateOfRevision": "2025-09-11",
+      "firstPublicationDate": "2025-07-01"
+    },
+    {
+      "id": "40189540",
+      "source": "MED",
+      "pmid": "40189540",
+      "pmcid": "PMC11974207",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11974207"
+        ]
+      },
+      "doi": "10.1186/s12915-025-02195-x",
+      "title": "Ancient genomes shed light on the genetic history of the Iron Age to historical central Xinjiang, northwest China.",
+      "authorString": "Li H, Wang B, Yang X, Yang X, He H, Wang R, Wang CC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li H",
+            "firstName": "Haijun",
+            "lastName": "Li",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Ethnology and Sociology, Minzu University of China, Beijing, 100081, China. lindavy@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang B",
+            "firstName": "Baitong",
+            "lastName": "Wang",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology and Ethnology, Institute of Anthropology, Fujian Provincial Key Laboratory of Philosophy and Social Sciences in Bioanthropology, School of Sociology and Anthropology, Xiamen University, Xiamen, 361005, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang X",
+            "firstName": "Xiaomin",
+            "lastName": "Yang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Anthropology and Ethnology, Institute of Anthropology, Fujian Provincial Key Laboratory of Philosophy and Social Sciences in Bioanthropology, School of Sociology and Anthropology, Xiamen University, Xiamen, 361005, China. xmyang36@163.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang X",
+            "firstName": "Xiaoyu",
+            "lastName": "Yang",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Ethnology and Sociology, Minzu University of China, Beijing, 100081, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He H",
+            "firstName": "Haifeng",
+            "lastName": "He",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang R",
+            "firstName": "Rui",
+            "lastName": "Wang",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang CC",
+            "firstName": "Chuan-Chao",
+            "lastName": "Wang",
+            "initials": "CC",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Contemporary Anthropology, Department of Anthropology and Human Genetics, School of Life Sciences, Fudan University, Shanghai, 200438, China. chuanchaowang@fudan.edu.cn."
+                },
+                {
+                  "affiliation": "State Key Laboratory of Genetic Engineering, Center for Evolutionary Biology, School of Life Sciences, Fudan University, Shanghai, 200438, China. chuanchaowang@fudan.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "23",
+        "journalIssueId": 3926057,
+        "dateOfPublication": "2025 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-04-01",
+        "journal": {
+          "title": "BMC biology",
+          "medlineAbbreviation": "BMC Biol",
+          "issn": "1741-7007",
+          "essn": "1741-7007",
+          "isoabbreviation": "BMC Biol",
+          "nlmid": "101190720"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "93",
+      "abstractText": "<h4>Background</h4>The genetic profile of the population in Xinjiang, northwest China, has been shaped by interregional movement and admixture since the\u00a0Bronze Age. However, the detailed and\u00a0intraregional\u00a0population history of Xinjiang, especially central Xinjiang, has been unsolved due to uneven sample distribution.<h4>Results</h4>Here, we reported the ancient genomes from 8 individuals between the Iron Age and the\u00a0historical period in central Xinjiang. We observed an east-west admixed ancestry profile and a\u00a0degree of genetic continuity between the Iron Age and historical central Xinjiang individuals. Furthermore, these central Xinjiang individuals harboured ancestry related to ancient farmers of the Yellow River. We also identified a temporal change of the Yellow River farmers-related ancestry in central Xinjiang, showing an increase the Yelllow River affinity from Iron Age to Historical Era.<h4>Conclusions</h4>The finding indicated that the genetic structure of the central Xinjiang population since the Iron Age could have resulted from immigration from northern China, which was\u00a0attributed to geopolitical factors. Hence, our results indicated that the geopolitical change with the deepening of Central Plains' management has influenced the genetic profile of central Xinjiang.",
+      "affiliation": "School of Ethnology and Sociology, Minzu University of China, Beijing, 100081, China. lindavy@163.com.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genetics, Population"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Human"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Human Migration"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "DNA, Ancient",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Ancient DNA",
+          "Population movement",
+          "Genetic Profile",
+          "Yellow River Farmers",
+          "Central Xinjiang"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Ancient",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/s12915-025-02195-x"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11974207"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11974207?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 3,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2025-04-06",
+      "dateOfCreation": "2025-04-06",
+      "firstIndexDate": "2025-04-07",
+      "fullTextReceivedDate": "2025-12-02",
+      "dateOfRevision": "2025-05-15",
+      "electronicPublicationDate": "2025-04-07",
+      "firstPublicationDate": "2025-04-07"
+    },
+    {
+      "id": "39934375",
+      "source": "MED",
+      "pmid": "39934375",
+      "pmcid": "PMC11814302",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11814302"
+        ]
+      },
+      "doi": "10.1038/s42003-025-07665-0",
+      "title": "East and West admixture in eastern China of Tang Dynasty inferred from ancient human genomes.",
+      "authorString": "Wang R, Liu W, Wu Y, Ma H, Lv J, He H, Qiu L, Chen H, Zhao Y, Sun B, Wang CC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Wang R",
+            "firstName": "Rui",
+            "lastName": "Wang",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Liu W",
+            "firstName": "Wentao",
+            "lastName": "Liu",
+            "initials": "W",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Institute of Cultural Relics and Archaeology, Jinan, 250012, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wu Y",
+            "firstName": "Yiting",
+            "lastName": "Wu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Cultural Heritage, Shandong University, Qingdao, 266237, China."
+                },
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Archaeological Sciences and Technology, Shandong University, Qingdao, 266237, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ma H",
+            "firstName": "Hao",
+            "lastName": "Ma",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lv J",
+            "firstName": "Jing",
+            "lastName": "Lv",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Cultural Heritage, Shandong University, Qingdao, 266237, China."
+                },
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Archaeological Sciences and Technology, Shandong University, Qingdao, 266237, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "He H",
+            "firstName": "Haifeng",
+            "lastName": "He",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Qiu L",
+            "firstName": "Limin",
+            "lastName": "Qiu",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen H",
+            "firstName": "Haodong",
+            "lastName": "Chen",
+            "initials": "H",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhao Y",
+            "firstName": "Yongsheng",
+            "lastName": "Zhao",
+            "initials": "Y",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0009-5935-2872"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Cultural Heritage, Shandong University, Qingdao, 266237, China. zhaoyongsheng@sdu.edu.cn."
+                },
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Archaeological Sciences and Technology, Shandong University, Qingdao, 266237, China. zhaoyongsheng@sdu.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sun B",
+            "firstName": "Bo",
+            "lastName": "Sun",
+            "initials": "B",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-6390-3643"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Shandong Provincial Institute of Cultural Relics and Archaeology, Jinan, 250012, China. sunbo1969000@126.com."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang CC",
+            "firstName": "Chuan-Chao",
+            "lastName": "Wang",
+            "initials": "CC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4630-5232"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China. chuanchaowang@fudan.edu.cn."
+                },
+                {
+                  "affiliation": "Department of Anthropology and Ethnology, Institute of Anthropology, Fujian Provincial Key Laboratory of Philosophy and Social Sciences in Bioanthropology, School of Sociology and Anthropology, Xiamen University, Xiamen, 361005, China. chuanchaowang@fudan.edu.cn."
+                },
+                {
+                  "affiliation": "Ministry of Education Key Laboratory of Contemporary Anthropology, Department of Anthropology and Human Genetics, School of Life Sciences, Fudan University, Shanghai, 200433, China. chuanchaowang@fudan.edu.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4630-5232"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0000-6390-3643"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0009-5935-2872"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "8",
+        "journalIssueId": 3894203,
+        "dateOfPublication": "2025 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2025,
+        "printPublicationDate": "2025-02-01",
+        "journal": {
+          "title": "Communications biology",
+          "medlineAbbreviation": "Commun Biol",
+          "issn": "2399-3642",
+          "essn": "2399-3642",
+          "isoabbreviation": "Commun Biol",
+          "nlmid": "101719179"
+        }
+      },
+      "pubYear": "2025",
+      "pageInfo": "219",
+      "abstractText": "The ancestry composition and Sinicisation process of the descendants of the immigrants of Hu people living in ancient China are largely unknown due to the lack of genetic evidence. Tang Dynasty people in Fudamen cemetery () excavated from Shandong province in eastern China are believed to be related to the descendants of Hu people, as some of the individuals with the surnames An (). The genetic origin of the Fudamen population requires genetic clarification using ancient DNA data. Here we successfully obtain genome-wide SNP data for 17 Tang dynasty individuals from Fudamen cemetery. Based on autosomal data, although all Fudamen individuals show high levels of middle reaches of Yellow River-related ancestry as previously published historical period Shandong populations, 2 Fudamen individuals require ~5% Western Eurasian/Central Asian-related ancestry to describe their ancestry composition best. To the best of our knowledge, it is the first evidence of such ancestry in Shandong, the eastern part of today's China. Moreover, the admixture pattern is also reflected by the presence of both west and east Eurasian-specific mtDNA and Y chromosomal haplogroups in Fudamen people. The estimated admixture time is also consistent with periods when Sogdians and other non-Han populations were active in ancient China. These genomic findings suggest that intermarriage with Han Chinese involved the Sinicization process of the Hu people.",
+      "affiliation": "State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, 361102, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Historical Article",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Chromosomes, Human, Y",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "DNA, Mitochondrial",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genetics, Population"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Haplotypes"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Polymorphism, Single Nucleotide"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genome, Human"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "History, Ancient"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "DNA, Ancient",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AN",
+                  "qualifierName": "analysis",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Asian People",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "DNA, Mitochondrial",
+            "registryNumber": "0"
+          },
+          {
+            "name": "DNA, Ancient",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1038/s42003-025-07665-0"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s42003-025-07665-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11814302"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11814302?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 1,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "dateOfCompletion": "2025-02-11",
+      "dateOfCreation": "2025-02-11",
+      "firstIndexDate": "2025-02-12",
+      "fullTextReceivedDate": "2025-02-15",
+      "dateOfRevision": "2025-05-07",
+      "electronicPublicationDate": "2025-02-11",
+      "firstPublicationDate": "2025-02-11"
+    }
+  ]
+}

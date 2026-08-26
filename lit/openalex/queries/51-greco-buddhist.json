@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "count": 0,
+    "db_response_time_ms": 100,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (greco-buddhist art hellenistic influence buddha image origin)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "greco-buddhist art hellenistic influence buddha image origin",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:greco-buddhist art hellenistic influence buddha image origin&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [],
+  "group_by": []
+}

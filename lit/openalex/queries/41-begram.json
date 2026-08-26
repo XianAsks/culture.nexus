@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 48,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (begram hoard kushan roman glass ivories)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "begram hoard kushan roman glass ivories",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:begram hoard kushan roman glass ivories&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W3094161454",
+      "doi": "https://doi.org/10.4324/9781315108513-34",
+      "display_name": "Roman objects in the Begram hoard and the memory of Greek rule in Kushan Central Asia",
+      "publication_year": 2020,
+      "cited_by_count": 4,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    }
+  ],
+  "group_by": []
+}

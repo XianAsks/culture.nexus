@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 1952,
+    "db_response_time_ms": 237,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (emic etic insider outsider study of religion)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "emic etic insider outsider study of religion",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:emic etic insider outsider study of religion&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2159649423",
+      "doi": "https://doi.org/10.1287/orsc.11.6.611.12529",
+      "display_name": "Organizational Routines as a Source of Continuous Change",
+      "publication_year": 2000,
+      "cited_by_count": 1963,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://escholarship.org/content/qt6km8h07s/qt6km8h07s.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W3082121050",
+      "doi": "https://doi.org/10.34293/education.v8i4.3232",
+      "display_name": "Researcher Positionality - A Consideration of Its Influence and Place in Qualitative Research - A New Researcher Guide",
+      "publication_year": 2020,
+      "cited_by_count": 1307,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://shanlaxjournals.in/journals/index.php/education/article/download/3232/2845",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2052067108",
+      "doi": "https://doi.org/10.1111/1467-839x.00054",
+      "display_name": "Sikolohiyang Pilipino (Filipino psychology): A legacy of Virgilio G. Enriquez",
+      "publication_year": 2000,
+      "cited_by_count": 278,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-839X.00054",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2795596100",
+      "doi": "https://doi.org/10.1080/00141844.2018.1458745",
+      "display_name": "Writing Against Integration: Danish Imaginaries of Culture, Race and Belonging",
+      "publication_year": 2018,
+      "cited_by_count": 252,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/00141844.2018.1458745?needAccess=true",
+        "any_repository_has_fulltext": null
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1491539038",
+      "doi": null,
+      "display_name": "The Insider/Outsider Problem in the Study of Religion: A Reader",
+      "publication_year": 1999,
+      "cited_by_count": 236,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W1536656927",
+      "doi": "https://doi.org/10.5117/9789089640789",
+      "display_name": "Ethnic Constructs in Antiquity : The Role of Power and Tradition",
+      "publication_year": 2009,
+      "cited_by_count": 222,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/35248/1/340082.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "book"
+    },
+    {
+      "id": "https://openalex.org/W2750244296",
+      "doi": "https://doi.org/10.1016/j.jep.2017.08.018",
+      "display_name": "Recommended standards for conducting and reporting ethnopharmacological field studies",
+      "publication_year": 2017,
+      "cited_by_count": 216,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kar.kent.ac.uk/62712/1/Weckerle%20et%20al%202018%20Standards%20for%20Ethnopharmacology%20Research.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W849492514",
+      "doi": "https://doi.org/10.46743/2160-3715/2002.1986",
+      "display_name": "Bias in Qualitative Research: Voices from an Online Classroom",
+      "publication_year": 2015,
+      "cited_by_count": 168,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1986&context=tqr",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

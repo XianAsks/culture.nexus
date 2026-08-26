@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 210,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (khvarenah farr iranian divine glory sasanian)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "khvarenah farr iranian divine glory sasanian",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:khvarenah farr iranian divine glory sasanian&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W101817882",
+      "doi": null,
+      "display_name": "Continuity in Iranian Leadership Legitimization: Farr-i Izadi, Shi\u2019ism, and Vilayet-i Faqih",
+      "publication_year": 2009,
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1052&context=td",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2903674436",
+      "doi": "https://doi.org/10.25501/soas.00029571",
+      "display_name": "On the role of the laity in the history of Zoroastrianism.",
+      "publication_year": 1998,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.25501/soas.00029571",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W4379143484",
+      "doi": "https://doi.org/10.54254/2753-7064/4/20220270",
+      "display_name": "The Relationship Between Zoroastrianism and Kingship in the Iranian Empire",
+      "publication_year": 2023,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.ewadirect.com/proceedings/chr/article/view/1292/pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7172311361",
+      "doi": "https://doi.org/10.66224/pjas.8.29.105",
+      "display_name": "Revealing Pearl as A Functional Element or A Sacred Concept in Sasanian Art",
+      "publication_year": 2024,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "http://journal.richt.ir/mbp/files/site1/user_files_e1f21e/yamohamadi-A-10-294-1-9e40227.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

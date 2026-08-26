@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 12,
+    "db_response_time_ms": 186,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (halo nimbus iconography gandhara buddha image)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "halo nimbus iconography gandhara buddha image",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:halo nimbus iconography gandhara buddha image&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2990910120",
+      "doi": "https://doi.org/10.5194/isprs-archives-xlii-2-w18-31-2019",
+      "display_name": "BUDDHIST STELE OF SWAT VALLEY: POINT CLOUD ANALYSIS AND INTERPRETATION",
+      "publication_year": 2019,
+      "cited_by_count": 2,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W18/31/2019/isprs-archives-XLII-2-W18-31-2019.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7120003294",
+      "doi": "https://doi.org/10.60018/acasva.xbmi1252",
+      "display_name": "The Buddha and the Sun Disk: Some Reflections on the Dialectics of Light in a Relief from Matkanai, Pakistan",
+      "publication_year": 2025,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://www.aav.iksiopan.pl/images/AAV_38/aav_2025_38_07_Pons.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4416596558",
+      "doi": "https://doi.org/10.1080/0964704x.2025.2568245",
+      "display_name": "The pineal gland as the seat of the soul (Ren\u00e9 Descartes): History of reception, enlightenment, and consequences of a famous error",
+      "publication_year": 2025,
+      "cited_by_count": 1,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/0964704X.2025.2568245?needAccess=true",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7144015206",
+      "doi": "https://doi.org/10.24517/00069440",
+      "display_name": "Gandh\u0101ran Smiling Buddhas Revisited \u2014Farewll to the so-called Archaic Smile\u2014",
+      "publication_year": 2023,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://kanazawa-u.repo.nii.ac.jp/record/63206/files/H-I_2021-2022-1-22.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7164980804",
+      "doi": null,
+      "display_name": "DECONSTRUCTING THE SIKRI FASTING BUDDHA: BUDDHIST ANICONISM AND THE THEOLOGICAL IMPLICATIONS OF THE BUDDHA\u2019S ICONIC FORM IN GANDHARAN ART",
+      "publication_year": 2026,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://minds.wisconsin.edu/bitstream/1793/97654/1/HauserUlrich_uwm_0263M_14285.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "dissertation"
+    },
+    {
+      "id": "https://openalex.org/W4230347548",
+      "doi": "https://doi.org/10.32591/coas.ojsh.0301",
+      "display_name": null,
+      "publication_year": 2020,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "http://centerprode.com/ojsh/ojsh0301/ojsh-0301.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "paratext"
+    },
+    {
+      "id": "https://openalex.org/W2565853300",
+      "doi": null,
+      "display_name": "The Unintended Legacy of Hellenism: The Development and Dissemination of the Buddha Image",
+      "publication_year": 2016,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://digitalcommons.ursinus.edu/history_hon/2",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W7162717404",
+      "doi": null,
+      "display_name": "\u300e\u30b7\u30eb\u30af\u30ed\u30fc\u30c9\u7814\u7a76\u300f\u7b2c10\u53f7\u5168\u6587",
+      "publication_year": 2017,
+      "cited_by_count": 0,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://soka.repo.nii.ac.jp/records/39085",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

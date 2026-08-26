@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "count": 16,
+    "db_response_time_ms": 109,
+    "page": 1,
+    "per_page": 25,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where openalex id is (\n    W101817882 or W1603095592 or W1997617533 or W2050261689 or W2076760458\n    or W2093253514 or W2159213649 or W2520554114 or W2618450480 or W2918085701\n    or W2990910120 or W4392096242 or W7120003294 or W7144015206 or W7164980804\n    or W782036903\n  )",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "join": "or",
+            "filters": [
+              {
+                "column_id": "ids.openalex",
+                "value": "W101817882"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W1603095592"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W1997617533"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2050261689"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2076760458"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2093253514"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2159213649"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2520554114"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2618450480"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2918085701"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W2990910120"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W4392096242"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W7120003294"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W7144015206"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W7164980804"
+              },
+              {
+                "column_id": "ids.openalex",
+                "value": "W782036903"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "/works?filter=ids.openalex:W101817882|W1603095592|W1997617533|W2050261689|W2076760458|W2093253514|W2159213649|W2520554114|W2618450480|W2918085701|W2990910120|W4392096242|W7120003294|W7144015206|W7164980804|W782036903&per_page=25&page=1"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2618450480",
+      "display_name": "Revisiting the Empty Tomb: The Early History of Easter",
+      "publication_year": 2010,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5030051808",
+            "display_name": "Daniel A. Smith",
+            "orcid": "https://orcid.org/0000-0003-0621-1098"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Daniel A. Smith",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-0621-1098",
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2918085701",
+      "display_name": "Mary and Early Christian Women : Hidden Leadership",
+      "publication_year": 2019,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5085851524",
+            "display_name": "Ally Kateusz",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Ally Kateusz",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392096242",
+      "display_name": "Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for the Tibetan Tukdam Postmortem Meditative State",
+      "publication_year": 2024,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5075514591",
+            "display_name": "Tawni Tidwell",
+            "orcid": "https://orcid.org/0000-0001-9358-9958"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I135310074",
+              "display_name": "University of Wisconsin\u2013Madison",
+              "ror": "https://ror.org/01y2jtd41",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I135310074"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132596",
+              "display_name": "University of Wisconsin Health",
+              "ror": "https://ror.org/03e3qgk42",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210132596"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I74022624",
+              "display_name": "Oklahoma State University Center for Health Sciences",
+              "ror": "https://ror.org/02mfxdp77",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I74022624"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Tawni L. Tidwell",
+          "raw_affiliation_strings": [
+            "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu",
+            "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9358-9958",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA. ttidwell@wisc.edu",
+              "institution_ids": [
+                "https://openalex.org/I4210132596",
+                "https://openalex.org/I74022624"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Center for Healthy Minds, University of Wisconsin-Madison, 625 W. Washington Ave., Madison, WI, 53703, USA",
+              "institution_ids": [
+                "https://openalex.org/I135310074"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1997617533",
+      "display_name": "Ch\u00f6gyal Namkhai Norbu Rinpoche: Dzogchen and Tibetan Tradition. From Shang Shung to the West",
+      "publication_year": 2012,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5010876701",
+            "display_name": "Paolo Roberti di Sarsina",
+            "orcid": "https://orcid.org/0000-0002-5076-3001"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I66752286",
+              "display_name": "University of Milano-Bicocca",
+              "ror": "https://ror.org/01ynf4891",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I66752286"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Paolo Roberti di Sarsina",
+          "raw_affiliation_strings": [
+            "Charity \u201cAssociation for Person Centred Medicine\u201d, via San Vitale 40/3a, Bologna 40125, Italy",
+            "Observatory and Methods for Health, University of Milano-Bicocca, Via Bicocca degli Arcimboldi 8, Milano 20126, Italy",
+            "Charity \"Association for Person Centred Medicine\", via San Vitale 40/3a, Bologna 40125, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Charity \u201cAssociation for Person Centred Medicine\u201d, via San Vitale 40/3a, Bologna 40125, Italy",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Observatory and Methods for Health, University of Milano-Bicocca, Via Bicocca degli Arcimboldi 8, Milano 20126, Italy",
+              "institution_ids": [
+                "https://openalex.org/I66752286"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Charity \"Association for Person Centred Medicine\", via San Vitale 40/3a, Bologna 40125, Italy",
+              "institution_ids": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2076760458",
+      "display_name": "Embodying Enlightenment: Physical Culture in Dzogchen as revealed in Tibet\u2019s Lukhang Murals",
+      "publication_year": 2012,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5056534014",
+            "display_name": "Ian Baker",
+            "orcid": "https://orcid.org/0000-0001-6347-6960"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Ian A. Baker",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2093253514",
+      "display_name": "Augustine and manichaeism: new discoveries, new perspectives",
+      "publication_year": 2006,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5047292335",
+            "display_name": "H. Oort",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "H Van Oort",
+          "raw_affiliation_strings": [
+            "Universities of Utrecht and Nijmegen"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universities of Utrecht and Nijmegen",
+              "institution_ids": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2159213649",
+      "display_name": "Manichaeism: Its sources and influences on Western Christianity",
+      "publication_year": 2009,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5063236001",
+            "display_name": "Johannes van Oort",
+            "orcid": "https://orcid.org/0000-0003-2337-7217"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Johannes Van Oort",
+          "raw_affiliation_strings": [
+            "Faculty of Theology, Chair for Ecclesiastical History, Utrecht"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Theology, Chair for Ecclesiastical History, Utrecht",
+              "institution_ids": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W101817882",
+      "display_name": "Continuity in Iranian Leadership Legitimization: Farr-i Izadi, Shi\u2019ism, and Vilayet-i Faqih",
+      "publication_year": 2009,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040568396",
+            "display_name": "Tamara C. Mackenthun",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Tamara C. Mackenthun",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2990910120",
+      "display_name": "BUDDHIST STELE OF SWAT VALLEY: POINT CLOUD ANALYSIS AND INTERPRETATION",
+      "publication_year": 2019,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5003952843",
+            "display_name": "Emanuela Faresin",
+            "orcid": "https://orcid.org/0000-0002-6959-6709"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138689650",
+              "display_name": "University of Padua",
+              "ror": "https://ror.org/00240q980",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138689650"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210119044",
+              "display_name": "Department of Cultural Heritage",
+              "ror": "https://ror.org/02jnvb825",
+              "country_code": "LT",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210119044",
+                "https://openalex.org/I4210161984"
+              ]
+            }
+          ],
+          "countries": [
+            "IT",
+            "LT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Faresin",
+          "raw_affiliation_strings": [
+            "Dipartimento dei Beni Culturali: archeologia, storia dell\u2019arte, del cinema e della musica. Universit\u00e0 di Padova, Piazza Capitaniato, 7, 35139 Padova, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento dei Beni Culturali: archeologia, storia dell\u2019arte, del cinema e della musica. Universit\u00e0 di Padova, Piazza Capitaniato, 7, 35139 Padova, Italy",
+              "institution_ids": [
+                "https://openalex.org/I138689650",
+                "https://openalex.org/I4210119044"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5040595631",
+            "display_name": "G. Salemi",
+            "orcid": "https://orcid.org/0000-0002-2382-1173"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I138689650",
+              "display_name": "University of Padua",
+              "ror": "https://ror.org/00240q980",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I138689650"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210119044",
+              "display_name": "Department of Cultural Heritage",
+              "ror": "https://ror.org/02jnvb825",
+              "country_code": "LT",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210119044",
+                "https://openalex.org/I4210161984"
+              ]
+            }
+          ],
+          "countries": [
+            "IT",
+            "LT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Salemi",
+          "raw_affiliation_strings": [
+            "Dipartimento dei Beni Culturali: archeologia, storia dell\u2019arte, del cinema e della musica. Universit\u00e0 di Padova, Piazza Capitaniato, 7, 35139 Padova, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento dei Beni Culturali: archeologia, storia dell\u2019arte, del cinema e della musica. Universit\u00e0 di Padova, Piazza Capitaniato, 7, 35139 Padova, Italy",
+              "institution_ids": [
+                "https://openalex.org/I138689650",
+                "https://openalex.org/I4210119044"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7120003294",
+      "display_name": "The Buddha and the Sun Disk: Some Reflections on the Dialectics of Light in a Relief from Matkanai, Pakistan",
+      "publication_year": 2025,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5122442069",
+            "display_name": "Jessie Pons",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I904495901",
+              "display_name": "Ruhr University Bochum",
+              "ror": "https://ror.org/04tsk2644",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I904495901"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jessie Pons",
+          "raw_affiliation_strings": [
+            "Centre for the Study of Religions (CERES) , Ruhr-Universit\u00e4t Bochum , Germany;"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1211-2213",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for the Study of Religions (CERES) , Ruhr-Universit\u00e4t Bochum , Germany;",
+              "institution_ids": [
+                "https://openalex.org/I904495901"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2050261689",
+      "display_name": "Magical Movement (\u02bePhrul \u02beKhor): Ancient Tibetan Yogic Practices from the Bon Religion and their Migration into Contemporary Medical Settings",
+      "publication_year": 2007,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5009092033",
+            "display_name": "M. Alejandro Chaoul",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "M.A. Chaoul",
+          "raw_affiliation_strings": [
+            "General Oncology"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "General Oncology",
+              "institution_ids": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1603095592",
+      "display_name": "Being and knowing in wholeness Chinese Chan, Tibetan Dzogchen, and the logic of immediacy in contemplation",
+      "publication_year": 2010,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5009454750",
+            "display_name": "Chinghui Jianying Ying",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Chinghui Jianying Ying",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W782036903",
+      "display_name": "Revelations of a modern mystic: the life and legacy of Kun bzang bde chen gling pa 1928-2006",
+      "publication_year": 2012,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032227673",
+            "display_name": "Amelia J. E. Hall",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hall, Amelia J.E.",
+          "raw_affiliation_strings": [
+            "University of Oxford"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Oxford",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2520554114",
+      "display_name": "sLob dpon gyis b\u015bad pa: Explanation by the Master The Teachings on Meditation of an Unknown Bya\u1e45-cub-klu-dba\u1e45",
+      "publication_year": 2016,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5082280907",
+            "display_name": "Krishna Del Toso",
+            "orcid": "https://orcid.org/0000-0003-3128-8791"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Krishna Del Toso",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-3128-8791",
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7144015206",
+      "display_name": "Gandh\u0101ran Smiling Buddhas Revisited \u2014Farewll to the so-called Archaic Smile\u2014",
+      "publication_year": 2023,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032742089",
+            "display_name": "Katsumi Tanabe",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tanabe, Katsumi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5012877222",
+            "display_name": "\u52dd\u7f8e \u7530\u8fba",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "\u7530\u8fba, \u52dd\u7f8e",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7164980804",
+      "display_name": "DECONSTRUCTING THE SIKRI FASTING BUDDHA: BUDDHIST ANICONISM AND THE THEOLOGICAL IMPLICATIONS OF THE BUDDHA\u2019S ICONIC FORM IN GANDHARAN ART",
+      "publication_year": 2026,
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5138742636",
+            "display_name": "Johann G. Hauser-Ulrich",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I43579087",
+              "display_name": "University of Wisconsin\u2013Milwaukee",
+              "ror": "https://ror.org/031q21x57",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I43579087"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hauser-Ulrich, Johann G.",
+          "raw_affiliation_strings": [
+            "The University of Wisconsin- Milwaukee , 2026"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "The University of Wisconsin- Milwaukee , 2026",
+              "institution_ids": [
+                "https://openalex.org/I43579087"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "group_by": []
+}

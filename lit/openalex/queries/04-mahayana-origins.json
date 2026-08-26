@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "count": 218,
+    "db_response_time_ms": 212,
+    "page": 1,
+    "per_page": 8,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (origins of mahayana buddhism forest hypothesis)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "fulltext.search",
+            "value": "origins of mahayana buddhism forest hypothesis",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=fulltext.search:origins of mahayana buddhism forest hypothesis&per_page=8&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2922405533",
+      "doi": "https://doi.org/10.1017/9781108753371",
+      "display_name": "Unearthly Powers: Religious and Political Change in World History",
+      "publication_year": 2019,
+      "cited_by_count": 69,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "other"
+    },
+    {
+      "id": "https://openalex.org/W4210983350",
+      "doi": "https://doi.org/10.1017/9781108753371",
+      "display_name": "Unearthly Powers",
+      "publication_year": 2019,
+      "cited_by_count": 66,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/958FB306583153709F98E229D697848B/9781108477147c1_27-106.pdf/two_forms_of_religion_being_and_nothingness.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "book"
+    },
+    {
+      "id": "https://openalex.org/W2902054591",
+      "doi": "https://doi.org/10.1093/pastj/gty030",
+      "display_name": "Introduction: Towards a Global Middle Ages",
+      "publication_year": 2018,
+      "cited_by_count": 61,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://academic.oup.com/past/article-pdf/238/suppl_13/1/27008663/gty030.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2087043815",
+      "doi": "https://doi.org/10.1007/s12671-012-0186-2",
+      "display_name": "Rethinking Mindfulness in the Therapeutic Relationship",
+      "publication_year": 2013,
+      "cited_by_count": 28,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s12671-012-0186-2.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W593677924",
+      "doi": "https://doi.org/10.4324/9780203970126",
+      "display_name": "Buddhism in the Public Sphere",
+      "publication_year": 2006,
+      "cited_by_count": 18,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://library.oapen.org/bitstream/20.500.12657/103180/1/9781135986742.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "book"
+    },
+    {
+      "id": "https://openalex.org/W648455643",
+      "doi": "https://doi.org/10.4324/9780203098783",
+      "display_name": "Beyond Enlightenment",
+      "publication_year": 2006,
+      "cited_by_count": 17,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://api.taylorfrancis.com/content/books/oa-mono/download?identifierName=doi&identifierValue=10.4324/9780203098783&type=webpdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "book"
+    },
+    {
+      "id": "https://openalex.org/W2971393088",
+      "doi": "https://doi.org/10.3390/rel10090514",
+      "display_name": "The Reincarnation of Waste: A Case Study of Spiritual Ecology Activism for Household Solid Waste Management: The Samdrup Jongkhar Initiative of Rural Bhutan",
+      "publication_year": 2019,
+      "cited_by_count": 15,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2077-1444/10/9/514/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2783554858",
+      "doi": "https://doi.org/10.5194/esd-9-849-2018",
+      "display_name": "On deeper human dimensions in Earth system analysis and modelling",
+      "publication_year": 2018,
+      "cited_by_count": 15,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://esd.copernicus.org/articles/9/849/2018/esd-9-849-2018.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 282,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (caravan cities trade urbanism petra palmyra dura)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "caravan cities trade urbanism petra palmyra dura",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:caravan cities trade urbanism petra palmyra dura&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2032738518",
+      "doi": "https://doi.org/10.1017/s0021088900002783",
+      "display_name": "Palmyra as a trading centre",
+      "publication_year": 1994,
+      "cited_by_count": 30,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}

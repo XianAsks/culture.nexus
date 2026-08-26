@@ -1,0 +1,17 @@
+Europe PMC skill — license notification
+Recorded: 2026-08-23T22:44:44-04:00
+Workspace: /home/xian/projects/spirit
+
+NOTIFICATION TEXT PRESENTED TO USER:
+
+  Europe PMC is subject to the terms published at https://europepmc.org/ —
+  check them before relying on or redistributing retrieved content.
+
+  This skill searches open-access content only, but "open access" is not a
+  single license. Every paper retrieved carries its own terms (CC-BY,
+  CC-BY-NC, CC-BY-NC-ND and others). Always check the license of each
+  retrieved paper for restrictions before redistributing, republishing, or
+  quoting at length.
+
+Skill: google-deepmind:literature_search_europepmc
+Skill root: /home/xian/.claude.home/skills/google-deepmind/skills/literature_search_europepmc

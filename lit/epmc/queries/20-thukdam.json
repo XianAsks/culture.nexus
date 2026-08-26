@@ -1,0 +1,3323 @@
+{
+  "hitCount": 2310,
+  "nextCursorMark": "AoJUEyg0NDg4NTUyOQ==",
+  "results": [
+    {
+      "id": "23112770",
+      "source": "MED",
+      "pmid": "23112770",
+      "pmcid": "PMC3480633",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC3480633"
+        ]
+      },
+      "doi": "10.3389/fnhum.2012.00296",
+      "title": "Self-awareness, self-regulation, and self-transcendence (S-ART): a framework for understanding the neurobiological mechanisms of mindfulness.",
+      "authorString": "Vago DR, Silbersweig DA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Vago DR",
+            "firstName": "David R",
+            "lastName": "Vago",
+            "initials": "DR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6269-9027"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Functional Neuroimaging Laboratory, Department of Psychiatry, Brigham and Women's Hospital Boston, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Silbersweig DA",
+            "firstName": "David A",
+            "lastName": "Silbersweig",
+            "initials": "DA"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6269-9027"
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "6",
+        "journalIssueId": 1907410,
+        "dateOfPublication": "2012 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2012,
+        "printPublicationDate": "2012-01-01",
+        "journal": {
+          "title": "Frontiers in human neuroscience",
+          "medlineAbbreviation": "Front Hum Neurosci",
+          "issn": "1662-5161",
+          "essn": "1662-5161",
+          "isoabbreviation": "Front Hum Neurosci",
+          "nlmid": "101477954"
+        }
+      },
+      "pubYear": "2012",
+      "pageInfo": "296",
+      "abstractText": "Mindfulness-as a state, trait, process, type of meditation, and intervention has proven to be beneficial across a diverse group of psychological disorders as well as for general stress reduction. Yet, there remains a lack of clarity in the operationalization of this construct, and underlying mechanisms. Here, we provide an integrative theoretical framework and systems-based neurobiological model that explains the mechanisms by which mindfulness reduces biases related to self-processing and creates a sustainable healthy mind. Mindfulness is described through systematic mental training that develops meta-awareness (self-awareness), an ability to effectively modulate one's behavior (self-regulation), and a positive relationship between self and other that transcends self-focused needs and increases prosocial characteristics (self-transcendence). This framework of self-awareness, -regulation, and -transcendence (S-ART) illustrates a method for becoming aware of the conditions that cause (and remove) distortions or biases. The development of S-ART through meditation is proposed to modulate self-specifying and narrative self-networks through an integrative fronto-parietal control network. Relevant perceptual, cognitive, emotional, and behavioral neuropsychological processes are highlighted as supporting mechanisms for S-ART, including intention and motivation, attention regulation, emotion regulation, extinction and reconsolidation, prosociality, non-attachment, and decentering. The S-ART framework and neurobiological model is based on our growing understanding of the mechanisms for neurocognition, empirical literature, and through dismantling the specific meditation practices thought to cultivate mindfulness. The proposed framework will inform future research in the contemplative sciences and target specific areas for development in the treatment of psychological disorders.",
+      "affiliation": "Functional Neuroimaging Laboratory, Department of Psychiatry, Brigham and Women's Hospital Boston, MA, USA.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Self-regulation",
+          "Self-awareness",
+          "Mindfulness",
+          "Meditation",
+          "Self",
+          "Brain Networks",
+          "Contemplative"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2012.00296/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnhum.2012.00296"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3480633"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3480633?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 505,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2012-11-01",
+      "dateOfCreation": "2012-11-01",
+      "firstIndexDate": "2012-11-03",
+      "fullTextReceivedDate": "2025-02-02",
+      "dateOfRevision": "2022-03-21",
+      "electronicPublicationDate": "2012-10-25",
+      "firstPublicationDate": "2012-10-25"
+    },
+    {
+      "id": "25740330",
+      "source": "MED",
+      "pmid": "25740330",
+      "pmcid": "PMC4348559",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4348559"
+        ]
+      },
+      "doi": "10.1242/dmm.018424",
+      "title": "Animal models of Duchenne muscular dystrophy: from basic mechanisms to gene therapy.",
+      "authorString": "McGreevy JW, Hakim CH, McIntosh MA, Duan D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "McGreevy JW",
+            "firstName": "Joe W",
+            "lastName": "McGreevy",
+            "initials": "JW",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Microbiology and Immunology, School of Medicine, University of Missouri, Columbia, MO 65212, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hakim CH",
+            "firstName": "Chady H",
+            "lastName": "Hakim",
+            "initials": "CH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Microbiology and Immunology, School of Medicine, University of Missouri, Columbia, MO 65212, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "McIntosh MA",
+            "firstName": "Mark A",
+            "lastName": "McIntosh",
+            "initials": "MA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Microbiology and Immunology, School of Medicine, University of Missouri, Columbia, MO 65212, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Duan D",
+            "firstName": "Dongsheng",
+            "lastName": "Duan",
+            "initials": "D",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4109-1132"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Molecular Microbiology and Immunology, School of Medicine, University of Missouri, Columbia, MO 65212, USA Department of Neurology, School of Medicine, University of Missouri, Columbia, MO 65212, USA duand@missouri.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4109-1132"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "3",
+        "volume": "8",
+        "journalIssueId": 2260492,
+        "dateOfPublication": "2015 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2015,
+        "printPublicationDate": "2015-03-01",
+        "journal": {
+          "title": "Disease models & mechanisms",
+          "medlineAbbreviation": "Dis Model Mech",
+          "issn": "1754-8403",
+          "essn": "1754-8411",
+          "isoabbreviation": "Dis Model Mech",
+          "nlmid": "101483332"
+        }
+      },
+      "pubYear": "2015",
+      "pageInfo": "195-213",
+      "abstractText": "Duchenne muscular dystrophy (DMD) is a progressive muscle-wasting disorder. It is caused by loss-of-function mutations in the dystrophin gene. Currently, there is no cure. A highly promising therapeutic strategy is to replace or repair the defective dystrophin gene by gene therapy. Numerous animal models of DMD have been developed over the last 30 years, ranging from invertebrate to large mammalian models. mdx mice are the most commonly employed models in DMD research and have been used to lay the groundwork for DMD gene therapy. After ~30 years of development, the field has reached the stage at which the results in mdx mice can be validated and scaled-up in symptomatic large animals. The canine DMD (cDMD) model will be excellent for these studies. In this article, we review the animal models for DMD, the pros and cons of each model system, and the history and progress of preclinical DMD gene therapy research in the animal models. We also discuss the current and emerging challenges in this field and ways to address these challenges using animal models, in particular cDMD dogs.",
+      "affiliation": "Department of Molecular Microbiology and Immunology, School of Medicine, University of Missouri, Columbia, MO 65212, USA.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "review-article",
+          "Review",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "R01 HL091883",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 AR070517",
+            "agency": "NIAMS NIH HHS",
+            "acronym": "AR",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 NS090634",
+            "agency": "NINDS NIH HHS",
+            "acronym": "NS",
+            "orderIn": 0
+          },
+          {
+            "grantId": "AR-49419",
+            "agency": "NIAMS NIH HHS",
+            "acronym": "AR",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01 AR049419",
+            "agency": "NIAMS NIH HHS",
+            "acronym": "AR",
+            "orderIn": 0
+          },
+          {
+            "grantId": "HL-91883",
+            "agency": "NHLBI NIH HHS",
+            "acronym": "HL",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Neurons",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Muscular Dystrophy, Duchenne",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cardiomyopathies",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TH",
+                  "qualifierName": "therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Disease Models, Animal"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Dystrophin",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DF",
+                  "qualifierName": "deficiency",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Genetic Therapy"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Gene therapy",
+          "Animal model",
+          "Duchenne muscular dystrophy",
+          "Dystrophin",
+          "Canine Dmd"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Dystrophin",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1242/dmm.018424"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4348559"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4348559?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 413,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2015-12-01",
+      "dateOfCreation": "2015-03-06",
+      "firstIndexDate": "2015-03-06",
+      "fullTextReceivedDate": "2025-02-05",
+      "dateOfRevision": "2021-10-16",
+      "firstPublicationDate": "2015-03-01"
+    },
+    {
+      "id": "35114146",
+      "source": "MED",
+      "pmid": "35114146",
+      "pmcid": "PMC8803389",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC8803389"
+        ]
+      },
+      "doi": "10.1016/s0140-6736(21)02314-x",
+      "title": "Report of the Lancet Commission on the Value of Death: bringing death back into life.",
+      "authorString": "Sallnow L, Smith R, Ahmedzai SH, Bhadelia A, Chamberlain C, Cong Y, Doble B, Dullie L, Durie R, Finkelstein EA, Guglani S, Hodson M, Huseb\u00f8 BS, Kellehear A, Kitzinger C, Knaul FM, Murray SA, Neuberger J, O'Mahony S, Rajagopal MR, Russell S, Sase E, Sleeman KE, Solomon S, Taylor R, Tutu van Furth M, Wyatt K, Lancet Commission on the Value of Death.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Sallnow L",
+            "firstName": "Libby",
+            "lastName": "Sallnow",
+            "initials": "L",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7079-9637"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "St Christopher's Hospice, London, UK. Electronic address: libby.sallnow@nhs.net."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Smith R",
+            "firstName": "Richard",
+            "lastName": "Smith",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "UK Health Alliance on Climate Change, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ahmedzai SH",
+            "firstName": "Sam H",
+            "lastName": "Ahmedzai",
+            "initials": "SH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Sheffield, Sheffield, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bhadelia A",
+            "firstName": "Afsan",
+            "lastName": "Bhadelia",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4650-280X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Harvard T H Chan School of Public Health, Boston, MA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chamberlain C",
+            "firstName": "Charlotte",
+            "lastName": "Chamberlain",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1891-7522"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bristol Medical School, Bristol, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cong Y",
+            "firstName": "Yali",
+            "lastName": "Cong",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Peking University Health Science Center, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Doble B",
+            "firstName": "Brett",
+            "lastName": "Doble",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Duke NUS Medical School, Singapore."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dullie L",
+            "firstName": "Luckson",
+            "lastName": "Dullie",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Malawi, Blantyre, Malawi."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Durie R",
+            "firstName": "Robin",
+            "lastName": "Durie",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Exeter, Exeter, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Finkelstein EA",
+            "firstName": "Eric A",
+            "lastName": "Finkelstein",
+            "initials": "EA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Duke NUS Medical School, Singapore."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Guglani S",
+            "firstName": "Sam",
+            "lastName": "Guglani",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Gloucestershire Hospitals, Cheltenham, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hodson M",
+            "firstName": "Melanie",
+            "lastName": "Hodson",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Hospice UK, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huseb\u00f8 BS",
+            "firstName": "Bettina S",
+            "lastName": "Huseb\u00f8",
+            "initials": "BS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6037-2864"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Bergen, Bergen, Norway."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kellehear A",
+            "firstName": "Allan",
+            "lastName": "Kellehear",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0001-5399-4075"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Vermont, Burlington, VT, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Kitzinger C",
+            "firstName": "Celia",
+            "lastName": "Kitzinger",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Cardiff, Cardiff, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Knaul FM",
+            "firstName": "Felicia Marie",
+            "lastName": "Knaul",
+            "initials": "FM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0512-4788"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Miami, Miami, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Murray SA",
+            "firstName": "Scott A",
+            "lastName": "Murray",
+            "initials": "SA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Edinburgh, Edinburgh, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Neuberger J",
+            "firstName": "Julia",
+            "lastName": "Neuberger",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University College London Hospitals NHS Foundation Trust, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "O'Mahony S",
+            "firstName": "Seamus",
+            "lastName": "O'Mahony",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "King's College London, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rajagopal MR",
+            "firstName": "M R",
+            "lastName": "Rajagopal",
+            "initials": "MR",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pallium India, Thiruvananthapuram, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Russell S",
+            "firstName": "Sarah",
+            "lastName": "Russell",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Portsmouth Hospitals University NHS Trust, Portsmouth, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sase E",
+            "firstName": "Eriko",
+            "lastName": "Sase",
+            "initials": "E",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Georgetown University, Washington, DC, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Sleeman KE",
+            "firstName": "Katherine E",
+            "lastName": "Sleeman",
+            "initials": "KE",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9777-4373"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "King's College London, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Solomon S",
+            "firstName": "Sheldon",
+            "lastName": "Solomon",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Skidmore College, Saratoga Springs, NY, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Taylor R",
+            "firstName": "Ros",
+            "lastName": "Taylor",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Harlington Hospice, London, UK."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tutu van Furth M",
+            "firstName": "Mpho",
+            "lastName": "Tutu van Furth",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Amstelveen, Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wyatt K",
+            "firstName": "Katrina",
+            "lastName": "Wyatt",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7099-159X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "University of Exeter, Exeter, UK."
+                }
+              ]
+            }
+          },
+          {
+            "collectiveName": "Lancet Commission on the Value of Death"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7079-9637"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7099-159X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0512-4788"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6037-2864"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9777-4373"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1891-7522"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4650-280X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0001-5399-4075"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "10327",
+        "volume": "399",
+        "journalIssueId": 3319449,
+        "dateOfPublication": "2022 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2022,
+        "printPublicationDate": "2022-02-01",
+        "journal": {
+          "title": "Lancet (London, England)",
+          "medlineAbbreviation": "Lancet",
+          "issn": "0140-6736",
+          "essn": "1474-547X",
+          "isoabbreviation": "Lancet",
+          "nlmid": "2985213R"
+        }
+      },
+      "pubYear": "2022",
+      "pageInfo": "837-884",
+      "affiliation": "St Christopher's Hospice, London, UK. Electronic address: libby.sallnow@nhs.net.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "CL-2010-17-009",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "AMS-SGCL10-Sleeman",
+            "agency": "Academy of Medical Sciences",
+            "acronym": "AMS_",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CL-2015-25-501",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          },
+          {
+            "grantId": "CS-2015-15-005",
+            "agency": "National Institute for Health Research (NIHR)",
+            "orderIn": 0
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "https://kclpure.kcl.ac.uk/portal/en/publications/60191ec6-3f17-4e8c-b54a-8a90f2b184f2"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/S0140-6736(21)02314-X"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8803389"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8803389?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "35114145",
+            "source": "MED",
+            "reference": "Lancet. 2022 Feb 26;399(10327):775-777. doi: 10.1016/S0140-6736(22)00162-3.",
+            "type": "Comment in",
+            "orderIn": 1
+          },
+          {
+            "id": "35114147",
+            "source": "MED",
+            "reference": "Lancet. 2022 Feb 26;399(10327):783. doi: 10.1016/S0140-6736(22)00146-5.",
+            "type": "Comment in",
+            "orderIn": 2
+          },
+          {
+            "id": "35325605",
+            "source": "MED",
+            "reference": "Lancet. 2022 Apr 16;399(10334):1447-1450. doi: 10.1016/S0140-6736(22)00534-7.",
+            "type": "Comment in",
+            "orderIn": 3
+          },
+          {
+            "id": "35691315",
+            "source": "MED",
+            "reference": "Lancet. 2022 Jun 11;399(10342):2187-2188. doi: 10.1016/S0140-6736(22)00740-1.",
+            "type": "Comment in",
+            "orderIn": 4
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 411,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2022-04-04",
+      "dateOfCreation": "2022-02-03",
+      "firstIndexDate": "2022-02-04",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2025-05-15",
+      "electronicPublicationDate": "2022-02-01",
+      "firstPublicationDate": "2022-02-01"
+    },
+    {
+      "id": "29650407",
+      "source": "MED",
+      "pmid": "29650407",
+      "pmcid": "PMC7185405",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC7185405"
+        ]
+      },
+      "doi": "10.1016/s2213-2600(18)30103-6",
+      "title": "Chronic obstructive pulmonary disease in China: a nationwide prevalence study.",
+      "authorString": "Fang L, Gao P, Bao H, Tang X, Wang B, Feng Y, Cong S, Juan J, Fan J, Lu K, Wang N, Hu Y, Wang L.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Fang L",
+            "firstName": "Liwen",
+            "lastName": "Fang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao P",
+            "firstName": "Pei",
+            "lastName": "Gao",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-8649-1290"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Peking University, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bao H",
+            "firstName": "Heling",
+            "lastName": "Bao",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-3538-0245"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tang X",
+            "firstName": "Xun",
+            "lastName": "Tang",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6990-0168"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Peking University, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang B",
+            "firstName": "Baohua",
+            "lastName": "Wang",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Feng Y",
+            "firstName": "Yajing",
+            "lastName": "Feng",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cong S",
+            "firstName": "Shu",
+            "lastName": "Cong",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Juan J",
+            "firstName": "Juan",
+            "lastName": "Juan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Peking University, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fan J",
+            "firstName": "Jing",
+            "lastName": "Fan",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lu K",
+            "firstName": "Ke",
+            "lastName": "Lu",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Peking University, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang N",
+            "firstName": "Ning",
+            "lastName": "Wang",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Hu Y",
+            "firstName": "Yonghua",
+            "lastName": "Hu",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Epidemiology and Biostatistics, School of Public Health, Peking University, Beijing, China. Electronic address: yhhu@bjmu.edu.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wang L",
+            "firstName": "Linhong",
+            "lastName": "Wang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China. Electronic address: linhong@chinawch.org.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-8649-1290"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1849-1747"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6990-0168"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-3538-0245"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "6",
+        "volume": "6",
+        "journalIssueId": 2690347,
+        "dateOfPublication": "2018 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2018,
+        "printPublicationDate": "2018-06-01",
+        "journal": {
+          "title": "The Lancet. Respiratory medicine",
+          "medlineAbbreviation": "Lancet Respir Med",
+          "issn": "2213-2600",
+          "essn": "2213-2619",
+          "isoabbreviation": "Lancet Respir Med",
+          "nlmid": "101605555"
+        }
+      },
+      "pubYear": "2018",
+      "pageInfo": "421-430",
+      "abstractText": "<h4>Background</h4>Because of the rapid change in economic development and lifestyle in China, and the ageing population, concerns have grown that chronic obstructive pulmonary disease (COPD) could become epidemic. An up-to-date nationwide estimation of COPD prevalence in China is needed.<h4>Methods</h4>We did a cross-sectional survey of a nationally representative sample of individuals from mainland China aged 40 years or older. The primary outcome was COPD, defined according to the 2017 Global Initiative for Chronic Obstructive Lung Disease (GOLD) lung function criteria.<h4>Findings</h4>Between Dec 29, 2014, and Dec 31, 2015, 66\u2008752 adults were recruited to the study population. The estimated standardised prevalence of COPD was 13\u00b76% (95% CI 12\u00b70-15\u00b72). The prevalence of COPD differed significantly between men and women (19\u00b70%, 95% CI 16\u00b79-21\u00b72 vs 8\u00b71%, 6\u00b78-9\u00b73; p<0\u00b70001), mainly because of a significant difference in smoking status between men and women (current smokers 58\u00b72% vs 4\u00b70%). The prevalence of COPD differed by geographic region, with the highest prevalence in southwest China (20\u00b72%, 95% CI 14\u00b77-25\u00b78) and the lowest in central China (10\u00b72%, 8\u00b72-12\u00b72). Among adults with COPD, 56\u00b74% (95% CI 53\u00b77-59\u00b72) had mild disease (GOLD stage I), 36\u00b73% (34\u00b73-38\u00b73) had moderate disease (GOLD stage II), 6\u00b75% (5\u00b75-7\u00b74) had severe disease (GOLD stage III), and 0\u00b79% (0\u00b76-1\u00b71) had very severe disease (GOLD stage IV).<h4>Interpretation</h4>In a large, nationally representative sample of adults aged 40 years or older, the estimated overall prevalence of COPD in China in 2014-15 was 13\u00b76%, indicating that this disease has become a major public-health problem. Strategies aimed at prevention and treatment of COPD are needed urgently.<h4>Funding</h4>Chinese Central Government, the Ministry of Science and Technology of The People's Republic of China, and the National Natural Science Foundation of China.",
+      "affiliation": "National Center for Chronic and Non-Communicable Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Beijing, China.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Pulmonary Disease, Chronic Obstructive",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ET",
+                  "qualifierName": "etiology",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Severity of Illness Index"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Prevalence"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Risk Factors"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cross-Sectional Studies"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Smoking",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "AE",
+                  "qualifierName": "adverse effects",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sex Distribution"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aged, 80 and over"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Middle Aged"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "China",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "EP",
+                  "qualifierName": "epidemiology",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1016/S2213-2600(18)30103-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7185405"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7185405?pdf=render"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "id": "29650406",
+            "source": "MED",
+            "reference": "Lancet Respir Med. 2018 Jun;6(6):404-405. doi: 10.1016/S2213-2600(18)30133-4",
+            "type": "Comment in",
+            "orderIn": 1
+          },
+          {
+            "id": "29793859",
+            "source": "MED",
+            "reference": "Lancet Respir Med. 2018 Aug;6(8):e38. doi: 10.1016/S2213-2600(18)30200-5",
+            "type": "Comment in",
+            "orderIn": 2
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 357,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2019-03-05",
+      "dateOfCreation": "2018-04-14",
+      "firstIndexDate": "2018-04-14",
+      "fullTextReceivedDate": "2025-02-04",
+      "dateOfRevision": "2024-08-04",
+      "electronicPublicationDate": "2018-04-09",
+      "firstPublicationDate": "2018-04-09"
+    },
+    {
+      "id": "31906008",
+      "source": "MED",
+      "pmid": "31906008",
+      "pmcid": "PMC6981831",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6981831"
+        ]
+      },
+      "doi": "10.3390/ijms21010263",
+      "title": "Inflammation and Oxidative Stress in Chronic Kidney Disease-Potential Therapeutic Role of Minerals, Vitamins and Plant-Derived Metabolites.",
+      "authorString": "Rapa SF, Di Iorio BR, Campiglia P, Heidland A, Marzocco S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Rapa SF",
+            "firstName": "Shara Francesca",
+            "lastName": "Rapa",
+            "initials": "SF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pharmacy, School of Pharmacy, University of Salerno, Via Giovanni Paolo II 132, I-84084 Fisciano, SA, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Di Iorio BR",
+            "firstName": "Biagio Raffaele",
+            "lastName": "Di Iorio",
+            "initials": "BR",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2779-4181"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "UOC Nephrology AORN \"San Giuseppe Moscati\", C.da Amoretta, 83100 Avellino, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Campiglia P",
+            "firstName": "Pietro",
+            "lastName": "Campiglia",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1069-2181"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pharmacy, School of Pharmacy, University of Salerno, Via Giovanni Paolo II 132, I-84084 Fisciano, SA, Italy."
+                },
+                {
+                  "affiliation": "European Biomedical Research Institute of Salerno, Via De Renzi 50, I-84125 Salerno, Italy."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Heidland A",
+            "firstName": "August",
+            "lastName": "Heidland",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Internal Medicine and KfH Kidney Center, University of W\u00fcrzburg, KfH Kidney Center W\u00fcrzburg, 97080 W\u00fcrzburg, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Marzocco S",
+            "firstName": "Stefania",
+            "lastName": "Marzocco",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2333-1630"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pharmacy, School of Pharmacy, University of Salerno, Via Giovanni Paolo II 132, I-84084 Fisciano, SA, Italy."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1069-2181"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2333-1630"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2779-4181"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "21",
+        "journalIssueId": 2893406,
+        "dateOfPublication": "2019 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-12-01",
+        "journal": {
+          "title": "International journal of molecular sciences",
+          "medlineAbbreviation": "Int J Mol Sci",
+          "issn": "1422-0067",
+          "essn": "1422-0067",
+          "isoabbreviation": "Int J Mol Sci",
+          "nlmid": "101092791"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "E263",
+      "abstractText": "Chronic kidney disease (CKD) is a debilitating pathology with various causal factors, culminating in end stage renal disease (ESRD) requiring dialysis or kidney transplantation. The progression of CKD is closely associated with systemic inflammation and oxidative stress, which are responsible for the manifestation of numerous complications such as malnutrition, atherosclerosis, coronary artery calcification, heart failure, anemia and mineral and bone disorders, as well as enhanced cardiovascular mortality. In addition to conventional therapy with anti-inflammatory and antioxidative agents, growing evidence has indicated that certain minerals, vitamins and plant-derived metabolites exhibit beneficial effects in these disturbances. In the current work, we review the anti-inflammatory and antioxidant properties of various agents which could be of potential benefit in CKD/ESRD. However, the related studies were limited due to small sample sizes and short-term follow-up in many trials. Therefore, studies of several anti-inflammatory and antioxidant agents with long-term follow-ups are necessary.",
+      "affiliation": "Department of Pharmacy, School of Pharmacy, University of Salerno, Via Giovanni Paolo II 132, I-84084 Fisciano, SA, Italy.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Kidney Failure, Chronic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DT",
+                  "qualifierName": "drug therapy",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Disease Progression"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Inflammation",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DT",
+                  "qualifierName": "drug therapy",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Minerals",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Vitamins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Plant Extracts",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cytokines"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Antioxidants",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "TU",
+                  "qualifierName": "therapeutic use",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Kidney Transplantation"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Oxidative Stress",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "DE",
+                  "qualifierName": "drug effects",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Renal Insufficiency, Chronic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "Y"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Vitamins",
+          "Oxidative stress",
+          "Inflammation",
+          "minerals",
+          "Uremic Toxins",
+          "Chronic Kidney Disease (Ckd)",
+          "Plant-derived Metabolites"
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Vitamins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Minerals",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Plant Extracts",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Antioxidants",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Cytokines",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3390/ijms21010263"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6981831"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6981831?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 351,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-05-18",
+      "dateOfCreation": "2020-01-08",
+      "firstIndexDate": "2020-01-17",
+      "fullTextReceivedDate": "2025-02-05",
+      "dateOfRevision": "2020-05-18",
+      "electronicPublicationDate": "2019-12-30",
+      "firstPublicationDate": "2019-12-30"
+    },
+    {
+      "id": "24860647",
+      "source": "MED",
+      "pmid": "24860647",
+      "pmcid": "PMC4013820",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC4013820"
+        ]
+      },
+      "doi": "10.1186/2046-2395-3-6",
+      "title": "Mitochondrial oxidative stress in aging and healthspan.",
+      "authorString": "Dai DF, Chiao YA, Marcinek DJ, Szeto HH, Rabinovitch PS.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Dai DF",
+            "firstName": "Dao-Fu",
+            "lastName": "Dai",
+            "initials": "DF",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, University of Washington, 1959 Pacific Ave NE, HSB-K081, Seattle, WA 98195, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chiao YA",
+            "firstName": "Ying Ann",
+            "lastName": "Chiao",
+            "initials": "YA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1256-4335"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, University of Washington, 1959 Pacific Ave NE, HSB-K081, Seattle, WA 98195, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Marcinek DJ",
+            "firstName": "David J",
+            "lastName": "Marcinek",
+            "initials": "DJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Radiology, University of Washington, Seattle, WA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Szeto HH",
+            "firstName": "Hazel H",
+            "lastName": "Szeto",
+            "initials": "HH",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pharmacology, Weill Cornell Medical College, New York, NY, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Rabinovitch PS",
+            "firstName": "Peter S",
+            "lastName": "Rabinovitch",
+            "initials": "PS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, University of Washington, 1959 Pacific Ave NE, HSB-K081, Seattle, WA 98195, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1256-4335"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "volume": "3",
+        "journalIssueId": 2160265,
+        "dateOfPublication": "2014 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2014,
+        "printPublicationDate": "2014-01-01",
+        "journal": {
+          "title": "Longevity & healthspan",
+          "medlineAbbreviation": "Longev Healthspan",
+          "issn": "2046-2395",
+          "essn": "2046-2395",
+          "isoabbreviation": "Longev Healthspan",
+          "nlmid": "101618739"
+        }
+      },
+      "pubYear": "2014",
+      "pageInfo": "6",
+      "abstractText": "The free radical theory of aging proposes that reactive oxygen species (ROS)-induced accumulation of damage to cellular macromolecules is a primary driving force of aging and a major determinant of lifespan. Although this theory is one of the most popular explanations for the cause of aging, several experimental rodent models of antioxidant manipulation have failed to affect lifespan. Moreover, antioxidant supplementation clinical trials have been largely disappointing. The mitochondrial theory of aging specifies more particularly that mitochondria are both the primary sources of ROS and the primary targets of ROS damage. In addition to effects on lifespan and aging, mitochondrial ROS have been shown to play a central role in healthspan of many vital organ systems. In this article we review the evidence supporting the role of mitochondrial oxidative stress, mitochondrial damage and dysfunction in aging and healthspan, including cardiac aging, age-dependent cardiovascular diseases, skeletal muscle aging, neurodegenerative diseases, insulin resistance and diabetes as well as age-related cancers. The crosstalk of mitochondrial ROS, redox, and other cellular signaling is briefly presented. Potential therapeutic strategies to improve mitochondrial function in aging and healthspan are reviewed, with a focus on mitochondrial protective drugs, such as the mitochondrial antioxidants MitoQ, SkQ1, and the mitochondrial protective peptide SS-31.",
+      "affiliation": "Department of Pathology, University of Washington, 1959 Pacific Ave NE, HSB-K081, Seattle, WA 98195, USA.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic-eCollection",
+      "pubTypeList": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "P01 AG001751",
+            "agency": "NIA NIH HHS",
+            "acronym": "AG",
+            "orderIn": 0
+          },
+          {
+            "grantId": "T32 AG000057",
+            "agency": "NIA NIH HHS",
+            "acronym": "AG",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Mitochondria",
+          "Aging",
+          "Oxidative stress",
+          "Healthspan"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1186/2046-2395-3-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4013820"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4013820?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 335,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2014-06-24",
+      "dateOfCreation": "2014-05-27",
+      "firstIndexDate": "2014-05-27",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2021-10-21",
+      "electronicPublicationDate": "2014-05-01",
+      "firstPublicationDate": "2014-05-01"
+    },
+    {
+      "id": "31653849",
+      "source": "MED",
+      "pmid": "31653849",
+      "pmcid": "PMC6814821",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6814821"
+        ]
+      },
+      "doi": "10.1038/s41467-019-12801-6",
+      "title": "YTHDF1 links hypoxia adaptation and non-small cell lung cancer progression.",
+      "authorString": "Shi Y, Fan S, Wu M, Zuo Z, Li X, Jiang L, Shen Q, Xu P, Zeng L, Zhou Y, Huang Y, Yang Z, Zhou J, Gao J, Zhou H, Xu S, Ji H, Shi P, Wu DD, Yang C, Chen Y.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shi Y",
+            "firstName": "Yulin",
+            "lastName": "Shi",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China."
+                },
+                {
+                  "affiliation": "Kunming College of Life Science, University of Chinese Academy of Sciences, Kunming, 650204, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Fan S",
+            "firstName": "Songqing",
+            "lastName": "Fan",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Pathology, the Second Xiangya Hospital, Central South University, Changsha, Hunan, 410000, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wu M",
+            "firstName": "Mengge",
+            "lastName": "Wu",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kunming Medical University, Kunming, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zuo Z",
+            "firstName": "Zhixiang",
+            "lastName": "Zuo",
+            "initials": "Z",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2492-2689"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Sun Yat-sen University Cancer Center, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University, Guangzhou, 510060, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Li X",
+            "firstName": "Xingyang",
+            "lastName": "Li",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Sun Yat-sen University Cancer Center, State Key Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen University, Guangzhou, 510060, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Jiang L",
+            "firstName": "Liping",
+            "lastName": "Jiang",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shen Q",
+            "firstName": "Qiushuo",
+            "lastName": "Shen",
+            "initials": "Q",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China."
+                },
+                {
+                  "affiliation": "Kunming College of Life Science, University of Chinese Academy of Sciences, Kunming, 650204, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu P",
+            "firstName": "Peifang",
+            "lastName": "Xu",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zeng L",
+            "firstName": "Lin",
+            "lastName": "Zeng",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China."
+                },
+                {
+                  "affiliation": "Kunming College of Life Science, University of Chinese Academy of Sciences, Kunming, 650204, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou Y",
+            "firstName": "Yongchun",
+            "lastName": "Zhou",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kunming Medical University, Kunming, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Huang Y",
+            "firstName": "Yunchao",
+            "lastName": "Huang",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kunming Medical University, Kunming, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang Z",
+            "firstName": "Zuozhang",
+            "lastName": "Yang",
+            "initials": "Z",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kunming Medical University, Kunming, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou J",
+            "firstName": "Jumin",
+            "lastName": "Zhou",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gao J",
+            "firstName": "Jing",
+            "lastName": "Gao",
+            "initials": "J",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Analytical Chemistry and CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 555 Zuchongzhi Road, Shanghai, 201203, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Zhou H",
+            "firstName": "Hu",
+            "lastName": "Zhou",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7006-4737"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Analytical Chemistry and CAS Key Laboratory of Receptor Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 555 Zuchongzhi Road, Shanghai, 201203, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Xu S",
+            "firstName": "Shuhua",
+            "lastName": "Xu",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1975-1002"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Computational Biology, CAS-MPG Partner Institute for Computational Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China."
+                },
+                {
+                  "affiliation": "Center for Excellence in Animal Evolution and Genetics, Chinese Academy of Sciences, Kunming, Yunnan, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ji H",
+            "firstName": "Hongbin",
+            "lastName": "Ji",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0891-6390"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Shi P",
+            "firstName": "Peng",
+            "lastName": "Shi",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Excellence in Animal Evolution and Genetics, Chinese Academy of Sciences, Kunming, Yunnan, 650223, China."
+                },
+                {
+                  "affiliation": "State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, 650223, China."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wu DD",
+            "firstName": "Dong-Dong",
+            "lastName": "Wu",
+            "initials": "DD",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7101-7297"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Excellence in Animal Evolution and Genetics, Chinese Academy of Sciences, Kunming, Yunnan, 650223, China. wudongdong@mail.kiz.ac.cn."
+                },
+                {
+                  "affiliation": "State Key Laboratory of Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Sciences, Kunming, 650223, China. wudongdong@mail.kiz.ac.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yang C",
+            "firstName": "Cuiping",
+            "lastName": "Yang",
+            "initials": "C",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China. cuipingyang@mail.kiz.ac.cn."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Chen Y",
+            "firstName": "Yongbin",
+            "lastName": "Chen",
+            "initials": "Y",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China. ybchen@mail.kiz.ac.cn."
+                },
+                {
+                  "affiliation": "Center for Excellence in Animal Evolution and Genetics, Chinese Academy of Sciences, Kunming, Yunnan, 650223, China. ybchen@mail.kiz.ac.cn."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7006-4737"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7101-7297"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1975-1002"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2492-2689"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0891-6390"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data",
+          "related_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "10",
+        "journalIssueId": 2866016,
+        "dateOfPublication": "2019 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2019,
+        "printPublicationDate": "2019-10-01",
+        "journal": {
+          "title": "Nature communications",
+          "medlineAbbreviation": "Nat Commun",
+          "issn": "2041-1723",
+          "essn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        }
+      },
+      "pubYear": "2019",
+      "pageInfo": "4892",
+      "abstractText": "Hypoxia occurs naturally at high-altitudes and pathologically in hypoxic solid tumors. Here, we report that genes involved in various human cancers evolved rapidly in Tibetans and six Tibetan domestic mammals compared to reciprocal lowlanders. Furthermore, m<sup>6</sup>A modified mRNA binding protein YTHDF1, one of evolutionary positively selected genes for high-altitude adaptation is amplified in various cancers, including non-small cell lung cancer (NSCLC). We show that YTHDF1 deficiency inhibits NSCLC cell proliferation and xenograft tumor formation through regulating the translational efficiency of CDK2, CDK4, and cyclin D1, and that YTHDF1 depletion restrains de novo lung adenocarcinomas (ADC) progression. However, we observe that YTHDF1 high expression correlates with better clinical outcome, with its depletion rendering cancerous cells resistant to cisplatin (DDP) treatment. Mechanistic studies identified the Keap1-Nrf2-AKR1C1 axis as the downstream mediator of YTHDF1. Together, these findings highlight the critical role of YTHDF1 in both hypoxia adaptation and pathogenesis of NSCLC.",
+      "affiliation": "Key Laboratory of Animal Models and Human Disease Mechanisms of Chinese Academy of Sciences & Yunnan Province, Kunming Institute of Zoology, Kunming, Yunnan, 650223, China.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Lung",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Animals, Domestic"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cattle"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Goats"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sheep"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Swine"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Sus scrofa"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Dogs"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Horses"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Mice"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adenocarcinoma",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Carcinoma, Non-Small-Cell Lung",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Lung Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cyclin D1",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "RNA-Binding Proteins",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Case-Control Studies"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Profiling"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Neoplasm Transplantation"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Altitude"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adaptation, Physiological",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Evolution, Molecular"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Gene Expression Regulation, Neoplastic",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Genome"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tibet"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cyclin-Dependent Kinase 2",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Cyclin-Dependent Kinase 4",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Hypoxia",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "Y"
+                },
+                {
+                  "abbreviation": "ME",
+                  "qualifierName": "metabolism",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Tumor Hypoxia",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "GE",
+                  "qualifierName": "genetics",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "RNA-Binding Proteins",
+            "registryNumber": "0"
+          },
+          {
+            "name": "Cyclin D1",
+            "registryNumber": "136601-57-5"
+          },
+          {
+            "name": "Cyclin-Dependent Kinase 2",
+            "registryNumber": "EC 2.7.11.22"
+          },
+          {
+            "name": "Cyclin-Dependent Kinase 4",
+            "registryNumber": "EC 2.7.11.22"
+          },
+          {
+            "name": "YTHDF1 protein, human",
+            "registryNumber": "0"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-019-12801-6.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41467-019-12801-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6814821"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6814821?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "citedByCount": 313,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "EMBL",
+          "PRIDE"
+        ]
+      },
+      "hasLabsLinks": "Y",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2020-02-11",
+      "dateOfCreation": "2019-10-27",
+      "firstIndexDate": "2019-10-27",
+      "fullTextReceivedDate": "2025-02-03",
+      "dateOfRevision": "2023-10-14",
+      "electronicPublicationDate": "2019-10-25",
+      "firstPublicationDate": "2019-10-25"
+    },
+    {
+      "id": "34751943",
+      "source": "MED",
+      "pmid": "34751943",
+      "pmcid": "PMC13183357",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13183357"
+        ]
+      },
+      "doi": "10.3322/caac.21706",
+      "title": "Integrative oncology: Addressing the global challenges of cancer prevention and treatment.",
+      "authorString": "Mao JJ, Pillai GG, Andrade CJ, Ligibel JA, Basu P, Cohen L, Khan IA, Mustian KM, Puthiyedath R, Dhiman KS, Lao L, Ghelman R, C\u00e1ceres Guido P, Lopez G, Gallego-Perez DF, Salicrup LA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Mao JJ",
+            "firstName": "Jun J",
+            "lastName": "Mao",
+            "initials": "JJ",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-9229-0380"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Bendheim Integrative Medicine Center, Memorial Sloan Kettering Cancer Center, New York, New York."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pillai GG",
+            "firstName": "Geetha Gopalakrishna",
+            "lastName": "Pillai",
+            "initials": "GG",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Traditional, Complementary and Integrative Medicine Unit, Service Delivery and Safety Department, World Health Organization, Geneva, Switzerland."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Andrade CJ",
+            "firstName": "Carlos Jose",
+            "lastName": "Andrade",
+            "initials": "CJ",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Brazilian National Cancer Institute, Rio de Janeiro, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ligibel JA",
+            "firstName": "Jennifer A",
+            "lastName": "Ligibel",
+            "initials": "JA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Leonard P. Zakim Center for Integrative Therapies and Healthy Living, Dana-Farber Cancer Institute, Boston, Massachusetts."
+                },
+                {
+                  "affiliation": "Harvard Medical School, Boston, Massachusetts."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Basu P",
+            "firstName": "Partha",
+            "lastName": "Basu",
+            "initials": "P",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "International Agency for Research on Cancer, World Health Organization, Lyon, France."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Cohen L",
+            "firstName": "Lorenzo",
+            "lastName": "Cohen",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Integrative Medicine Program, Department of Palliative, Rehabilitation and Integrative Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Khan IA",
+            "firstName": "Ikhlas A",
+            "lastName": "Khan",
+            "initials": "IA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Center for Natural Products Research, University of Mississippi, Jackson, Mississippi."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mustian KM",
+            "firstName": "Karen M",
+            "lastName": "Mustian",
+            "initials": "KM",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6525-7518"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Wilmot Cancer Institute, Department of Surgery, University of Rochester Medical Center, Rochester, New York."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Puthiyedath R",
+            "firstName": "Rammanohar",
+            "lastName": "Puthiyedath",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0709-1801"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Amrita Vishwa Vidyapeetham University, Amritapuri, Kerala, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Dhiman KS",
+            "firstName": "Kartar Singh",
+            "lastName": "Dhiman",
+            "initials": "KS",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Central Council for Research in Ayurvedic Sciences, New Delhi, India."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lao L",
+            "firstName": "Lixing",
+            "lastName": "Lao",
+            "initials": "L",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Virginia University of Integrative Medicine, Fairfax, Virginia."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Ghelman R",
+            "firstName": "Ricardo",
+            "lastName": "Ghelman",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-6700-6488"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Brazilian Academic Consortium for Integrative Health, University of S\u00e3o Paulo, S\u00e3o Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "C\u00e1ceres Guido P",
+            "firstName": "Paulo",
+            "lastName": "C\u00e1ceres Guido",
+            "initials": "P",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9747-4960"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Pharmacokinetics and Research in Clinical Pharmacology and Integrative Medicine Group, Garrahan Pediatric Hospital, Buenos Aires, Argentina."
+                },
+                {
+                  "affiliation": "Traditional, Complementary, and Integrative Medicine Network of the Americas, S\u00e3o Paulo, Brazil."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lopez G",
+            "firstName": "Gabriel",
+            "lastName": "Lopez",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Integrative Medicine Program, Department of Palliative, Rehabilitation and Integrative Medicine, The University of Texas MD Anderson Cancer Center, Houston, Texas."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Gallego-Perez DF",
+            "firstName": "Daniel F",
+            "lastName": "Gallego-Perez",
+            "initials": "DF",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-0975-4349"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Traditional, Complementary, and Integrative Medicine Network of the Americas, S\u00e3o Paulo, Brazil."
+                },
+                {
+                  "affiliation": "Boston University School of Public Health, Boston, Massachusetts."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Salicrup LA",
+            "firstName": "Luis Alejandro",
+            "lastName": "Salicrup",
+            "initials": "LA",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Global Health and Office of Cancer Complementary and Alternative Medicine, Division of Cancer Treatment and Diagnosis, National Cancer Institute, National Institutes of Health, Rockville, Maryland."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6525-7518"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-9229-0380"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0709-1801"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-0975-4349"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-4255-5819"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-6700-6488"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9747-4960"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "72",
+        "journalIssueId": 3324729,
+        "dateOfPublication": "2022 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2022,
+        "printPublicationDate": "2022-03-01",
+        "journal": {
+          "title": "CA: a cancer journal for clinicians",
+          "medlineAbbreviation": "CA Cancer J Clin",
+          "issn": "0007-9235",
+          "essn": "1542-4863",
+          "isoabbreviation": "CA Cancer J Clin",
+          "nlmid": "0370647"
+        }
+      },
+      "pubYear": "2022",
+      "pageInfo": "144-164",
+      "abstractText": "The increase in cancer incidence and mortality is challenging current cancer care delivery globally, disproportionally affecting low- and middle-income countries (LMICs) when it comes to receiving evidence-based cancer prevention, treatment, and palliative and survivorship care. Patients in LMICs often rely on traditional, complementary, and integrative medicine (TCIM) that is more familiar, less costly, and widely available. However, spheres of influence and tensions between conventional medicine and TCIM can further disrupt efforts in evidence-based cancer care. Integrative oncology provides a framework to research and integrate safe, effective TCIM alongside conventional cancer treatment and can help bridge health care gaps in delivering evidence-informed, patient-centered care. This growing field uses lifestyle modifications, mind and body therapies (eg, acupuncture, massage, meditation, and yoga), and natural products to improve symptom management and quality of life among patients with cancer. On the basis of this review of the global challenges of cancer control and the current status of integrative oncology, the authors recommend: 1) educating and integrating TCIM providers into the cancer control workforce to promote risk reduction and culturally salient healthy life styles; 2) developing and testing TCIM interventions to address cancer symptoms or treatment-related adverse effects (eg, pain, insomnia, fatigue); and 3) disseminating and implementing evidence-based TCIM interventions as part of comprehensive palliative and survivorship care so patients from all cultures can live with or beyond cancer with respect, dignity, and vitality. With conventional medicine and TCIM united under a cohesive framework, integrative oncology may provide citizens of the world with access to safe, effective, evidence-informed, and culturally sensitive cancer care.",
+      "affiliation": "Bendheim Integrative Medicine Center, Memorial Sloan Kettering Cancer Center, New York, New York.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Review",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "P30 CA008748",
+            "agency": "National Cancer Institute",
+            "orderIn": 0
+          },
+          {
+            "agency": "Herbal Education and Research in Oncology Program made possible by the Laurance S. Rockefeller Fund",
+            "orderIn": 0
+          },
+          {
+            "grantId": "P30 CA008748",
+            "agency": "NCI NIH HHS",
+            "acronym": "CA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "UG1 CA189961",
+            "agency": "NCI NIH HHS",
+            "acronym": "CA",
+            "orderIn": 0
+          },
+          {
+            "grantId": "001",
+            "agency": "World Health Organization",
+            "acronym": "WHO_",
+            "orderIn": 0
+          }
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Neoplasms",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "abbreviation": "PC",
+                  "qualifierName": "prevention & control",
+                  "majorTopic_YN": "N"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Complementary Therapies"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Quality of Life"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Delivery of Health Care"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Integrative Medicine"
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Integrative Oncology"
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "complementary",
+          "alternative",
+          "Health Policy",
+          "Global Health",
+          "Cancer Prevention",
+          "survivorship",
+          "And Integrative Medicine"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.3322/caac.21706"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3322/caac.21706"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13183357"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13183357?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 308,
+      "hasData": "Y",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "Y",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "Y",
+      "manuscriptId": "NIHMS2154854",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "dateOfCompletion": "2022-05-04",
+      "dateOfCreation": "2021-11-09",
+      "firstIndexDate": "2021-11-27",
+      "fullTextReceivedDate": "2026-05-20",
+      "dateOfRevision": "2026-08-13",
+      "electronicPublicationDate": "2021-11-09",
+      "firstPublicationDate": "2021-11-09"
+    }
+  ]
+}

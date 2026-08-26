@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "count": 12,
+    "db_response_time_ms": 110,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title/abstract has (creative clusters innovation knowledge spillover cities)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "title_and_abstract.search",
+            "value": "creative clusters innovation knowledge spillover cities",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=title_and_abstract.search:creative clusters innovation knowledge spillover cities&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W648108309",
+      "doi": "https://doi.org/10.1057/9780230362420",
+      "display_name": "Interactive learning for innovation : a key driver within clusters and innovation systems",
+      "publication_year": 2012,
+      "cited_by_count": 34,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "other"
+    },
+    {
+      "id": "https://openalex.org/W3153778675",
+      "doi": "https://doi.org/10.1007/s10824-021-09415-6",
+      "display_name": "Flocking to the crowd: Cultural entrepreneur mobility guided by homophily, market size, or amenities?",
+      "publication_year": 2021,
+      "cited_by_count": 9,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://scholarworks.indianapolis.iu.edu/bitstreams/49f4e868-b532-4007-84a5-e22aa7fd7ea1/download",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W2999798501",
+      "doi": "https://doi.org/10.4324/9780203097489-15",
+      "display_name": "Path dependence and new technological path creation in the economic landscape",
+      "publication_year": 2013,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W4312610726",
+      "doi": "https://doi.org/10.1007/978-3-031-18195-5_4",
+      "display_name": "Flocking to the Crowd: Cultural Entrepreneur Mobility Guided by Homophily, Market Size, or Amenities?",
+      "publication_year": 2022,
+      "cited_by_count": 8,
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "type": "book-chapter"
+    },
+    {
+      "id": "https://openalex.org/W3165038683",
+      "doi": "https://doi.org/10.7341/20211726",
+      "display_name": "City policies to promote entrepreneurship: A cross-country comparison of Poland and Germany",
+      "publication_year": 2021,
+      "cited_by_count": 6,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.7341/20211726",
+        "any_repository_has_fulltext": true
+      },
+      "type": "article"
+    },
+    {
+      "id": "https://openalex.org/W4236598630",
+      "doi": "https://doi.org/10.7341/202117226",
+      "display_name": "City policies to promote entrepreneurship: A cross-country comparison of Poland and Germany",
+      "publication_year": 2021,
+      "cited_by_count": 3,
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://jemi.edu.pl/uploadedFiles/file/all-issues/vol17/issue2/JEMI_Vol17_Issue2_2021_Article6.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "type": "article"
+    }
+  ],
+  "group_by": []
+}
