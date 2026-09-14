@@ -491,6 +491,29 @@ the single most targeted item in this section.
 - Jacobs, Jane, *The Economy of Cities* (1969) — the argument that cities generate novelty through recombination of existing work. Theoretical, unfalsifiable as stated, but the source of the intuition. @jacobs-1969
   `#c/nexus #r/analogy #e/speculative` · src 1969 · Q8a · access: purchase · [unverified]
 
+### 11.3a Dunhuang — Q8a's negative case, and what the harvest turned up
+
+Added 2026-08-27 from the Wikipedia citation harvest (`lit/wikipedia/`). Both entries are
+**unread**; they are recorded so the acquisition state is legible, not because they have been used.
+
+- Rong, Xinjiang. "The Nature of the Dunhuang Library Cave and the Reasons for its Sealing."
+  *Cahiers d'Extrême-Asie* 11 (1999). DOI [10.3406/asie.1999.1155](https://doi.org/10.3406/asie.1999.1155).
+  **The named target for Q8a.** Why Cave 17 was sealed governs what its contents are evidence *of*:
+  a deliberate deposit and an abandoned store license different inferences from the same documents,
+  and §14.7's survivorship problem turns on which it was. @rong-1999
+  `#c/nexus #d/central-asia #e/unverified` · subj c. 1000 · src 1999 · Q8a · access: **wanted** — Persée refused · [unverified]
+- Ponampon, Phra Kiattisak. *Dunhuang Manuscript S.2585: A Textual and Interdisciplinary Study on
+  Early Medieval Chinese Buddhist Meditative Techniques and Visionary Experiences.* PhD thesis,
+  Univ. of Cambridge, 2019. DOI [10.17863/CAM.31982](https://doi.org/10.17863/CAM.31982).
+  Sits on the intersection of Q8a and `#c/thodgal` — visionary practice attested in a Dunhuang
+  manuscript, supervised by a Dunhuang specialist. Retrieved in full. @ponampon-2019
+  `#c/thodgal #d/central-asia #e/unverified` · subj C6–C8 · src 2019 · Q8a, Q4 · access: **held** · [unverified]
+
+? **Does S.2585 bear on `thod rgal` or only on Chinese Buddhist visualisation?** The distinction is
+the whole question. A shared vocabulary of visionary experience at Dunhuang is rung 5 (co-presence)
+at best until someone shows the practices are related rather than merely adjacent — precisely the
+error `methods.md` §5 exists to prevent, and precisely the inference the material invites.
+
 ### 11.4 Transmission channels: how fusion actually happens
 
 Serves H8 and H9. The linguistic literature supplies both the mechanism and a measurement.
@@ -592,6 +615,49 @@ this project's deflator 4: similar conditions independently producing similar ou
 required. The nexus programme and the Dzogchen inquiry turn out to share an opponent.
 
 ---
+
+### 11.6 Diaspora as a mechanism
+
+Promoted from "marked for inspection" to a first-class mechanism 2026-08-27 (`background.md` §11).
+Treated as a **mechanism in H9's typology**, not as a condition on the others.
+
+**The decision, and what it forecloses.** This was settled by decision rather than by finding. If
+the material shows diaspora behaving as a cross-cutting condition on the other channels instead of
+a channel in its own right, that is a result about the typology and must be recorded as one — not
+absorbed silently into the section that assumes otherwise. Stated here so the assumption stays
+visible.
+
+**The discriminator: transmitter versus innovator.** H11 asserts that diasporas incite *observable
+diffusion of innovation*. A network that carries three religions across a continent without
+altering any of them is doing something real, but it is not that. Sorting the specimens on this
+axis is the section's first task, and the sort is not yet done.
+
+| Specimen | Carried | Altered what it carried? | Endogamy | Tag |
+|---|---|---|---|---|
+| Sogdian merchant network | Buddhism, Manichaeism, Christianity, Zoroastrianism | **Open** — the standing question for H11 | high | `#c/diaspora #d/central-asia #e/attested` |
+| Georgian monks at Mount Athos | the Barlaam material, Arabic → Georgian → Greek | Yes — Christianisation of the narrative | n/a (monastic) | `#c/diaspora #r/genealogy #e/attested` |
+| Florentine banking houses | credit instruments, artistic patronage | Yes | low | `#c/diaspora #e/attested` |
+| Jewish and Armenian mercantile networks | goods, credit, script, language | Open | high | `#c/diaspora #e/unverified` |
+| African diaspora, American Southeast | language, foodways, music, religion — via the household | Yes, decisively | forced | `#c/diaspora #c/household-channel #e/attested` |
+
+**Mount Athos is the newest specimen and the cleanest.** §14.8's chain passes through a Georgian
+monastic community inside a Greek institution: Euthymius of Athos, a Georgian, translating into
+Greek a text that reached him through Arabic from Middle Persian from Sanskrit. A diasporic
+institution is the transmission node, and — unlike the Sogdian case — we can see exactly what it
+altered, because the before and after both survive. It is the section's worked example precisely
+because the alteration is legible.
+
+**Why the household case is the type specimen.** §11.4 argues that the household channel transmits
+what commerce cannot, because it operates across a generational boundary rather than a
+transactional one. The African diaspora in the American Southeast is the case where this is least
+deniable and best documented, and where the asymmetry of power makes "network" an inadequate
+description. It anchors the section; the mercantile cases are read against it, not the reverse.
+
+? **Is endogamy the variable that sorts transmitters from innovators?** The table hints at it — the
+high-endogamy networks are the ones whose alteration is "open" — but four rows is not evidence, and
+the causal story could run either way.
+? **Does diaspora require displacement, or only dispersion?** Monastic networks, merchant colonies
+and forced migration are grouped here on the strength of an analogy that has not been examined.
 
 ## 12. Founder figures: milieu, lineage, and the singularity construction
 
@@ -812,7 +878,7 @@ Q8a, developed in `background.md` §5.3: our case list may over-represent fusion
 845 chain is the argument for the category: a novel pointed at a persecution edict that tightened a
 dating argument. That is what `#e/heuristic` is for.
 
-### 14.5 Cross-domain analogy: eco-evolutionary imports
+### 14.4a Cross-domain analogy: eco-evolutionary imports
 
 Tagged `#e/heuristic` for the same reason fiction is. **Importing evolutionary logic into cultural
 history has a poor track record** — social Darwinism, and memetics' thin yield — because the two
@@ -1143,6 +1209,123 @@ for the manuscript traditions.
 
 ---
 
+### 14.8 Barlaam and Josaphat — the project's positive control
+
+Entered 2026-08-27 from a word-of-mouth source (see below). **Not yet worked; recorded for later
+analysis.** Cross-checked against `en:Barlaam and Josaphat`, rev 1362809573 —
+<https://en.wikipedia.org/w/index.php?title=Barlaam_and_Josaphat&oldid=1362809573>
+
+**Why it matters here.** The Buddha's life-legend reached the Roman Martyrology as the life of a
+Christian saint. That transmission is not hypothesised — it is **demonstrated, and demonstrated by
+the evidence type this project ranks highest**. The chain is a loanword series, §5 rung 1:
+
+`bodhisattva` (Sanskrit) → `Bodisav` (Middle Persian, 6th–7thc.) → `Būdhasaf`/`Yūdhasaf`
+(Arabic, 8thc. — initial ﺑ *b* read as ﻳ *y* by a duplicated dot) → `Iodasaph` (Georgian, 10thc.)
+→ `Ioasaph` Ἰωάσαφ (Greek, 11thc.) → `Iosaphat`/`Josaphat` (Latin)
+
+with an independently attested translation chain beside it (rung 2): Sanskrit Mahāyāna text
+(2nd–4thc.) → **a Manichaean version** → Arabic *Kitāb Bilawhar wa-Būd̠āsaf*, current in Baghdad
+in the 8thc. → Georgian *Balavariani* (10thc.) → Greek, by **Euthymius of Athos** (d. 1028) →
+Latin, 1048.
+
+This is the project's **positive control**, and its value is calibrational: it shows what a real
+Buddhist–Christian transmission leaves behind. Any rainbow-body/resurrection claim can be asked
+directly — *does it have anything like this?* At present it does not.
+
+**Three findings visible without further work.**
+
+1. **The arbitrary detail outlived the structure.** The narrative was progressively Christianised
+   until its Buddhist content was invisible for roughly a millennium — while the *name*, carrying
+   no meaning to any receiving audience, preserved the genealogy intact through six languages.
+   That is §5's ladder demonstrated rather than asserted: the shared arbitrary detail survives
+   remodelling that erases every structural similarity. Worth promoting into §5 as the worked
+   example if it holds up.
+2. **The route runs through the Iranian and Manichaean corridor** — Middle Persian, a Manichaean
+   recension, Baghdad. That is the same corridor H5 proposes on material grounds and the same
+   religious traffic §10 tracks at Dunhuang. A transmission of this shape is attested; the question
+   for H5 is whether a *second* one ran further east.
+3. **An error-correction failure, ~1000 years long.** No mechanism in the Latin Church could detect
+   a Buddhist provenance across a language boundary, because none was checking provenance at all —
+   the martyrology's check was on sanctity, not on origin. In `background.md` §5.6's terms: a regime
+   whose checked-against does not include the question that would have caught this. Compare the
+   philological check that eventually did catch it (Conybeare, Peeters), which is a different
+   regime entirely.
+
+**Second source, better provenance.** David Bentley Hart, "Saint Śākyamuni,"
+<https://davidbentleyhart.substack.com/p/saint-sakyamuni> — an Orthodox theologian and translator
+writing without apparatus, but corroborating the record at every point the anonymous note departed
+from it: the Persian step is present (6thc.), the Manichaean preference for the Persian version is
+named, Barlaam is not described as invented, and **no 1960 removal is claimed**. Two additions:
+
+  - **A candidate source text: the *Lalitavistara Sūtra*.** Specific enough to be checked, and it
+    would pin the Sanskrit end of the chain that §5 rung 1 currently carries by name-evidence alone.
+  - **A relic.** In 1571 the Venetian doge presented Portuguese King Sebastian with relics said to
+  include Josaphat's spine. A physical object, datable and provenanced, generated by a transmission
+    error — rung 4 material culture produced *by* a rung-1 chain. It also lands directly on
+    @schopen-1997 (*Bones, Stones, and Buddhist Monks*): a bodhisattva's relic, venerated as a
+    Christian saint's, in a Catholic reliquary. Worth pursuing on its own.
+
+**Hart sharpens the error-correction question.** His framing is not that the Church *could not*
+detect the import but that it absorbed it **without scandal** — nothing prompted a check. That is a
+different failure from the one recorded above, and the better one: not absent capacity but absent
+trigger. In `background.md` §5.6's terms the regime's checked-against was never invoked, because
+no dissonance arose to invoke it. Hart's own question — what does frictionless absorption say about
+medieval Christianity's temperament — is a `methods.md` §2 question in disguise, and the project
+should not adopt his answer ("irony of providence") as an analytic category.
+
+**The two sources are a tagging illustration.** Same story, same week, two retellings: one anonymous
+and uncited that deformed the chain in four places, one by a named scholar that did not. The
+register's evidential facet is doing exactly the work it exists for, and this pair is a cheap worked
+example for `tags.md` if §9.1's facet question is ever taken up.
+
+**A caution on the sainthood claim.** The popular form — "the Church canonised the Buddha" — is
+looser than the record. They appear in **earlier editions of the Roman Martyrology** with a joint
+feast on 27 November, and **not in the Roman Missal**. Eastern churches still commemorate them:
+Greek Orthodox 26 August Julian, Slavic 19 November Julian. Formal canonisation is a different act
+from martyrology inclusion, and the distinction should be preserved in anything the project writes.
+Hart states flatly that no formal canonisation process was ever applied to Josaphat, which settles
+this independently.
+
+**The source is itself a specimen.** The item arrived as a Substack note (Nick Kistler,
+`substack.com/@beardyspiritualman/note/c-314898489`, no citations, self-presented as personal
+historical knowledge). Checked against the article above, the retelling had **dropped two links and
+added one invention** — a live §3.1 distortion event with its source chain still visible:
+
+| Note's claim | Record | Kind of error |
+|---|---|---|
+| Sanskrit → Arabic directly | Middle Persian `Bodisav` sits between | **dropped link** |
+| — | a **Manichaean** recension carried it | **dropped link** — and the one that matters most here |
+| Barlaam was "invented" as a Christian hermit | `Barlaam` ← Arabic `Bilawhar` ← Georgian `Balahvar`; possibly Sanskrit *bhagavan* (unproven) or *purohita* (Degener) | **invention** — the opposite of the truth: the name is further evidence of the chain |
+| "removed from the liturgical calendar in 1960" | 1960 is when a *different* saint, Josaphat Kuntsevych, was set at 16 November. No removal in that year is recorded, and Orthodox commemoration continues | **conflation** |
+| "the four marks of existence" | the legend turns on the **four sights** | doctrinal term substituted for narrative one |
+
+  The compression is directional: every dropped link shortens the chain and makes the transmission
+  look *more* direct and more surprising than it was. That is a testable prediction about how
+  transmission stories deform in retelling, and this project has the register to test it on.
+  → open question, `background.md` §11.
+
+**Open questions on this case.**
+
+? Is the *Lalitavistara Sūtra* the source text, as Hart suggests? Would pin the Sanskrit end of a
+chain currently carried by name-evidence alone.
+? The 1571 Josaphat relic given to King Sebastian — does it survive, and is it documented? A
+physical object generated by a transmission error, and the point where this case touches
+@schopen-1997.
+? Was Barlaam's name derived from *bhagavan* (long assumed, unproven) or *purohita* (Degener)?
+The answer changes how many rung-1 items the chain carries.
+? Did the Latin Church have *any* provenance check that could in principle have caught this, or
+only a sanctity check? Determines whether §5.6 records absent capacity or absent trigger.
+
+**Sources.**
+
+- Hart, David Bentley. "Saint Śākyamuni." Substack. Secondary, no apparatus, credentialed author;
+  corroborates the record. `#d/christian #r/genealogy #e/attested`
+- Kistler, Nick. Substack note `c-314898489`. Uncited word-of-mouth retelling; retained **because**
+  it is defective — it is the §3.1 specimen, not evidence for the history.
+  `#d/mahayana #r/genealogy #e/unverified`
+- `en:Barlaam and Josaphat`, rev 1362809573. Tertiary; used to adjudicate between the two above,
+  not cited for any claim. `#d/method #f/reference #e/unverified`
+
 ## 15. Reference tools and databases
 
 - International Dunhuang Project (idp.bl.uk) — digitised manuscripts, searchable. @idp
@@ -1171,7 +1354,7 @@ Live disagreements, recorded as pairs per `methods.md` §7 rather than resolved 
 | C3 | Where the rainbow body comes from | @tiso-2016 (Central Asian contact) vs. @germano-1994 (Tibetan mortuary substrate) | H2 | Germano favoured on dating; Tiso's fieldwork stands regardless |
 | C4 | Is "Gnosticism" a usable category | @williams-1996 / @king-2003b (no) vs. inherited usage | H3 | Decided: scare quotes retained |
 | C5 | Bön origins and the Tazig identification | @norbu-kailash (deep antiquity, western origin) vs. @bon-scholarship | H5 | Open; **circularity check pending** |
-| C6 | The adherent veto | @wcsmith (adherent acceptability) vs. @lincoln-1996 (scholarly independence) | Q5 | **Undecided — `methods.md` §9.1** |
+| C6 | The adherent veto | @wcsmith (adherent acceptability) vs. @lincoln-1996 (scholarly independence) | Q5 | **Decided 2026-08-27 for Lincoln/McCutcheon** — schism leaves the veto no determinate holder, and collective acceptability is unobservable (reportable only by authorities, hence a claim about standing). Emic testimony retained as evidence differing in type, not degree. `methods.md` §2.8 |
 | C7 | Khenpo A Chö's death date | 1998 (literature) vs. 1999 (publisher copy) | Q1 | Trivial but diagnostic; unresolved |
 
 ---
@@ -1202,6 +1385,37 @@ governs how much weight any future "not found" deserves.
 - **Neither reaches Tibetan-language sources at all.** For §1.3 and the `terms.md` work, these
   tools are irrelevant; BDRC and the Dunhuang archives are the instruments.
 
+**Route decided 2026-08-27 — Wikipedia citation harvesting.** §17.1 records a coverage gap; this is
+the instrument chosen against it. The `/wikipedia` skill parses `{{cite …}}` templates out of article
+wikitext, so it returns the **ISBN-bearing monographs that carry no URL** — precisely the class no
+index this project can search will surface, and precisely what §11 is short of. On `en:Gandhara` it
+found 150 citations, 7 of them with a durable identifier and no link.
+
+Scope and cautions, recorded before the pass rather than after:
+  - **This is a bibliography instrument, not a source.** Wikipedia is tertiary; nothing harvested
+  enters the register on Wikipedia's authority. Harvested items are candidates, tagged
+    `#e/unverified` until traced to the work itself.
+  - **Targets:** the nexus articles §11 is thin on — Gandhara, Kushan Empire, Dunhuang, Silk Road,
+  Begram, Greco-Buddhist art, Palmyra, Sogdia — plus the comparison-class sites the duration table
+    will need.
+  - **Known limit:** the harvester matches English citation templates. The `fr` and `de` editions use
+  `{{Ouvrage}}` and `{{Literatur}}`, which it will silently miss — relevant because the Gandhāran
+  and Iranian literature is disproportionately French and German. Extending the alias table is a
+    precondition for treating a non-English pass as complete.
+  - **Provenance:** every harvest carries a revision-pinned permalink. Record it, since the
+    bibliography of a Wikipedia article is itself a moving target.
+  - **Ran 2026-08-27.** 10 articles, 821 citations, **730 distinct works**, 32 cited by more
+    than one article, and **257 carrying a durable identifier with no URL** — the class the
+    earlier passes could not see. Output and cautions: `lit/wikipedia/README.md`; ranked list at
+    `lit/wikipedia/ranked.md`.
+  - **Two results worth naming.** Rong Xinjiang's 1999 paper on the sealing of the Dunhuang
+    library cave — §17.3's named target for Q8a — was found with a DOI, though Persée refused the
+    file. And Ponampon's 2019 Cambridge thesis on **visionary experience in a Dunhuang manuscript**
+    was retrieved in full: not on any list, and sitting on the Q8a/`#c/thodgal` intersection.
+  - **The instrument's limit, measured.** Dunhuang returned 27 citations against Palmyra's 243.
+    On the question where Dunhuang is the negative case, that asymmetry bounds what the harvest
+    can say — it is a fact about encyclopedia coverage, not about the field.
+
 ### 17.2 Searched, nothing found
 
 Zero-hit queries. Given 15.1, these are suggestive, not conclusive — for the humanities items,
@@ -1222,6 +1436,11 @@ absence from the index is closer to "not indexed" than to "does not exist".
 - **No Wylie recovered** for the Pema Dündul terma title "Dzogchen Kazhag Rangdrol." → `terms.md`.
 - **No documented Tibetan–Christian or Tibetan–Manichaean *textual* contact at Dunhuang** located —
   only co-presence, which is rung 5 on the `methods.md` §5 ladder. The project's decisive question.
+  **Update 2026-08-27:** Rong Xinjiang's "The Nature of the Dunhuang Library Cave and the Reasons
+  for its Sealing," *Cahiers d'Extrême-Asie* 11 (1999), is now identified with a DOI
+  ([10.3406/asie.1999.1155](https://doi.org/10.3406/asie.1999.1155)) rather than a name — found by
+  the Wikipedia harvest. Persée refused the file; see `lit/WANTED.md`. Still not read, so the gap
+  above stands unchanged.
 - **Norbu's Italian originals not located**; H4's direct test unavailable, hence the cross-translator
   workaround (§14).
 - **No Tibetan-side iconographic study of the rainbow body located** connecting it to the
@@ -1235,10 +1454,21 @@ absence from the index is closer to "not indexed" than to "does not exist".
 Ranked by movement per unit effort. **29 items are now held locally** (`access: held`); this table
 covers what is still wanted. Items verified to exist but not held are in `lit/WANTED.md`.
 
+**Acquisition policy [decided 2026-08-27].** Fetch whatever can be fetched now and mark it for
+later processing — retrieval and reading are separate passes, and conflating them has been letting
+free items sit unfetched (W1 has been priority 1 across two passes without being pulled). **Books are
+low priority to obtain**, on three grounds: length makes them expensive to process, format makes them
+hard to excerpt mechanically, and copyright constrains what can be held or quoted. The consequence
+worth stating plainly: this project's core literature is monographs, so a policy that deprioritises
+books is a decision to work from reviews, articles and bibliographies for now — and any conclusion
+resting on a book not read must say so.
+
 | # | Item | Why | Access |
 |---|---|---|---|
 | 1 | @pons-2025 | Closest located treatment of H5, by a Gandhāra specialist | **held** — read first |
-| 2 | *The Rainbow Body's Inner Cinema* (2025) | Free at OSF; directly on the founding question. **Preprint — tag `#e/speculative`** | `WANTED.md` W1 |
+| 2 | *The Rainbow Body's Inner Cinema* (2025) | Directly on the founding question. **Preprint by a pharmacologist, not a Tibetologist — two independent reasons for `#e/speculative`** | **held** (`lit/direct/`, `.docx`) |
+| 2a | Ponampon, *Dunhuang Manuscript S.2585* (Cambridge PhD, 2019) | Meditative technique and **visionary experience** in a Dunhuang manuscript — the Q8a/`#c/thodgal` intersection, supervised by Galambos. Unsought, open access, retrieved | **held** (`lit/direct/`) |
+| 2b | Rong Xinjiang, "The Nature of the Dunhuang Library Cave…" (1999) | §17.3's named target for Q8a, now with a DOI | `WANTED.md` — Persée refused |
 | 3 | @drewes-2010 | Cheapest correction of the largest misconception (Q2) | library |
 | 4 | @lott-2020 + @tidwell-2025 | The nearest thing to a test of a rainbow-body-class claim | **held** |
 | 5 | @tiso-2016 | The founding comparative question, with fieldwork | purchase — **book not in OpenAlex**, see `WANTED.md` W5 |

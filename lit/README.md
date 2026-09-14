@@ -106,8 +106,18 @@ to what it governs:
 
 | File | Excludes |
 |---|---|
-| `../.gitignore` | `.env*` (**`.env.api` holds the OpenAlex API key**), `*.err`, `*.tmp` |
-| `lit/.gitignore` | `*/pdf/` |
+| `../.gitignore` | `.env*` (defensive — the OpenAlex key lives at `~/.env`, outside the repo; no `.env.api` exists here), `*.err`, `*.tmp` |
+| `lit/.gitignore` | `*/pdf/` — now also covers `direct/pdf/` |
+
+## Subdirectories added 2026-08-27
+
+| Dir | What | Provenance record |
+|---|---|---|
+| `wikipedia/` | citation harvesting from encyclopedia articles — the instrument against `../resources.md` §17.1's monograph gap | `wikipedia/README.md`; per-article JSON in `harvest/` |
+| `direct/` | open-access items fetched by URL, where neither database skill could deliver the file | `direct/MANIFEST.md`, per item |
+
+Both follow the existing rule: full texts under a `pdf/` directory and gitignored;
+manifests and query records committed.
 
 Tracked: both MANIFESTs, both QUERIES logs, `queries/`, `meta/`, `WANTED.md`,
 this file, and the normalize scripts. Every PDF is reconstructible from the DOIs

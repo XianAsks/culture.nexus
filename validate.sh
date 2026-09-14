@@ -46,3 +46,10 @@ for s in $(grep -oh '§[0-9]\+\.[0-9]' *.md | sort -u); do
   n=${s#§}
   grep -q "^### ${n}" resources.md || grep -q "^### ${n}" methods.md || grep -q "^## ${n%%.*}" methods.md || echo "  DANGLING: $s"
 done
+
+echo "=== duplicate section numbers ==="
+for f in background.md methods.md resources.md tags.md terms.md chronology.md geography.md; do
+  [ -f "$f" ] || continue
+  grep -oE '^#+ [0-9]+(\.[0-9a-z]+)* ' "$f" | sed 's/^#* //; s/ $//' | sort | uniq -d \
+    | while read -r n; do printf '  %s: section %s declared more than once\n' "$f" "$n"; done
+done

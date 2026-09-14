@@ -92,6 +92,10 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 #c/genetics          Population-genetic and ancient-DNA evidence
 #c/canon-formation   How texts became authoritative or were excluded
 #c/historical-jesus  The historical / ecclesiastical Jesus problem
+#c/diaspora          Dispersed communities as a transmission mechanism in their own
+                     right, and the transmitter/innovator distinction within them (H11)
+#c/household-channel Transmission across a generational rather than a transactional
+                     boundary: childcare, domestic service, kitchen and nursery
 ```
 
 ### `#r/` — Relation-claim (the Smith facet)

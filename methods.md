@@ -210,14 +210,105 @@ Three configurations, each informative differently.
 
 The response is not paralysis. It is to name the grid and hold it accountable — which is what forcing an `#e/` tag onto every register entry does mechanically, so it does not depend on remembering.
 
-### 2.8 Decision point: the adherent veto
+### 2.8 The adherent veto — decided 2026-08-27
 
-Unavoidable for a project sited at the interface.
+Unavoidable for a project sited at the interface. **Resolved in favour of Lincoln and McCutcheon:
+adherent assent is not a condition of descriptive adequacy.**
 
-- **Wilfred Cantwell Smith's principle**: a description of a religion should be acceptable to its adherents. A strong emic constraint — adherents effectively hold a veto on descriptive adequacy.
+**The two positions.**
+
+- **Wilfred Cantwell Smith's principle** (not J. Z. Smith of §1.1 — the project cites two Smiths,
+  and bare "Smith" elsewhere in this file means J. Z.): a description of a religion should be acceptable to its adherents. A strong emic constraint — adherents effectively hold a veto on descriptive adequacy.
 - **Lincoln and McCutcheon reject it**: reverence is a religious virtue, not a scholarly one; requiring adherent assent surrenders independence and makes critical findings impossible by construction.
 
-Neither is obviously right, and **they cannot both be held.** Which one governs determines whether a conclusion like *"the rainbow body doctrine emerged in the eleventh century out of Tibetan mortuary practice"* is a legitimate result or a category error. → **Undecided. See §9.**
+**Two grounds, and the second is the deeper one.** Neither is that the veto is *undesirable*.
+
+**Ground 1 — schism leaves the veto without a determinate holder.** W. C. Smith's principle presupposes a
+determinate body, *the* adherents, whose assent can be sought. Schism is the standing demonstration
+that no such body exists: a tradition in schism contains parties whose descriptions of it are
+mutually unacceptable, so satisfying one faction's veto necessarily violates another's. The veto is
+therefore not merely restrictive but **undefined**. Schism is a regular occurrence in faith
+communities, not an edge case, so this is not a marginal defect a well-behaved majority of cases
+could absorb.
+
+The project has already met this twice without naming it:
+
+- **Terma authentication is school-relative** (`resources.md` §14.5a). We concluded that treasure
+  revelation reads as honest signalling *within* Nyingma and as counterfeiting *from outside* it.
+  Precisely a case with no single adherent verdict to defer to.
+- **Bön and the Tazig identification** (C5). An emic claim of western origin that other Tibetan
+  traditions do not share.
+
+**Ground 2 — collective acceptability is not observable.** Schism says the measurement returns
+contradictory answers. This says there is nothing to measure. "Acceptable to the adherents" is not
+an intrinsically observable quantity. It is *reportable* — but only by particular adherents, and in
+practice by **authorities**, whose standing to speak for the collective is itself the contested
+thing. A report of collective acceptance is therefore not a reading of the collective; it is an
+individual's claim to represent it, which is a claim about **standing**, not about acceptance.
+
+Contrast the epistemology of a first-person report. *"I feel sad"* has a determinate truth relative
+to its reporter: the bearer of the state and the reporter of it are the same person, so the report
+carries its own warrant, and the reporter's context — reputation, background, status, creed —
+supplies the frame for interpreting it. *"This description is acceptable to Buddhists"* has neither
+property. There is no bearer whose access grounds it, and no context that makes it interpretable as
+testimony rather than as assertion of authority.
+
+**The veto has no non-question-begging operationalisation.** Each candidate bearer fails
+differently, which is what makes this structural rather than practical:
+
+| Bearer | Failure |
+|---|---|
+| *All* adherents | Unanimity; schism (Ground 1) makes it unsatisfiable |
+| Authorities | Collapses descriptive adequacy into ecclesiastical power |
+| "Competent" adherents | Competence adjudicated by whom? Returns to authorities |
+| A majority, surveyed | Majoritarian, and makes adequacy vary by generation and region — an empirical sociological fact, not a norm governing description |
+
+**Where this leaves W. C. Smith.** The principle survives as a **heuristic, not a veto**: if no adherent
+recognises your description, that is a signal worth investigating, because you may simply have
+misdescribed. A signal to check is not a condition of adequacy. (This is also the strongest reply
+available to him — retreating from "acceptable to the adherents" to "recognisable to *some*
+competent adherent." Recorded so the decision is not made against a straw man; but a veto any one
+qualified adherent can satisfy is a sanity check, which is a weaker and far more defensible claim,
+and not the one at issue.)
+
+**Methodological payoff.** Ground 2 tells us what to *do* with a claim of collective acceptability
+when we meet one, rather than merely rejecting it: treat it as **evidence about who holds standing
+to speak** — which routes it into machinery the project already has. An authority asserting that a
+reading is or is not acceptable to the tradition is performing a signalling act, and
+`background.md` §5.6's error-correction spine (who pays / by what mechanism / checked against what /
+how signalled) is the right frame for it. Stated at its sharpest: adopting W. C. Smith's veto would make
+this project's conclusions hostage to a *particular tradition's error-correction regime* — the very
+object the project set out to study. That is not a neutral methodological constraint; it is
+capture, and §2.5 already names it.
+
+**What this does *not* license — and why it is one position, not two.** Rejecting the veto is not a
+licence to discard emic material, and the two commitments are not in tension: they follow from the
+same principle. Ground 2's asymmetry does both jobs at once. A report with a determinate bearer is
+admissible evidence, interpretable through that bearer's context; a predicate with no determinate
+bearer is not. That disqualifies "acceptable to the adherents" and *qualifies* "I witnessed the body
+shrink," in one move. §2.2's commitment therefore stands, sharpened:
+
+- **Adherent testimony is evidence differing in *type*, not in degree.** It is not a weaker grade of
+  the same thing — not a low rung on the §5 ladder — but a different kind of quantity, and it is
+  read through a different interpretive lens.
+- **It blurs the subjective/objective boundary rather than sitting on one side of it.** A report
+  such as *"I witnessed the body shrink"* is simultaneously a claim about a public event and a datum
+  about the reporter's interpretive frame. It cannot be assigned cleanly to either column, and it
+  remains evidence of *something* whether or not the external claim holds: at minimum, evidence
+  about the categories the tradition brings to the event.
+- **The reporter's context is the interpretive instrument, not a discount rate.** Reputation,
+  background, status and creed are what make a first-person report readable — they do not reduce its
+  weight, they tell you what it is a report *of*. This is the operational content of "different in
+  type, not degree."
+- The practical rule: emic testimony is **admitted, and read for what it is evidence of** — which is
+  frequently not the proposition it asserts. That is a different operation from downgrading it.
+
+**Consequence for the notation, now open.** If adherent testimony differs in type rather than
+degree, then `#e/devotional` sitting as a sibling of `#e/attested` and `#e/contested` in a single
+evidential facet (`tags.md` §3) asserts a commensurability this decision denies. Likewise the §5
+ladder is a single ordering, and testimony that is not a weaker grade of attestation may not belong
+on it at all. → **New open item, `methods.md` §9.1.** Flagged rather than fixed: it is a schema
+change, and the register is 264 entries deep.
 
 ---
 
@@ -349,13 +440,66 @@ and say which instrument would be needed instead. Two live cases:
 
 ---
 
+### 7.2 Dialectic as an instrument, not a courtesy
+
+Recorded 2026-08-27, on the evidence of §2.8.
+
+**The observation.** Setting a position against its strongest opponent and being made to say
+precisely why one fails does not merely settle the question. It extracts commitments the project
+already held but had never written down. This is the Socratic move, and it earns its place here as a
+working technique rather than as a stylistic preference.
+
+**The worked instance.** The adherent-veto decision (§2.8) was expected to produce a verdict. It
+also produced three things nobody set out to write:
+
+1. **A bearer-asymmetry criterion for testimony** — that a report is interpretable when the bearer
+   of the state and the reporter of it coincide, and is not when no determinate bearer exists. That
+   assumption had been operating silently in §2.2 for the whole project. It only became statable
+   under the pressure of saying why *"acceptable to the adherents"* fails where *"I feel sad"*
+   succeeds.
+2. **A defect in the notation** (§9.1) — that `#e/devotional` sitting beside `#e/attested` asserts a
+   commensurability the "type, not degree" position denies. Nobody was auditing the tag schema; the
+   problem surfaced as a consequence of having to state the position exactly.
+3. **A recognition that two existing entries were instances of one thing** — terma's school-relative
+   authentication (§14.5a) and the Bön/Tazig claim (C5) had both been recorded as local puzzles.
+   They are the same structural fact: no single adherent verdict exists to defer to.
+
+**The operative rule.** At a decision point that governs other decisions, state the **strongest**
+available form of the position being rejected, and refute *that*. The step labelled "the strongest
+reply available to X" is not politeness; it is the part that does the work. A weak opponent can be
+beaten with assumptions already on the page, so defeating one extracts nothing. Only an opponent who
+survives the assumptions you have stated forces you to find the ones you have not.
+
+**The diagnostic that it is working:** you finish the argument asserting something you had not
+previously written down. If the exercise produces only the verdict you expected, it was
+adjudication, not dialectic — which is fine, but cheaper, and should be done cheaply.
+
+**Cost and scope.** Expensive. Reserve it for decisions that govern other decisions — the veto, the
+`#e/` facet's meaning, whether Q8 is answered narrowly or generally. Ordinary source-level
+disagreements are handled by the §7 pairing rule and the §16 controversy register.
+
+**The failure mode to guard against.** This is *not* a mandate for false balance. Manufacturing
+symmetry where none exists would license treating `#e/fringe` positions as live options, which is
+the opposite of the discipline §5 and §6 impose. The technique surfaces **our** assumptions; it
+confers no standing on the opposing position. C4 is the control case: the losing side there was
+inherited usage, not an argued position, and it was rejected outright rather than balanced — the
+scare quotes stayed. Where the opposing side is merely the default, there is nothing to steelman,
+and saying so is the honest outcome.
+
+**Why §16 earns its place.** The controversy register is not bookkeeping. It is a store of
+unfinished dialectic — disputes held open in a form that can still do this work later. That is a
+second reason to keep displaced positions rather than delete them, alongside the §7 reason that
+watching a superseded hypothesis persist is itself a §3 phenomenon.
+
 ## 8. Protocol for adding a source
 
 1. Locate it in the topical hierarchy. If it fits nowhere, that may indicate a missing section rather than an irrelevant source.
 2. Assign ≤3 tags per `tags.md`; `#e/` is mandatory.
 3. Fill the register fields: subject date, source date, bears-on, access, chain (§0 of `resources.md`).
 4. If it makes a comparative claim, assign `#r/` and check it against the §5 ladder. If the claim sits on rungs 6–7 but is tagged `#r/genealogy`, that mismatch is the finding.
-5. If it contradicts an existing entry, add both to the §16 controversy register.
+5. If it contradicts an existing entry, add both to the §16 controversy register. Where the
+   contradiction bears on a decision that governs other decisions, work it as a dialectic per §7.2
+   rather than adjudicating it — the point is what the opposition makes explicit, not the verdict.
 6. Mark `[unverified]` unless checked against the source itself.
 7. **Write it out.** These are working documents that will be read cold, including by their author
    later. Compressed allusions — "the Alexandrian move on a new substrate," "one horn of its own
@@ -401,16 +545,96 @@ transclusion in one file but fights git. Roam and Tana are proprietary and would
 
 ## 9. Open decisions
 
-1. **The adherent veto (§2.8).** Undecided, and it governs what counts as a legitimate conclusion. Needs a position before the first substantive comparative claim is written.
-2. **Scope of the Iranian material (H5).** How far into Zoroastrian and Sasanian evidence before it becomes a separate project?
-3. **Whether `chronology.md` starts now.** §4 argues yes: the dating discipline is currently a rule with no instrument.
-4. **Whether to treat convergent phenomenology (deflator 4) seriously enough to require reading in cognitive science of religion**, or to hold it as a standing caveat. The first is expensive; the second is weak.
-6. **What sets fidelity in a given case?** Not "replicator or attractor" — that split was withdrawn
-   (`background.md` §5.5), since receiver-side quantisation produces discreteness on an analog
-   channel. The live question is whether fidelity comes from the receiver (categorical perception,
-   metre), from an institution (§1.2b), or from neither. Decides how much weight selectionist models
-   can carry for any given tradition.
-5. **How much of Q8 this project can carry.** The nexus question is now primary (`background.md` §5.3)
-   but its literature is largely unindexed monographs, and a full comparison class — Palmyra,
-   Samarkand, Alexandria, Dunhuang, Aksum — is a project-sized commitment on its own. Decide whether
-   Q8 is answered *for Gandhāra and Dunhuang only*, or pursued generally.
+Decisions taken 2026-08-27 are marked **[decided 2026-08-27]**. Work arising is queued, not started.
+
+### 9.1 Still open
+
+1. **Does the evidential facet need restructuring?** Arising directly from the §2.8 decision. If
+   adherent testimony differs from attestation in *type* rather than degree, then `#e/devotional`
+   as a sibling of `#e/attested` in one facet (`tags.md` §3) asserts a commensurability we have
+   just denied — and the §5 ladder, being a single ordering, may have no rung for it. Options, none
+   costed yet:
+   - leave it, and treat the `#e/` facet as "how to read this," not "how good this is" — cheapest,
+     and arguably what §5a's census already found it to be in practice;
+   - split testimony into its own facet, which is honest but is a schema change against 264 entries;
+   - keep the tag and record the interpretive lens in the entry prose instead.
+
+   Cheapest first step is to decide what the `#e/` facet *is*, since the census note in `tags.md`
+   §5a already hints it is not a quality ordering.
+2. **Scope of the Iranian material (H5).** How far into Zoroastrian and Sasanian evidence before it
+   becomes a separate project?
+
+### 9.2 Decided
+
+0. **The adherent veto: rejected. [decided 2026-08-27]** Lincoln and McCutcheon over W. C. Smith, on the
+   grounds that schism leaves the veto without a well-defined holder. Emic testimony is retained as
+   evidence differing in type, not degree. Full reasoning and consequences: §2.8. This was the
+   project's most consequential open item; the first substantive comparative claim is now unblocked.
+3. **`chronology.md` starts. [decided 2026-08-27]** §4 argued yes: the dating discipline is a rule
+   with no instrument. To be cross-linked with `tags.md`, and its notation designed deliberately
+   rather than accreted — see §9.3.
+4. **Mechanisms of convergence become a line of inquiry, not a standing caveat.
+   [decided 2026-08-27]** Deflator 4 (convergent phenomenology) was the narrow form of this. The
+   inquiry as scoped is wider and asks *what produces* a convergence:
+   - **Transmission medium versus transcriber** — is a convergence a property of the channel
+     (what any analog medium does to a signal) or of the particular hand that copied it?
+     `background.md` §5.6's error-correction regimes are the vocabulary for the first;
+     §3 transmission distortion for the second.
+   - **Cryptic attractors** — convergences produced by a shared constraint that is not itself
+     visible in the record, so the resemblance looks like contact. The receiver-side quantisation
+     argument (`background.md` §5.5) is one such attractor already identified; the question is how
+     many others are operating and whether any can be detected rather than merely posited.
+   - This absorbs former item 6 ("what sets fidelity in a given case"), which was the same question
+     asked from the other end. Fidelity and convergence are one mechanism seen from two sides.
+   - **Cost:** this was rejected once as expensive. It is accepted now on the grounds that the
+     alternative — holding it as a caveat — leaves every positive finding permanently deflatable.
+5. **Q8 scope: narrow the claim, widen the sampling frame. [decided 2026-08-27]** Q8 is answered
+   *for Gandhāra and Dunhuang*, but against a comparison class characterised cheaply rather than
+   read exhaustively. Two instruments make this affordable, and neither existed when the question
+   was first posed:
+   - the **duration table** (`background.md` §11), which characterises the class without requiring
+     its monograph literature;
+   - the **Wikipedia citation-harvesting route** (`resources.md` §17.1), which reaches the
+     ISBN-bearing monographs no index this project can search will return.
+6. **`geography.md` is built, as chronology's companion. [decided 2026-08-27]** Place carries at
+   least as much weight here as time: Q8 is a question about contact zones, H9's typology is about
+   channels between places, and the nexus material (`background.md` §5.3) is indexed by site before
+   it is indexed by date. Two design constraints, settled with the chronology notation in §9.3
+   rather than after:
+   - **Stable place identity.** Gandhāra, Bactria and Sogdia change name, language and extent across
+     the period, so a place needs an identifier that survives that. The Wikidata Q-id does it, and
+     is already reachable through the `/wikipedia` skill.
+   - **Sites and polities are distinct object types.** A site has coordinates; a polity has shifting
+     borders and a lifespan. Conflating them is how a duration table quietly begins measuring two
+     different things — which matters precisely because §5.3 leans on that table.
+
+   Geography and chronology are then one schema on two axes: entity, period-of-relevance,
+   evidential tag. **Design the notation once, before either file is populated.** Queued, not
+   started.
+
+### 9.3 Notation design for `chronology.md` and `geography.md` — constraints, not yet a specification
+
+Recorded so the format is chosen deliberately. To be ratified before either file is populated —
+one schema on two axes (§9.2 item 6), so the decisions below bind both.
+
+- **BCE/CE only, never BC/AD.** A project whose method turns on the emic/etic distinction (§2)
+  cannot adopt a confessional era notation as its neutral default without contradiction.
+- **Three date-kinds must never collapse into one.** This is §7's dating obstacle in miniature, and
+  conflating them is the single most likely source of a false result:
+  - `comp.` — when the text was composed
+  - `ms.` — when the surviving witness was written
+  - `ev.` — when the events narrated are said to occur
+
+  A Dunhuang manuscript has all three, and they can differ by centuries.
+- **Uncertainty is notated, not rounded away.** `c.` circa; `[a–b]` for a range; `t.p.q.` and
+  `t.a.q.` for termini post/ante quem (standard archaeological usage, and it maps onto §5's ladder);
+  `fl.` for floruit where only activity is datable.
+- **Every date carries an `#e/` tag**, reusing the register's evidential facet unchanged (`tags.md`
+  §3). A traditional date is `#e/devotional`; a radiocarbon date is `#e/attested`; a date derived
+  from a synchronism is `#e/inferred`. This is the point of cross-linking to `tags.md`: a date is a
+  claim, and it gets the same evidential discipline as any other entry.
+- **Each date records its rung** on the §5 strength-of-evidence ladder where one applies.
+- **A sortable machine form alongside the display form.** Signed four-digit years (`-0450`, `1042`)
+  so `chronology.md` and any generated table sort on the same key. Fixes the duration table's year
+  encoding at the same time.
+

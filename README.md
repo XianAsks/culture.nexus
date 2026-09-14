@@ -29,10 +29,14 @@ expensive error-correction regime.
 | File | What it holds |
 |---|---|
 | `background.md` | The charter. Questions Q1–Q8, hypotheses H1–H14, findings, cross-checks, open questions. |
-| `methods.md` | How the work is done. Comparison, the emic/etic distinction, transmission distortion, the evidence ladder, the six deflators, tooling. |
-| `resources.md` | The source register — 18 topical sections, ~260 tagged entries with provenance fields. |
+| `methods.md` | How the work is done. Comparison, the emic/etic distinction, transmission distortion, the evidence ladder, the seven deflators, tooling. |
+| `resources.md` | The source register — 19 topical sections, 269 tagged entries with provenance fields. |
 | `terms.md` | Technical glossary. Tibetan (Wylie), Greek, Syriac, Coptic, Avestan, plus method vocabulary. |
 | `tags.md` | The faceted markup scheme and its controlled vocabulary. |
+| `chronology.md` | Dated claims, and the date notation that binds this file and `geography.md`. |
+| `geography.md` | Sites, regions and polities, keyed on Wikidata Q-ids. |
+| `scripts/` | `build_tables.py` — derives the machine forms from the two index files. |
+| `results/` | Generated tables, `.csv.gz`. Regenerate; do not hand-edit. |
 | `lit/` | Retrieved sources, per-database manifests, query logs, and `WANTED.md`. See `lit/README.md`. |
 | `validate.sh` | Structural checks over the register. Run it after editing. |
 
@@ -51,13 +55,34 @@ expensive error-correction regime.
 
 ## Current state
 
-~260 entries · 14 hypotheses · 15 open questions · `validate.sh` clean.
+269 entries · 14 hypotheses · 22 open questions · `validate.sh` clean.
 
-**The three most consequential open items**, all in `background.md` §11 and `methods.md` §9:
+Counts come from `validate.sh`. "Open questions" counts inline `?` markers against specific
+entries; the project-level decisions are separate, in `background.md` §11 and `methods.md` §9.
 
-1. **The adherent veto** — whether a description must be acceptable to adherents. Undecided, and it
-   governs what counts as a legitimate conclusion.
-2. **What Dunhuang's co-presence actually produced** — needed twice over, as Q8's negative case and as
+**Decided 2026-08-27 — the adherent veto.** The project's longest-standing open item is settled:
+a description need *not* be acceptable to adherents. Two grounds. Schism leaves the veto with no
+determinate holder, since a tradition in schism contains parties whose accounts of it are mutually
+unacceptable. And collective acceptability is not an observable quantity at all — it is reportable
+only by authorities, so a report of it is a claim about **standing**, not about acceptance.
+
+The same asymmetry that disqualifies the veto qualifies emic testimony, so the two commitments are
+one position rather than two: a report with a determinate bearer (*"I feel sad"*, *"I witnessed the
+body shrink"*) carries its own warrant and is interpretable through that bearer's context; a
+predicate with no bearer does not. Emic testimony is therefore retained as evidence differing in
+**type**, not degree — admitted, and read for what it is evidence of, which is frequently not the
+proposition it asserts. → `methods.md` §2.8.
+
+**Built 2026-08-27.** `chronology.md` and `geography.md`, on one schema across two axes —
+entity, period, evidential tag — with the date notation specified once and binding both.
+`scripts/build_tables.py` derives the machine forms into `results/*.csv.gz`, so the arithmetic has
+a single home; the duration table for `background.md` §5.3's comparison class is the first output.
+A Wikipedia citation harvest (`lit/wikipedia/`) reached 730 works, 257 of them carrying a durable
+identifier and no URL — the monograph class no index this project can search will return.
+
+**The most consequential open items**, all in `background.md` §11 and `methods.md` §9:
+
+1. **What Dunhuang's co-presence actually produced** — needed twice over, as Q8's negative case and as
    the hinge of the contact argument.
-3. **Whether "universal replicator theory" is the right frame**, given that fidelity is manufactured
+2. **Whether "universal replicator theory" is the right frame**, given that fidelity is manufactured
    rather than given.

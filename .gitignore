@@ -12,3 +12,11 @@
 .DS_Store
 
 # Note: retrieved PDFs are ignored by lit/.gitignore, next to what they govern.
+
+__pycache__/
+*.pyc
+# results/ is deliberately NOT ignored. The tables are small (~1 KB) and fully
+# reproducible from chronology.md and geography.md via scripts/build_tables.py,
+# which argues for ignoring them. Committing wins on a different ground: the diff
+# shows when a date changed and what it did to a duration, and this project is
+# about provenance. Regenerate rather than hand-edit.
