@@ -16,7 +16,14 @@ comm -23 <(grep -oh '#[dcref]/[a-z-]*' resources.md methods.md background.md | s
 echo "=== census (resources.md) ==="
 grep -o '#[dcref]/[a-z-]*' resources.md | sort | uniq -c | sort -rn | head -8
 echo "=== counts ==="
-printf '  entries: %s\n' "$(grep -c '^- ' resources.md)"
+# A register entry is a '- ' line whose indented continuation block carries the
+# mandatory #e/ tag. Counting bare '- ' lines conflates entries with ordinary
+# prose bullets; looking only at the next line misses multi-line entries.
+printf '  entries: %s\n' "$(awk '
+  /^- / { if (inblk && hit) n++; inblk=1; hit=0; next }
+  /^[ \t]/ { if (inblk && /#e\//) hit=1; next }
+  { if (inblk && hit) n++; inblk=0; hit=0 }
+  END { if (inblk && hit) n++; print n+0 }' resources.md)"
 printf '  open questions: %s\n' "$(grep -ch '^?' resources.md background.md | paste -sd+ | bc)"
 printf '  unverified: %s\n' "$(grep -c '\[unverified\]' resources.md)"
 echo "=== leftover draft markers ==="
