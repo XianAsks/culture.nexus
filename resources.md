@@ -759,24 +759,17 @@ absorbed silently into the section that assumes otherwise. Stated here so the as
 visible.
 
 **The discriminator: transmitter versus innovator.** H11 asserts that diasporas incite *observable
-diffusion of innovation*. A network that carries three religions across a continent without
-altering any of them is doing something real, but it is not that. Sorting the specimens on this
-axis is the section's first task, and the sort is not yet done.
-
-| Specimen | Carried | Altered what it carried? | Endogamy | Tag |
-|---|---|---|---|---|
-| Sogdian merchant network | Buddhism, Manichaeism, Christianity, Zoroastrianism | **Open** — the standing question for H11 | high | `#c/diaspora #d/central-asia #e/secondary` |
-| Georgian monks at Mount Athos | the Barlaam material, Arabic → Georgian → Greek | Yes — Christianisation of the narrative | n/a (monastic) | `#c/diaspora #r/genealogy #e/secondary` |
-| Florentine banking houses | credit instruments, artistic patronage | Yes | low | `#c/diaspora #e/secondary` |
-| Jewish and Armenian mercantile networks | goods, credit, script, language | Open | high | `#c/diaspora #e/secondary` |
-| African diaspora, American Southeast | language, foodways, music, religion — via the household | Yes, decisively | forced | `#c/household-channel #e/secondary` |
+diffusion of innovation*. A network that carries three religions across a continent without altering
+any of them is doing something real, but it is not that.
 
 **Mount Athos is the newest specimen and the cleanest.** §14.8's chain passes through a Georgian
 monastic community inside a Greek institution: Euthymius of Athos, a Georgian, translating into
 Greek a text that reached him through Arabic from Middle Persian from Sanskrit. A diasporic
 institution is the transmission node, and — unlike the Sogdian case — we can see exactly what it
 altered, because the before and after both survive. It is the section's worked example precisely
-because the alteration is legible.
+because the alteration is legible. **§11.6b reclassifies what kind of example it is**: a
+converter rather than a carrier, which is why it innovates in content without its origin link
+having been cut.
 
 **Why the household case is the type specimen.** §11.4 argues that the household channel transmits
 what commerce cannot, because it operates across a generational boundary rather than a
@@ -784,11 +777,204 @@ transactional one. The African diaspora in the American Southeast is the case wh
 deniable and best documented, and where the asymmetry of power makes "network" an inadequate
 description. It anchors the section; the mercantile cases are read against it, not the reverse.
 
-? **Is endogamy the variable that sorts transmitters from innovators?** The table hints at it — the
-high-endogamy networks are the ones whose alteration is "open" — but four rows is not evidence, and
-the causal story could run either way.
-? **Does diaspora require displacement, or only dispersion?** Monastic networks, merchant colonies
-and forced migration are grouped here on the strength of an analogy that has not been examined.
+**Answered 2026-09-14, in the negative** — endogamy is a proxy for a maintained origin link, not
+the cause. See §11.6a. Kept here because the question shaped the table that produced the answer.
+
+### 11.6a The sort, done 2026-09-14
+
+**The axis does not sort diasporas. It sorts diaspora × domain.** Every specimen below both
+transmits and innovates — but in different registers, and the pattern in which register is the
+finding.
+
+| Specimen | Innovated in | Transmitted faithfully in | Link to origin | Tag |
+|---|---|---|---|---|
+| Maghribi traders | **institutions** — a multilateral reputation mechanism enforcing contracts without a sovereign | goods, and the law they carried from home | maintained | `#c/diaspora #d/method #e/secondary` |
+| Armenians of New Julfa | **institutions** — commercial law, courts, a commenda-type contract, standardised correspondence | liturgy, language, confession | maintained | `#c/diaspora #e/secondary` |
+| Sogdian network | **script** — the Sogdian alphabet, ancestor of Uyghur and so of Mongolian and Manchu | doctrine: Buddhist, Manichaean, Christian and Zoroastrian texts were translated and carried, not reworked | maintained | `#c/diaspora #d/central-asia #e/secondary` |
+| Georgian monks at Athos | **content** — the Barlaam narrative was Christianised in transit (§14.8) | the narrative's structure and the name | maintained | `#c/diaspora #r/genealogy #e/secondary` |
+| African diaspora, US Southeast | **content, decisively** — new languages, musics, religious forms | fragments only | **severed** | `#c/household-channel #e/secondary` |
+
+**The pattern, and the mechanism proposed for it.** Four of five innovated in the *infrastructure of
+exchange* — script, contract, court, reputation — while carrying content faithfully. Only the fifth
+rebuilt content itself, and it is the only one whose link to origin was cut.
+
+The proposed mechanism, **which is my inference and not something read in the sources below**: a
+maintained link to origin is an error-correction channel in `background.md` §5.6's sense. You can
+check your version against the source, and the check is cheap because the source still exists and
+you can reach it. Under that regime, fidelity in content is also an *asset* — a trade diaspora's
+value is partly that it is authentically from elsewhere, so altering the goods destroys the margin.
+Sever the link and both conditions vanish at once: no check is available, and there is no origin
+left for authenticity to refer to. Reconstitution from fragments is then not drift but the only
+option, and it necessarily produces something new.
+
+The exchange infrastructure is the mirror image. There the diaspora faces a problem **no home
+institution has solved for it** — enforcing agreements at distance, across jurisdictions, with no
+sovereign in common. Nothing can be transmitted because nothing exists to transmit, so it must be
+invented. Greif's Maghribi coalition is the worked case.
+
+? **This predicts a natural experiment that has not been looked for**: a single diaspora that loses
+its origin link mid-history should switch from content-transmitter to content-innovator. Post-1453
+Greeks, post-1492 Sephardim and the Parsis are candidates.
+? **Endogamy is a proxy, not a cause.** The table's old endogamy column tracked the pattern because
+high endogamy accompanies a maintained origin link — but the African diaspora was endogamous by
+coercion while severed, and it innovated most. Link-to-origin explains both columns; endogamy
+explains neither on its own. This supersedes the question asked when the section opened.
+
+**What this does to H11.** The hypothesis holds for *diffusion* and needs narrowing for
+*origination*: diasporas reliably diffuse innovation, but originate it in exchange infrastructure
+rather than in content — except where the origin link is severed, which inverts the result. → see
+the restatement in `background.md`.
+
+### 11.6b What counts as a diaspora, and what Athos actually shows
+
+**Working definition, xian's, adopted 2026-09-14: a diaspora is a dispersed community *embedded in
+another culture*.** Embedding does the work that "dispersion" alone does not. It excludes a settler
+population that displaces its host rather than living inside it, and a nomadic group passing
+through without becoming resident — neither of which faces the problem that makes diasporas
+interesting here, which is maintaining an identity while dependent on a host that does not share it.
+
+**Applied to the Athos anomaly, the definition does not exclude the case — it reclassifies it.**
+The Georgian monks were embedded, so they qualify. What distinguishes them is *which dimension*
+they were embedded across relative to the material they moved. They were other than their hosts in
+**language** and the same in **confession**. The Barlaam material was religious. So at the receiving
+end it faced no confessional boundary at all — only a translation.
+
+That makes Athos a different **role**, not a counterexample:
+
+| Role | Material moves | Example |
+|---|---|---|
+| **carrier** | home content → host setting, boundary crossed at delivery | Sogdians carrying four religions into Tang China |
+| **converter** | foreign content → the frame the diaspora *shares with its host* | Georgian monks turning an Arabic-derived tale into Orthodox hagiography |
+
+A converter must remake content by construction: its whole function is to move material into a frame
+it already occupies. So content innovation at Athos is not the mechanism failing but a different
+operation, and §11.6a's prediction applies to carriers.
+
+? **Is the carrier/converter distinction general, or an artefact of this one case?** It predicts
+that any diaspora acting as a translation bureau — Baghdad's Syriac translators, the Toledo school
+— will innovate in content regardless of its origin link.
+
+### 11.6c Two specimens that test the mechanism — xian's, 2026-09-14
+
+**Ashkenazi Jewry, before and after 1945 — the natural experiment, supplied.** §11.6a asked for a
+diaspora that loses its origin link mid-history. This is a better instance than the candidates
+listed there, on three counts: the severance is **sharp and datable** rather than gradual; it
+severs by *annihilation of the source community* rather than by distance, so the break is total;
+and both sides are documented in extraordinary depth.
+
+The mechanism predicts a switch of register at the break, and the prediction appears to hold:
+
+| | Before | After |
+|---|---|---|
+| Content | transmitted — Yiddish letters, rabbinic continuity, liturgy | **reconstituted** — Yiddish largely displaced; American Judaism re-forms into new denominations; Israeli Hebrew culture a deliberate construction; Hasidic courts rebuilt from remnant |
+| Institutions | innovated — kehillah, later the Bund, Zionism, Hasidic courts | continues |
+
+**Because the population is the same on both sides, most of the confounds that make the
+cross-sectional comparison in §11.6a weak are held constant.** That is what the comparison of five
+unlike diasporas cannot do.
+
+  `#c/diaspora #d/method #e/inferred` · subj 19–20c · H11 · access: n/a · [unverified]
+
+**The Roma — severance so complete the community lost its own origin.** Dispersed from northern
+India, in Europe from roughly the 14th century. The Indic origin was not retained by the Roma
+themselves; it was **recovered by philologists in the 18th century from the language**. There is no
+sharper case of a severed link in the register.
+
+The mechanism predicts content innovation, and Romani culture is heavily reconstituted with deep
+borrowing from host cultures. But the case adds something the mechanism did not anticipate:
+
+> **The core of the language transmitted faithfully anyway** — Indic grammar and basic lexicon
+> survived the severance intact, which is precisely how the origin was recoverable at all.
+
+**This is a third register, not a counterexample.** Core grammar and basic vocabulary are acquired
+below the level of deliberate maintenance. No institution curates them, so severing the institution
+does not touch them. They are the linguistic equivalent of §14a.2's **technical** ceramic
+attributes — learned by immersion, invisible in the finished product, and conservative for exactly
+that reason — while visible culture behaves like decoration and turns over.
+
+So the transmitter/innovator axis has three registers, not two: **institutions** (invented under
+dispersion), **curated content** (faithful while the origin link holds, reconstituted when it
+breaks), and **below-conscious structure** (faithful regardless).
+
+  `#c/diaspora #d/indo-european #e/inferred` · subj 14–20c · H11, H15 · access: n/a · [unverified]
+
+**Yes — and the institutions are well documented.** §11.6c treated the Roma only as a severance
+case. On the institutional register the mechanism also predicts innovation, and it is there:
+
+- **The *kris romani*** — a tribunal adjudicating disputes within the community, strongest among
+  Vlax Roma.
+- ***Marime*** — a pollution and exclusion code that supplies the sanction the tribunal needs.
+
+Together these are a private-order legal order: dispute resolution and enforcement with no recourse
+to a state. That is the same *category* of institution as the Maghribi coalition's reputation
+mechanism and the Armenian merchant courts, and the comparison is not mine — **Peter Leeson, who
+works in the same institutional-economics tradition as Greif, has written on it directly.**
+
+**But the problem being solved is different, and the difference sharpens the mechanism.** The
+Maghribi and Armenian institutions enforce *commercial agency at distance*. The Romani institutions
+maintain a *boundary* and settle *internal disputes*. §11.6a proposed that diasporas innovate
+institutionally because no home institution has solved the distance problem for them. The Romani
+case shows the driver is more general:
+
+> Institutional innovation follows from **host institutions being unavailable** — and
+> unavailability has two distinct causes. **Absence**: no sovereign spans the trade route, so no
+> court can hear the case. **Hostility**: a sovereign exists and persecutes, so its courts are a
+> threat rather than a fallback. Both force private order; they produce differently shaped
+> institutions, because absence leaves a gap to fill while hostility requires a boundary to defend.
+
+That is testable, and it predicts the shape from the cause rather than only predicting that
+something will appear.
+
+**A source-base caution, and the project's own new machinery flags it.** Much of the historical
+record on Roma was produced by hostile authorities — expulsion edicts, police registers,
+anti-"Gypsy" legislation. This is the condition `tags.md` §3 describes for `#v/polemical`: the
+hostile witness is often the only witness, so such sources cannot be discarded and must instead be
+marked and corrected for. Here it applies to a living population, which raises the stakes beyond
+the Gnostic case that prompted the tag. Note also that "Gypsy law" in several of these titles is an
+exonym; Ronald Lee, writing as a Romani author, is the `#v/emic` counterweight in this list.
+
+- Weyrauch, Walter O., ed. *Gypsy Law: Romani Legal Traditions and Culture* (2003); and Weyrauch,
+  "Gypsy Law" (2001). The standard collection. @weyrauch-2003
+  `#c/diaspora #d/method #e/secondary` · src 2001–03 · H11 · access: library · [unverified]
+- Leeson, Peter T. "Gypsy law" (2012). Private-order institutions in the Greif tradition, applied
+  to the Roma — the bridge between this section and §11.6d. @leeson-2012
+  `#c/diaspora #r/analogy #e/secondary` · src 2012 · H11, §5.6 · access: library · [unverified]
+- Lee, Ronald. "The Rom-Vlach Gypsies and the Kris-Romani" (1997). @lee-1997
+  `#c/diaspora #e/primary #v/emic` · src 1997 · H11 · access: library · [unverified]
+- Caffrey, Susan, & Gary Mundy. "Informal Systems of Justice: The Formation of Law within Gypsy
+  Communities" (1997). @caffrey-mundy-1997
+  `#c/diaspora #d/method #e/secondary` · src 1997 · H11 · access: library · [unverified]
+
+? **Does the absence/hostility split predict institutional shape elsewhere?** The Maghribi and
+Armenians had host courts available and used them when convenient; the Roma did not. If the split
+is real, a diaspora that moves from tolerated to persecuted should add boundary-defending
+institutions without losing its commercial ones.
+
+? **Does the three-register pattern hold outside language?** H15 predicts the same split for
+ceramics, where technique is the conservative layer and decoration the volatile one. If both hold,
+the register is a property of *how a thing is learned*, not of what kind of thing it is — which
+would be a result about transmission in general rather than about diasporas.
+? **Both specimens are reasoned from general knowledge and are unread.** The Ashkenazi before/after
+table especially needs a historian's check before it carries any weight.
+
+### 11.6d Sources for the sort
+
+All identified 2026-09-14 by OpenAlex title search; **none has been read**.
+
+- Greif, Avner. "Contract Enforceability and Economic Institutions in Early Trade: The Maghribi
+  Traders' Coalition." *AER* 83 (1993); and "Reputation and Coalitions in Medieval Trade" (1989).
+  The institutional-innovation case, and heavily cited in economics rather than history — which is
+  why the project had not met it. @greif-1993
+  `#c/diaspora #d/method #e/secondary` · src 1989–93 · H11, §5.6 · access: library · [unverified]
+- Aslanian, Sebouh David. *From the Indian Ocean to the Mediterranean: The Global Trade Networks of
+  Armenian Merchants from New Julfa* (2011). @aslanian-2011
+  `#c/diaspora #r/vector #e/secondary` · subj 17–18c · src 2011 · H11 · access: library · [unverified]
+- Grenet, Frantz. "Religious Diversity among Sogdian Merchants in Sixth-Century China" (2007).
+  Bears directly on whether the Sogdians altered what they carried. @grenet-2007
+  `#d/central-asia #c/diaspora #e/secondary` · subj 6c · src 2007 · H11, Q6 · access: library · [unverified]
+- Rong, Xinjiang. "Sogdian Merchants and Sogdian Culture on the Silk Road" (2018). **Same author as
+  the Dunhuang library-cave paper wanted for Q8a** (`lit/WANTED.md` W9). @rong-2018
+  `#d/central-asia #c/diaspora #e/secondary` · subj 4–10c · src 2018 · H11, Q8a · access: library · [unverified]
 
 ## 12. Founder figures: milieu, lineage, and the singularity construction
 
