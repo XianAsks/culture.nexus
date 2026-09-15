@@ -59,6 +59,12 @@ Prerequisite for both: `uv` on PATH. The OpenAlex skill additionally reads
 `OPENALEX_API_KEY` from `~/.env` — **not** from this project's `.env.api`, which the
 CLI never looks at (`openalex_cli.py` hardcodes `~/.env`).
 
+> **`~/.env` is not shell-sourceable.** It holds saved query strings as well as keys, and at least
+> one contains brackets and a comma, so `set -a; . ~/.env` fails under zsh with "no matches found".
+> The CLI reads it with python-dotenv, which handles it correctly. To get the key into the
+> environment for an ad-hoc command, extract just that line:
+> `export OPENALEX_API_KEY=$(grep -m1 '^OPENALEX_API_KEY=' ~/.env | cut -d= -f2-)`
+
 ```bash
 # Invoke via the skills, not by calling the APIs directly:
 #   /google-deepmind:literature_search_openalex

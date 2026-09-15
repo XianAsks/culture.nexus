@@ -299,10 +299,33 @@ structural analogues.
 - **Signor–Lipps effect** — the last surviving record of something precedes its actual end, because
   sampling is incomplete; consequently abrupt endings look gradual. Paleobiology's name for a bias
   this project meets constantly under other names. See [[termination bias]], [[archival silence]].
-- **stemma / phylomemetics** — a stemma is a manuscript copying-tree; phylomemetics is the use of
-  phylogenetic inference to build one. Formally the same problem as reconstructing a species tree
-  from extant taxa, with the same survivorship conditioning — and the same need for *networks* rather
-  than trees where contamination (a scribe using two exemplars) creates reticulation.
+- **stemmatics / stemma / phylomemetics** — **stemmatics** is the method textual critics use to
+  work out how surviving manuscript copies of a text are related, and from that to reconstruct the
+  lost original. Its product is a **stemma**, a copying-tree of the surviving **witnesses** down
+  from a reconstructed **archetype**. Also called stemmatology, or Lachmann's method.
+
+  **The principle that makes it work, and the reason it matters to this project: only shared
+  *errors* are informative.** Two manuscripts agreeing on a correct reading tells you nothing —
+  either could have got it right independently, or from anywhere. Two manuscripts sharing the same
+  *distinctive mistake* is strong evidence of common descent, because the same error is unlikely to
+  arise twice by chance. Errors that group witnesses together are **conjunctive**; errors present in
+  one and absent from another prove the second is not descended from the first, and are
+  **separative**.
+
+  That is `methods.md` §5 rung 3 — shared arbitrary detail, non-obvious, with no functional reason
+  to arise twice — as a mature and formalised discipline. A scribal slip is an arbitrary shared
+  detail in its purest form. The project is making by hand an inference textual criticism has been
+  refining since the nineteenth century.
+
+  **Phylomemetics** applies phylogenetic inference to the same problem. Formally it is
+  reconstructing a species tree from extant taxa, with the same survivorship conditioning, and it
+  meets the same obstacle: **contamination**, where a scribe consults two exemplars, produces
+  reticulation, so the true structure is a network rather than a tree. That is horizontal gene
+  transfer under another name.
+
+  **What a stemma measures that this project wants**: *where* variation enters a copying tradition —
+  whether innovations cluster on a few scribes or accumulate broadly across all of them. See
+  `background.md` §5.7. See [[survivorship]], [[frozen accident]].
 - **frozen accident** — an outcome that was contingent when it happened but became unrevisable once
   everything downstream came to depend on it. In the Cambrian case, conserved gene-regulatory-network
   kernels are the standard account of why body plans stopped changing. The reason radiations are rare

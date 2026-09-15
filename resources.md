@@ -645,6 +645,48 @@ the whole question. A shared vocabulary of visionary experience at Dunhuang is r
 at best until someone shows the practices are related rather than merely adjacent — precisely the
 error `methods.md` §5 exists to prevent, and precisely the inference the material invites.
 
+### 11.3b Preconditions for a nexus — xian's, 2026-08-25, recorded 2026-09-15
+
+**Recorded late**: given in August, and not carried into the register until an audit found them
+missing. They bear directly on Q8, and one of them is an objection rather than a contribution.
+
+**The proposal.** A **small-world / preferential-attachment network** — of trade, communication,
+finance, artisans — is a *prerequisite* for a nexus to have widespread impact. Connectivity, and
+cultural hegemony with it, is what drives the **diffusion** that leaves measurable evidence behind.
+
+Consistent with **Geoffrey West's metabolic-scaling work on cities**, offered with its own caveat:
+the work has structural problems, but it states mechanistic, refutable null hypotheses, which is
+more than the qualitative nexus literature manages. That is the reason to keep it in view — a bad
+model that can be refuted is worth more here than a good description that cannot.
+
+**The objection, which is the sharper half.** *Rome, Washington and Beijing are highly connected
+and are not workshops of innovation.* They are **administrative cities**, where bureaucracy,
+orthodoxy, tradition and convention push against innovation despite high diversity. So:
+
+> **Connectivity is necessary but not sufficient.** Any account of Q8 that predicts generativity
+> from connection alone is refuted by the administrative capitals.
+
+This is a live constraint on H7 and H12, and the project had been proceeding without it.
+
+**The ecological framing offered with it**: administrative capitals have **low alpha diversity and
+high beta diversity** — many distinct groups, little mixing within any one setting. The proposed
+additional condition is **persistent alpha diversity across culturally relevant timescales**:
+long-standing cross-cultural contact that makes familiarity ordinary, so that a New Yorker is
+comfortable in Little Italy and Chinatown alike. Slave caregiving (§11.4) is then *one* pathway
+that supplies both mixing and the persistence needed for re-transmission — one example, not the
+mechanism.
+
+  `#c/nexus #d/method #e/inferred` · H7, H12, Q8 · access: n/a · [unverified]
+
+? **Does the alpha/beta framing survive contact with the cases?** It predicts that a nexus needs
+sustained mixing *within* settings rather than mere co-presence of groups — which is exactly the
+rung-5 problem (`methods.md` §5) restated for populations rather than texts. Gandhāra and Dunhuang
+should be scored on it.
+? **Is "administrative city" the right category, or is it a proxy?** Rome was generative earlier in
+its history, and Baghdad was both administrative and a translation centre (§14.8). The variable may
+be the *age* of the bureaucracy rather than its presence.
+? **Geoffrey West's scaling work is unread and uncited here.** Named in August, never retrieved.
+
 ### 11.4 Transmission channels: how fusion actually happens
 
 Serves H8 and H9. The linguistic literature supplies both the mechanism and a measurement.
@@ -1302,6 +1344,26 @@ test needs a tradition with *weak* chain requirements and no revelation-bypass, 
 tradition that never developed one. Chan is the obvious candidate: transmission is explicitly
 person-to-person, so does anything play terma's role there?
 
+**Two biological analogies offered for the gated channel** — xian's, 2026-08-25, recorded
+2026-09-15. Both address the same design problem terma solves:
+how a closed tradition admits novelty without losing the ability to tell itself from everything else.
+
+- **The vertebrate adaptive immune system.** It must distinguish self from non-self while
+  *generating* novel recognition capacity it did not inherit — and it does so in a **bounded
+  region**, the hypervariable segments of the receptor genes. Variation is licensed in one place and
+  forbidden everywhere else. That is structurally what terma does: revelation is permitted, but only
+  through a gate with credentials attached.
+- **CRISPR.** A bacterial system that imports foreign sequence into its own genome *deliberately*,
+  as a record of what it has encountered, and uses it to recognise that material later. Contained
+  importation of novelty, with the import becoming part of the self.
+
+Per `methods.md` §1.2a these are analogies for generating questions, never evidence. The question
+they generate is sharp: **where is the variation licensed, and what marks the boundary of the
+licensed region?** For terma the answers are the tertön's standing and the yellow scroll; the
+analogies suggest looking for the equivalent boundary marker in any tradition that admits revelation.
+
+  `#c/terma #r/analogy #e/heuristic` · H7 · access: n/a
+
 ### 14.5b The Latter-day Saint parallel — a well-lit instance of the same mechanism
 
 xian's observation, and **it is an established scholarly comparison**: "The Production of the Book of
@@ -1499,6 +1561,72 @@ are formally the same problem: reconstruct a copying tree from extant witnesses.
 Blake and Robinson, "The phylogeny of *The Canterbury Tales*," *Nature* 394 (1998), applied split
 decomposition to 58 fifteenth-century manuscripts of the *Wife of Bath's Prologue* and found good
 agreement with the conventionally-derived stemma. The field has a name — **phylomemetics**.
+
+#### 14.7a Exactly how formal the correspondence is — and where it stops
+
+Recorded 2026-09-15. §14.7 asserts the transfer is literal; this states the mapping, because
+borrowing machinery without knowing which assumptions travel is how a method gets misapplied.
+
+| Stemmatics | Phylogenetics |
+|---|---|
+| witness — a surviving manuscript | extant taxon |
+| archetype | most recent common ancestor, the root |
+| **shared error** (conjunctive) | **shared derived character**, a synapomorphy |
+| shared *correct* reading | shared *ancestral* state — uninformative for grouping |
+| separative error | character excluding a descent relationship |
+| stemma | cladogram |
+| contamination — a scribe using two exemplars | horizontal transfer, hybridisation, introgression |
+| lost intermediate copies | extinct or unsampled lineages |
+
+**The identity, not the analogy.** Both reconstruct an unobserved branching history from character
+states in surviving terminals, and both hold that **only shared *derived* states group things**.
+A shared correct reading is uninformative for the same reason a shared ancestral trait is: it can be
+inherited from anywhere, or arrived at independently. Lachmann's principle and Hennig's are one
+principle in two vocabularies. **"Error" and "derived character state" name the same logical role.**
+
+**Four places the assumptions do not travel.** These are the cost of the borrowing:
+
+1. **Polarity has no outgroup.** Phylogenetics roots a tree with an outgroup. Stemmatics usually
+   cannot, and determines direction by judging which reading a copyist would more plausibly have
+   produced — *lectio difficilior potior*, prefer the harder reading, because scribes simplify. That
+   is a **content judgement with no phylogenetic counterpart**, and cladistics was built partly to
+   escape such judgements.
+2. **Contamination is normal rather than exceptional.** Scribes routinely consulted more than one
+   exemplar, and scholarly copyists collated deliberately. The tree model is therefore violated as a
+   matter of course, not occasionally.
+3. **Ancestors survive.** A surviving manuscript can be the actual exemplar of another surviving
+   manuscript — a terminal that is literally an internal node. Phylogenetic software assumes
+   terminals are tips and handles this badly; stemmatics has a dedicated step for removing such
+   witnesses.
+4. **Variation is structured, not stochastic.** Scribal error follows psychology and orthography —
+   eye-skip between similar line endings, doubled or dropped syllables. Errors are predictable in
+   kind, which helps a human editor recognise them and violates the substitution models the software
+   assumes.
+
+**Two things worth borrowing, beyond the tree-building.**
+
+- ***Lectio difficilior* is a directionality rule for transmission chains, and this project has a
+  transmission chain.** It says deformation has a preferred direction: transmission simplifies. That
+  is the analog-channel argument (`background.md` §5.5) stated as an editorial rule two centuries
+  earlier, and it is directly applicable to H4 — across the Tibetan → Italian → English → print
+  chain, the *simpler* reading is the likelier corruption, not the likelier original.
+- **Bédier's objection, as a deflator.** Joseph Bédier observed that published stemmata were
+  suspiciously often bipartite — split into exactly two branches — far more often than chance should
+  allow, and argued that editors were producing the shape their method made available rather than
+  the shape the evidence supported. Generalised: **a suspiciously regular result is evidence about
+  the method, not about the world.** `methods.md` §6 has no deflator of this form, and the project
+  builds typologies constantly. *(Bédier is prior knowledge, not retrieved; the 1928 critique is in
+  French and did not surface in the index.)*
+
+- Howe, Christopher J., & Ruth Connolly. "Responding to Criticisms of Phylogenetic Methods in
+  Stemmatology" (2012). [10.1353/sel.2012.0008](https://doi.org/10.1353/sel.2012.0008). The
+  methodological debate itself, which is what the project needs rather than another application.
+  @howe-connolly-2012
+  `#d/method #r/analogy #e/secondary` · src 2012 · §14.7, H4 · access: library · [unverified]
+
+? **Should §6 gain a deflator for method-shaped results?** Bédier's form of objection — the answer
+has the shape the instrument prefers — applies to every typology in this register, including the
+diaspora sort and the rainbow-body typology.
 
 Paleobiology has also named the specific biases and built corrections: the **Signor–Lipps effect**
 (the last fossil occurrence precedes true extinction, so extinctions look gradual), **ghost
@@ -1789,6 +1917,19 @@ governs how much weight any future "not found" deserves.
 - **Its full-text search is unusable for this field.** "rainbow body dzogchen tibetan buddhism"
   returned *A Brief History of Spiral Dynamics* as top hit. `title_and_abstract.search` is precise
   but low-recall. Use the latter, and treat a zero result as weak evidence.
+- **The query idiom matters more than the query.** Established 2026-09-14 while looking for the
+  craft-phylogenetics literature, and it generalises:
+  - `title_and_abstract.search` with several words gives healthy **counts** and unusable
+    **ranking** — "phylogenetic analysis basketry" returned a paper on manganese superoxide
+    dismutase as its top hit.
+  - `title.search` with several words returns **nothing at all**; it appears to require every term.
+  - `title.search` with **one distinctive term** works, and found Jordan & Shennan, Tehrani &
+    Collard, and the Beaker genomics paper immediately.
+
+  So a zero from a multi-word title search means nothing whatever, and a bad ranking from a
+  multi-word topic search is not evidence that the literature is thin. **Probe with single
+  distinctive terms first**, then use `cites:` to walk outward from whatever that finds — which is
+  how §17.2a's citation-overlap test was run.
 - **Europe PMC covers only the etic half of the project** — ancient DNA, bioarchaeology,
   contemplative science. Tibetology, art history, textual studies are simply not indexed.
 - **The nexus and comparative-urbanism literature is almost entirely unreachable.** A dedicated pass

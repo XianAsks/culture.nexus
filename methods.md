@@ -553,7 +553,21 @@ Decisions taken 2026-08-27 are marked **[decided 2026-08-27]**. Work arising is 
 ### 9.1 Still open
 
 1. **Scope of the Iranian material (H5).** How far into Zoroastrian and Sasanian evidence before it
-   becomes a separate project?
+   becomes a separate project? (Asked again as `background.md` §11 item 6; one should point at the
+   other.)
+2. **The register mixes two evidence cultures, and the vocabulary serves one.** `tags.md`'s facets
+   were built for humanities material — primary and secondary, contested, attested. The
+   natural-science entries answer different questions, chiefly **observational versus
+   experimental**, which is about how data was generated and is independent of everything `#e/`
+   records. Deferred 2026-09-14 on a count: the science-type entries are a small fraction of the
+   register, so the distinction goes on the field line as `design:` rather than becoming a fourth
+   facet. **Revisit if the ceramics direction grows** — aDNA, petrography, radiocarbon and
+   phylogenetics are all science-type, and H15 turns on an aDNA check, so that fraction is
+   expected to rise.
+3. **`#e/inferred` may be in the wrong facet.** It was kept as an evidential role in the
+   2026-09-14 split, but "derived by reasoning rather than directly attested" is arguably a
+   statement about confidence rather than about what kind of thing an entry is. Left as-is
+   deliberately, to be judged once the split has been used for a while rather than argued now.
 
 ### 9.2 Decided
 

@@ -542,6 +542,33 @@ has to be bridged by a signal that can itself be counterfeited.
 three columns, payer / mechanism / referent. It is cheap, it is comparative, and it would test H7
 directly rather than by anecdote.
 
+### 5.7 A prior disagreement that motivates the analog-channel argument
+
+xian's, given 2026-08-25 and recorded 2026-09-15; the exchange itself dates to about 2010, at the
+Santa Fe Institute.
+
+**The claim xian was arguing against**, from David Krakauer, approximately: *most people do not say
+anything new but merely repeat, and most new things said come from a very small number of people.*
+xian held this to be demonstrably false, on the grounds of analog transmission, and the two did not
+converge.
+
+**Why it belongs in the charter.** §5.5's analog-channel argument is the developed form of that
+objection. If cultural transmission is analog, then every act of repetition is also an act of
+variation — the signal is deformed a little by each passage, and there is no digital copy to fall
+back on. "Merely repeating" is then not a thing that happens. The claim and the counter-claim are
+therefore empirically distinguishable, and the distinguishing question is whether variation is
+concentrated in a few originators or distributed across all transmitters.
+
+This also bears on H11: a diaspora that *diffuses* innovation without originating it is doing what
+Krakauer's claim says most people do — so the diaspora sort (`resources.md` §11.6a) is a test case
+for the disagreement, not merely an application of it.
+
+? **Is the distributed-variation claim testable on the project's own material?** Stemmatics
+(§14.7) measures exactly this: whether manuscript variants cluster on a few innovating scribes or
+accumulate broadly. The answer exists in a sister field and has not been looked up.
+? **Sperber's cultural attraction theory** was flagged in the same note as wanted reading, and
+relates directly: attractors would concentrate outcomes without requiring few originators.
+
 ## 6. Working hypotheses (to be falsified, not defended)
 
 | # | Hypothesis | Standing |
@@ -683,6 +710,13 @@ question, promoted to Q8 with H7 restated and H8 added (§5.3).
    cross-translator test?
 5. **Can the Italian originals be obtained as text?** If so the direct H4 test opens (§10).
 6. How far into Zoroastrian and Iranian material should H5 go before it becomes a separate project?
+   (Also `methods.md` §9.1 item 1; one entry should be retired in favour of the other.)
+7. **What is the scriptural, cultural and theological reading of "God among us"?** Asked
+   2026-08-25 by xian, never taken up. It bears on Q3 and on
+   §12: whether incarnation is a claim of *kind* — God present as a human being — or of *degree*,
+   a human being realising what is latently available to any. The second reading is what would make
+   the Buddhist comparison structural rather than superficial, and the distinction is exactly the
+   sort `methods.md` §2.5 warns against collapsing.
 
 **Resolved 2026-08-27:**
 - `chronology.md` starts now, with its notation designed rather than accreted (`methods.md` §9.3).
