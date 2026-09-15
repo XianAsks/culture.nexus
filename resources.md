@@ -398,6 +398,137 @@ Conze is the respectable representative: his 1967 *Numen* paper grew from a 1960
 
 The Tarim–Gansu corridor, 7th–10th c., held simultaneously: Tibetan administration at Dunhuang (c. 786–848); Manichaeism as Uyghur state religion (763–840) with the Turfan manuscript find; Church of the East monasticism at Bulayïq with Christian Sogdian manuscripts in Syriac script; Sogdian merchant networks; Chinese Buddhism and Chan. **Manichaeism, not Christianity, has the elaborated light-body metaphysics demonstrably present in the right place at the right time** — which makes Christianity an indirect ancestor at best, and may make H5 subsume H2, since Manichaeism is itself downstream of the Iranian glory complex.
 
+### 10.0a What "elaborated light-body metaphysics" means, and why it matters
+
+Added 2026-09-14. **Much of this subsection is prior knowledge, not read from the sources below,
+and is marked `[unverified]` accordingly.** It is recorded because §10's central claim rests on it
+and the claim was being carried by a phrase.
+
+**The distinction the phrase is doing work for.** Christianity has light *imagery* — the robe of
+glory, the transfiguration, uncreated light. Manichaeism has a light *mechanism*: light is a
+substance, and the system specifies where it is, how it got there, how it is extracted, by whom,
+and where it goes. That difference is what "elaborated" means here, and it is why §10 puts
+Manichaeism rather than Christianity in the causal slot.
+
+Its components, as I understand them:
+
+- **Co-eternal Light and Darkness**, and a primordial defeat in which the Light-elements are
+  devoured and mixed into matter. The cosmos is machinery built to extract them.
+- **The Living Self** — light trapped in matter, including in the human body and in plants.
+- **The Column of Glory**, identified with the Milky Way: a visible channel of ascending liberated
+  light.
+- **The Form of Light** — a luminous figure meeting the soul at death. Structurally close to the
+  Zoroastrian *daēnā* at the Chinvat bridge, which is one reason H5's Iranian substrate is the
+  better explanation than borrowing.
+- **The body as an instrument of release.** The elect's diet, and the three seals of mouth, hands
+  and breast, are a technology for liberating light particles rather than a moral code alone.
+- **The Last Statue** — the final aggregation of redeemed light at the end of the cosmic process.
+
+**Why this bears on Dzogchen.** `'od lus` is likewise mechanistic: a body is *processed* into
+light by a specified practice, not merely described as radiant. The structural match is with the
+Manichaean mechanism, not with Christian imagery — which is what makes "Christianity as donor"
+the weaker hypothesis even where Christian presence in the corridor is attested.
+
+  `#d/manichaean #c/light-body #e/unverified` · Q6, H2, H5 · [unverified]
+
+? **Is the mechanism/imagery distinction defensible, or is it an artefact of which sources are
+elaborated in the surviving record?** Manichaean cosmology survives insystematic doctrinal
+compendia; Syriac light-theology survives largely in hymns. Genre may be producing the contrast.
+This is `methods.md` §6 deflator 2 — genre convergence — pointed at our own comparison.
+
+### 10.0b The corridor, and what is physically attested on it
+
+**The route.** Ctesiphon and later Baghdad → Merv → Samarkand and Sogdia → Kashgar → the Tarim
+oases (Kucha, Turfan, Khotan) → Dunhuang → Chang'an. `geography.md` carries the Q-ids and
+coordinates for each.
+
+**Who carried things along it.** Sogdian merchants, whose language was the corridor's lingua
+franca; the Manichaean church; the Church of the East. These are not inferred from similarity —
+they are attested by their own manuscripts, recovered in situ.
+
+**What is physically attested, and where.** This is rung 4 evidence, and it is why co-presence is
+not in doubt:
+
+| Find | Where | What it shows |
+|---|---|---|
+| Berlin Turfan collection | Turfan / Kocho | Manichaean texts in Middle Persian, Parthian, Sogdian, Uyghur |
+| Christian Sogdian manuscripts | Bulayïq | Church of the East monasticism, Syriac script, Sogdian language |
+| Xi'an stele, 781 CE | Chang'an | Church of the East established under Tang patronage |
+| Chinese Manichaean texts | Dunhuang | Manichaeism presenting itself in Buddhist vocabulary |
+| Tibetan administrative and Buddhist documents | Dunhuang | Tibetan presence c. 786–848 |
+
+**The dates line up.** Manichaeism was the Uyghur state religion 763–840; Tibet administered
+Dunhuang c. 786–848; the Xi'an stele is 781. The overlap is roughly a century, in one corridor,
+with all parties leaving manuscripts.
+
+**The detail that matters most.** In its Chinese texts Manichaeism presents Mani as a **Buddha of
+Light**, using Buddhist vocabulary throughout. Buddhist–Manichaean translation at the corridor's
+eastern end is therefore not a hypothesis — it is documented, in that direction. `[unverified]`:
+I have not read these texts and the titles and 731 date are from memory.
+
+**And §14.8 shows the corridor working westbound.** The Barlaam material moved Sanskrit → Middle
+Persian → Arabic → Georgian → Greek → Latin, with a Manichaean recension in the chain. Same
+corridor, same actors, opposite direction, and a demonstrated result at rung 1.
+
+  `#d/central-asia #c/contact-route #r/vector #e/attested`
+
+? **The eastbound mirror has not been worked.** We have a demonstrated westbound transmission and
+an attested eastbound channel with the same carriers. What, if anything, came east?
+
+### 10.0 Direction of flow, and which relation is being claimed
+
+Recorded 2026-09-14, from xian's question: are there *any* homologies between Dzogchen and
+Christian traditions, and does the flow run Christian → Dzogchen?
+
+**First, the terms, because the project's vocabulary separates what the question joins.** §1.2 and
+the `#r/` facet distinguish three claims. *Genealogy* is directional — one derives from the other.
+*Homology* is not — both descend from a shared third source. So "is there a homology?" and "does
+the flow run Christian → Dzogchen?" are different questions, and the register's current answers
+differ: **probably yes to the first, probably no to the second.**
+
+**The standing answer is H5, and it is a homology with no Christian donor.** The
+Iranian–Hellenistic glory complex (*khvarenah*, radiate nimbus) is proposed as common ancestor to
+Buddhist, Christian, Manichaean and Syriac light-imagery. On that account Dzogchen and Syriac
+Christianity are genuinely related — cousins, not parent and child — and neither is the source.
+
+**And §10's own finding narrows it further.** Manichaeism, not Christianity, has the elaborated
+light-body metaphysics demonstrably present in the right place at the right time. The Church of the
+East *is* attested in the corridor — Bulayïq, Christian Sogdian manuscripts in Syriac script, the
+781 Xi'an stele, the Dunhuang Jingjiao documents — so the channel is real. But the tradition
+carrying matching metaphysics through it is Manichaean, which makes Christianity an indirect
+ancestor at best.
+
+**If a Christian → Dzogchen genealogy is to be tested, chronology dictates its shape.** The most
+cited phenomenological parallel — Palamite uncreated light — **cannot be the donor**: Palamas is
+14th c., and Dzogchen's earliest datable stratum is c. 10th (`chronology.md`, `nubchen`). The only
+chronologically available Christian donors are the **Syriac and East Syrian ascetic-mystical strata
+of the 4th–7th c.** — Ephrem's robe of glory, the Macarian and Evagrian material — and those are
+precisely the branch present in Central Asia. A hypothesis of this shape is coherent and testable;
+one resting on Hesychasm is not, and the direction argument that makes Christian → Dzogchen the
+only plausible flow does not rescue it.
+
+**On the reverse direction, the register contains a counterexample.** §14.8 is a *demonstrated*
+transmission from Buddhism into Christianity, at rung 1 — the Buddha's life-legend entering
+Christian hagiography and the Roman Martyrology by a loanword chain. So "no direct transmission
+from Buddhism into Christianity" does not hold as stated. What it does support is a sharper claim,
+and a more useful one:
+
+> In the single case where the whole chain is visible, what crossed was a **narrative**, not a
+> doctrine; it crossed in the 8th–11th centuries, long after Christian doctrine was fixed; and the
+> Christianising process stripped the Buddhist content while preserving only the name.
+
+**The channel was open and doctrine did not cross it.** Any Buddhism → Christianity *doctrinal*
+hypothesis now carries a burden it did not before: to explain why doctrine failed to cross in the
+one case we can watch end to end.
+
+? **Did the corridor that carried Barlaam west also carry Christian material east?** §14.8 shows it
+working westbound, in Manichaean, Arabic and Georgian hands. The eastbound mirror — the same
+actors, the same routes, toward Tibet — has not been asked in that form, and it is the form in
+which a Christian → Dzogchen hypothesis would have to be evidenced.
+? **Does H5 subsume H2?** §10 already suspects it. If the glory complex is the common ancestor and
+Manichaeism the proximate carrier, then a direct Christian → Dzogchen claim is doing no work that
+H5 does not do better.
+
 ### Primary references
 
 - Berlin Turfan Collection; Chotscho finds; Christian Sogdian manuscripts from Bulayïq. @turfan
@@ -1326,6 +1457,101 @@ only a sanctity check? Determines whether §5.6 records absent capacity or absen
 - `en:Barlaam and Josaphat`, rev 1362809573. Tertiary; used to adjudicate between the two above,
   not cited for any claim. `#d/method #f/reference #e/unverified`
 
+## 14a. Durable artefacts as a transmission corpus — ceramics and basketry
+
+Opened 2026-09-14 on xian's proposal. **A direction, not yet a programme**: the sources below were
+identified by a retrieval probe on the same day and none has been read.
+
+### 14a.1 Why this corpus, for this project
+
+The project's question is general — what evidence distinguishes inheritance and homology from
+analogy and convergence. The **specimens worked so far are all text-borne**: the rainbow body and
+the resurrection, the Barlaam chain (§14.8), the terma material. That is a fact about which
+examples were picked up first, not about the inquiry, and it has a cost — every transmission
+question in those cases must clear §3's distortion problem before it reaches evidence.
+
+Ceramics is a different **evidence class**, not a different subject. It is the densest rung-4
+corpus that exists (`methods.md` §5, datable material culture), and if specimens are chosen for how
+well they discriminate homology from analogy — which is the criterion the general question
+implies — it is a strong specimen on its own account rather than a supplement to the Tibetan
+material. Four properties the text-borne specimens lack:
+
+- **Survivorship runs the right way.** Fired ceramic is effectively indestructible as sherd,
+  ubiquitous, and low-value — so it is neither looted nor recycled, unlike metal. §14.7's
+  survivorship problem is not absent but is *unusually mild*, and mild in a direction that can be
+  characterised. Basketry is the control that shows what is normally lost: organic, and preserved
+  only in deserts, bogs and dry caves.
+- **The homology/analogy fight already happened here, with an independent referee.** Childe's
+  culture-history read ceramic style as ethnicity; processualism demolished the inference; ancient
+  DNA has partly rehabilitated it for some cases and refuted it for others. That is precisely
+  `methods.md` §1.2's question — descent or convergence — argued for a century in a domain where
+  an **independent, non-stylistic signal now exists to check the answer against**. No text-borne
+  specimen offers that at any price.
+- **The attribute classes separate along the project's own axis.** See §14a.2.
+- **The literature is quantitative and indexed.** Unlike the nexus material (§17.1), it is
+  reachable with the instruments already in this repository.
+
+### 14a.2 The decomposition that makes it testable
+
+Ceramic attributes split into two classes that transmit differently, and the split maps onto the
+§5 ladder rather than cutting across it.
+
+| Class | Examples | Learned how | Visible in the finished pot? | Ladder analogue |
+|---|---|---|---|---|
+| **Technical** (chaîne opératoire) | clay selection, temper, forming technique, firing regime | apprenticeship — requires access to the maker | largely not | rung 3, shared arbitrary detail |
+| **Decorative** | motif, layout, surface treatment | copyable from the object alone | yes | rung 6, structural similarity |
+
+This is the project's analog-channel argument in material form. A decorative motif can cross a
+boundary carried by a traded pot, with no contact between potters; a firing regime cannot. So
+**technical continuity is evidence of transmitted practice; decorative continuity is evidence of
+contact with objects.** Where the two dissociate, the dissociation is the finding — and it is the
+same shape as §14.8's result, where the arbitrary detail (a name) outlived every structural
+feature of the story.
+
+### 14a.3 Sources identified
+
+Retrieved by OpenAlex title search, 2026-09-14. Query records in `lit/openalex/queries/`.
+
+- Jordan, Peter, & Stephen Shennan. "Cultural transmission, language, and basketry traditions
+  amongst the California Indians." *Journal of Anthropological Archaeology* 22 (2003).
+  [10.1016/s0278-4165(03)00004-7](https://doi.org/10.1016/s0278-4165(03)00004-7).
+  **Directly on xian's second example**, and it asks the project's question: do basketry traditions
+  branch like a phylogeny or blend across neighbours? @jordan-shennan-2003
+  `#c/material-culture #r/homology #e/unverified` · src 2003 · Q8b, H11 · access: closed · [unverified]
+- Tehrani, Jamshid J., & Mark Collard. "Investigating cultural evolution through biological
+  phylogenetic analyses of Turkmen textiles." *Journal of Anthropological Archaeology* 21 (2002).
+  [10.1016/s0278-4165(02)00002-8](https://doi.org/10.1016/s0278-4165(02)00002-8).
+  The companion method paper; cladistics applied to craft tradition. @tehrani-collard-2002
+  `#c/material-culture #r/homology #e/unverified` · src 2002 · H11 · access: closed · [unverified]
+- Olalde, I., et al. "The Beaker phenomenon and the genomic transformation of northwest Europe."
+  (2018). The aDNA anchor for the pots-and-people question, and heavily cited. @olalde-2018
+  `#c/genetics #c/material-culture #e/unverified` · src 2018 · Q6, Q8b · access: **check OA** · [unverified]
+
+> Both craft-phylogenetics papers are in the *Journal of Anthropological Archaeology*. That is a
+> journal-level target, and a cheaper route than topic search — see §17.1.
+
+### 14a.4 What could go wrong
+
+- **"Pots are not people."** The standing caution, and the reason the aDNA check matters. Style
+  moves by trade, gift, exogamy and emulation without population movement.
+- **Functional convergence is rampant.** A vessel that must hold liquid over a fire converges on a
+  narrow set of forms everywhere, independently. This is `methods.md` §6 deflator 4 in material
+  form, and it is *stronger* here than in the textual cases because the constraint is physical
+  rather than cognitive.
+- **The typology is the archaeologist's, not the potter's.** "Wares" and "types" are etic
+  categories, and the Ford–Spaulding argument over whether types are discovered or imposed is
+  §2's emic/etic problem in another field. Note the asymmetry worth exploiting: here the emic
+  categories are **unavailable in principle**, where in the Tibetan material they are abundant.
+  Two opposite failure conditions for one method.
+- **Sampling on the dependent variable** (deflator 7): ceramic sequences are densest where
+  excavation has been densest, which tracks modern institutions and not ancient activity.
+
+? **Does the technical/decorative dissociation actually appear in a case where aDNA settles the
+population question independently?** That is the whole proposal in one question, and Bell Beaker
+is the obvious place to ask it.
+? **Do ceramic tradition lifespans fit a constant-extinction (exponential) distribution?** See
+`background.md` H15.
+
 ## 15. Reference tools and databases
 
 - International Dunhuang Project (idp.bl.uk) — digitised manuscripts, searchable. @idp
@@ -1430,6 +1656,65 @@ absence from the index is closer to "not indexed" than to "does not exist".
 | Self-mummification / sokushinbutsu | Europe PMC `25-mummify` | moderate — a plausible bioarchaeology topic, absent |
 | Radiocarbon authentication of relics | Europe PMC `26-relics` | moderate — same |
 | Buddhist mummification | Europe PMC `30-mummy` | moderate |
+| **Manichaean–Dzogchen connection of any kind** | OpenAlex `62-mani-dzogchen` | **high — see below** |
+| Manichaean light-body ↔ Tibetan Buddhism | OpenAlex `62-mani-dzogchen` | high |
+
+#### 17.2a The strongest negative result the project has
+
+Probe of 2026-09-14. Unlike most zero-results here, this one is **not** plausibly an indexing
+artefact, because the same instrument in the same session returned healthy counts for each field
+separately:
+
+| Query | Hits |
+|---|---|
+| `Dzogchen` | 390 |
+| `Tibetan Dunhuang manuscripts` | 197 |
+| `Manichaeism Central Asia` | 115 |
+| `Manichaean Tibetan` | 12 |
+| `Manichaeism Tibet` | 8 |
+| **`Manichaean Dzogchen`** | **0** |
+| **`light body Tibetan Buddhism Manichaean`** | **0** |
+
+Both literatures are substantial and separately well indexed. **Their intersection is
+essentially unstudied, and the specific comparison §10 proposes has no hits at all.**
+
+Why this zero carries more weight than the others in §17.2. A zero result normally tells you
+little, because two very different things produce it: the literature may not exist, or the index
+may simply not cover that area. You usually cannot tell which.
+
+Here you can. The same search tool, run the same day, returned 390 results for Dzogchen and 115
+for Manichaeism in Central Asia. So the index covers both fields well, which rules out "the tool
+cannot see this material" as the explanation for the zero. What remains is that the work has not
+been done.
+
+Two readings, and the project should not choose between them yet:
+
+1. **A real gap.** The philology required spans Middle Persian, Parthian, Sogdian, Uyghur, Coptic,
+   Chinese, Syriac and Tibetan, and nobody holds all of it. Field boundaries, not evidence, may be
+   what keeps the question unasked.
+2. **A question already answered by silence.** Specialists in both fields may have considered and
+   dismissed it without publishing a negative. `methods.md` §7.1's archival silence applies to
+   modern scholarship as much as to ancient records.
+
+**Done, 2026-09-14.** The test named here — do the two fields cite each other — was run against
+the two standard Manichaean works, Klimkeit's *Gnosis on the Silk Road* and BeDuhn's *The
+Manichaean Body*, using OpenAlex's `cites:` filter.
+
+| Of the 149 works citing Klimkeit or BeDuhn | Count |
+|---|---|
+| mentioning **Tibet** in title or abstract | **0** |
+| mentioning Dunhuang | 1 |
+| mentioning India or Indian | 2 |
+| mentioning Buddhism | 2 |
+
+**This favours reading 1 over reading 2.** Had the field considered a Tibetan connection and
+rejected it, some trace would be expected in 149 papers. Instead the field does look eastward —
+there is work on Indic influence on Mani, and on Buddhism — and Tibet simply never appears. The
+question looks to be outside the field's frame rather than settled within it.
+
+Stated against itself: the control counts are small (2 and 2), so this is suggestive and not
+decisive. But zero out of 149, in a literature that demonstrably asks adjacent questions, is a
+different kind of silence from a bare zero-hit search.
 
 ### 17.3 Still open from earlier passes
 

@@ -28,9 +28,9 @@ expensive error-correction regime.
 
 | File | What it holds |
 |---|---|
-| `background.md` | The charter. Questions Q1–Q8, hypotheses H1–H14, findings, cross-checks, open questions. |
+| `background.md` | The charter. Questions Q1–Q8, hypotheses H1–H16, findings, cross-checks, open questions. |
 | `methods.md` | How the work is done. Comparison, the emic/etic distinction, transmission distortion, the evidence ladder, the seven deflators, tooling. |
-| `resources.md` | The source register — 19 topical sections, 254 tagged entries with provenance fields. |
+| `resources.md` | The source register — 20 topical sections, 257 tagged entries with provenance fields. |
 | `terms.md` | Technical glossary. Tibetan (Wylie), Greek, Syriac, Coptic, Avestan, plus method vocabulary. |
 | `tags.md` | The faceted markup scheme and its controlled vocabulary. |
 | `chronology.md` | Dated claims, and the date notation that binds this file and `geography.md`. |
@@ -55,7 +55,7 @@ expensive error-correction regime.
 
 ## Current state
 
-254 entries · 14 hypotheses · 22 open questions · `validate.sh` clean.
+257 entries · 16 hypotheses · 28 open questions · `validate.sh` clean.
 
 Counts come from `validate.sh`. An entry is a `- ` item whose continuation carries an `#e/` tag —
 prose bullets in discursive sections are not entries, and counting them inflated this figure in

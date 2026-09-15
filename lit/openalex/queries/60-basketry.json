@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "count": 999,
+    "db_response_time_ms": 11,
+    "page": 1,
+    "per_page": 6,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where title has (basketry)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "display_name.search",
+            "value": "basketry",
+            "operator": "has"
+          }
+        ]
+      },
+      "url": "/works?filter=display_name.search:basketry&per_page=6&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W1971410047",
+      "display_name": "Cultural transmission, language, and basketry traditions amongst the California Indians",
+      "publication_year": 2003,
+      "cited_by_count": 152,
+      "doi": "https://doi.org/10.1016/s0278-4165(03)00004-7",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061259071",
+            "display_name": "Peter Jordan",
+            "orcid": "https://orcid.org/0000-0002-2837-3920"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Peter Jordan",
+          "raw_affiliation_strings": [
+            "AHRB Centre for the Evolutionary Analysis of Cultural Behaviour, Institute of Archaeology, University College London, 31\u201334 Gordon Sq, London WC1H 0PY, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "AHRB Centre for the Evolutionary Analysis of Cultural Behaviour, Institute of Archaeology, University College London, 31\u201334 Gordon Sq, London WC1H 0PY, UK",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5049828992",
+            "display_name": "Stephen Shennan",
+            "orcid": "https://orcid.org/0000-0001-6605-064X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stephen Shennan",
+          "raw_affiliation_strings": [
+            "AHRB Centre for the Evolutionary Analysis of Cultural Behaviour, Institute of Archaeology, University College London, 31\u201334 Gordon Sq, London WC1H 0PY, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "AHRB Centre for the Evolutionary Analysis of Cultural Behaviour, Institute of Archaeology, University College London, 31\u201334 Gordon Sq, London WC1H 0PY, UK",
+              "institution_ids": [
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/s0278-4165(03)00004-7",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0278-4165(03)00004-7",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S34740387",
+          "display_name": "Journal of Anthropological Archaeology",
+          "issn_l": "0278-4165",
+          "issn": [
+            "0278-4165",
+            "1090-2686"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Anthropological Archaeology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W3149014217",
+      "display_name": "The \"Venus\" Figurines: Textiles, Basketry, Gender, and Status in the Upper Paleolithic",
+      "publication_year": 2000,
+      "cited_by_count": 86,
+      "doi": "https://doi.org/10.2307/3596669",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061062107",
+            "display_name": "Soffer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Soffer",
+          "raw_affiliation_strings": [
+            ""
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059126815",
+            "display_name": "Adovasio",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Adovasio",
+          "raw_affiliation_strings": [
+            ""
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033092895",
+            "display_name": "Hyland",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hyland",
+          "raw_affiliation_strings": [
+            ""
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2307/3596669",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/3596669",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S165709033",
+          "display_name": "Current Anthropology",
+          "issn_l": "0011-3204",
+          "issn": [
+            "0011-3204",
+            "1537-5382"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315672",
+          "host_organization_name": "University of Chicago Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315672",
+            "https://openalex.org/P4310315690"
+          ],
+          "host_organization_lineage_names": [
+            "University of Chicago Press",
+            "University of Chicago"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Current Anthropology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2007108774",
+      "display_name": "THE STONE CONE: A NEW GENERATION OF BASKETRY",
+      "publication_year": 2001,
+      "cited_by_count": 84,
+      "doi": "https://doi.org/10.1016/s0022-5347(05)66355-0",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111697646",
+            "display_name": "Stephen P. Dretler",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I136199984",
+              "display_name": "Harvard University",
+              "ror": "https://ror.org/03vek6s52",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I136199984"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210087915",
+              "display_name": "Massachusetts General Hospital",
+              "ror": "https://ror.org/002pd6e78",
+              "country_code": "US",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210087915",
+                "https://openalex.org/I48633490"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "STEPHEN P. DRETLER",
+          "raw_affiliation_strings": [
+            "From the Kidney Stone Center, Massachusetts General Hospital, Boston and Department of Surgery, Harvard Medical School, Cambridge, Massachusetts"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "From the Kidney Stone Center, Massachusetts General Hospital, Boston and Department of Surgery, Harvard Medical School, Cambridge, Massachusetts",
+              "institution_ids": [
+                "https://openalex.org/I136199984",
+                "https://openalex.org/I4210087915"
+              ]
+            }
+          ]
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.1016/s0022-5347(05)66355-0",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0022-5347(05)66355-0",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S30525748",
+          "display_name": "The Journal of Urology",
+          "issn_l": "0022-5347",
+          "issn": [
+            "0022-5347",
+            "1527-3792"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315671",
+          "host_organization_name": "Lippincott Williams & Wilkins",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315671",
+            "https://openalex.org/P4310318547"
+          ],
+          "host_organization_lineage_names": [
+            "Lippincott Williams & Wilkins",
+            "Wolters Kluwer"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Urology",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W585554383",
+      "display_name": "Basketry technology: a guide to identification and analysis",
+      "publication_year": 2011,
+      "cited_by_count": 80,
+      "doi": "https://doi.org/10.5860/choice.48-5170",
+      "authorships": [],
+      "primary_location": {
+        "id": "doi:10.5860/choice.48-5170",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5860/choice.48-5170",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764375719",
+          "display_name": "Choice Reviews Online",
+          "issn_l": "0009-4978",
+          "issn": [
+            "0009-4978",
+            "1523-8253",
+            "1943-5975"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316146",
+          "host_organization_name": "Association of College and Research Libraries",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316146",
+            "https://openalex.org/P4310315903"
+          ],
+          "host_organization_lineage_names": [
+            "Association of College and Research Libraries",
+            "American Library Association"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Choice Reviews Online",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2795420861",
+      "display_name": "Weaving new worlds: southeastern Cherokee women and their basketry",
+      "publication_year": 1997,
+      "cited_by_count": 69,
+      "doi": "https://doi.org/10.5860/choice.35-2313",
+      "authorships": [],
+      "primary_location": {
+        "id": "doi:10.5860/choice.35-2313",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5860/choice.35-2313",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764375719",
+          "display_name": "Choice Reviews Online",
+          "issn_l": "0009-4978",
+          "issn": [
+            "0009-4978",
+            "1523-8253",
+            "1943-5975"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316146",
+          "host_organization_name": "Association of College and Research Libraries",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316146",
+            "https://openalex.org/P4310315903"
+          ],
+          "host_organization_lineage_names": [
+            "Association of College and Research Libraries",
+            "American Library Association"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Choice Reviews Online",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    },
+    {
+      "id": "https://openalex.org/W2316582962",
+      "display_name": "Basketry Technology: A Guide to Identification and Analysis",
+      "publication_year": 1978,
+      "cited_by_count": 69,
+      "doi": "https://doi.org/10.2307/1184636",
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5011589848",
+            "display_name": "Sarah Peabody Turnbaugh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sarah Peabody Turnbaugh",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050477306",
+            "display_name": "J. M. Adovasio",
+            "orcid": "https://orcid.org/0000-0001-6715-9938"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. M. Adovasio",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5023356776",
+            "display_name": "Barbara McKee",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Barbara McKee",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112820959",
+            "display_name": "Edwin H. McKee",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Edwin McKee",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5082413316",
+            "display_name": "Joyce Herold",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Joyce Herold",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "primary_location": {
+        "id": "doi:10.2307/1184636",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2307/1184636",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S188904407",
+          "display_name": "The American Indian Quarterly",
+          "issn_l": "0095-182X",
+          "issn": [
+            "0095-182X",
+            "1534-1828"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320162",
+          "host_organization_name": "University of Nebraska Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320162"
+          ],
+          "host_organization_lineage_names": [
+            "University of Nebraska Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "American Indian Quarterly",
+        "raw_type": "journal-article"
+      },
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      }
+    }
+  ],
+  "group_by": []
+}
