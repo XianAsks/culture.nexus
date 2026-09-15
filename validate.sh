@@ -2,19 +2,26 @@
 # Validate resources.md against the tags.md scheme. Run from the project root.
 # Only multi-tag item lines are real entries; single-tag prose mentions are skipped.
 fail=0
-echo "=== >3 tags, or a repeated facet ==="
-while read -r l; do
-  n=$(printf '%s' "$l" | grep -oF '#' | wc -l)
-  dup=$(printf '%s' "$l" | grep -o '#[dcref]/' | sort | uniq -d)
-  if [ "$n" -gt 3 ] || [ -n "$dup" ]; then echo "  VIOLATION: $l"; fail=1; fi
-done < <(grep -o '`#[dcref]/[a-z-]*\( #[dcref]/[a-z-]*\)\+`' resources.md)
+echo "=== tag-cap or repeated-facet violations ==="
+# Cap applies to the descriptive facets only (tags.md rule 7): at most three of
+# #d #c #r #f, exactly one #e, at most one each of #v and #s.
+grep -o '`#[dcrefvs]/[a-z-]*\( #[dcrefvs]/[a-z-]*\)\+`' resources.md | while read -r l; do
+  desc=$(printf '%s' "$l" | grep -o '#[dcrf]/' | wc -l)
+  dup=$(printf '%s' "$l" | grep -o '#[dcrefvs]/' | sort | uniq -d)
+  ne=$(printf '%s' "$l" | grep -o '#e/' | wc -l)
+  if [ "$desc" -gt 3 ] || [ -n "$dup" ] || [ "$ne" -ne 1 ]; then echo "  VIOLATION: $l"; fi
+done
 echo "=== entries missing the mandatory #e/ ==="
-grep -o '`#[dcref]/[a-z-]*\( #[dcref]/[a-z-]*\)\+`' resources.md | grep -v '#e/' | sed 's/^/  VIOLATION: /' && fail=1
+grep -o '`#[dcrefvs]/[a-z-]*\( #[dcrefvs]/[a-z-]*\)\+`' resources.md | grep -v '#e/' | sed 's/^/  VIOLATION: /'
+echo "=== retired vocabulary still in use ==="
+# Values removed by the 2026-09-14 facet split. They must not reappear.
+grep -n '#e/attested\|#e/devotional\|#e/contested\|#e/fringe\|#e/speculative\|#e/unverified' \
+  resources.md chronology.md geography.md 2>/dev/null | sed 's/^/  RETIRED: /'
 echo "=== tags used but not defined in tags.md ==="
-comm -23 <(grep -oh '#[dcref]/[a-z-]*' resources.md methods.md background.md | sort -u) \
-         <(grep -o '#[dcref]/[a-z-]*' tags.md | sort -u) | sed 's/^/  UNDEFINED: /'
+comm -23 <(grep -oh '#[dcrefvs]/[a-z-]*' resources.md methods.md background.md | sort -u) \
+         <(grep -o '#[dcrefvs]/[a-z-]*' tags.md | sort -u) | sed 's/^/  UNDEFINED: /'
 echo "=== census (resources.md) ==="
-grep -o '#[dcref]/[a-z-]*' resources.md | sort | uniq -c | sort -rn | head -8
+grep -o '#[dcrefvs]/[a-z-]*' resources.md | sort | uniq -c | sort -rn | head -10
 echo "=== counts ==="
 # A register entry is a '- ' line whose indented continuation block carries the
 # mandatory #e/ tag. Counting bare '- ' lines conflates entries with ordinary

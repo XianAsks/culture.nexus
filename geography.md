@@ -64,26 +64,26 @@ coordinate marks a region centroid rather than a location.
 
 | id | name | kind | qid | lat | lon | modern | rel | tag | bears-on |
 |---|---|---|---|---|---|---|---|---|---|
-| gandhara | Gandhāra | region | Q213651 | ~33.756 | ~72.829 | PK/AF | [c. 500 BCE–c. 1000 CE] | `#e/attested` | Q8, H5, H7 |
-| taxila | Taxila | site | Q156093 | 33.7458 | 72.7875 | PK | [c. 500 BCE–c. 500 CE] | `#e/attested` | Q8 |
-| bagram | Bagram (Begram) | site | Q814388 | 34.9403 | 69.2550 | AF | [c. 100 BCE–c. 300 CE] | `#e/attested` | Q8, H7 |
-| bamyan | Bāmiyān | site | Q214495 | 34.8250 | 67.8333 | AF | [c. 500–c. 900 CE] | `#e/attested` | Q8, H5 |
-| dunhuang | Dunhuang | site | Q319114 | 40.1411 | 94.6639 | CN | [c. 400–c. 1000 CE] | `#e/attested` | Q8a, H7 |
-| turpan | Turpan | site | Q868527 | 42.9512 | 89.1895 | CN | [c. 400–c. 900 CE] | `#e/unverified` | Q8a |
-| kucha | Kucha | site | Q1328546 | 41.7156 | 82.9322 | CN | [c. 300–c. 800 CE] | `#e/unverified` | Q8a |
-| hotan | Hotan (Khotan) | site | Q235389 | 37.1172 | 79.9344 | CN | [c. 200–c. 1000 CE] | `#e/unverified` | Q8a |
-| sogdia | Sogdia | region | Q486244 | ~40.400 | ~69.400 | UZ/TJ | [c. 500 BCE–c. 800 CE] | `#e/attested` | H9, H11 |
-| samarkand | Samarkand | site | Q5753 | 39.6506 | 66.9653 | UZ | [c. 700 BCE–present] | `#e/attested` | Q8, H11 |
-| merv | Merv | site | Q193325 | 37.6628 | 62.1925 | TM | [c. 500 BCE–c. 1300 CE] | `#e/unverified` | Q8, H5 |
-| palmyra | Palmyra | site | Q5747 | 34.5514 | 38.2681 | SY | [c. 100 BCE–c. 300 CE] | `#e/attested` | Q8 |
-| ctesiphon | Ctesiphon | site | Q192541 | 33.0936 | 44.5806 | IQ | [c. 100 BCE–c. 650 CE] | `#e/unverified` | H5 |
-| baghdad | Baghdad | site | Q1530 | 33.3153 | 44.3661 | IQ | [762 CE–present] | `#e/attested` | §14.8, H5 |
-| alexandria | Alexandria | site | Q87 | 31.1975 | 29.8925 | EG | [c. 331 BCE–present] | `#e/attested` | Q8, §14.6 |
-| aksum | Aksum (kingdom seat) | site | Q139377 | — | — | ET/ER | [c. 100–c. 960 CE] | `#e/unverified` | Q8 |
-| constantinople | Constantinople | site | Q16869 | 41.0125 | 28.9800 | TR | [330 CE–present] | `#e/attested` | §14.8 |
-| athos | Mount Athos | site | Q130321 | 40.1583 | 24.3272 | GR | [c. 900 CE–present] | `#e/attested` | §14.8 |
-| florence | Florence | site | Q2044 | 43.7714 | 11.2542 | IT | [c. 1100–c. 1600 CE] | `#e/attested` | Q8, §11.4 |
-| venice | Venice | site | Q641 | 45.4375 | 12.3358 | IT | [c. 700–1797 CE] | `#e/attested` | §14.8 |
+| gandhara | Gandhāra | region | Q213651 | ~33.756 | ~72.829 | PK/AF | [c. 500 BCE–c. 1000 CE] | `#e/secondary` | Q8, H5, H7 |
+| taxila | Taxila | site | Q156093 | 33.7458 | 72.7875 | PK | [c. 500 BCE–c. 500 CE] | `#e/secondary` | Q8 |
+| bagram | Bagram (Begram) | site | Q814388 | 34.9403 | 69.2550 | AF | [c. 100 BCE–c. 300 CE] | `#e/secondary` | Q8, H7 |
+| bamyan | Bāmiyān | site | Q214495 | 34.8250 | 67.8333 | AF | [c. 500–c. 900 CE] | `#e/secondary` | Q8, H5 |
+| dunhuang | Dunhuang | site | Q319114 | 40.1411 | 94.6639 | CN | [c. 400–c. 1000 CE] | `#e/secondary` | Q8a, H7 |
+| turpan | Turpan | site | Q868527 | 42.9512 | 89.1895 | CN | [c. 400–c. 900 CE] | `#e/secondary` [unverified] | Q8a |
+| kucha | Kucha | site | Q1328546 | 41.7156 | 82.9322 | CN | [c. 300–c. 800 CE] | `#e/secondary` [unverified] | Q8a |
+| hotan | Hotan (Khotan) | site | Q235389 | 37.1172 | 79.9344 | CN | [c. 200–c. 1000 CE] | `#e/secondary` [unverified] | Q8a |
+| sogdia | Sogdia | region | Q486244 | ~40.400 | ~69.400 | UZ/TJ | [c. 500 BCE–c. 800 CE] | `#e/secondary` | H9, H11 |
+| samarkand | Samarkand | site | Q5753 | 39.6506 | 66.9653 | UZ | [c. 700 BCE–present] | `#e/secondary` | Q8, H11 |
+| merv | Merv | site | Q193325 | 37.6628 | 62.1925 | TM | [c. 500 BCE–c. 1300 CE] | `#e/secondary` [unverified] | Q8, H5 |
+| palmyra | Palmyra | site | Q5747 | 34.5514 | 38.2681 | SY | [c. 100 BCE–c. 300 CE] | `#e/secondary` | Q8 |
+| ctesiphon | Ctesiphon | site | Q192541 | 33.0936 | 44.5806 | IQ | [c. 100 BCE–c. 650 CE] | `#e/secondary` [unverified] | H5 |
+| baghdad | Baghdad | site | Q1530 | 33.3153 | 44.3661 | IQ | [762 CE–present] | `#e/secondary` | §14.8, H5 |
+| alexandria | Alexandria | site | Q87 | 31.1975 | 29.8925 | EG | [c. 331 BCE–present] | `#e/secondary` | Q8, §14.6 |
+| aksum | Aksum (kingdom seat) | site | Q139377 | — | — | ET/ER | [c. 100–c. 960 CE] | `#e/secondary` [unverified] | Q8 |
+| constantinople | Constantinople | site | Q16869 | 41.0125 | 28.9800 | TR | [330 CE–present] | `#e/secondary` | §14.8 |
+| athos | Mount Athos | site | Q130321 | 40.1583 | 24.3272 | GR | [c. 900 CE–present] | `#e/secondary` | §14.8 |
+| florence | Florence | site | Q2044 | 43.7714 | 11.2542 | IT | [c. 1100–c. 1600 CE] | `#e/secondary` | Q8, §11.4 |
+| venice | Venice | site | Q641 | 45.4375 | 12.3358 | IT | [c. 700–1797 CE] | `#e/secondary` | §14.8 |
 
 ? **Aksum has no coordinate** from the retrieval — the article resolved to the kingdom, not the
 city. Needs the site's own Q-id if Aksum is to enter the comparison class as a place.
@@ -92,24 +92,24 @@ city. Needs the site's own Q-id if Aksum is to enter the comparison class as a p
 
 `from`/`to` are the entity's own lifespan. **Source for every row: the `{{Infobox}}`
 `year_start`/`year_end` fields of the corresponding English Wikipedia article, parsed 2026-08-27.**
-That is a tertiary source, so every row is `#e/unverified` until checked against scholarship —
+That is a tertiary source, so every row is `#e/secondary` [unverified] until checked against scholarship —
 see §7. Durations are *not* stored here; they are derived by `scripts/build_tables.py`, so that
 the arithmetic has exactly one home.
 
 | id | name | qid | from | to | tag | note |
 |---|---|---|---|---|---|---|
-| achaemenid | Achaemenid Empire | Q389688 | 550 BCE | 330 BCE | `#e/unverified` | H5's Iranian substrate |
-| greco-bactrian | Greco-Bactrian Kingdom | Q488880 | 256 BCE | c. 120 BCE | `#e/unverified` | Hellenistic Central Asia |
-| indo-greek | Indo-Greek Kingdom | Q215643 | 200 BCE | 10 CE | `#e/unverified` | the Greco-Buddhist interface |
-| kushan | Kushan Empire | Q25979 | c. 30 CE | c. 375 CE | `#e/unverified` | **Q8's type specimen** |
-| palmyrene | Palmyrene Empire | Q877875 | 260 CE | 273 CE | `#e/unverified` | the short-lived limit case |
-| sasanian | Sasanian Empire | Q83891 | 224 CE | 651 CE | `#e/unverified` | H5's corridor |
-| tang | Tang dynasty | Q9683 | 618 CE | 907 CE | `#e/unverified` | Dunhuang's sovereign for most of Q8a |
-| tibetan-empire | Tibetan Empire | Q2431480 | 618 CE | 842 CE | `#e/unverified` | Dunhuang's other sovereign |
-| abbasid | Abbasid Caliphate | Q12536 | 750 CE | 1517 CE | `#e/unverified` | §14.8's Baghdad translation milieu |
-| aksum-k | Kingdom of Aksum | Q139377 | c. 100 CE | 960 CE | `#e/unverified` | comparison class, Red Sea |
-| florence-r | Republic of Florence | Q148540 | 1115 CE | 1569 CE | `#e/unverified` | §11.4's household channels |
-| venice-r | Republic of Venice | Q4948 | 697 CE | 1797 CE | `#e/unverified` | the long-duration outlier |
+| achaemenid | Achaemenid Empire | Q389688 | 550 BCE | 330 BCE | `#e/secondary` [unverified] | H5's Iranian substrate |
+| greco-bactrian | Greco-Bactrian Kingdom | Q488880 | 256 BCE | c. 120 BCE | `#e/secondary` [unverified] | Hellenistic Central Asia |
+| indo-greek | Indo-Greek Kingdom | Q215643 | 200 BCE | 10 CE | `#e/secondary` [unverified] | the Greco-Buddhist interface |
+| kushan | Kushan Empire | Q25979 | c. 30 CE | c. 375 CE | `#e/secondary` [unverified] | **Q8's type specimen** |
+| palmyrene | Palmyrene Empire | Q877875 | 260 CE | 273 CE | `#e/secondary` [unverified] | the short-lived limit case |
+| sasanian | Sasanian Empire | Q83891 | 224 CE | 651 CE | `#e/secondary` [unverified] | H5's corridor |
+| tang | Tang dynasty | Q9683 | 618 CE | 907 CE | `#e/secondary` [unverified] | Dunhuang's sovereign for most of Q8a |
+| tibetan-empire | Tibetan Empire | Q2431480 | 618 CE | 842 CE | `#e/secondary` [unverified] | Dunhuang's other sovereign |
+| abbasid | Abbasid Caliphate | Q12536 | 750 CE | 1517 CE | `#e/secondary` [unverified] | §14.8's Baghdad translation milieu |
+| aksum-k | Kingdom of Aksum | Q139377 | c. 100 CE | 960 CE | `#e/secondary` [unverified] | comparison class, Red Sea |
+| florence-r | Republic of Florence | Q148540 | 1115 CE | 1569 CE | `#e/secondary` [unverified] | §11.4's household channels |
+| venice-r | Republic of Venice | Q4948 | 697 CE | 1797 CE | `#e/secondary` [unverified] | the long-duration outlier |
 
 ? **Tibetan Empire's end is given as "842/848"** in the infobox. 842 is recorded; the ambiguity is
 real and should be resolved from Tibetological scholarship, not from the infobox.

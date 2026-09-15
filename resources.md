@@ -18,7 +18,7 @@ Status: rev. 4, 2026-08-25. Validate with `./validate.sh`.
 
 **Access.** `open` (free online) · `library` · `purchase` · `unlocated` (exists, not yet found) · `held` (we have it).
 
-**Strength of evidence** is carried by the `#e/` tag and governed by the ladder in `methods.md` §5. Summary: `#e/primary` a source text · `#e/attested` documentary or material backing · `#e/inferred` reasonable inference beyond direct evidence · `#e/contested` live disagreement · `#e/speculative` thin · `#e/fringe` outside consensus · `#e/devotional` self-description, i.e. emic · `#e/unverified` not yet checked.
+**Evidential tags.** `#e/` says what kind of thing an entry is — `primary` a source text, `secondary` scholarship about it, `inferred` a claim derived by reasoning, `heuristic` not evidence at all. `#v/` marks whose frame it speaks from when that is not the analyst's — `emic` the tradition's own, `polemical` an opponent's, `apologetic` a defence pitched outward. `#s/` marks standing in the literature when it is not unremarkable — `contested`, `fringe`, `speculative`. Strength of a comparative claim is the `rung:` field, governed by the ladder in `methods.md` §5. See `tags.md`.
 
 `[unverified]` on an entry means compiled from prior knowledge, not checked against the source. Substance reliable, citation details provisional.
 
@@ -38,19 +38,19 @@ Norbu's *Talks* is oral teaching in an acquired language, transcribed, translate
 ### Primary references
 
 - Namkhai Norbu, *Talks in California, USA 1982* — **the project text**; source of the Pema Dündul passage. @norbu-1988
-  `#d/dzogchen #c/rainbow-body #e/devotional` · subj 1982 · src 1988 (© 1982) · Q1 Q3 · access: held · chain: Tib→It (oral)→En (Barry Simmons)
+  `#d/dzogchen #c/rainbow-body #e/primary #v/emic` · subj 1982 · src 1988 (© 1982) · Q1 Q3 · access: held · chain: Tib→It (oral)→En (Barry Simmons)
 - ——, *Talks in Conway, USA, July 1982 & January 1983* — same translator and period, different audience. Control for audience-driven vocabulary shift. @norbu-conway
-  `#d/dzogchen #c/translation-layer #e/devotional` · subj 1982–83 · src n.d. · H4 · access: purchase · chain: Tib→It→En (Simmons)
+  `#d/dzogchen #c/translation-layer #e/primary #v/emic` · subj 1982–83 · src n.d. · H4 · access: purchase · chain: Tib→It→En (Simmons)
 - ——, *The Cycle of Day and Night* — carries the lineage-origin narrative behind H6. @norbu-cycle
-  `#d/dzogchen #c/lineage-narrative #e/devotional` · subj mythic/8c · src 1984 · Q4 H6 · access: purchase · chain: Tib→En (J. M. Reynolds) · [unverified]
+  `#d/dzogchen #c/lineage-narrative #e/primary #v/emic` · subj mythic/8c · src 1984 · Q4 H6 · access: purchase · chain: Tib→En (J. M. Reynolds) · [unverified]
 - ——, *The Crystal and the Way of Light* — general introduction; also where Norbu writes on Changchub Dorje. @norbu-crystal
-  `#d/dzogchen #c/primordial-basis #e/devotional` · subj 20c · src 1986 · Q1 · access: purchase · chain: →En (ed. John Shane)
+  `#d/dzogchen #c/primordial-basis #e/primary #v/emic` · subj 20c · src 1986 · Q1 · access: purchase · chain: →En (ed. John Shane)
 - ——, with Adriano Clemente, *The Supreme Source: … Kunjed Gyalpo* — the root Mind Series tantra in English. @norbu-supreme
   `#d/dzogchen #c/primordial-basis #e/primary` · subj 9–10c · src 1999 · Q1 · access: purchase · chain: Tib→It→En (Clemente/Lukianowicz) · [unverified]
 - ——, *Drung, Deu and Bön* — Norbu as historian of pre-Buddhist Tibet. @norbu-drung
-  `#d/bon #c/lineage-narrative #e/contested` · subj pre-7c · src 1995 · Q4 · access: purchase · [unverified]
+  `#d/bon #c/lineage-narrative #e/secondary #s/contested` · subj pre-7c · src 1995 · Q4 · access: purchase · [unverified]
 - ——, *The Light of Kailash*, 3 vols — Norbu's major historical work; strong Zhang Zhung antiquity claims. **The clearest case of a lineage holder doing etic work.** @norbu-kailash
-  `#d/bon #c/emic-etic #e/contested` · subj pre-7c–17c · src 2009–15 · Q4 · access: purchase · chain: Tib→En (Rossi, N. Simmons) · against: @bon-scholarship
+  `#d/bon #c/emic-etic #e/secondary #s/contested` · subj pre-7c–17c · src 2009–15 · Q4 · access: purchase · chain: Tib→En (Rossi, N. Simmons) · against: @bon-scholarship
 - `Kun byed rgyal po` and the Eighteen Texts of the Mind Series. @kunjed
   `#d/dzogchen #c/primordial-basis #e/primary` · subj 9–10c · Q1 · access: purchase · [unverified]
 - *Seventeen Tantras* of the Seminal Heart (`snying thig`) — where `thod rgal` and the light-body material concentrate. @seventeen-tantras
@@ -60,7 +60,7 @@ Norbu's *Talks* is oral teaching in an acquired language, transcribed, translate
 - Dunhuang Tibetan manuscripts (IOL Tib J; Pelliot tibétain) — **the only genuinely 8th–10th c. Tibetan witnesses; the evidentiary floor under every dating claim here.** @dunhuang-tib
   `#d/central-asia #c/contact-route #e/primary` · subj 8–10c · Q6 · access: open (IDP)
 - `gter ma` literature generally — revealed texts attributed to earlier concealment. The sharpest emic/etic problem in Tibetan studies. @terma **A stronger reading follows from `methods.md` §1.2b**: Tibetan transmission requires `lung` and `dbang` — you cannot legitimately pass on what you have not received — which is institutional error-correction of the Vedic type. **Terma is a sanctioned *bypass* of that apparatus**, routing legitimacy through Padmasambhava rather than through living teachers, and so admitting novelty without breaking the chain. Not merely "legitimating innovation by attributing it to the past" but **reopening design space without requiring the institution to collapse** — the H13 mechanism, available from inside.
-  `#c/emic-etic #d/nyingma #e/contested` · subj 11c+ (claimed 8c) · Q4 · access: n/a
+  `#c/emic-etic #d/nyingma #e/secondary #s/contested` · subj 11c+ (claimed 8c) · Q4 · access: n/a
 
 ? Does the ebook carry a series number, and is it the Sept. 1988 first printing? — **resolved: © 1982, 1st ed. 1st printing Sept 1988.**
 → Cross-translator comparison (Simmons / Reynolds / Clemente / Shane / Lukianowicz) is the practicable H4 instrument absent Italian. `methods.md` §3.2 step 4.
@@ -74,39 +74,39 @@ The field has moved from Karmay's founding survey toward the Dunhuang manuscript
 ### Potential sources
 
 - Karmay, Samten G., *The Great Perfection (rDzogs chen)* — the founding philological survey; still baseline. @karmay-1988
-  `#d/dzogchen #r/none #e/attested` · subj 8–14c · src 1988 · Q1 · access: library · [unverified]
+  `#d/dzogchen #r/none #e/secondary` · subj 8–14c · src 1988 · Q1 · access: library · [unverified]
 - van Schaik, Sam, *Approaching the Great Perfection* @vanschaik-2004
-  `#d/dzogchen #r/none #e/attested` · subj 14c · src 2004 · Q1 · access: purchase · [unverified]
+  `#d/dzogchen #r/none #e/secondary` · subj 14c · src 2004 · Q1 · access: purchase · [unverified]
 - ——, "The Early Days of the Great Perfection," *JIABS* 27.1 — dates the earliest stratum from Dunhuang. **Governs the §4 dating obstacle.** @vanschaik-2004b
-  `#d/dzogchen #c/contact-route #e/attested` · subj 9–10c · src 2004 · Q6 H2 · access: open · [unverified]
+  `#d/dzogchen #c/contact-route #e/secondary` · subj 9–10c · src 2004 · Q6 H2 · access: open · [unverified]
 - ——, *earlytibet.com* — research blog citing manuscripts directly. @earlytibet
-  `#d/dzogchen #f/web #e/attested` · subj 8–11c · src 2007– · Q1 Q6 · access: open
+  `#d/dzogchen #f/web #e/secondary` · subj 8–11c · src 2007– · Q1 Q6 · access: open
 - Germano, David, "Architecture and Absence in the Secret Tantric History of rDzogs Chen," *JIABS* 17.2 — locates the Seminal Heart in a **Tibetan mortuary substrate**, not an imported one. @germano-1994
-  `#d/dzogchen #c/death-process #e/attested` · subj 11–14c · src 1994 · H2 · access: open · against: @tiso-2016 · [unverified]
+  `#d/dzogchen #c/death-process #e/secondary` · subj 11–14c · src 1994 · H2 · access: open · against: @tiso-2016 · [unverified]
 - Hatchell, Christopher, *Naked Seeing* — `thod rgal` across Dzogchen, Kālacakra and Bön. Best entry to the practice side. @hatchell-2014
-  `#d/dzogchen #c/thodgal #e/attested` · subj 11–15c · src 2014 · Q1 · access: purchase
+  `#d/dzogchen #c/thodgal #e/secondary` · subj 11–15c · src 2014 · Q1 · access: purchase
 - Achard, Jean-Luc, *L'Essence perlée du secret* — Bön Dzogchen and light-body doctrine. @achard-1999
-  `#d/bon #c/light-body #e/attested` · subj 11–14c · src 1999 · Q1 · access: library · [unverified]
+  `#d/bon #c/light-body #e/secondary` · subj 11–14c · src 1999 · Q1 · access: library · [unverified]
 - Klein, Anne C., & Tenzin Wangyal, *Unbounded Wholeness* @klein-2006
-  `#d/bon #c/primordial-basis #e/attested` · subj 11c+ · src 2006 · Q1 · access: purchase · [unverified]
+  `#d/bon #c/primordial-basis #e/secondary` · subj 11c+ · src 2006 · Q1 · access: purchase · [unverified]
 - Rossi, Donatella, *The Philosophical View of the Great Perfection in the Tibetan Bon Religion* — Rossi also translated Norbu; note how often scholarly and community roles overlap here. @rossi-1999
-  `#d/bon #c/emic-etic #e/attested` · subj 11c+ · src 1999 · Q1 · access: purchase · [unverified]
+  `#d/bon #c/emic-etic #e/secondary` · subj 11c+ · src 1999 · Q1 · access: purchase · [unverified]
 
 - Baker, Ian, "Embodying Enlightenment: Physical Culture in Dzogchen as revealed in Tibet's Lukhang Murals," *Asian Medicine* 7 (2012) — `thod rgal` and the body in a datable visual source. Bridges §2 and §6: Dzogchen practice *as depicted*, i.e. iconographic evidence rather than doctrinal assertion. @baker-2012
-  `#d/dzogchen #c/iconography #e/attested` · subj 17c · src 2012 · Q1 H5 · access: held · license: unspecified
+  `#d/dzogchen #c/iconography #e/secondary` · subj 17c · src 2012 · Q1 H5 · access: held · license: unspecified
 - Chaoul, M. Alejandro, "Magical Movement (`'phrul 'khor`): Ancient Tibetan Yogic Practices from the Bön Religion," *Asian Medicine* 3 (2007). Chaoul has worked closely with Bön lineage holders — read with §14 in view. @chaoul-2007
-  `#d/bon #c/thodgal #e/attested` · subj 11c+ · src 2007 · Q1 · access: held · license: unspecified
+  `#d/bon #c/thodgal #e/secondary` · subj 11c+ · src 2007 · Q1 · access: held · license: unspecified
 - Roberti di Sarsina, Paolo, "Chögyal Namkhai Norbu Rinpoche: Dzogchen and Tibetan Tradition. From Shang Shung into the Modern World," *Religions* 3 (2012) — the only peer-reviewed treatment of the project's primary author located so far. **The author is a physician writing on integrative medicine, not a Tibetologist**; sympathetic presentation, not independent scholarship. @robertidisarsina-2012
-  `#d/dzogchen #c/emic-etic #e/devotional` · subj 20c · src 2012 · Q1 · access: held · license: cc-by
+  `#d/dzogchen #c/emic-etic #e/secondary #v/apologetic` · subj 20c · src 2012 · Q1 · access: held · license: cc-by
 
 ### Bön as the double test case
 
 - **As control**: an independent rainbow-body lineage in a tradition Christianity had no route to. If the doctrine appears there too, Christian influence loses its explanatory advantage. @bon-control
   `#d/bon #r/deflation #e/inferred` · subj 11c+ · H1 H2 · access: n/a
 - **As emic westward claim**: Bön's origin account places its source in **Tazig** (`sTag gzig`) and Olmo Lungring, conventionally identified with Iranian lands. @bon-tazig
-  `#c/emic-etic #r/genealogy #e/devotional` · subj claimed pre-7c · H5 · access: n/a
+  `#c/emic-etic #r/genealogy #e/primary #v/emic` · subj claimed pre-7c · H5 · access: n/a
 - Martin, Dan; Kvaerne, Per; Karmay — standard scholarship on Bön origins and the Tazig identification. @bon-scholarship
-  `#d/bon #r/genealogy #e/contested` · subj pre-7c–11c · src 1985–2010 · H5 · access: library · against: @norbu-kailash · [unverified]
+  `#d/bon #r/genealogy #e/secondary #s/contested` · subj pre-7c–11c · src 1985–2010 · H5 · access: library · against: @norbu-kailash · [unverified]
 
 ? **Circularity check required** (`methods.md` §2.6): is the Tazig↔Iran identification the tradition's own, or a scholarly gloss the tradition later absorbed? H5 cannot lean on the Bön convergence until this is settled.
 
@@ -119,34 +119,34 @@ Not one claim but a graded family; typology in `background.md` §4. Only type (a
 ### Primary references
 
 - **Type (a): `ring bsrel`** — relics reported in the cremation remains of realized practitioners; `'phags pa'i ring bsrel` for those of an ārya. **The only branch of the typology that leaves physical evidence**, and the one with a genuine Christian counterpart in relic culture and incorruptibility. §8's judgement stands: the relic parallel is less glamorous than the resurrection parallel and probably more real. @ring-bsrel
-  `#c/relics #d/tibetan #e/devotional` · subj 11c– · Q1 Q3 · access: n/a
+  `#c/relics #d/tibetan #e/primary #v/emic` · subj 11c– · Q1 Q3 · access: n/a
 - **Type (c): `'ja' lus 'pho ba chen po`, the great transfer** — transformation without passing through death, the adept remaining available; ascribed to Padmasambhava, Vimalamitra, and in Bön to Tapihritsa. **The only branch with a Christian structural analogue** — assumption and translation (Enoch, Elijah), not resurrection — because it skips death, which is exactly what resurrection does not do. The H1 pivot. @great-transfer
-  `#c/great-transfer #r/analogy #e/devotional` · subj 8c– · Q3 H1 · access: n/a
+  `#c/great-transfer #r/analogy #e/primary #v/emic` · subj 8c– · Q3 H1 · access: n/a
 
 
 - Nyala Pema Dündul (`Nyag bla Padma bdud 'dul`), 1816–1872 — tertön of Nyarong; founded Kalzang Monastery 1860; teacher of Tertön Sogyal; rainbow body in Saga Dawa 1872 with the standard apparatus (rainbows, three earth-tremors, music, spheres of light, fragrance). **Type (b).** Norbu's "master of my master"; the intermediate is Changchub Dorje (d. 1978). @pema-dundul
-  `#c/rainbow-body #d/nyingma #e/devotional` · subj 1816–72 · Q1 Q3 · access: n/a
+  `#c/rainbow-body #d/nyingma #e/primary #v/emic` · subj 1816–72 · Q1 Q3 · access: n/a
 - Pema Dündul's terma: Guru Amitāyus long-life practice, "Union of Primordial Essences"; plus the cycle Norbu transcribes as **"Dzogchen Kazhag Rangdrol."** @pema-dundul-terma
-  `#c/terma #f/manuscript #e/unverified` · subj 19c · Q1 · access: unlocated · chain: Tib→spoken It→En transcription
+  `#c/terma #f/manuscript #e/secondary` · subj 19c · Q1 · access: unlocated · chain: Tib→spoken It→En transcription
 - Khenpo A Chö, d. **1998 or 1999**, Kham — the best-documented modern case. @khenpo-acho
-  `#c/rainbow-body #d/tibetan #e/contested` · subj 1998/99 · Q1 · access: n/a
+  `#c/rainbow-body #d/tibetan #e/secondary #s/contested` · subj 1998/99 · Q1 · access: n/a
 
 ### Potential sources
 
 - Tiso, Francis V., *Rainbow Body and Resurrection* — field interviews, textual history, and an explicit Central Asian contact hypothesis. **Read evidence chapters and hypothesis chapters as separate documents.** @tiso-2016
-  `#c/rainbow-body #r/genealogy #e/contested` · subj 8c–1999 · src 2016 · Q3 Q6 H2 · access: purchase · against: @germano-1994
+  `#c/rainbow-body #r/genealogy #e/secondary #s/contested` · subj 8c–1999 · src 2016 · Q3 Q6 H2 · access: purchase · against: @germano-1994
 - ——, pre-2016 articles on the rainbow body in early Dzogchen texts; doctoral work on Milarepa. → Show whether the contact hypothesis grew from the evidence or preceded it. @tiso-articles
-  `#c/rainbow-body #r/genealogy #e/unverified` · src pre-2016 · Q6 · access: unlocated
+  `#c/rainbow-body #r/genealogy #e/secondary` · src pre-2016 · Q6 · access: unlocated
 - *Treasury of Lives*, "Nyakla Pema Dudul" — peer-reviewed biography; the etic counterpart to the hagiography. @tol-pemadudul
-  `#d/tibetan #f/reference #e/attested` · subj 1816–72 · Q1 · access: open
+  `#d/tibetan #f/reference #e/secondary` · subj 1816–72 · Q1 · access: open
 - Rigpa Wiki / Rangjung Yeshe Wiki entries — useful for Tibetan orthography, unreliable for citation. @rywiki
-  `#d/tibetan #f/reference #e/devotional` · access: open
+  `#d/tibetan #f/reference #e/secondary #v/emic` · access: open
 - "Investigating the Rainbow Body," *Lion's Roar* — reportage on the Tiso investigation. @lionsroar-rainbow
-  `#c/rainbow-body #f/popular #e/devotional` · src c. 2017 · access: open
+  `#c/rainbow-body #f/popular #e/secondary #v/apologetic` · src c. 2017 · access: open
 - Pistono, Matteo, *In the Shadow of the Buddha* — biographical material on Tertön Sogyal and the Nyarong lineage. Leads, not citations. @pistono
-  `#d/tibetan #f/popular #e/devotional` · subj 19–20c · src 2011 · access: purchase · [unverified]
+  `#d/tibetan #f/popular #e/secondary #v/apologetic` · subj 19–20c · src 2011 · access: purchase · [unverified]
 - Steindl-Rast, Br. David — reportedly the origin of Tiso's inquiry. → Verify; if so the comparison was framed emically before evidence was gathered. @steindlrast
-  `#d/catholic #r/analogy #e/unverified` · Q6 · access: unlocated
+  `#d/catholic #r/analogy #e/secondary` · Q6 · access: unlocated
 
 ? **Wylie for "Kazhag Rangdrol."** Candidates: `dka' zhag rang grol`, `bka' bzhag rang grol`. The `methods.md` §3.3 micro-case.
 ? **1998 vs 1999** for Khenpo A Chö's death. Resolve from Tiso's own text; a one-year discrepancy in the best-documented case indicates whether it is documentary or hagiographic.
@@ -167,11 +167,11 @@ models procedurally: researchers measuring an emic claim etically, *with* the tr
 cooperation rather than against it.
 
 - Lott, D. T., et al. (25 authors), "No Detectable Electroencephalographic Activity After Clinical Declaration of Death Among Tibetan Buddhist Meditators in Apparent Tukdam," *Frontiers in Psychology* 11 (2020). @lott-2020
-  `#c/death-process #r/deflation #e/attested` · subj 2015–19 · src 2020 · Q1 Q3 Q5 · access: held · license: cc-by · doi 10.3389/fpsyg.2020.599190
+  `#c/death-process #r/deflation #e/secondary` · subj 2015–19 · src 2020 · Q1 Q3 Q5 · access: held · license: cc-by · doi 10.3389/fpsyg.2020.599190
 - Tidwell, Tawni L., "Life in Suspension with Death: Biocultural Ontologies, Perceptual Cues, and Biomarkers for the Tibetan Tukdam Postmortem Meditative State," *Culture, Medicine and Psychiatry* (2025) — Tidwell is trained in both Tibetan medicine and anthropology, so this sits *on* the emic/etic seam rather than on one side of it. @tidwell-2025
-  `#c/emic-etic #d/tibetan #e/attested` · subj 2015–24 · src 2025 · Q5 · access: held · license: cc-by
+  `#c/emic-etic #d/tibetan #e/secondary` · subj 2015–24 · src 2025 · Q5 · access: held · license: cc-by
 - Namdul, Tenzin, "Death and Happiness: Exploring the Temporalities of the Meditated Death and Everyday Life in Tibetan Buddhist Communities," *Culture, Medicine and Psychiatry* (2025). @namdul-2025
-  `#c/death-process #d/tibetan #e/attested` · subj 2015–24 · src 2025 · Q5 · access: held · license: cc-by
+  `#c/death-process #d/tibetan #e/secondary` · subj 2015–24 · src 2025 · Q5 · access: held · license: cc-by
 
 ? Does the tukdam literature engage the rainbow body, and if so how does it handle the difference —
 a body that fails to decompose versus a body that disappears? Adjacent claims, not identical ones;
@@ -198,15 +198,15 @@ The best-developed contact question in the field, and a rehearsal for the harder
 ### Potential sources
 
 - van Schaik, Sam, *Tibetan Zen: Discovering a Lost Tradition* @vanschaik-2015
-  `#d/chan #r/vector #e/attested` · subj 8–10c · src 2015 · Q6 · access: purchase
+  `#d/chan #r/vector #e/secondary` · subj 8–10c · src 2015 · Q6 · access: purchase
 - ——, "Dzogchen, Chan and the Question of Influence" — addresses the methodological question directly. @vanschaik-influence
-  `#d/chan #r/deflation #e/attested` · subj 8–10c · src n.d. · Q4 Q7 · access: open · against: @demieville-1952
+  `#d/chan #r/deflation #e/secondary` · subj 8–10c · src n.d. · Q4 Q7 · access: open · against: @demieville-1952
 - Meinert, Carmen — Chan–Dzogchen Dunhuang manuscript studies. @meinert
-  `#d/chan #r/genealogy #e/attested` · subj 8–10c · src 2002–07 · Q6 · access: library · [unverified]
+  `#d/chan #r/genealogy #e/secondary` · subj 8–10c · src 2002–07 · Q6 · access: library · [unverified]
 - Demiéville, Paul, *Le concile de Lhasa* — the classic Samye study; source of the older derivation thesis and a specimen of its period's assumptions. @demieville-1952
-  `#d/chan #r/genealogy #e/contested` · subj 792–94 · src 1952 · Q4 · access: library · against: @vanschaik-influence · [unverified]
+  `#d/chan #r/genealogy #e/secondary #s/contested` · subj 792–94 · src 1952 · Q4 · access: library · against: @vanschaik-influence · [unverified]
 - Broughton, Jeffrey — early Chan; the *bSam gtan mig sgron*'s doxography. @broughton
-  `#d/chan #r/analogy #e/attested` · subj 8–10c · src 1983–2009 · Q4 · access: library · [unverified]
+  `#d/chan #r/analogy #e/secondary` · subj 8–10c · src 1983–2009 · Q4 · access: library · [unverified]
 
 - Ying, Chinghui Jianying, *Being and Knowing in Wholeness: Chinese Chan, Tibetan Dzogchen, and the Logic of Immediacy in Contemplation* (Rice PhD thesis, 2010) — book-length comparative treatment. A doctoral thesis; weight accordingly. @ying-2010
   `#d/chan #r/analogy #e/inferred` · subj 8–14c · src 2010 · Q4 · access: held · license: public-domain
@@ -237,27 +237,27 @@ The best-developed contact question in the field, and a rehearsal for the harder
 ### Potential sources
 
 - Drewes, David, "Early Indian Mahayana Buddhism I & II," *Religion Compass* — best short survey of the debate. **Start here.** @drewes-2010
-  `#d/mahayana #f/article #e/attested` · subj 1c BCE–5c CE · src 2010 · Q2 · access: library · [unverified]
+  `#d/mahayana #f/article #e/secondary` · subj 1c BCE–5c CE · src 2010 · Q2 · access: library · [unverified]
 - Harrison, Paul (ed.), *Setting Out on the Great Way* — incl. "The Forest Hypothesis." Current state of the question. @harrison-2018
-  `#d/mahayana #c/asceticism #e/attested` · subj 1–3c CE · src 2018 · Q2 · access: purchase · against: @hirakawa-1963
+  `#d/mahayana #c/asceticism #e/secondary` · subj 1–3c CE · src 2018 · Q2 · access: purchase · against: @hirakawa-1963
 - Nattier, Jan, *A Few Good Men* — close reading of the *Ugraparipṛcchā* against lay-origins. @nattier-2003
-  `#d/mahayana #c/asceticism #e/attested` · subj 1–2c CE · src 2003 · Q2 · access: purchase · against: @hirakawa-1963 · [unverified]
+  `#d/mahayana #c/asceticism #e/secondary` · subj 1–2c CE · src 2003 · Q2 · access: purchase · against: @hirakawa-1963 · [unverified]
 - Boucher, Daniel, *Bodhisattvas of the Forest and the Formation of the Mahāyāna* @boucher-2008
-  `#d/mahayana #c/asceticism #e/attested` · subj 1–3c CE · src 2008 · Q2 · access: purchase
+  `#d/mahayana #c/asceticism #e/secondary` · subj 1–3c CE · src 2008 · Q2 · access: purchase
 - Schopen, Gregory, *Bones, Stones, and Buddhist Monks* — **the methodological model for this project**; inscriptions and archaeology against normative texts. @schopen-1997
-  `#d/nikaya #c/emic-etic #e/attested` · subj 2c BCE–5c CE · src 1997 · Q2 Q5 · access: purchase
+  `#d/nikaya #c/emic-etic #e/secondary` · subj 2c BCE–5c CE · src 1997 · Q2 Q5 · access: purchase
 - ——, *Figments and Fragments of Mahāyāna Buddhism in India* @schopen-2005
-  `#d/mahayana #c/emic-etic #e/attested` · subj 2–7c CE · src 2005 · Q2 · access: purchase · [unverified]
+  `#d/mahayana #c/emic-etic #e/secondary` · subj 2–7c CE · src 2005 · Q2 · access: purchase · [unverified]
 - ——, "Mahāyāna in Indian Inscriptions," *IIJ* — the epigraphic-invisibility finding. @schopen-1979
-  `#d/mahayana #c/material-culture #e/attested` · subj 2–8c CE · src 1979 · Q2 · access: library · [unverified]
+  `#d/mahayana #c/material-culture #e/secondary` · subj 2–8c CE · src 1979 · Q2 · access: library · [unverified]
 - ! Hirakawa, Akira, "The Rise of Mahāyāna Buddhism and Its Relationship to the Worship of Stūpas" — the lay-devotional origins thesis. **Displaced, and retained deliberately**: it is the source of the received popular picture, and its persistence is itself a transmission-distortion phenomenon. @hirakawa-1963
-  `#d/mahayana #c/asceticism #e/contested` · subj 1–3c CE · src 1963 · Q2 · access: library · against: @harrison-2018
+  `#d/mahayana #c/asceticism #e/secondary #s/contested` · subj 1–3c CE · src 1963 · Q2 · access: library · against: @harrison-2018
 - "Origins of the Mahāyāna," *Indo-Iranian Journal* 63.4 — recent review. @iij-2020
-  `#d/mahayana #f/article #e/attested` · subj 1c BCE–5c CE · src 2020 · Q2 · access: library
+  `#d/mahayana #f/article #e/secondary` · subj 1c BCE–5c CE · src 2020 · Q2 · access: library
 - Walser, Joseph, *Nāgārjuna in Context* — Mahāyāna's social and institutional setting. @walser-2005
-  `#d/mahayana #c/material-culture #e/attested` · subj 2–3c CE · src 2005 · Q2 · access: purchase · [unverified]
+  `#d/mahayana #c/material-culture #e/secondary` · subj 2–3c CE · src 2005 · Q2 · access: purchase · [unverified]
 - Salomon, Richard, *Ancient Buddhist Scrolls from Gandhāra*; *The Buddhist Literature of Ancient Gandhāra* @salomon
-  `#d/mahayana #f/manuscript #e/attested` · subj 1–2c CE · src 1999, 2018 · Q2 · access: purchase · [unverified]
+  `#d/mahayana #f/manuscript #e/secondary` · subj 1–2c CE · src 1999, 2018 · Q2 · access: purchase · [unverified]
 
 ---
 
@@ -270,36 +270,36 @@ The project's most tractable thread: physical, datable, geographically located. 
 - Gandhāran Buddha with nimbus, Kushan schist — the object raised in the brief. @gandhara-nimbus
   `#c/iconography #r/homology #e/primary` · subj 1c CE · H5 · access: open (Wikimedia Commons)
 - Kaniṣka coinage with haloed Buddha, Bactrian legend *BODDO* — datable, portable, state-issued. **The strongest single evidence class for the motif's currency along trade routes.** @kanishka-coins
-  `#d/hellenistic #c/iconography #e/attested` · subj 2c CE · H5 · access: open (British Museum) · [unverified]
+  `#d/hellenistic #c/iconography #e/secondary` · subj 2c CE · H5 · access: open (British Museum) · [unverified]
 - Sasanian rock reliefs and silver: the ruler's circular nimbus — where *khvarenah* becomes a halo. @sasanian-nimbus
-  `#d/iranian #c/iconography #e/attested` · subj 3–7c CE · H5 · access: open · [unverified]
+  `#d/iranian #c/iconography #e/secondary` · subj 3–7c CE · H5 · access: open · [unverified]
 - "Flaming shoulders" motif, Kushan royal and Buddhist imagery — an Iranian radiance convention entering Buddhist art. **A shared *arbitrary* detail**, which per the §5 ladder counts for more than a shared plausible one. @flaming-shoulders
   `#c/iconography #r/genealogy #e/inferred` · subj 1–3c CE · H5 Q7 · access: open · [unverified]
 - Manichaean book illumination, Turfan — documented connection to Syriac and Armenian Gospel illumination. @manichaean-art
-  `#d/manichaean #c/iconography #e/attested` · subj 8–11c · H5 Q6 · access: open (Iranica)
+  `#d/manichaean #c/iconography #e/secondary` · subj 8–11c · H5 Q6 · access: open (Iranica)
 
 ### Potential sources
 
 - *Encyclopaedia Iranica*, "FARR(AH)"; Wikipedia, "Khvarenah" — the Iranian glory concept, Avestan through Middle Persian, and its Sasanian visual expression. @farrah
-  `#d/iranian #c/glory #e/attested` · subj 1200 BCE–7c CE · H5 · access: open
+  `#d/iranian #c/glory #e/secondary` · subj 1200 BCE–7c CE · H5 · access: open
 - Wikipedia, "Halo (religious iconography)"; Britannica, "halo (art)" — orientation and starting chronology; follow to specialists before citing. @halo-ref
   `#c/iconography #f/reference #e/inferred` · subj 5c BCE–15c CE · H5 · access: open
 - Greco-Buddhist art of Gandhāra; the first anthropomorphic Buddha images. **Calibration case: this is what demonstrable cultural contact leaves behind.** @greco-buddhist
-  `#d/hellenistic #c/material-culture #e/attested` · subj 1–5c CE · Q5 Q7 · access: library
+  `#d/hellenistic #c/material-culture #e/secondary` · subj 1–5c CE · Q5 Q7 · access: library
 
 - **Pons, Jessie, "The Buddha and the Sun Disk: Some Reflections on the Dialectics of Light in Gandhāran Art," *Acta Asiatica Varsoviensia* 38 (2025)** — the closest thing yet located to a direct treatment of H5: light as a visual and conceptual problem in Gandhāran art, by a Gandhāra specialist. **Read first.** @pons-2025
-  `#d/hellenistic #c/glory #e/attested` · subj 1–5c CE · src 2025 · H5 · access: held · license: cc-by-nc-sa · doi 10.60018/acasva.xbmi1252
+  `#d/hellenistic #c/glory #e/secondary` · subj 1–5c CE · src 2025 · H5 · access: held · license: cc-by-nc-sa · doi 10.60018/acasva.xbmi1252
 - Tanabe, Katsumi, "Gandhāran Smiling Buddhas Revisited — Farewell to the so-called Archaic Smile" (2023) — a specialist undoing a long-standing misreading of a Gandhāran convention. Method value beyond its subject: a worked case of iconographic over-interpretation being corrected. @tanabe-2023
-  `#c/iconography #r/deflation #e/attested` · subj 1–4c CE · src 2023 · H5 Q7 · access: held · license: cc-by-nc-nd
+  `#c/iconography #r/deflation #e/secondary` · subj 1–4c CE · src 2023 · H5 Q7 · access: held · license: cc-by-nc-nd
 - Faresin, Emanuela, & G. Salemi, "Buddhist Stele of Swat Valley: Point Cloud Analysis and Interpretation" (2019) — 3D documentation of a Gandhāran stele; method rather than argument. @faresin-2019
-  `#c/material-culture #d/hellenistic #e/attested` · subj 1–5c CE · src 2019 · H5 · access: held · license: cc-by
+  `#c/material-culture #d/hellenistic #e/secondary` · subj 1–5c CE · src 2019 · H5 · access: held · license: cc-by
 - Hauser-Ulrich, Johann G., *Deconstructing the Sikri Fasting Buddha: Buddhist Aniconism and…* (MA thesis, Wisconsin–Milwaukee, 2026) — aniconism and its abandonment: when and why the Buddha became depictable. @hauserulrich-2026
   `#d/hellenistic #c/iconography #e/inferred` · subj 1–3c CE · src 2026 · H5 Q2 · access: held · license: unspecified
 - Mackenthun, Tamara C., *Continuity in Iranian Leadership Legitimization: Farr-i Izadi, Shi'ism, and…* (Boise State thesis, 2009) — traces *farr* across a very long span. A thesis, and the continuity claim is ambitious; orientation, not authority. @mackenthun-2009
   `#d/iranian #c/glory #e/inferred` · subj 1200 BCE–20c · src 2009 · H5 · access: held · license: unspecified
 
 - **Ravenna** — San Vitale and Sant'Apollinare Nuovo; 6th-c. mosaic programmes executed in Italy under Byzantine patronage. **A documented instance of the artisan channel**: technique and workshop practice moving with craftsmen between Constantinople and the Exarchate. The nearest well-evidenced European analogue to the Gandhāran case, and reached via the *Sarantine Mosaic* lead (§14.4). @ravenna
-  `#c/iconography #d/orthodox #e/attested` · subj 6c CE · H8 H5 · access: open (images) · [unverified]
+  `#c/iconography #d/orthodox #e/secondary` · subj 6c CE · H8 H5 · access: open (images) · [unverified]
 
 ? Does any Tibetan visual convention for the rainbow body descend from this complex, or is it independent? Tibetan nimbus conventions arrive via India and Central Asia, so the *image* has a traceable route even where the *doctrine* does not — a direct test of the §5 method caution.
 
@@ -335,18 +335,18 @@ The project's most tractable thread: physical, datable, geographically located. 
 ### Potential sources
 
 - King, Karen L., *The Gospel of Mary of Magdala* — the standard critical treatment with translation. @king-2003
-  `#d/gnostic #c/canon-formation #e/attested` · subj 2c CE · src 2003 · Q1 · access: purchase · [unverified]
+  `#d/gnostic #c/canon-formation #e/secondary` · subj 2c CE · src 2003 · Q1 · access: purchase · [unverified]
 - Watterson, Meggan, *Mary Magdalene Revealed* — named in the brief for its account of Jesus's persistence. MTS (Harvard Div.), MDiv (Union); the book sits deliberately between theology and spiritual memoir, and reception splits on exactly that (thin referencing, limited engagement with the text itself, large memoir component). **Read as a contemporary theological reading and a reception document, not as the critical treatment.** Pair with @king-2003. @watterson-2019
-  `#d/christian #c/historical-jesus #e/devotional` · subj 1c CE / 2019 · src 2019 · Q3 · access: purchase
+  `#d/christian #c/historical-jesus #e/secondary #v/apologetic` · subj 1c CE / 2019 · src 2019 · Q3 · access: purchase
 - Pagels, Elaine, *The Gnostic Gospels*; *Beyond Belief* — where the popular framing originates; Pagels was more cautious about Buddhist parallels than her readers. @pagels-1979
-  `#d/gnostic #r/analogy #e/attested` · subj 2–4c CE · src 1979, 2003 · H3 · access: purchase · [unverified]
+  `#d/gnostic #r/analogy #e/secondary` · subj 2–4c CE · src 1979, 2003 · H3 · access: purchase · [unverified]
 - de Boer, Esther, *The Gospel of Mary: Beyond a Gnostic and a Biblical Mary Magdalene* @deboer
-  `#d/gnostic #c/canon-formation #e/attested` · subj 2c CE · src 2004 · Q1 · access: library · [unverified]
+  `#d/gnostic #c/canon-formation #e/secondary` · subj 2c CE · src 2004 · Q1 · access: library · [unverified]
 
 - Kateusz, Ally, *Mary and Early Christian Women: Hidden Leadership* (Palgrave, 2019) — argues from **art and material evidence** as well as texts, which puts it methodologically closer to §6 than to §7. Open access via OAPEN. @kateusz-2019
-  `#d/christian #c/iconography #e/attested` · subj 1–6c CE · src 2019 · Q1 Q3 · access: held · license: cc-by-nc-nd
+  `#d/christian #c/iconography #e/secondary` · subj 1–6c CE · src 2019 · Q1 Q3 · access: held · license: cc-by-nc-nd
 - Smith, Daniel A., "Revisiting the Empty Tomb: The Early History of Easter" (2010) — the development of the empty-tomb tradition, i.e. precisely the strand Q3 argues has *no* Dzogchen analogue. @dasmith-2010
-  `#d/christian #c/resurrection #e/attested` · subj 1–2c CE · src 2010 · Q3 H1 · access: held · license: cc-by-nc-nd
+  `#d/christian #c/resurrection #e/secondary` · subj 1–2c CE · src 2010 · Q3 H1 · access: held · license: cc-by-nc-nd
 
 ? Does the Gospel of Mary actually contain a doctrine of Jesus's continuing presence, or is that supplied by later reading? With pages 1–6 and 11–14 missing this may be undecidable — which would itself be a §14 finding.
 
@@ -359,17 +359,17 @@ Bynum's finding is the indispensable move: Christian resurrection doctrine was f
 ### Potential sources
 
 - Bynum, Caroline Walker, *The Resurrection of the Body in Western Christianity, 200–1336* — **essential**; establishes what the doctrine claimed, the precondition for comparing it. @bynum-1995
-  `#d/christian #c/resurrection #e/attested` · subj 200–1336 · src 1995 · Q1 Q3 H1 · access: purchase · [unverified]
+  `#d/christian #c/resurrection #e/secondary` · subj 200–1336 · src 1995 · Q1 Q3 H1 · access: purchase · [unverified]
 - Martin, Dale B., *The Corinthian Body* — Pauline body-language against Greco-Roman physiology. @martin-1995
-  `#d/christian #c/resurrection #e/attested` · subj 1c CE · src 1995 · Q1 · access: purchase · [unverified]
+  `#d/christian #c/resurrection #e/secondary` · subj 1c CE · src 1995 · Q1 · access: purchase · [unverified]
 - Brock, Sebastian, *The Luminous Eye* — Syriac light-theology and the robe of glory; entry point to Syriac studies. @brock
-  `#d/syriac #c/glory #e/attested` · subj 4c CE · src 1985 · H5 · access: purchase · [unverified]
+  `#d/syriac #c/glory #e/secondary` · subj 4c CE · src 1985 · H5 · access: purchase · [unverified]
 - Williams, Michael A., *Rethinking "Gnosticism"* @williams-1996
-  `#d/gnostic #r/deflation #e/attested` · subj 2–4c CE · src 1996 · H3 · access: purchase · [unverified]
+  `#d/gnostic #r/deflation #e/secondary` · subj 2–4c CE · src 1996 · H3 · access: purchase · [unverified]
 - King, Karen L., *What Is Gnosticism?* — with Williams, the reason "Gnostic" keeps its scare quotes. Both are also case studies in category construction from heresiological polemic. @king-2003b
-  `#d/gnostic #r/deflation #e/attested` · subj 2–4c CE · src 2003 · H3 · access: purchase · [unverified]
+  `#d/gnostic #r/deflation #e/secondary` · subj 2–4c CE · src 2003 · H3 · access: purchase · [unverified]
 - Lossky, Vladimir; Meyendorff, John — Palamism and the uncreated light. @lossky-meyendorff
-  `#d/orthodox #c/transfiguration #e/attested` · subj 14c · src 1944–74 · Q3 · access: library · [unverified]
+  `#d/orthodox #c/transfiguration #e/secondary` · subj 14c · src 1944–74 · Q3 · access: library · [unverified]
 
 ---
 
@@ -380,17 +380,17 @@ Conze is the respectable representative: his 1967 *Numen* paper grew from a 1960
 ### Potential sources
 
 - Conze, Edward, "Buddhism and Gnosis," *Numen* 14 @conze-1967
-  `#d/mahayana #r/analogy #e/contested` · subj 1–4c CE · src 1967 · H3 · access: library
+  `#d/mahayana #r/analogy #e/secondary #s/contested` · subj 1–4c CE · src 1967 · H3 · access: library
 - Bianchi, Ugo (ed.), *The Origins of Gnosticism* (Messina, 1966) — where Conze's paper appears, and where the field tried and failed to define "Gnosticism." @bianchi-1967
-  `#d/gnostic #r/analogy #e/contested` · subj 1–4c CE · src 1967 · H3 · access: library
+  `#d/gnostic #r/analogy #e/secondary #s/contested` · subj 1–4c CE · src 1967 · H3 · access: library
 - **Barlaam and Josaphat** — Manichaean → Arabic → Georgian → Latin; *bodhisattva* → *Bodisav* → *Iodasaph* → *Josaphat*. See W. C. Smith, *Towards a World Theology*, and the philology on the Georgian *Balavariani*. **The gold standard** (`methods.md` §5). @barlaam
-  `#c/contact-route #r/genealogy #e/attested` · subj 8–11c · src 1981– · H3 Q7 · access: library · [unverified]
+  `#c/contact-route #r/genealogy #e/secondary` · subj 8–11c · src 1981– · H3 Q7 · access: library · [unverified]
 - Clement of Alexandria, *Stromata* I.15 — mentions "Boutta." Thin but genuine. @clement
   `#d/hellenistic #r/vector #e/primary` · subj c. 200 CE · H3 · access: open · [unverified]
 - ! Lindtner, Christian, *Geheimnisse um Jesus Christus* — Gospels derived from Mahāyāna sūtras. Rejected by specialists; a specimen of method failure. @lindtner
-  `#d/mahayana #r/genealogy #e/fringe` · src 1998– · access: library · [unverified]
+  `#d/mahayana #r/genealogy #e/secondary #s/fringe` · src 1998– · access: library · [unverified]
 - ! 19th–20th c. Essene/Therapeutae-Buddhist theories; "Jesus in India" literature. @jesus-india
-  `#c/historical-jesus #r/genealogy #e/fringe` · src 1894– · access: open
+  `#c/historical-jesus #r/genealogy #e/secondary #s/fringe` · src 1894– · access: open
 
 ---
 
@@ -429,7 +429,7 @@ light by a specified practice, not merely described as radiant. The structural m
 Manichaean mechanism, not with Christian imagery — which is what makes "Christianity as donor"
 the weaker hypothesis even where Christian presence in the corridor is attested.
 
-  `#d/manichaean #c/light-body #e/unverified` · Q6, H2, H5 · [unverified]
+  `#d/manichaean #c/light-body #e/secondary` · Q6, H2, H5 · [unverified]
 
 ? **Is the mechanism/imagery distinction defensible, or is it an artefact of which sources are
 elaborated in the surviving record?** Manichaean cosmology survives insystematic doctrinal
@@ -470,7 +470,7 @@ I have not read these texts and the titles and 731 date are from memory.
 Persian → Arabic → Georgian → Greek → Latin, with a Manichaean recension in the chain. Same
 corridor, same actors, opposite direction, and a demonstrated result at rung 1.
 
-  `#d/central-asia #c/contact-route #r/vector #e/attested`
+  `#d/central-asia #c/contact-route #r/vector #e/secondary`
 
 ? **The eastbound mirror has not been worked.** We have a demonstrated westbound transmission and
 an attested eastbound channel with the same carriers. What, if anything, came east?
@@ -539,22 +539,22 @@ H5 does not do better.
 ### Potential sources
 
 - BeDuhn, Jason David, *The Manichaean Body: In Discipline and Ritual* — standard study of Manichaean body-theory and practice. @beduhn-2000
-  `#d/manichaean #c/light-body #e/attested` · subj 3–8c · src 2000 · H2 H5 · access: open (PDF)
+  `#d/manichaean #c/light-body #e/secondary` · subj 3–8c · src 2000 · H2 H5 · access: open (PDF)
 - Gardner, Iain, & Samuel N. C. Lieu (eds.), *Manichaean Texts from the Roman Empire* @gardner-lieu
   `#d/manichaean #f/translation #e/primary` · subj 3–6c · src 2004 · H2 · access: purchase · [unverified]
 - van Schaik, Sam, & Imre Galambos, *Manuscripts and Travellers* — one manuscript reconstructed into a picture of who actually moved along the road. **Model for well-done contact evidence.** @vanschaik-galambos
-  `#d/central-asia #r/vector #e/attested` · subj 10c · src 2012 · Q6 · access: library · [unverified]
+  `#d/central-asia #r/vector #e/secondary` · subj 10c · src 2012 · Q6 · access: library · [unverified]
 - Moffett, Samuel Hugh, *A History of Christianity in Asia*, vol. 1 @moffett
-  `#d/syriac #c/contact-route #e/attested` · subj 1–15c · src 1992 · Q6 · access: purchase · [unverified]
+  `#d/syriac #c/contact-route #e/secondary` · subj 1–15c · src 1992 · Q6 · access: purchase · [unverified]
 - Dalton, Jacob, *The Taming of the Demons* — Dunhuang, ritual, and the imperial-to-postimperial transition. @dalton-2011
-  `#d/tibetan #c/contact-route #e/attested` · subj 8–11c · src 2011 · Q6 · access: purchase · [unverified]
+  `#d/tibetan #c/contact-route #e/secondary` · subj 8–11c · src 2011 · Q6 · access: purchase · [unverified]
 - ! Palmer, Martin, *The Jesus Sutras* — popular treatment of the Jingjiao material; unreliable interpretive frame. Use the underlying documents. @palmer
-  `#d/syriac #r/genealogy #e/fringe` · subj 7–10c · src 2001 · access: purchase · [unverified]
+  `#d/syriac #r/genealogy #e/secondary #s/fringe` · subj 7–10c · src 2001 · access: purchase · [unverified]
 
 - van Oort, Johannes, "Manichaeism: Its sources and influences on Western Christianity," *Verbum et Ecclesia* 30 (2009) — van Oort is a Manichaeism and Augustine specialist. Bears on H2, though its frame is Manichaeism→West rather than →East. @vanoort-2009
-  `#d/manichaean #r/genealogy #e/attested` · subj 3–6c · src 2009 · H2 · access: held · license: cc-by
+  `#d/manichaean #r/genealogy #e/secondary` · subj 3–6c · src 2009 · H2 · access: held · license: cc-by
 - ——, "Augustine and Manichaeism: new discoveries, new perspectives," *Verbum et Ecclesia* 27 (2006). @vanoort-2006
-  `#d/manichaean #c/light-body #e/attested` · subj 4–5c · src 2006 · H2 · access: held · license: cc-by
+  `#d/manichaean #c/light-body #e/secondary` · subj 4–5c · src 2006 · H2 · access: held · license: cc-by
 
 ? **The decisive empirical question of the project:** what documented Tibetan–Manichaean or Tibetan–Christian *textual* contact exists at Dunhuang, as opposed to co-presence in one oasis? Co-presence is rung 5 on the §5 ladder — opportunity only.
 
@@ -600,27 +600,27 @@ the single most targeted item in this section.
 ### 11.3 Potential sources
 
 - Rostovtzeff, M. I., *Caravan Cities* (1932) — Petra, Jerash, Palmyra, Dura-Europos compared as a class. **The precedent for the comparison-class method**; dated, and its assumptions are of its period, but nothing has replaced its comparative ambition. @rostovtzeff-1932
-  `#c/nexus #r/analogy #e/contested` · subj 1–3c CE · src 1932 · Q8a · access: library · [unverified]
+  `#c/nexus #r/analogy #e/secondary #s/contested` · subj 1–3c CE · src 1932 · Q8a · access: library · [unverified]
 - **Rong Xinjiang, "The Nature of the Dunhuang Library Cave and the Reasons for its Sealing,"** and *Eighteen Lectures on Dunhuang* (Brill) — **the highest-value item in this section.** Directly addresses why Dunhuang's co-presence produced preservation rather than synthesis. @rong-dunhuang
-  `#d/central-asia #c/material-culture #e/attested` · subj 5–11c · src 2013 · Q8a · access: library · [unverified]
+  `#d/central-asia #c/material-culture #e/secondary` · subj 5–11c · src 2013 · Q8a · access: library · [unverified]
 - Galambos, Imre, *Dunhuang Manuscript Culture: End of the First Millennium* — manuscript practice at the negative case. @galambos-2020
-  `#d/central-asia #f/manuscript #e/attested` · subj 9–11c · src 2020 · Q8a · access: library · [unverified]
+  `#d/central-asia #f/manuscript #e/secondary` · subj 9–11c · src 2020 · Q8a · access: library · [unverified]
 - de la Vaissière, Étienne, *Sogdian Traders: A History* (Brill) — the standard work on the network that **transmitted without innovating**, which is the distinction Q8 turns on. @delavaissiere
-  `#d/central-asia #c/contact-route #e/attested` · subj 3–10c · src 2005 · Q8a H7 · access: library · [unverified]
+  `#d/central-asia #c/contact-route #e/secondary` · subj 3–10c · src 2005 · Q8a H7 · access: library · [unverified]
 - Mairs, Rachel (ed.), *The Graeco-Bactrian and Indo-Greek World* (Routledge, 2020) — includes a chapter on Roman objects in the Begram hoard and the memory of Greek rule. The 450-year Hellenistic time-depth behind H8 is this volume's subject. @mairs-2020
-  `#d/hellenistic #c/material-culture #e/attested` · subj 300 BCE–200 CE · src 2020 · Q8a H8 · access: library
+  `#d/hellenistic #c/material-culture #e/secondary` · subj 300 BCE–200 CE · src 2020 · Q8a H8 · access: library
 - Smith, Andrew M., *Roman Palmyra: Identity, Community, and State Formation* (2014) — the fullest treatment of the clearest negative case outside Asia. @smith-palmyra
-  `#d/hellenistic #c/material-culture #e/attested` · subj 1–3c CE · src 2014 · Q8a · access: library · [unverified]
+  `#d/hellenistic #c/material-culture #e/secondary` · subj 1–3c CE · src 2014 · Q8a · access: library · [unverified]
 - Kodama, Shinjiro, "The Palmyrene commercial settlement in Vologesia" (1965) — a Palmyrene trading colony on Parthian territory; small-scale evidence of how a caravan city projected itself outward. @kodama-1965
-  `#d/hellenistic #c/contact-route #e/attested` · subj 1–3c CE · src 1965 · Q8a · access: held · license: unspecified
+  `#d/hellenistic #c/contact-route #e/secondary` · subj 1–3c CE · src 1965 · Q8a · access: held · license: unspecified
 - Denisenko, V. L., "Kushan Settlement Complexes in the Kashmir Valley," *Vestnik NSU* (2024) — settlement archaeology at the Kushan periphery. @denisenko-2024
-  `#d/central-asia #c/material-culture #e/attested` · subj 1–4c CE · src 2024 · Q8a · access: held · license: unspecified
+  `#d/central-asia #c/material-culture #e/secondary` · subj 1–4c CE · src 2024 · Q8a · access: held · license: unspecified
 - Jia, Ben, "Reading Hierarchy on the Silk Road — The Ancient Sogdian Letters," *Communications in Humanities Research* (2025) — social structure inside the Sogdian network. @jia-2025
   `#d/central-asia #c/contact-route #e/inferred` · subj c. 313 CE · src 2025 · Q8a · access: held · license: unspecified
 - Hall, Peter, *Cities in Civilization* (1998) — the modern comparative treatment of urban creative episodes; explicitly asks Q8a, entirely for post-classical cases. Its hazard is the one `background.md` §5.3 names: it samples on the dependent variable throughout. @hall-1998
-  `#c/nexus #r/analogy #e/contested` · subj 400 BCE–1990s · src 1998 · Q8a · access: library · [unverified]
+  `#c/nexus #r/analogy #e/secondary #s/contested` · subj 400 BCE–1990s · src 1998 · Q8a · access: library · [unverified]
 - Jacobs, Jane, *The Economy of Cities* (1969) — the argument that cities generate novelty through recombination of existing work. Theoretical, unfalsifiable as stated, but the source of the intuition. @jacobs-1969
-  `#c/nexus #r/analogy #e/speculative` · src 1969 · Q8a · access: purchase · [unverified]
+  `#c/nexus #r/analogy #e/secondary #s/speculative` · src 1969 · Q8a · access: purchase · [unverified]
 
 ### 11.3a Dunhuang — Q8a's negative case, and what the harvest turned up
 
@@ -632,13 +632,13 @@ Added 2026-08-27 from the Wikipedia citation harvest (`lit/wikipedia/`). Both en
   **The named target for Q8a.** Why Cave 17 was sealed governs what its contents are evidence *of*:
   a deliberate deposit and an abandoned store license different inferences from the same documents,
   and §14.7's survivorship problem turns on which it was. @rong-1999
-  `#c/nexus #d/central-asia #e/unverified` · subj c. 1000 · src 1999 · Q8a · access: **wanted** — Persée refused · [unverified]
+  `#c/nexus #d/central-asia #e/secondary` · subj c. 1000 · src 1999 · Q8a · access: **wanted** — Persée refused · [unverified]
 - Ponampon, Phra Kiattisak. *Dunhuang Manuscript S.2585: A Textual and Interdisciplinary Study on
   Early Medieval Chinese Buddhist Meditative Techniques and Visionary Experiences.* PhD thesis,
   Univ. of Cambridge, 2019. DOI [10.17863/CAM.31982](https://doi.org/10.17863/CAM.31982).
   Sits on the intersection of Q8a and `#c/thodgal` — visionary practice attested in a Dunhuang
   manuscript, supervised by a Dunhuang specialist. Retrieved in full. @ponampon-2019
-  `#c/thodgal #d/central-asia #e/unverified` · subj C6–C8 · src 2019 · Q8a, Q4 · access: **held** · [unverified]
+  `#c/thodgal #d/central-asia #e/secondary` · subj C6–C8 · src 2019 · Q8a, Q4 · access: **held** · [unverified]
 
 ? **Does S.2585 bear on `thod rgal` or only on Chinese Buddhist visualisation?** The distinction is
 the whole question. A shared vocabulary of visionary experience at Dunhuang is rung 5 (co-presence)
@@ -650,45 +650,45 @@ error `methods.md` §5 exists to prevent, and precisely the inference the materi
 Serves H8 and H9. The linguistic literature supplies both the mechanism and a measurement.
 
 - **Thomason, Sarah G., & Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (1988)** — the borrowing scale: lexical borrowing indicates casual contact, structural borrowing indicates sustained intimate contact. **The operational instrument for H8**, converting "how deep was the contact" into a question about grammar rather than impression. @thomason-kaufman-1988
-  `#c/loanword #d/method #e/attested` · subj n/a · src 1988 · Q8a H8 · access: library · [unverified]
+  `#c/loanword #d/method #e/secondary` · subj n/a · src 1988 · Q8a H8 · access: library · [unverified]
 - Spinney, Laura, *Proto* — the source of the household/market observation as it entered this project: conservative kinship and nature vocabulary against volatile technological vocabulary. @spinney-2025
-  `#d/indo-european #c/loanword #e/attested` · subj 4500 BCE– · src 2025 · Q8a H8 · access: held
+  `#d/indo-european #c/loanword #e/secondary` · subj 4500 BCE– · src 2025 · Q8a H8 · access: held
 - Metal names and the Indo-European dispersal — `*h₂éyos` (copper/bronze) is reconstructible, while iron, tin and lead terms commonly derive from non-IE sources, and "metal" is a wanderwort shared across IE, Uralic, Turkic and sometimes Old Chinese. **The evidence that the split is real and not merely intuitive.** @metal-names
-  `#d/indo-european #c/loanword #e/attested` · subj 4000–1000 BCE · Q8a · access: open (academia.edu) · [unverified]
+  `#d/indo-european #c/loanword #e/secondary` · subj 4000–1000 BCE · Q8a · access: open (academia.edu) · [unverified]
 - Creolization and the Atlantic world; Gullah as a creole; jazz and foodways as non-linguistic fusion products. **The type specimen for household-channel fusion, and a warning that it can occur under coercion.** @creolization
-  `#c/loanword #r/homology #e/attested` · subj 17–20c · Q8a H8 · access: unlocated · [unverified]
+  `#c/loanword #r/homology #e/secondary` · subj 17–20c · Q8a H8 · access: unlocated · [unverified]
 - **Origo, Iris, "The Domestic Enemy: The Eastern Slaves in Tuscany in the Fourteenth and Fifteenth Centuries," *Speculum* 30 (1955), 321–66** — enslaved Tatars, Russians, Circassians, Greeks, Moors and Ethiopians in Florentine households, predominantly women, raising the children. **The only household channel Florence has**, and its cultural consequences appear unstudied. @origo-1955
-  `#c/nexus #d/method #e/attested` · subj 14–15c · src 1955 · Q8a H9 · access: library · [unverified]
+  `#c/nexus #d/method #e/secondary` · subj 14–15c · src 1955 · Q8a H9 · access: library · [unverified]
 - **Jones-Rogers, Stephanie E., *They Were Her Property: White Women as Slave Owners in the American South* (Yale UP, 2019)** — documents a market in enslaved wet nurses created by slaveholding white women and advertised in newspapers, a sector she describes as largely invisible. **The clearest evidence that the household channel was operated by the enslaved**, at scale, at the exact moment of children's language acquisition. @jonesrogers-2019
-  `#c/nexus #d/method #e/attested` · subj 1800–65 · src 2019 · Q8a H8 · access: purchase · [unverified]
+  `#c/nexus #d/method #e/secondary` · subj 1800–65 · src 2019 · Q8a H8 · access: purchase · [unverified]
 - Harris, Joel Chandler, *Uncle Remus* (1880), and the West African Anansi/hare cycles behind it — a documented instance of the household channel: trickster tales carried by enslaved caregivers to white children. Harris's framing device *is* a description of the mechanism; his distortions are a separate problem. @uncle-remus
-  `#c/lineage-narrative #r/genealogy #e/contested` · subj 18–19c · src 1880 · Q8a H8 · access: open · [unverified]
+  `#c/lineage-narrative #r/genealogy #e/secondary #s/contested` · subj 18–19c · src 1880 · Q8a H8 · access: open · [unverified]
 - Carney, Judith, *Black Rice: The African Origins of Rice Cultivation in the Americas* (2001) — a **technical** transfer via enslaved knowledge, i.e. the market/workshop channel rather than the household one. Useful precisely because it lets the two channels be distinguished in one society. @carney-2001
-  `#c/material-culture #r/genealogy #e/contested` · subj 17–18c · src 2001 · Q8a H8 · access: library · [unverified]
+  `#c/material-culture #r/genealogy #e/secondary #s/contested` · subj 17–18c · src 2001 · Q8a H8 · access: library · [unverified]
 - The AAVE-origins debate — creolist versus Anglicist accounts (Mufwene, Rickford, Poplack); and the question of African substrate features in white Southern speech. **The direct linguistic test of household-channel transmission**, and still contested. @aave-origins
-  `#c/loanword #r/genealogy #e/contested` · subj 17–20c · Q8a H8 · access: library · [unverified]
+  `#c/loanword #r/genealogy #e/secondary #s/contested` · subj 17–20c · Q8a H8 · access: library · [unverified]
 - Lowe, Kate, & T. F. Earle (eds.), *Black Africans in Renaissance Europe* (CUP, 2005); and the "Rethinking 'Domestic Enemies': Slavery and Race Formation in Late Medieval Florence" literature. The Florentine end of the same question. @lowe-earle-2005
-  `#c/nexus #d/hellenistic #e/attested` · subj 14–16c · src 2005 · Q8a H9 · access: library · [unverified]
+  `#c/nexus #d/hellenistic #e/secondary` · subj 14–16c · src 2005 · Q8a H9 · access: library · [unverified]
 - ! Alessandro de' Medici's maternity — **contested**. Spini traces Simonetta da Collevecchio to the Roman peasantry; Nestor (1560s) reports the African-servile origin as a rumour circulated by Alessandro's exiled enemies; Hibbert and Brackett accept it. Catalogued as a case of ancestry claims generated as political weapons, **not** as evidence for the household channel. @alessandro
-  `#c/nexus #r/deflation #e/contested` · subj 1510–37 · Q8a · access: open · [unverified]
+  `#c/nexus #r/deflation #e/secondary #s/contested` · subj 1510–37 · Q8a · access: open · [unverified]
 - Florentine banking diaspora (Bardi, Peruzzi, Medici branches at London, Bruges, Avignon, Lyon) and the Council of Ferrara-Florence 1438–39 → Gemistos Plethon → Ficino. **Florence's contact runs outward and arrives late and elite** — the evidence behind H9's *diaspora-return* type. @florence-contact
   `#c/nexus #r/analogy #e/inferred` · subj 13–15c · Q8a H9 · access: library · [unverified]
 
 - **Schafer, Edward H., *The Golden Peaches of Samarkand: A Study of T'ang Exotics* (1963)** — a catalogue of what actually moved into Tang China: goods, plants, animals, drugs, textiles, people. **The market-channel evidence base for the best-documented East Asian nexus**, and directly comparable to Begram in kind. Reached via the *Under Heaven* lead (§14.4). @schafer-1963
-  `#d/central-asia #c/material-culture #e/attested` · subj 7–9c · src 1963 · Q8a H8 · access: library · [unverified]
+  `#d/central-asia #c/material-culture #e/secondary` · subj 7–9c · src 1963 · Q8a H8 · access: library · [unverified]
 - **Tang Chang'an** as a comparison case — Buddhism, Nestorian Christianity, Manichaeism and Zoroastrianism all institutionally present; Chan emerges as a genuine synthesis; and the **Huichang persecution of 845 closes it**. A positive case with a datable termination, which few of the others have. @changan
-  `#c/nexus #d/chan #e/attested` · subj 7–9c · Q8a Q6 · access: library · [unverified]
+  `#c/nexus #d/chan #e/secondary` · subj 7–9c · Q8a Q6 · access: library · [unverified]
 - **al-Andalus** as a comparison case — the three-faith society, and the Greek→Arabic→Latin translation movement that carried philosophy across a religious boundary. A test for H7: doctrine *and* method crossed here, which the institutional-freeze reading has to accommodate. @al-andalus
-  `#c/nexus #r/genealogy #e/contested` · subj 8–13c · Q8a H7 · access: library · [unverified]
+  `#c/nexus #r/genealogy #e/secondary #s/contested` · subj 8–13c · Q8a H7 · access: library · [unverified]
 - Nirenberg, David, *Communities of Violence* (1996) — argues that coexistence and systematic violence in medieval Iberia were **one system, not alternatives**. The corrective to any harmonised reading of *convivencia*, and a warning that "generative contact zone" may describe places that were also extremely violent. @nirenberg-1996
-  `#c/nexus #r/deflation #e/attested` · subj 13–14c · src 1996 · Q8a · access: library · [unverified]
+  `#c/nexus #r/deflation #e/secondary` · subj 13–14c · src 1996 · Q8a · access: library · [unverified]
 
 - **Van Valen, Leigh, "A New Evolutionary Law," *Evolutionary Theory* 1 (1973)** — log-linear taxonomic survivorship curves implying extinction probability essentially independent of age. The origin of the memorylessness claim; contested, with age-dependence counterexamples in later paleobiology. @vanvalen-1973
-  `#c/nexus #d/method #e/contested` · subj n/a · src 1973 · Q8a H10 · access: open · [unverified]
+  `#c/nexus #d/method #e/secondary #s/contested` · subj n/a · src 1973 · Q8a H10 · access: open · [unverified]
 - **Arbesman, Samuel, "The Life-Spans of Empires," *Historical Methods* 44:3 (2011)** — tests the claim directly on polities: N = 41 empires over three millennia, lifespans fitting a **memoryless exponential distribution**, collapse rate independent of age. **The load-bearing citation for H10**, and the reason "they all ended" cannot be treated as informative. Small N. @arbesman-2011
-  `#c/nexus #d/method #e/attested` · subj 3000 BCE–2000 CE · src 2011 · Q8a H10 · access: open (PDF)
+  `#c/nexus #d/method #e/secondary` · subj 3000 BCE–2000 CE · src 2011 · Q8a H10 · access: open (PDF)
 - **Norse–English contact and the Danelaw** — borrowing of the third-person plural pronouns (*they, them, their*) alongside core vocabulary and place-name elements. Pronoun borrowing sits near the top of the Thomason–Kaufman intensity scale: **the clearest available signature of household-level fusion**, and the comparison class's only *non-terminated* case. @norse-english
-  `#c/loanword #r/genealogy #e/attested` · subj 865–1100 · Q8a H8 · access: library · [unverified]
+  `#c/loanword #r/genealogy #e/secondary` · subj 865–1100 · Q8a H8 · access: library · [unverified]
 - Kay, Guy Gavriel, *The Last Light of the Sun* (2004) — Norse, Anglo-Saxon and Celtic Britain. The lead that surfaced the Danelaw as Q8a's missing case. @kay-lastlight
   `#c/nexus #d/method #e/heuristic` · subj 9–10c · src 2004 · Q8a · access: purchase
 
@@ -722,16 +722,16 @@ intentional. Treated as sources of questions, they are nonetheless unusually wel
 - **Cambrian drivers — the ecological question, not the contingency one.** Current accounts combine (i) **unoccupied ecospace**, where limited species interaction let poorly-optimised body plans briefly persist; (ii) **predation and escalation**, the origin of durophagy and motile predators driving biomineralisation and defence; and (iii) **developmental innovation** in gene regulatory networks. The consolidation afterwards is the part that matters most here: **conservation of lineage-specific GRN kernels** is the standard explanation for why body plans froze and disparity never recurred. @cambrian-drivers
   `#c/nexus #d/method #e/heuristic` · subj 540–485 Ma · Q8a H12 H13 · access: open · [unverified]
 - **Sperber, Dan, *Explaining Culture* (1996); Claidière & Sperber, "What are cultural attractors?"** — cultural attraction theory: transmission is **transformation rather than replication**, and distributions are shaped by attractors — variants that reconstruction reliably converges on. **Explicitly criticises the faithful-transmission assumption memetics requires.** The developed scholarly form of the analog-channel position (`methods.md` §1.2a). @sperber-attractors
-  `#c/loanword #r/deflation #e/attested` · src 1996, 2017 · Q7 H8 · access: open · [unverified]
+  `#c/loanword #r/deflation #e/secondary` · src 1996, 2017 · Q7 H8 · access: open · [unverified]
 - **Vedic *vikṛti pāṭha*** — *krama*, *jaṭā*, *ghana* and the other permutation recitations: **literal error-detecting codes**, redundancy purchased at high training cost by a tradition needing centuries of fidelity without writing. The extreme confirming case for `methods.md` §1.2b. @vedic-patha
-  `#d/nikaya #c/translation-layer #e/attested` · subj 1000 BCE– · Q7 H7 · access: library · [unverified]
+  `#d/nikaya #c/translation-layer #e/secondary` · subj 1000 BCE– · Q7 H7 · access: library · [unverified]
 
 - **Virulence–transmission tradeoff** — who bears the cost of a parasite's reproduction is frequency-dependent; high virulence damages the host population and feeds back as a cost to the parasite. **Transposed to culture it does not work, and H14 has been reformulated without it.** Two failures: (i) parasite virulence is a *byproduct* of within-host replication, whereas a doctrine's demands may be its content rather than a side-effect of spreading; (ii) the sign is wrong — see @iannaccone-1994. Retained as a worked example of an analogy that looked apt and was not. @virulence-tradeoff
   `#c/nexus #r/deflation #e/heuristic` · subj n/a · Q2 H14 · access: library · [unverified]
 - **Iannaccone, Laurence R., "Why Strict Churches Are Strong," *American Journal of Sociology* 99:5 (1994), 1180–1211**; and "Sacrifice and Stigma," *JPE* 100:2 (1992) — costly demands **screen out free-riders and raise participation among those who remain**, so strictness makes groups stronger. Directly contradicts the naive reading in which demand caps spread. @iannaccone-1994
-  `#c/nexus #r/deflation #e/attested` · subj 20c · src 1992, 1994 · H14 · access: open · [unverified]
+  `#c/nexus #r/deflation #e/secondary` · subj 20c · src 1992, 1994 · H14 · access: open · [unverified]
 - **The Shakers** — mandatory celibacy left growth dependent entirely on conversion and adoption; peak membership around 6,000 in the 1840s, now effectively extinct. **The extinction branch of H14**, and a case where demands were *not* moderated. Also xian's correction that the cap can be biological, not merely social. @shakers
-  `#c/nexus #d/christian #e/attested` · subj 1770–present · H14 · access: library · [unverified]
+  `#c/nexus #d/christian #e/secondary` · subj 1770–present · H14 · access: library · [unverified]
 - **Network effects and scale economies** — the right frame for "a common doctrine has infrastructure that amortises cost," which is economics rather than epidemiology. Demand-side network effects (a shared vocabulary is worth more the more people hold it) and supply-side scale economies (schools, copied texts) are distinct mechanisms and should not be merged. @network-effects
   `#c/nexus #d/method #e/heuristic` · subj n/a · H14 · access: library · [unverified]
 
@@ -765,11 +765,11 @@ axis is the section's first task, and the sort is not yet done.
 
 | Specimen | Carried | Altered what it carried? | Endogamy | Tag |
 |---|---|---|---|---|
-| Sogdian merchant network | Buddhism, Manichaeism, Christianity, Zoroastrianism | **Open** — the standing question for H11 | high | `#c/diaspora #d/central-asia #e/attested` |
-| Georgian monks at Mount Athos | the Barlaam material, Arabic → Georgian → Greek | Yes — Christianisation of the narrative | n/a (monastic) | `#c/diaspora #r/genealogy #e/attested` |
-| Florentine banking houses | credit instruments, artistic patronage | Yes | low | `#c/diaspora #e/attested` |
-| Jewish and Armenian mercantile networks | goods, credit, script, language | Open | high | `#c/diaspora #e/unverified` |
-| African diaspora, American Southeast | language, foodways, music, religion — via the household | Yes, decisively | forced | `#c/diaspora #c/household-channel #e/attested` |
+| Sogdian merchant network | Buddhism, Manichaeism, Christianity, Zoroastrianism | **Open** — the standing question for H11 | high | `#c/diaspora #d/central-asia #e/secondary` |
+| Georgian monks at Mount Athos | the Barlaam material, Arabic → Georgian → Greek | Yes — Christianisation of the narrative | n/a (monastic) | `#c/diaspora #r/genealogy #e/secondary` |
+| Florentine banking houses | credit instruments, artistic patronage | Yes | low | `#c/diaspora #e/secondary` |
+| Jewish and Armenian mercantile networks | goods, credit, script, language | Open | high | `#c/diaspora #e/secondary` |
+| African diaspora, American Southeast | language, foodways, music, religion — via the household | Yes, decisively | forced | `#c/household-channel #e/secondary` |
 
 **Mount Athos is the newest specimen and the cleanest.** §14.8's chain passes through a Georgian
 monastic community inside a Greek institution: Euthymius of Athos, a Georgian, translating into
@@ -831,28 +831,28 @@ move made by a different tradition for different reasons.
 - *Ariyapariyesanā Sutta* (MN 26) — the Buddha's named teachers, Āḷāra Kālāma and Uddaka Rāmaputta, and his departure from them. An explicit lineage claim, and an explicit repudiation. @ariyapariyesana
   `#d/nikaya #c/lineage-narrative #e/primary` · subj 5–4c BCE · Q4 · access: open
 - Bronkhorst, Johannes, *Greater Magadha: Studies in the Culture of Early India* (Brill, 2007) — a non-Vedic cultural sphere in the lower Gangetic plain with its own karma/rebirth ideas, stūpa burial, distinct medicine and cyclical time; the cradle of Buddhism, Jainism and Ājīvikism, **not** an offshoot of Brahmanism. Contested: critics dispute how sharp the east/west division was. @bronkhorst-2007
-  `#d/nikaya #r/deflation #e/contested` · subj 800–300 BCE · src 2007 · Q2 Q4 · access: library · [unverified]
+  `#d/nikaya #r/deflation #e/secondary #s/contested` · subj 800–300 BCE · src 2007 · Q2 Q4 · access: library · [unverified]
 - ——, *Buddhism in the Shadow of Brahmanism* (Brill, 2011). @bronkhorst-2011
-  `#d/nikaya #c/emic-etic #e/contested` · subj 300 BCE–500 CE · src 2011 · Q2 · access: open (PDF) · [unverified]
+  `#d/nikaya #c/emic-etic #e/secondary #s/contested` · subj 300 BCE–500 CE · src 2011 · Q2 · access: open (PDF) · [unverified]
 - The second urbanization — iron, surplus, coinage, Magadha and Kosala. The material precondition for a renunciant class. @second-urbanization
-  `#d/nikaya #c/material-culture #e/attested` · subj 700–300 BCE · Q2 Q4 · access: library · [unverified]
+  `#d/nikaya #c/material-culture #e/secondary` · subj 700–300 BCE · Q2 Q4 · access: library · [unverified]
 
 ### 12.3 Jesus's milieu
 
 - Mark 1:9–11 // Matt 3:13–17 // Luke 3:21–22; Josephus, *Ant.* 18.5.2 — the baptism by John, and Josephus's independent notice of John. **The one solid lineage datum**, and the standard illustration of the criterion of embarrassment. @baptism
   `#d/christian #c/lineage-narrative #e/primary` · subj c. 28 CE · Q4 · access: open
 - Sanders, E. P., *Jesus and Judaism* (1985); *The Historical Figure of Jesus* (1993) — the apocalyptic reconstruction, and the standard against which others argue. @sanders
-  `#d/christian #c/historical-jesus #e/attested` · subj 1c CE · src 1985, 1993 · Q4 · access: purchase · [unverified]
+  `#d/christian #c/historical-jesus #e/secondary` · subj 1c CE · src 1985, 1993 · Q4 · access: purchase · [unverified]
 - Allison, Dale C., *Constructing Jesus* (2010) — on memory, and on how much of the reconstruction the sources can actually bear. @allison-2010
-  `#d/christian #c/historical-jesus #e/attested` · subj 1c CE · src 2010 · Q4 · access: purchase · [unverified]
+  `#d/christian #c/historical-jesus #e/secondary` · subj 1c CE · src 2010 · Q4 · access: purchase · [unverified]
 - **Realized versus consistent eschatology** — C. H. Dodd argued the kingdom is *already present* in Jesus's proclamation; Schweitzer that it is imminent and future. The current majority position resolves them as inaugurated eschatology, holding both in tension. **This is the axis on which the "primacy of the present moment" question turns** (Q3): the parallel to Buddhist framings of awakening is available on the realized reading and largely disappears on the consistent one. @eschatology-debate
-  `#d/christian #c/historical-jesus #e/contested` · subj 1c CE · src 1935– · Q3 · access: library · [unverified]
+  `#d/christian #c/historical-jesus #e/secondary #s/contested` · subj 1c CE · src 1935– · Q3 · access: library · [unverified]
 - Crossan, J. D., *The Historical Jesus* (1991); Mack, Burton, *A Myth of Innocence* (1988) — the Cynic-sage reconstruction: itinerant, propertyless, aphoristic. **Contested**, and its premise of a thoroughly Hellenized Galilee is disputed by Meyers and others. Included as the live alternative to the apocalyptic reading. @crossan-mack
-  `#d/christian #c/historical-jesus #e/contested` · subj 1c CE · src 1988, 1991 · Q4 · access: purchase · against: @sanders · [unverified]
+  `#d/christian #c/historical-jesus #e/secondary #s/contested` · subj 1c CE · src 1988, 1991 · Q4 · access: purchase · against: @sanders · [unverified]
 - Sepphoris and Tiberias — the archaeology of Hellenized Galilee. Material rather than textual evidence for the milieu. @galilee-archaeology
-  `#d/hellenistic #c/material-culture #e/attested` · subj 1c CE · Q4 · access: library · [unverified]
+  `#d/hellenistic #c/material-culture #e/secondary` · subj 1c CE · Q4 · access: library · [unverified]
 - ! Notovitch, Nicolas, *The Unknown Life of Jesus Christ* (1894) — the "Life of Saint Issa"; Jesus in India. **Exposed as fabrication by Max Müller**; the Hemis manuscript was never produced. Catalogued as the origin of a persistent claim, not as evidence. @notovitch-1894
-  `#c/historical-jesus #r/genealogy #e/fringe` · src 1894 · access: open · [unverified]
+  `#c/historical-jesus #r/genealogy #e/secondary #s/fringe` · src 1894 · access: open · [unverified]
 
 ### 12.4 The death of Jesus, and the traditions in which he does not die
 
@@ -871,7 +871,7 @@ far, because it shows the two traditions actively diverging rather than merely d
 - Tacitus, *Annals* 15.44 — independent, hostile notice of the execution under Pilate. With the criterion of embarrassment, the basis for treating the crucifixion as among the best-attested facts about Jesus. @tacitus
   `#d/hellenistic #c/historical-jesus #e/primary` · subj c. 116 CE · Q3 · access: open
 - ! Schonfield, Hugh, *The Passover Plot* (1965); and the Ahmadiyya tradition of survival and death at Srinagar. The apparent-death hypothesis. Not held in mainstream scholarship. @swoon
-  `#c/historical-jesus #r/genealogy #e/fringe` · src 1965 · Q3 · access: purchase · [unverified]
+  `#c/historical-jesus #r/genealogy #e/secondary #s/fringe` · src 1965 · Q3 · access: purchase · [unverified]
 
 ? There is no forensic proof of death and there cannot be. What exists is unanimous early testimony
 including from hostile and independent sources, and **no early tradition of survival** — the denials
@@ -885,51 +885,51 @@ fact of a death on the cross. That distinction matters for Q3 and should not be 
 Full treatment in `methods.md`. Sources only here.
 
 - Smith, Jonathan Z., *Drudgery Divine* @smith-1990
-  `#d/method #r/deflation #e/attested` · subj 1600–1990 · src 1990 · Q7 · access: purchase
+  `#d/method #r/deflation #e/secondary` · subj 1600–1990 · src 1990 · Q7 · access: purchase
 - ——, *Map Is Not Territory*; *Imagining Religion* @smith-map
-  `#d/method #r/analogy #e/attested` · src 1978, 1982 · Q7 · access: purchase · [unverified]
+  `#d/method #r/analogy #e/secondary` · src 1978, 1982 · Q7 · access: purchase · [unverified]
 - Lincoln, Bruce, "Theses on Method," *MTSR* 8 — two pages; the sharpest statement on scholarship versus its object. **Bears on the adherent-veto decision.** @lincoln-1996
-  `#d/method #r/none #e/attested` · src 1996 · Q5 · access: open · against: @wcsmith
+  `#d/method #r/none #e/secondary` · src 1996 · Q5 · access: open · against: @wcsmith
 - Smith, Wilfred Cantwell, *Towards a World Theology* — the adherent-acceptability principle. @wcsmith
-  `#d/method #c/emic-etic #e/contested` · src 1981 · Q5 · access: library · against: @lincoln-1996 · [unverified]
+  `#d/method #c/emic-etic #e/secondary #s/contested` · src 1981 · Q5 · access: library · against: @lincoln-1996 · [unverified]
 - Headland, Pike & Harris (eds.), *Emics and Etics: The Insider/Outsider Debate* — **where Pike and Harris argue it out directly.** @headland-1990
-  `#d/method #c/emic-etic #e/attested` · src 1990 · Q5 · access: library
+  `#d/method #c/emic-etic #e/secondary` · src 1990 · Q5 · access: library
 - McCutcheon, Russell T. (ed.), *The Insider/Outsider Problem in the Study of Religion* @mccutcheon-1999
-  `#d/method #c/emic-etic #e/attested` · src 1999 · Q5 · access: library · [unverified]
+  `#d/method #c/emic-etic #e/secondary` · src 1999 · Q5 · access: library · [unverified]
 - Asad, Talal, *Genealogies of Religion*; Masuzawa, Tomoko, *The Invention of World Religions* — **"religion" and its cognates as historically constructed categories**; the reflexivity problem (`methods.md` §2.7). @asad-masuzawa
-  `#d/method #c/emic-etic #e/attested` · src 1993, 2005 · Q5 · access: purchase · [unverified]
+  `#d/method #c/emic-etic #e/secondary` · src 1993, 2005 · Q5 · access: purchase · [unverified]
 - Taves, Ann, *Religious Experience Reconsidered* — the convergence explanation; deflator 4. @taves-2009
   `#d/method #r/deflation #e/inferred` · src 2009 · Q7 · access: purchase · [unverified]
 - Spinney, Laura, *Proto* — the project's methodological prompt. @spinney-2025
-  `#d/indo-european #c/loanword #e/attested` · subj 4500 BCE– · src 2025 · Q7 · access: held
+  `#d/indo-european #c/loanword #e/secondary` · subj 4500 BCE– · src 2025 · Q7 · access: held
 - Anthony, David W., *The Horse, the Wheel, and Language* @anthony-2007
-  `#d/indo-european #c/material-culture #e/attested` · subj 4500–1500 BCE · src 2007 · Q7 · access: purchase · [unverified]
+  `#d/indo-european #c/material-culture #e/secondary` · subj 4500–1500 BCE · src 2007 · Q7 · access: purchase · [unverified]
 - Reich, David, *Who We Are and How We Got Here* @reich-2018
-  `#d/indo-european #c/genetics #e/attested` · subj 50000 BCE– · src 2018 · Q7 · access: purchase · [unverified]
+  `#d/indo-european #c/genetics #e/secondary` · subj 50000 BCE– · src 2018 · Q7 · access: purchase · [unverified]
 - **Zhang F. et al. (34 authors), "The genomic origins of the Bronze Age Tarim Basin mummies," *Nature* 599 (2021)** — genetically isolated local population, culturally cosmopolitan. **Culture moved; people did not. The project's calibration case for how genetics deflates a diffusion story.** @tarim-2021
-  `#d/central-asia #c/genetics #e/attested` · subj 2100–1700 BCE · src 2021 · Q7 · access: held · license: cc-by · doi 10.1038/s41586-021-04052-7
+  `#d/central-asia #c/genetics #e/secondary` · subj 2100–1700 BCE · src 2021 · Q7 · access: held · license: cc-by · doi 10.1038/s41586-021-04052-7
 - Huerta-Sánchez E. et al., "Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA," *Nature* 512 (2014) — Tibetan highland adaptation. Included to **mark a boundary**: genetics answers questions about people; doctrines are not carried in genomes. @epas1-2014
-  `#d/tibetan #c/genetics #e/attested` · subj 40000 BCE– · src 2014 · Q7 · access: WANTED (W2) · doi 10.1038/nature13408
+  `#d/tibetan #c/genetics #e/secondary` · subj 40000 BCE– · src 2014 · Q7 · access: WANTED (W2) · doi 10.1038/nature13408
 - Li C. et al., "Evidence that a West-East admixed population lived in the Tarim Basin as early as the early Bronze Age," *BMC Biology* 8 (2010); and "Analysis of ancient human mitochondrial DNA from the Xiaohe cemetery," *BMC Genetics* 16 (2015) — **the pre-2021 consensus that @tarim-2021 overturned**, by the group that established it. Holding the before *and* the after is what makes the calibration case arguable rather than asserted. @li-xiaohe
-  `#d/central-asia #c/genetics #e/contested` · subj 2100–1700 BCE · src 2010, 2015 · Q7 · access: held · license: cc-by · against: @tarim-2021
+  `#d/central-asia #c/genetics #e/secondary #s/contested` · subj 2100–1700 BCE · src 2010, 2015 · Q7 · access: held · license: cc-by · against: @tarim-2021
 - Dai S.-S. et al., "The Genetic Echo of the Tarim Mummies in Modern Central Asians," *Mol. Biol. Evol.* 39 (2022). @dai-2022
-  `#d/central-asia #c/genetics #e/attested` · subj 2100 BCE–present · src 2022 · Q7 · access: held · license: cc-by-nc
+  `#d/central-asia #c/genetics #e/secondary` · subj 2100 BCE–present · src 2022 · Q7 · access: held · license: cc-by-nc
 - Zhao X. et al., "Tracing bronze to iron age population dynamics in Northwest Xinjiang using ancient genomes," *Genome Biology* (2026). @zhao-2026
-  `#d/central-asia #c/genetics #e/attested` · subj 2000–500 BCE · src 2026 · Q6 Q7 · access: held · license: cc-by-nc-nd
+  `#d/central-asia #c/genetics #e/secondary` · subj 2000–500 BCE · src 2026 · Q6 Q7 · access: held · license: cc-by-nc-nd
 - Wang T. et al., "Tianshanbeilu and the Isotopic Millet Road: reviewing the late Neolithic/Bronze Age radiation of human millet consumption from north China to Europe," *National Science Review* 6 (2019) — **subsistence and isotopes rather than genomes**: material evidence for the corridor, and a rare case where the thing demonstrably transmitted is a crop. @wang-2019
-  `#d/central-asia #c/material-culture #e/attested` · subj 3000–1000 BCE · src 2019 · Q6 Q7 · access: held · license: cc-by
+  `#d/central-asia #c/material-culture #e/secondary` · subj 3000–1000 BCE · src 2019 · Q6 Q7 · access: held · license: cc-by
 - Hu H. et al., "Evolutionary history of Tibetans inferred from whole-genome sequencing," *PLoS Genetics* 13 (2017). @hu-2017
-  `#d/tibetan #c/genetics #e/attested` · subj 40000 BCE– · src 2017 · Q7 · access: held · license: cc-by
+  `#d/tibetan #c/genetics #e/secondary` · subj 40000 BCE– · src 2017 · Q7 · access: held · license: cc-by
 - **Haber M. et al., "Ancient DNA and the rewriting of human history: be sparing with Occam's razor," *Genome Biology* 17 (2016)** — a caution paper from inside the field about over-reading aDNA into simple migration stories. **Reads as a genetics-native statement of `methods.md` §6's deflators.** @haber-2016
-  `#c/genetics #r/deflation #e/attested` · subj n/a · src 2016 · Q7 · access: held · license: cc-by
+  `#c/genetics #r/deflation #e/secondary` · subj n/a · src 2016 · Q7 · access: held · license: cc-by
 - Hendy J., "Ancient protein analysis in archaeology," *Science Advances* 7 (2021) — paleoproteomics; what the newer molecular toolkit can and cannot establish. @hendy-2021
-  `#c/material-culture #d/method #e/attested` · subj n/a · src 2021 · Q7 · access: held · license: cc-by-nc
+  `#c/material-culture #d/method #e/secondary` · subj n/a · src 2021 · Q7 · access: held · license: cc-by-nc
 - Nelson S. et al., "Tracing population movements in ancient East Asia through the linguistics and archaeology of textile production," *Evolutionary Human Sciences* 2 (2020) — **converging linguistic and material evidence on one technology**, which is the Spinney/`Proto` method applied to East Asia. @nelson-2020
-  `#d/central-asia #c/loanword #e/attested` · subj 5000–1000 BCE · src 2020 · Q7 · access: held · license: cc-by
+  `#d/central-asia #c/loanword #e/secondary` · subj 5000–1000 BCE · src 2020 · Q7 · access: held · license: cc-by
 - Tocharian, Gāndhārī, Sogdian, Bactrian — the corridor's languages and their loanword evidence. @corridor-languages
-  `#d/central-asia #c/loanword #e/attested` · subj 1–10c CE · Q6 Q7 · access: library
+  `#d/central-asia #c/loanword #e/secondary` · subj 1–10c CE · Q6 Q7 · access: library
 - Witzel, E. J. Michael, *The Origins of the World's Mythologies* — ambitious deep-time diffusion; useful because contested. @witzel-2012
-  `#d/indo-european #r/homology #e/contested` · subj 65000 BCE– · src 2012 · Q7 · access: purchase · [unverified]
+  `#d/indo-european #r/homology #e/secondary #s/contested` · subj 65000 BCE– · src 2012 · Q7 · access: purchase · [unverified]
 
 ---
 
@@ -940,11 +940,11 @@ Protocol in `methods.md` §3. Sources only here.
 - Cross-translator study: Simmons / Reynolds / Clemente / Shane / Lukianowicz on shared Norbu terminology. → **The practicable H4 instrument.** @cross-translator
   `#c/translation-layer #d/dzogchen #e/inferred` · subj 1980s · H4 · access: partial
 - Lopez, Donald S., Jr., *Prisoners of Shangri-La* — how Tibetan Buddhism was reshaped in Western reception. @lopez-1998
-  `#d/tibetan #c/translation-layer #e/attested` · subj 1900–1998 · src 1998 · H4 · access: purchase · [unverified]
+  `#d/tibetan #c/translation-layer #e/secondary` · subj 1900–1998 · src 1998 · H4 · access: purchase · [unverified]
 - McMahan, David L., *The Making of Buddhist Modernism* — the idiom in which 20th-c. Buddhist teaching addressed Western audiences. @mcmahan-2008
-  `#d/mahayana #c/translation-layer #e/attested` · subj 1850–2008 · src 2008 · H4 · access: purchase · [unverified]
+  `#d/mahayana #c/translation-layer #e/secondary` · subj 1850–2008 · src 2008 · H4 · access: purchase · [unverified]
 - Said, Edward, *Orientalism*, read alongside its Tibetology-specific critics — contested in application to Buddhist studies, which is itself informative. @said-1978
-  `#d/method #c/translation-layer #e/contested` · subj 1800–1978 · src 1978 · H4 · access: purchase · [unverified]
+  `#d/method #c/translation-layer #e/secondary #s/contested` · subj 1800–1978 · src 1978 · H4 · access: purchase · [unverified]
 - Tucci, Giuseppe, and the IsMEO milieu in Naples — Norbu's institutional context, and a case where scholarship and its political setting are hard to separate. @tucci
   `#d/tibetan #c/emic-etic #e/inferred` · subj 1930–80 · Q5 · access: library · [unverified]
 
@@ -1052,11 +1052,11 @@ Serves H7 via `methods.md` §1.2b. Vedic and Homeric epic solve the same analog-
 **opposite strategies**, and their diffusion histories differ accordingly.
 
 - **Parry, Milman**, *The Making of Homeric Verse* (1971); **Lord, Albert B., *The Singer of Tales* (1960)** — oral-formulaic composition: metrically-fitted formulae, type-scenes and story-patterns as a *generator* rather than a stored text; the South Slavic *guslari* fieldwork showing the song stable while the text varied between performances. **Contested** — hard vs soft Parryists, revived neoanalysis, Kullmann arguing for literate composition. @parry-lord
-  `#c/lineage-narrative #d/hellenistic #e/contested` · subj 8c BCE / 1930s · src 1960, 1971 · H7 · access: library · [unverified]
+  `#c/lineage-narrative #d/hellenistic #e/secondary #s/contested` · subj 8c BCE / 1930s · src 1960, 1971 · H7 · access: library · [unverified]
 - **Alexandrian textual scholarship** — Zenodotus (first librarian, c. 284–260 BCE) marking suspect lines with the *obelos*; Aristarchus of Samothrace (head librarian 216–144 BCE) developing the fuller sign system with *hypomnemata* justifying each judgement, preserved in Venetus A. **The first genuine error-correction apparatus for Homer, and it is philological rather than priestly.** Built at the nexus (§11). @alexandrian-editors
-  `#d/hellenistic #c/canon-formation #e/attested` · subj 3–2c BCE · Q8b H7 · access: open · [unverified]
+  `#d/hellenistic #c/canon-formation #e/secondary` · subj 3–2c BCE · Q8b H7 · access: open · [unverified]
 - Nagy, Gregory — the evolutionary model of Homeric textual fixation: progressive stabilisation through performance over centuries rather than a single dictation event. @nagy
-  `#d/hellenistic #c/canon-formation #e/contested` · subj 8–2c BCE · Q8b · access: library · [unverified]
+  `#d/hellenistic #c/canon-formation #e/secondary #s/contested` · subj 8–2c BCE · Q8b · access: library · [unverified]
 
 **The finding.** Error-correction regimes are **historically contingent, and the same material can
 pass between them** — for Homer: singer → polis → library, with *correct* meaning successively "scans
@@ -1100,13 +1100,13 @@ it. Both readings are correct from their respective positions — and **that an 
 regime's authority stops at the school boundary is H7 appearing precisely where H7 predicts it.**
 
 - **Doctor, Andreas, *Tibetan Treasure Literature: Revelation, Tradition, and Accomplishment in Visionary Buddhism* (Snow Lion, 2005)** — the authentication question head-on: how a community decides whether a revealed text is Buddha Word. **The single best source for testing xian's gating hypothesis.** @doctor-2005
-  `#c/terma #d/nyingma #e/attested` · subj 11–19c · src 2005 · Q5 H7 · access: purchase · [unverified]
+  `#c/terma #d/nyingma #e/secondary` · subj 11–19c · src 2005 · Q5 H7 · access: purchase · [unverified]
 - **Gyatso, Janet, "The Logic of Legitimation in the Tibetan Treasure Tradition," *History of Religions* (1993)**; and *Apparitions of the Self* (1998) on Jigme Lingpa. The foundational analysis of legitimation strategy. @gyatso-1993
-  `#c/lineage-narrative #d/nyingma #e/attested` · subj 14–18c · src 1993, 1998 · Q4 Q5 · access: library · [unverified]
+  `#c/lineage-narrative #d/nyingma #e/secondary` · subj 14–18c · src 1993, 1998 · Q4 Q5 · access: library · [unverified]
 - **Sakya Paṇḍita, *sDom gsum rab dbye* (A Clear Differentiation of the Three Codes)**, 13th c. — attacks Nyingma revelation as fabricated. **A hostile witness, and therefore evidence that the authentication was contested at the time** rather than uniformly accepted. @sakya-pandita
   `#d/tibetan #r/deflation #e/primary` · subj 13c · Q5 H7 · access: library · [unverified]
 - Mayer, Robert, & Cathy Cantwell — work on the Nyingma treasure tradition and its textual practices. @mayer-cantwell
-  `#c/terma #d/nyingma #e/attested` · subj 8–19c · access: library · [unverified]
+  `#c/terma #d/nyingma #e/secondary` · subj 8–19c · access: library · [unverified]
 
 ? **Does the terma mechanism appear only in traditions with strong chain-of-transmission
 requirements?** If revelation-bypass is a response to expensive lineage-based error-correction, it
@@ -1158,13 +1158,13 @@ instrument — the modern case can be used to ask what the ancient sources would
 anyone been taking notes.
 
 - **"The Production of the Book of Mormon in Light of a Tibetan Buddhist Parallel," *Dialogue: A Journal of Mormon Thought* 55:4 (2022)** — the comparison already made in print. @bom-terma-2022
-  `#c/terma #r/analogy #e/contested` · subj 8–19c · src 2022 · Q5 H7 · access: WANTED — closed · doi 10.5406/15549399.55.4.02
+  `#c/terma #r/analogy #e/secondary #s/contested` · subj 8–19c · src 2022 · Q5 H7 · access: WANTED — closed · doi 10.5406/15549399.55.4.02
 - The Testimony of the Three Witnesses and of the Eight Witnesses, printed in the *Book of Mormon* (1830) — **a manufactured certification signal**, and a primary document of the substitute-verification strategy. @bom-witnesses
   `#d/christian #c/canon-formation #e/primary` · subj 1829–30 · H7 · access: open
 - Bushman, Richard, *Joseph Smith: Rough Stone Rolling* (2005) — the standard scholarly biography; a believing historian writing critically, which makes it also a case study for `methods.md` §2.3 on insider/outsider versus emic/etic. @bushman-2005
-  `#d/christian #c/emic-etic #e/attested` · subj 1805–44 · src 2005 · Q5 · access: purchase · [unverified]
+  `#d/christian #c/emic-etic #e/secondary` · subj 1805–44 · src 2005 · Q5 · access: purchase · [unverified]
 - "Political Rivalry and Doctrinal Debates: A Modern Tibetan Response to the Controversy of Buddhist Revelation" (2017) — terma controversy in a modern setting. @tibetan-revelation-2017
-  `#c/terma #r/deflation #e/contested` · subj 20c · src 2017 · Q5 · access: WANTED — closed
+  `#c/terma #r/deflation #e/secondary #s/contested` · subj 20c · src 2017 · Q5 · access: WANTED — closed
 
 ### 14.6 The Christian sequence — canon, scriptorium, pecia, press
 
@@ -1272,9 +1272,9 @@ networks — rather than being delivered by the technology. **The printer's devi
 signal, and pirates copied the device.**
 
 - **Gresham's law** — bad money drives out good *under forced parity*; contested in its strong form (Rolnick & Weber). **The sharpest available statement of when selection stops tracking quality**, and xian's addition. @greshams-law
-  `#c/nexus #d/method #e/contested` · subj 14c– · H7 · access: open · [unverified]
+  `#c/nexus #d/method #e/secondary #s/contested` · subj 14c– · H7 · access: open · [unverified]
 - **Akerlof, George A., "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism," *Quarterly Journal of Economics* 84:3 (1970)** — where buyers cannot observe quality they pay only the average, so good sellers withdraw, average quality falls, and the market can unravel until only bad goods remain. **Not the general case of Gresham but a distinct failure mode** — unobservability rather than forced parity. Remedies are warranties, brands and certification, which is why signalling is a necessary component of any market-based correction regime. Connects to the costly-signalling literature at @iannaccone-1994. @akerlof-1970
-  `#c/nexus #d/method #e/attested` · src 1970 · H7 H14 · access: open · [unverified]
+  `#c/nexus #d/method #e/secondary` · src 1970 · H7 H14 · access: open · [unverified]
 
 **A convergence worth flagging.** About half the scribes, philologists, correctors and typesetters
 working on Aldine editions came from the **Greek diaspora in Venice** — largely post-1453. So a
@@ -1291,15 +1291,15 @@ selection mechanism with no ancient analogue.)*
 - Athanasius, 39th Festal Letter (367); Eusebius, *Hist. Eccl.* III.25; Muratorian fragment. @canon-sources
   `#d/christian #c/canon-formation #e/primary` · subj 2–4c · Q4 H7 · access: open
 - The pecia system; Carolingian scriptorium reform; Caroline minuscule. @pecia
-  `#d/catholic #c/translation-layer #e/attested` · subj 8–14c · H7 · access: library · [unverified]
+  `#d/catholic #c/translation-layer #e/secondary` · subj 8–14c · H7 · access: library · [unverified]
 - **Economic selection as an error-correction regime** — xian's argument, and it generalises past print: where a market exists, buyers select among producers, and accuracy is one dimension they select on. Weaker than natural selection in force and leakier in operation, but not absent, and plausibly **the dominant selective mechanism in the modern period**. Connects to H9's *institutional-capital* nexus type, whose mechanism this is. @economic-selection
   `#c/nexus #d/method #e/inferred` · subj 15c– · H7 H9 · access: n/a
 - **Graeber, David, *Debt: The First 5,000 Years* (2011)** — credit and debt relations as prior to and constitutive of markets, and economic relations as moral and social ones. **The relevant use here is deflationary**: it blocks treating "economic selection" as a natural force. Markets are institutional arrangements, so a market is one more error-correction *regime* with a payer structure, not the absence of one. Contested on historical specifics; the anti-barter argument is the best-received part. @graeber-2011
-  `#c/nexus #d/method #e/contested` · subj 3000 BCE–2011 · src 2011 · H7 H14 · access: purchase · [unverified]
+  `#c/nexus #d/method #e/secondary #s/contested` · subj 3000 BCE–2011 · src 2011 · H7 H14 · access: purchase · [unverified]
 - Aldus Manutius and the Aldine press; Froben at Basel; the corrector as a paid trade role; the Greek diaspora in Venice supplying much of the Aldine correction labour. @aldine
-  `#d/hellenistic #c/contact-route #e/attested` · subj 1490–1520 · H7 H11 · access: library · [unverified]
+  `#d/hellenistic #c/contact-route #e/secondary` · subj 1490–1520 · H7 H11 · access: library · [unverified]
 - Eisenstein, Elizabeth, *The Printing Press as an Agent of Change* (1979) vs **Johns, Adrian, *The Nature of the Book* (1998)** — fixity as inherent property vs as transitive achievement. @eisenstein-johns
-  `#c/translation-layer #d/method #e/contested` · subj 15–18c · src 1979, 1998 · H7 · access: library · [unverified]
+  `#c/translation-layer #d/method #e/secondary #s/contested` · subj 15–18c · src 1979, 1998 · H7 · access: library · [unverified]
 
 ### 14.7 Survivorship — and the formal machinery a sister field already has
 
@@ -1326,9 +1326,9 @@ horizontal gene transfer, and it is why the 1998 study used a **network** method
 tree. The disanalogy was found and handled rather than waved away.
 
 - Barbrook, A. C., Howe, C. J., Blake, N., & Robinson, P., "The phylogeny of *The Canterbury Tales*," *Nature* 394 (1998), 839. @barbrook-1998
-  `#c/lineage-narrative #d/method #e/attested` · subj 15c · src 1998 · Q7 · access: open
+  `#c/lineage-narrative #d/method #e/secondary` · subj 15c · src 1998 · Q7 · access: open
 - Phylomemetics — the general programme of phylogenetic analysis beyond the gene (*PLOS Biology*, 2011). @phylomemetics
-  `#d/method #r/analogy #e/attested` · src 2011 · Q7 · access: open · [unverified]
+  `#d/method #r/analogy #e/secondary` · src 2011 · Q7 · access: open · [unverified]
 - Signor–Lipps effect; ghost lineages; pull of the recent — the named survivorship biases and their corrections. **The argument that this project's bias problems are tractable rather than sui generis.** @survivorship-biases
   `#d/method #r/deflation #e/heuristic` · src 1982– · Q7 · access: library · [unverified]
 
@@ -1450,12 +1450,12 @@ only a sanctity check? Determines whether §5.6 records absent capacity or absen
 **Sources.**
 
 - Hart, David Bentley. "Saint Śākyamuni." Substack. Secondary, no apparatus, credentialed author;
-  corroborates the record. `#d/christian #r/genealogy #e/attested`
+  corroborates the record. `#d/christian #r/genealogy #e/secondary`
 - Kistler, Nick. Substack note `c-314898489`. Uncited word-of-mouth retelling; retained **because**
   it is defective — it is the §3.1 specimen, not evidence for the history.
-  `#d/mahayana #r/genealogy #e/unverified`
+  `#d/mahayana #r/genealogy #e/secondary`
 - `en:Barlaam and Josaphat`, rev 1362809573. Tertiary; used to adjudicate between the two above,
-  not cited for any claim. `#d/method #f/reference #e/unverified`
+  not cited for any claim. `#d/method #f/reference #e/secondary`
 
 ## 14a. Durable artefacts as a transmission corpus — ceramics and basketry
 
@@ -1517,15 +1517,15 @@ Retrieved by OpenAlex title search, 2026-09-14. Query records in `lit/openalex/q
   [10.1016/s0278-4165(03)00004-7](https://doi.org/10.1016/s0278-4165(03)00004-7).
   **Directly on xian's second example**, and it asks the project's question: do basketry traditions
   branch like a phylogeny or blend across neighbours? @jordan-shennan-2003
-  `#c/material-culture #r/homology #e/unverified` · src 2003 · Q8b, H11 · access: closed · [unverified]
+  `#c/material-culture #r/homology #e/secondary` · src 2003 · Q8b, H11 · access: closed · [unverified]
 - Tehrani, Jamshid J., & Mark Collard. "Investigating cultural evolution through biological
   phylogenetic analyses of Turkmen textiles." *Journal of Anthropological Archaeology* 21 (2002).
   [10.1016/s0278-4165(02)00002-8](https://doi.org/10.1016/s0278-4165(02)00002-8).
   The companion method paper; cladistics applied to craft tradition. @tehrani-collard-2002
-  `#c/material-culture #r/homology #e/unverified` · src 2002 · H11 · access: closed · [unverified]
+  `#c/material-culture #r/homology #e/secondary` · src 2002 · H11 · access: closed · [unverified]
 - Olalde, I., et al. "The Beaker phenomenon and the genomic transformation of northwest Europe."
   (2018). The aDNA anchor for the pots-and-people question, and heavily cited. @olalde-2018
-  `#c/genetics #c/material-culture #e/unverified` · src 2018 · Q6, Q8b · access: **check OA** · [unverified]
+  `#c/genetics #r/genealogy #e/secondary` · src 2018 · Q6, Q8b · access: **check OA** · [unverified]
 
 > Both craft-phylogenetics papers are in the *Journal of Anthropological Archaeology*. That is a
 > journal-level target, and a cheaper route than topic search — see §17.1.
@@ -1555,17 +1555,17 @@ is the obvious place to ask it.
 ## 15. Reference tools and databases
 
 - International Dunhuang Project (idp.bl.uk) — digitised manuscripts, searchable. @idp
-  `#d/central-asia #f/dataset #e/attested` · access: open
+  `#d/central-asia #f/dataset #e/secondary` · access: open
 - BDRC / TBRC (tbrc.org) — Tibetan text digitisation archive. @bdrc
-  `#d/tibetan #f/dataset #e/attested` · access: open
+  `#d/tibetan #f/dataset #e/secondary` · access: open
 - *Treasury of Lives* — peer-reviewed Tibetan biographical encyclopedia. @tol
-  `#d/tibetan #f/reference #e/attested` · access: open
+  `#d/tibetan #f/reference #e/secondary` · access: open
 - *Encyclopaedia Iranica* (iranicaonline.org) — the standard reference for the H5 material. @iranica
-  `#d/iranian #f/reference #e/attested` · access: open
+  `#d/iranian #f/reference #e/secondary` · access: open
 - Gandhāran Buddhist Texts project (Univ. of Washington) — the birchbark manuscript editions. @gbt
-  `#d/mahayana #f/dataset #e/attested` · access: open
+  `#d/mahayana #f/dataset #e/secondary` · access: open
 - *Bibliographia Iranica* — Turfan and Central Asian bibliography. @biblio-iranica
-  `#d/central-asia #f/reference #e/attested` · access: open
+  `#d/central-asia #f/reference #e/secondary` · access: open
 
 ---
 
@@ -1619,8 +1619,8 @@ found 150 citations, 7 of them with a durable identifier and no link.
 
 Scope and cautions, recorded before the pass rather than after:
   - **This is a bibliography instrument, not a source.** Wikipedia is tertiary; nothing harvested
-  enters the register on Wikipedia's authority. Harvested items are candidates, tagged
-    `#e/unverified` until traced to the work itself.
+  enters the register on Wikipedia's authority. Harvested items are candidates, marked
+    `[unverified]` until traced to the work itself.
   - **Targets:** the nexus articles §11 is thin on — Gandhara, Kushan Empire, Dunhuang, Silk Road,
   Begram, Greco-Buddhist art, Palmyra, Sogdia — plus the comparison-class sites the duration table
     will need.
@@ -1751,7 +1751,7 @@ resting on a book not read must say so.
 | # | Item | Why | Access |
 |---|---|---|---|
 | 1 | @pons-2025 | Closest located treatment of H5, by a Gandhāra specialist | **held** — read first |
-| 2 | *The Rainbow Body's Inner Cinema* (2025) | Directly on the founding question. **Preprint by a pharmacologist, not a Tibetologist — two independent reasons for `#e/speculative`** | **held** (`lit/direct/`, `.docx`) |
+| 2 | *The Rainbow Body's Inner Cinema* (2025) | Directly on the founding question. **Preprint by a pharmacologist, not a Tibetologist — two independent reasons for `#s/speculative`** | **held** (`lit/direct/`, `.docx`) |
 | 2a | Ponampon, *Dunhuang Manuscript S.2585* (Cambridge PhD, 2019) | Meditative technique and **visionary experience** in a Dunhuang manuscript — the Q8a/`#c/thodgal` intersection, supervised by Galambos. Unsought, open access, retrieved | **held** (`lit/direct/`) |
 | 2b | Rong Xinjiang, "The Nature of the Dunhuang Library Cave…" (1999) | §17.3's named target for Q8a, now with a DOI | `WANTED.md` — Persée refused |
 | 3 | @drewes-2010 | Cheapest correction of the largest misconception (Q2) | library |

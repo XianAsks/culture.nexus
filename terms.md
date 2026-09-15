@@ -227,9 +227,31 @@ structural analogues.
 ## 10. Method terms
 
 - **emic / etic** — categories internal to a system as its participants operate them, versus
-  categories imposed from outside for cross-system comparison. From Pike's clipping of
-  *phonemic* / *phonetic*; see `methods.md` §2, including why this is *not* the same distinction
-  as insider/outsider.
+  categories imposed from outside for cross-system comparison. See `methods.md` §2.
+
+  **Where the words come from, and how to hold on to them.** Pike (1954) made the pair by cutting
+  *phon-* off **phonEMIC** and **phonETIC**.
+
+  - *Phonemic* describes the sound distinctions that carry meaning **inside** one language.
+    English /l/ and /r/ are separate phonemes — "light" and "right" are different words. Japanese
+    draws no such line: the acoustic difference is there, but it carries no information for a
+    speaker.
+  - *Phonetic* describes the full range of sound a human can produce, recorded from **outside** any
+    particular language in a universal notation.
+
+  So **emic** = the distinctions that mean something within the system; **etic** = the
+  distinctions an outside observer can register with a general-purpose scheme. If the pair slips,
+  recover it by putting *phon-* back on the front.
+
+  Letter-hooks on the one letter that differs. e**m**ic — **m**eaning, what it **m**eans to
+  **m**embers. e**t**ic — the **t**able: the phonetic alphabet is a physical chart, built to work
+  for every language and belonging to none, which is exactly what an etic scheme is.
+
+  **Not insider versus outsider.** This is the common error, and the reason `methods.md` §2 flags
+  it. An anthropologist who has never joined a tradition can write an emic description, by
+  rendering the tradition's own categories faithfully. A lifelong practitioner can write an etic
+  one, by applying a comparative grid. The distinction is about **which categories are being
+  used**, not about who is using them.
 - **genealogy / analogy / homology** — a claim of historical descent; a claim of structural
   similarity without contact; a claim of shared descent from a third source. The distinction the
   `#r/` facet enforces, and the one whose collapse J. Z. Smith diagnoses.

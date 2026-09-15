@@ -303,12 +303,15 @@ shrink," in one move. §2.2's commitment therefore stands, sharpened:
 - The practical rule: emic testimony is **admitted, and read for what it is evidence of** — which is
   frequently not the proposition it asserts. That is a different operation from downgrading it.
 
-**Consequence for the notation, now open.** If adherent testimony differs in type rather than
-degree, then `#e/devotional` sitting as a sibling of `#e/attested` and `#e/contested` in a single
-evidential facet (`tags.md` §3) asserts a commensurability this decision denies. Likewise the §5
-ladder is a single ordering, and testimony that is not a weaker grade of attestation may not belong
-on it at all. → **New open item, `methods.md` §9.1.** Flagged rather than fixed: it is a schema
-change, and the register is 264 entries deep.
+**Consequence for the notation — raised here, resolved 2026-09-14.** If adherent testimony differs
+in type rather than degree, then putting a value for it in the same facet as the words for "the
+field agrees" and "the field disputes" asserts a commensurability this decision denies.
+
+That facet has since been split three ways (`tags.md` §5.1). Testimony's standpoint is now its own
+optional facet, `#v/emic`, independent of what kind of source the item is and of how the literature
+regards it — which states this section's conclusion in the notation rather than leaving the
+notation to contradict it. The strength of a comparative claim moved to a `rung:` field against the
+§5 ladder, so the ordering that testimony does not belong on no longer has to accommodate it.
 
 ---
 
@@ -402,7 +405,7 @@ A parallel that survives all six is worth pursuing. Most will not survive the fi
 Scholarly controversies are recorded as **pairs or clusters**, not resolved silently in favour of one side.
 
 - Both positions get register entries.
-- The item tagged `#e/contested` names its opponent in the `against:` field.
+- The item tagged `#s/contested` names its opponent in the `against:` field.
 - `resources.md` §16 carries a **controversy register** listing the live disputes and their current standing.
 - Where the field has moved, the displaced position is kept and marked — not deleted. Hirakawa's lay-origins thesis is retained precisely because it is the source of the received popular picture, and watching a superseded hypothesis persist in general understanding is itself a §3 phenomenon.
 
@@ -479,7 +482,7 @@ adjudication, not dialectic — which is fine, but cheaper, and should be done c
 disagreements are handled by the §7 pairing rule and the §16 controversy register.
 
 **The failure mode to guard against.** This is *not* a mandate for false balance. Manufacturing
-symmetry where none exists would license treating `#e/fringe` positions as live options, which is
+symmetry where none exists would license treating `#s/fringe` positions as live options, which is
 the opposite of the discipline §5 and §6 impose. The technique surfaces **our** assumptions; it
 confers no standing on the opposing position. C4 is the control case: the losing side there was
 inherited usage, not an argued position, and it was rejected outright rather than balanced — the
@@ -549,23 +552,17 @@ Decisions taken 2026-08-27 are marked **[decided 2026-08-27]**. Work arising is 
 
 ### 9.1 Still open
 
-1. **Does the evidential facet need restructuring?** Arising directly from the §2.8 decision. If
-   adherent testimony differs from attestation in *type* rather than degree, then `#e/devotional`
-   as a sibling of `#e/attested` in one facet (`tags.md` §3) asserts a commensurability we have
-   just denied — and the §5 ladder, being a single ordering, may have no rung for it. Options, none
-   costed yet:
-   - leave it, and treat the `#e/` facet as "how to read this," not "how good this is" — cheapest,
-     and arguably what §5a's census already found it to be in practice;
-   - split testimony into its own facet, which is honest but is a schema change against 264 entries;
-   - keep the tag and record the interpretive lens in the entry prose instead.
-
-   Cheapest first step is to decide what the `#e/` facet *is*, since the census note in `tags.md`
-   §5a already hints it is not a quality ordering.
-2. **Scope of the Iranian material (H5).** How far into Zoroastrian and Sasanian evidence before it
+1. **Scope of the Iranian material (H5).** How far into Zoroastrian and Sasanian evidence before it
    becomes a separate project?
 
 ### 9.2 Decided
 
+0a. **The evidential facet: split three ways. [decided 2026-09-14]** `#e/` now carries evidential
+   role alone (`primary`, `secondary`, `inferred`, `heuristic`); `#v/` carries point of view
+   (`emic`, `polemical`, `apologetic`), optional and absent by default; `#s/` carries standing
+   (`contested`, `fringe`, `speculative`), likewise optional. Verification stays the `[unverified]`
+   field and claim strength becomes a `rung:` field. Reasoning and the census that settled it:
+   `tags.md` §5.1. The register, `chronology.md` and `geography.md` were migrated in the same pass.
 0. **The adherent veto: rejected. [decided 2026-08-27]** Lincoln and McCutcheon over W. C. Smith, on the
    grounds that schism leaves the veto without a well-defined holder. Emic testimony is retained as
    evidence differing in type, not degree. Full reasoning and consequences: §2.8. This was the

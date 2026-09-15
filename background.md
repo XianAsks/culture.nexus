@@ -627,7 +627,7 @@ Stated in full in `methods.md`; in brief — separate genealogy from analogy fro
 ## 10. Constraints
 
 - **Language access.** Two different constraints, previously conflated under "no Italian" and now separated. (i) *Reading capacity*: xian does not read Italian; Claude does, and also handles Greek, Latin, Coptic and Sanskrit transliteration adequately for term-level comparison. Tibetan, Syriac and Avestan are reachable only through translations and dictionaries. (ii) *Document access*: the Italian originals of Norbu's oral teaching have **not been located**. This, not language, is what currently blocks the direct H4 test. **If the Italian transcripts or Shang Shung Edizioni editions can be obtained as text, the direct test becomes available** — a term-by-term comparison of the Italian against Simmons's English. Until then the cross-translator workaround (§9, `resources.md` §12) stands in for it.
-- **Source-quality gradient.** From peer-reviewed Tibetology and Indology through devotional and popular writing to pseudo-scholarship. `#e/fringe` and `#e/devotional` exist so such material can be read without being promoted to evidence.
+- **Source-quality gradient.** From peer-reviewed Tibetology and Indology through devotional and popular writing to pseudo-scholarship. `#s/fringe` and `#v/emic` exist so such material can be read without being promoted to evidence.
 - **Confirmation pressure.** The hypotheses are attractive. §8 exists against that.
 - **`[unverified]`** in `resources.md` marks claims written from prior knowledge and not source-checked.
 

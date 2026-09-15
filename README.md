@@ -30,9 +30,9 @@ expensive error-correction regime.
 |---|---|
 | `background.md` | The charter. Questions Q1–Q8, hypotheses H1–H16, findings, cross-checks, open questions. |
 | `methods.md` | How the work is done. Comparison, the emic/etic distinction, transmission distortion, the evidence ladder, the seven deflators, tooling. |
-| `resources.md` | The source register — 20 topical sections, 257 tagged entries with provenance fields. |
+| `resources.md` | The source register — topical sections of tagged entries with provenance fields. |
 | `terms.md` | Technical glossary. Tibetan (Wylie), Greek, Syriac, Coptic, Avestan, plus method vocabulary. |
-| `tags.md` | The faceted markup scheme and its controlled vocabulary. |
+| `tags.md` | The faceted markup scheme and its controlled vocabulary — five facets plus two field markers. |
 | `chronology.md` | Dated claims, and the date notation that binds this file and `geography.md`. |
 | `geography.md` | Sites, regions and polities, keyed on Wikidata Q-ids. |
 | `scripts/` | `build_tables.py` — derives the machine forms from the two index files. |
@@ -55,12 +55,14 @@ expensive error-correction regime.
 
 ## Current state
 
-257 entries · 16 hypotheses · 28 open questions · `validate.sh` clean.
+Run `./validate.sh` for current counts and structural checks. They are not repeated here:
+the figures went stale three times in a single session, and a stale count misinforms where
+an absent one merely refers you to the instrument.
 
-Counts come from `validate.sh`. An entry is a `- ` item whose continuation carries an `#e/` tag —
-prose bullets in discursive sections are not entries, and counting them inflated this figure in
-earlier revisions. "Open questions" counts inline `?` markers against specific entries; the
-project-level decisions are separate, in `background.md` §11 and `methods.md` §9.
+What the script counts: an **entry** is a `- ` item whose continuation carries an `#e/` tag, so
+prose bullets in discursive sections are excluded. **Open questions** are inline `?` markers against
+specific entries; the project-level decisions are separate, in `background.md` §11 and
+`methods.md` §9.
 
 **Decided 2026-08-27 — the adherent veto.** The project's longest-standing open item is settled:
 a description need *not* be acceptable to adherents. Two grounds. Schism leaves the veto with no
@@ -81,6 +83,12 @@ entity, period, evidential tag — with the date notation specified once and bin
 a single home; the duration table for `background.md` §5.3's comparison class is the first output.
 A Wikipedia citation harvest (`lit/wikipedia/`) reached 730 works, 257 of them carrying a durable
 identifier and no URL — the monograph class no index this project can search will return.
+
+**Changed 2026-09-14.** The evidential facet was split three ways. `#e/` now says what kind of
+thing an entry is; `#v/` says whose frame it speaks from when that is not the analyst's; `#s/` says
+how the literature regards it when that is not unremarkable. A census had found that no entry
+carried both a kind and a standing value, because the single facet forbade it — so the register had
+been discarding one answer per entry. See `tags.md` §5.1.
 
 **The most consequential open items**, all in `background.md` §11 and `methods.md` §9:
 

@@ -25,7 +25,9 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 | `#d/` | **Domain** | Which tradition, corpus, or field? | at least one of `#d/` or `#c/` |
 | `#c/` | **Concept** | Which motif, doctrine, practice, or evidence-type? | at least one of `#d/` or `#c/` |
 | `#r/` | **Relation-claim** | What kind of comparative claim, if any? | on any comparative item |
-| `#e/` | **Evidential status** | What can it be used to establish? | **always** |
+| `#e/` | **Evidential role** | What kind of thing is it, and how does it bear on a claim? | **always** |
+| `#v/` | **Point of view** | Whose frame does it speak from, if not the analyst's? | optional |
+| `#s/` | **Standing** | How does the literature regard it, if not unremarkably? | optional |
 | `#f/` | **Form** | What kind of object is it? | optional |
 
 ### Rules
@@ -36,6 +38,13 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 4. **No facet repeats within an item.** Two `#d/` tags means the item should be split, or that `#r/` is the honest third tag.
 5. **New terms go into this file before use.** An undefined term is a typo until proven otherwise.
 6. **Lowercase, hyphenated, singular.** `#c/rainbow-body`, never `#c/Rainbow_Bodies`.
+7. **The cap applies to the descriptive facets.** At most three of `#d/ #c/ #r/ #f/`; exactly one
+   `#e/`; at most one each of `#v/` and `#s/`. The old flat cap of three forced a choice between
+   facts that answer different questions, which is how the register lost one answer per entry for
+   257 entries — see §5.
+8. **Verification and strength are fields, not tags.** `[unverified]` records whether *we* have
+   checked the item; `rung:` records the strength of a comparative claim against the `methods.md`
+   §5 ladder. Neither is a property of the source, so neither is a tag.
 
 ## 3. Controlled vocabulary
 
@@ -114,24 +123,47 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 
 `#r/homology` is the facet's most useful distinction for this project. Buddhist and Christian halos are probably not a case of one borrowing from the other (`#r/genealogy`) nor of independent invention (`#r/analogy`), but of both inheriting an Iranian–Hellenistic convention. Tagging that correctly is most of the analysis.
 
-### `#e/` — Evidential status
+### `#e/` — Evidential role
+
+What kind of thing the entry is, and how it can bear on a claim. Exactly one, always.
 
 ```
-#e/primary      A source text of the tradition itself
-#e/attested     Well-evidenced scholarly claim; documentary or material backing
-#e/inferred     Reasonable scholarly inference beyond direct evidence
-#e/contested    Live scholarly disagreement; cite the disagreement, not one side of it
-#e/speculative  Proposed but thinly supported; interesting, not loadbearing
-#e/fringe       Outside scholarly consensus or methodologically unsound; read with care
-#e/devotional   Insider / confessional / self-descriptive — EMIC. Evidence of what a
-                tradition holds, not of what happened.
-#e/heuristic    NOT evidence. A source of hypotheses, framings and questions — fiction,
-                thought experiments, analogies. Generative, never citable in support of
-                a claim. Kept distinct from #e/speculative, which IS a weak factual claim.
-#e/unverified   Not yet checked against the source by us
+#e/primary      A source text, artefact, dataset or first-hand report
+#e/secondary    Scholarship about such material. The unmarked default for a bibliography
+#e/inferred     A claim derived by reasoning from other evidence, not directly attested
+#e/heuristic    Not evidence. Generates questions and leads; never cited in support
 ```
 
-`#e/devotional` is not a demerit; it is a slot assignment. Norbu's talks are the best possible evidence for what the tradition teaches and no evidence at all for the eighth century. Bön's Tazig origin claim is `#e/devotional` — and is *interesting precisely as such*, because `background.md` §11 proposes testing it against material evidence. Keeping the emic claim tagged as emic is what makes that test possible rather than circular.
+### `#v/` — Point of view
+
+Whose frame the item speaks from. **Optional, and absent means the analyst's own** — an
+unmarked entry is etic, which is what most scholarship is. Tag only the informative case.
+
+```
+#v/emic         The tradition's own categories, as its participants operate them
+#v/polemical    An opponent's frame. The heresiologists on "Gnosticism" is the type case
+#v/apologetic   A defence pitched at an outside audience, and shaped by that audience
+```
+
+`#v/` is independent of `#e/`, which is why it is a separate facet: Norbu's *Talks* is a
+primary source **and** the tradition speaking about itself, and both facts are worth keeping.
+
+> **`#v/polemical` matters more than its count suggests.** For some traditions the hostile
+> witness is the only witness — "Gnosticism" before Nag Hammadi was known almost entirely
+> through Irenaeus and Epiphanius. Such sources cannot be discarded, so they must be marked
+> and corrected for. Leaving them untagged is how an opponents' frame gets naturalised into a
+> neutral-seeming analytic category, which is `methods.md` §2.5's first failure mode.
+
+### `#s/` — Standing
+
+How the literature regards the item. **Optional, and absent means unremarkable.** This replaces
+the old `#e/attested`, which ran at half the register and so discriminated nothing.
+
+```
+#s/contested    Live scholarly dispute; name the opponent in the `against:` field
+#s/fringe       Outside scholarly consensus, and recorded as such rather than excluded
+#s/speculative  Unreviewed — preprint, or an author writing outside their field
+```
 
 ### `#f/` — Form
 
@@ -162,35 +194,58 @@ Minimal and greppable; no tooling required.
 
 ```markdown
 - Tiso, Francis V. *Rainbow Body and Resurrection* (2016). @tiso-2016
-  #c/rainbow-body #r/genealogy #e/contested
+  #c/rainbow-body #r/genealogy #e/secondary #s/contested
 
 - Gandhāran Buddha with nimbus, 1st c. CE, Kushan. @gandhara-nimbus
-  #c/iconography #r/homology #e/primary        ← tests H5
+  #c/iconography #r/homology #e/primary          ← tests H5
 
 - Bön origin in Tazig / Olmo Lungring. @bon-tazig
-  #c/emic-etic #r/genealogy #e/devotional      ← the tradition's own contact claim
+  #c/emic-etic #r/genealogy #e/primary #v/emic   ← the tradition's own contact claim
 
 - Smith, Jonathan Z. *Drudgery Divine* (1990). @smith-1990
-  #d/method #r/deflation #e/attested
+  #d/method #r/deflation #e/secondary            ← standing unremarkable, so no #s/
 
 - Namkhai Norbu. *Talks in California, USA 1982*. @norbu-1988
-  #d/dzogchen #e/primary #e/devotional         ← INVALID: two #e/ tags
+  #d/dzogchen #c/rainbow-body #e/primary #v/emic
 
-- Namkhai Norbu. *Talks in California, USA 1982*. @norbu-1988
-  #d/dzogchen #c/rainbow-body #e/devotional    ← valid
+- Irenaeus, *Adversus Haereses*, on the Valentinians. @irenaeus
+  #d/gnostic #e/primary #v/polemical             ← a hostile witness, and often the only one
 ```
 
-The invalid case is instructive. When an item genuinely straddles two `#e/` values, choose the one that governs how you will *use* it. We read Norbu for what the tradition says about itself, so `#e/devotional` governs — and that is the emic/etic discipline doing its work at the level of a single tag.
+### 5.1 What the old scheme could not say, and why it was changed
 
-### 5a. Notes from the 2026-08-25 census
+Until 2026-09-14 these were one facet, `#e/`, with exactly one value per entry. The Norbu line was
+carried in this file as the worked example of an **invalid** entry:
+
+```markdown
+  #d/dzogchen #e/primary #e/devotional    ← INVALID: two #e/ tags
+```
+
+and the guidance was to "choose the one that governs how you will *use* it."
+
+That was a rule for living with a defect. Both statements are true, and they answer different
+questions: Norbu's *Talks* **is** a primary source, and it **is** the tradition speaking about
+itself. Being emic is independent of being first-hand, so no single value can carry both.
+
+A census settled it. Across 258 tagged entries, **not one** carried both a kind value
+(`primary`, `devotional`, `inferred`, `heuristic`) and a standing value (`attested`, `contested`,
+`fringe`, `speculative`) — because the schema forbade it. So for every primary source the register
+had no record of its standing, and for every attested item no record of what kind of thing it was.
+The facet was not merely imprecise; it discarded one answer per entry, 258 times.
+
+Splitting it also gave `methods.md` §2.8's conclusion somewhere to live. That decision held that
+emic testimony is evidence differing in **type** rather than degree — which a single ordering
+cannot express, and which `#v/emic` states directly.
+
+### 5a. Notes from the 2026-08-25 census, and what came of them
 
 Two findings worth recording, because they change how the facets should be read.
 
-- **`#e/attested` is the unmarked default.** It runs at roughly half of all entries, past the
-  threshold §6 sets for promoting a tag to a heading. But the right reading is not that it should be
-  split: for a bibliography of scholarship, "well-evidenced" *is* the expected value. **The
-  information is in the other seven** — `#e/contested`, `#e/devotional`, `#e/heuristic` and the rest
-  are what discriminate. Treat `#e/attested` as "nothing unusual here."
+- **`#e/attested` was the unmarked default.** It ran at roughly half of all entries, past the
+  threshold §6 sets for promoting a tag to a heading, and the census concluded it meant "nothing
+  unusual here." **Acted on 2026-09-14**: a value carried by half the register discriminates
+  nothing, so standing became its own optional facet, absent by default. `#e/attested` no longer
+  exists; an entry with no `#s/` tag is unremarkable in the literature. See §5.1.
 - **`#f/` has been largely superseded by the field line.** It appears on under a tenth of entries,
   because `access:`, `src` and the entry prose already say what kind of object something is. It
   remains optional and legitimate — `#f/manuscript`, `#f/dataset` and `#f/reference` still earn their
@@ -201,6 +256,7 @@ Two findings worth recording, because they change how the facets should be read.
 
 - **Review the vocabulary past ~50 terms.** Merge near-synonyms. Promote any tag applied to more than a quarter of items into a section heading instead: a tag that applies to everything discriminates nothing.
 - **Prune single-use tags** once the corpus stabilises, unless the single use is a deliberate placeholder for a thread not yet followed.
+- **A tag is also a prompt to notice.** A category with no entries yet may still earn its place, because having the name in the vocabulary is what makes instances visible. `#v/apologetic` was added before any entry used it; inspecting the register immediately turned up three that had been filed as `#e/devotional` for want of anywhere better. Bound this by the rule above: anticipatory tags are for **named failure modes the project already tracks**, not for speculation.
 - **Never retag to make a pattern come out.** If `#r/genealogy` items keep resolving to `#e/speculative`, that is the result.
 
 ## 7. Grep recipes
