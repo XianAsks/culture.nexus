@@ -2,7 +2,7 @@
 
 *Topical catalogue of sources. Reasoning: `methods.md`. Questions and findings: `background.md`. Markup: `tags.md`.*
 
-Status: rev. 4, 2026-08-25. Validate with `./validate.sh`.
+Status: rev. 4, 2026-08-25. Survey with `./audit.sh`; gate with `./preflight.sh`.
 
 ---
 
@@ -78,9 +78,11 @@ The field has moved from Karmay's founding survey toward the Dunhuang manuscript
   Tibetan Texts.* PhD thesis, Univ. of Calgary, 2019. <http://hdl.handle.net/1880/110861>.
   Critical editions and translations of the five earliest Dzogchen texts, collated against the
   *bSam gtan mig sgron* (@nubchen). Argues Sems sde originated **in Tibet**, co-emerging with
-  Tibetan Chan and Mahāyoga rather than translated from Sanskrit. What it yields for us is §14.7b.
+  Tibetan Chan and Mahāyoga rather than translated from Sanskrit. `#r/deflation` for the negative
+  half, which is the half this project is short of; the positive co-emergence claim is recorded at
+  C2. What it yields for us is §14.7b.
   @derbac-2019
-  `#d/dzogchen #d/method #e/secondary` · subj 8–10c comp, C18–C20 ms · src 2019 · Q4 Q6 · access: **held**
+  `#d/dzogchen #c/lineage-narrative #r/deflation #e/secondary` · subj 8–10c comp, C18–C20 ms · src 2019 · Q4 Q6 · access: **held**
 
   **Scope limit, and it is sharp.** `thod rgal`, `khregs chod` and `'od lus` do not occur in 272
   pages. Sems sde is the Mind Series; the visionary and light-body practices are Man ngag sde and

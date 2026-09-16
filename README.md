@@ -35,10 +35,11 @@ expensive error-correction regime.
 | `tags.md` | The faceted markup scheme and its controlled vocabulary — five facets plus two field markers. |
 | `chronology.md` | Dated claims, and the date notation that binds this file and `geography.md`. |
 | `geography.md` | Sites, regions and polities, keyed on Wikidata Q-ids. |
-| `scripts/` | `build_tables.py` — derives the machine forms from the two index files. |
+| `scripts/` | `build_tables.py` — derives the machine forms from the two index files — and its tests. |
 | `results/` | Generated tables, `.csv.gz`. Regenerate; do not hand-edit. |
 | `lit/` | Retrieved sources, per-database manifests, query logs, and `WANTED.md`. See `lit/README.md`. |
-| `validate.sh` | Structural checks over the register. Run it after editing. |
+| `audit.sh` | Surveys the register and reports what it finds. Run after editing. Never gates, and its output is written for a model to read in full rather than for a person to skim. |
+| `preflight.sh` | Gates on the subset of those findings that are violations. Run it before staging. |
 
 ## Conventions
 
@@ -58,7 +59,8 @@ expensive error-correction regime.
 
 ## Current state
 
-Run `./validate.sh` for current counts and structural checks. They are not repeated here:
+Run `./audit.sh` for current counts and structural findings, and `./preflight.sh` to check
+nothing is broken before staging. Counts are not repeated here:
 the figures went stale three times in a single session, and a stale count misinforms where
 an absent one merely refers you to the instrument.
 

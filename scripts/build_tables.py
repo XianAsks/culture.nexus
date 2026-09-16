@@ -71,9 +71,19 @@ def _endpoint(text: str, default_era: str | None) -> tuple[int, int, bool, bool]
     era = (m.group("era") or default_era or "CE").upper()
     circa = bool(m.group("circa"))
     if m.group("cent"):
-        lo, hi = century_bounds(int(m.group("cn")), era)
+        n = int(m.group("cn"))
+        # There is no zeroth century. Without this, "C0 CE" silently yields the
+        # span -99 to 0 — a typo becomes a date a century off and in the wrong
+        # era, which is worse than the row being reported as unreadable.
+        if n == 0:
+            return None
+        lo, hi = century_bounds(n, era)
         return lo, hi, circa, True
-    y = astronomical(int(m.group("yr")), era)
+    year = int(m.group("yr"))
+    # Likewise no year zero: the notation is historians', not astronomical.
+    if year == 0:
+        return None
+    y = astronomical(year, era)
     return y, y, circa, False
 
 

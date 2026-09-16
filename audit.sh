@@ -1,7 +1,19 @@
 #!/bin/bash
-# Validate resources.md against the tags.md scheme. Run from the project root.
+# Survey resources.md against the tags.md scheme. Run from the project root.
 # Only multi-tag item lines are real entries; single-tag prose mentions are skipped.
-fail=0
+#
+# THIS SCRIPT REPORTS AND DOES NOT GATE. It always exits 0.
+#
+# Its output is written to be read by a model reviewing the register, not skimmed
+# by a person. That is why it prints every section every run, unfiltered and
+# without summarising: reading the whole report is cheap for the intended reader
+# and is the point. A person filtering it down to the sections they just edited is
+# how a repeated-facet violation survived two commits.
+#
+# Most of what it prints is an observation rather than a violation — the census and
+# counts are state, and the CJK check surfaces every instance so the reader can
+# judge which are intentional. Deciding which findings block is preflight.sh's job,
+# and it names them explicitly rather than inferring them from an exit code here.
 echo "=== tag-cap or repeated-facet violations ==="
 # Cap applies to the descriptive facets only (tags.md rule 7): at most three of
 # #d #c #r #f, exactly one #e, at most one each of #v and #s.
@@ -72,10 +84,20 @@ for s in $(grep -oh '§[0-9]\+\.[0-9]' *.md | sort -u); do
   grep -q "^### ${n}" resources.md || grep -q "^### ${n}" methods.md || grep -q "^## ${n%%.*}" methods.md || echo "  DANGLING: $s"
 done
 
+echo "=== build_tables.py unit tests ==="
+# Quiet when they pass, full output when they do not — a summary line is no use
+# when something broke.
+if out=$(uv run --no-project python3 scripts/test_build_tables.py 2>&1); then
+  printf '  %s\n' "$(printf '%s' "$out" | tail -n1)"
+else
+  printf '%s\n' "$out" | sed 's/^/  /'
+fi
+
 echo "=== derived tables out of sync with their sources ==="
 # results/*.csv.gz are committed, so they can go stale silently — as they did
 # through the facet split, still carrying retired values two weeks later.
-uv run --no-project scripts/build_tables.py --check 2>&1 | sed 's/^/  /' || fail=1
+out=$(uv run --no-project scripts/build_tables.py --check 2>&1)
+printf '%s\n' "$out" | sed 's/^/  /' 
 
 echo "=== duplicate section numbers ==="
 for f in background.md methods.md resources.md tags.md terms.md chronology.md geography.md; do

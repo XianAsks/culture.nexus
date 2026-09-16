@@ -521,7 +521,7 @@ will outlive any application. The prose documents should not be migrated.
 
 **The real problem is not cross-references — it is that `resources.md` is a database kept in prose.**
 250-odd entries with eight fields each, maintained by hand. Every field convention is a schema
-enforced by discipline rather than by structure, which is why `validate.sh` exists and why it keeps
+enforced by discipline rather than by structure, which is why `audit.sh` exists and why it keeps
 catching things.
 
 Three moves, in order of cost:
@@ -536,7 +536,7 @@ Three moves, in order of cost:
 3. **Move the register to one file per entry with YAML frontmatter**, when it next needs a structural
    change. `lit/` already demonstrates the pattern: structured data in `queries/` and `meta/`, human
    readable markdown *generated* by `normalize.py`. Doing the same for `resources.md` would make
-   `against:` a live link, let §16's controversy register generate itself, and turn `validate.sh` from
+   `against:` a live link, let §16's controversy register generate itself, and turn `audit.sh` from
    a regex into a schema check.
 
 **Considered and rejected.** Org-mode has the best cross-reference and transclusion story available,
