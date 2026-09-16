@@ -460,8 +460,7 @@ also produced three things nobody set out to write:
    assumption had been operating silently in §2.2 for the whole project. It only became statable
    under the pressure of saying why *"acceptable to the adherents"* fails where *"I feel sad"*
    succeeds.
-2. **A defect in the notation** (§9.1) — that `#e/devotional` sitting beside `#e/attested` asserts a
-   commensurability the "type, not degree" position denies. Nobody was auditing the tag schema; the
+2. **A defect in the notation** (§9.1) — that `#e/devotional` sitting beside `#e/attested` asserts a commensurability the "type, not degree" position denies. <!-- retired-ok: the defect that motivated the 2026-09-14 split; naming the old values is the point --> Nobody was auditing the tag schema; the
    problem surfaced as a consequence of having to state the position exactly.
 3. **A recognition that two existing entries were instances of one thing** — terma's school-relative
    authentication (§14.5a) and the Bön/Tazig claim (C5) had both been recorded as local puzzles.
@@ -641,8 +640,9 @@ one schema on two axes (§9.2 item 6), so the decisions below bind both.
   `t.a.q.` for termini post/ante quem (standard archaeological usage, and it maps onto §5's ladder);
   `fl.` for floruit where only activity is datable.
 - **Every date carries an `#e/` tag**, reusing the register's evidential facet unchanged (`tags.md`
-  §3). A traditional date is `#e/devotional`; a radiocarbon date is `#e/attested`; a date derived
-  from a synchronism is `#e/inferred`. This is the point of cross-linking to `tags.md`: a date is a
+  §3). A radiocarbon determination is `#e/primary`; a date reported in scholarship is
+  `#e/secondary`; a date derived from a synchronism is `#e/inferred`. A tradition's own reckoning
+  of its past is marked `#v/emic` on whatever `#e/` value it carries. This is the point of cross-linking to `tags.md`: a date is a
   claim, and it gets the same evidential discipline as any other entry.
 - **Each date records its rung** on the §5 strength-of-evidence ladder where one applies.
 - **A sortable machine form alongside the display form.** Signed four-digit years (`-0450`, `1042`)

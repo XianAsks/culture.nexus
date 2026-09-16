@@ -43,9 +43,12 @@ expensive error-correction regime.
 ## Conventions
 
 - **Every register entry carries an `#e/` tag** recording what it can be used to establish, not how
-  good it is. `#e/devotional` marks a tradition's self-description; `#e/heuristic` marks fiction and
-  cross-domain analogy, which generate questions and never support claims. `#e/attested` is the
-  unmarked default — the information is in the other values.
+  good it is: `primary`, `secondary`, `inferred`, or `heuristic` for fiction and cross-domain
+  analogy, which generate questions and never support claims.
+- **Two optional facets qualify it.** `#v/` marks point of view when it is not the analyst's —
+  `emic` for a tradition's self-description, `polemical`, `apologetic`. `#s/` marks standing in the
+  literature when it is not unremarkable — `contested`, `fringe`, `speculative`. Both absent is the
+  ordinary case and says so.
 - **`#r/` declares the kind of comparative claim**: genealogy, analogy, or homology. Collapsing these
   is the failure the project is built to avoid.
 - **Negative results are recorded**, including zero-hit database queries. An absence is only evidence

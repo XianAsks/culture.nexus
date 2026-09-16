@@ -14,7 +14,7 @@ Three constraints shape it, and all three come from the project rather than from
 
 - **Tag budget of 3.** A budget forces a judgement about what an item is *for*. Twelve tags per item is the same as no tags: nothing is discriminated. Three means every tag was chosen against a rival.
 - **One facet encodes the genealogy/analogy distinction.** J. Z. Smith's charge is that comparative religion collapses *genealogy* (historical descent or contact) into *analogy* (structural similarity). The `#r/` facet makes every item declare which it claims.
-- **One facet encodes epistemic status separately from topic — and with it, the emic/etic line.** A hagiography and a peer-reviewed article can be about the same event. `#e/` keeps "what it is about" apart from "what it can be used to establish." This is where `background.md` §2.2 becomes operational: `#e/devotional` marks emic material, the `#e/attested`–`#e/inferred` range marks etic material, and the two never occupy the same slot.
+- **One facet encodes epistemic status separately from topic — and with it, the emic/etic line.** A hagiography and a peer-reviewed article can be about the same event. `#e/` keeps "what it is about" apart from "what it can be used to establish." This is where `background.md` §2.2 becomes operational: `#v/emic` marks material speaking from inside a tradition, the `#e/` values say what any of it can establish, and the two are independent facets rather than rival values in one slot.
 
 ## 2. Facets
 
@@ -157,7 +157,7 @@ primary source **and** the tradition speaking about itself, and both facts are w
 ### `#s/` — Standing
 
 How the literature regards the item. **Optional, and absent means unremarkable.** This replaces
-the old `#e/attested`, which ran at half the register and so discriminated nothing.
+the old `#e/attested`, which ran at half the register and so discriminated nothing. <!-- retired-ok -->
 
 ```
 #s/contested    Live scholarly dispute; name the opponent in the `against:` field
@@ -218,7 +218,7 @@ Until 2026-09-14 these were one facet, `#e/`, with exactly one value per entry. 
 carried in this file as the worked example of an **invalid** entry:
 
 ```markdown
-  #d/dzogchen #e/primary #e/devotional    ← INVALID: two #e/ tags
+  #d/dzogchen #e/primary #e/secondary    ← INVALID: two #e/ tags
 ```
 
 and the guidance was to "choose the one that governs how you will *use* it."
@@ -241,10 +241,10 @@ cannot express, and which `#v/emic` states directly.
 
 Two findings worth recording, because they change how the facets should be read.
 
-- **`#e/attested` was the unmarked default.** It ran at roughly half of all entries, past the
+- **`#e/attested` was the unmarked default.** <!-- retired-ok --> It ran at roughly half of all entries, past the
   threshold §6 sets for promoting a tag to a heading, and the census concluded it meant "nothing
   unusual here." **Acted on 2026-09-14**: a value carried by half the register discriminates
-  nothing, so standing became its own optional facet, absent by default. `#e/attested` no longer
+  nothing, so standing became its own optional facet, absent by default. `#e/attested` no longer <!-- retired-ok -->
   exists; an entry with no `#s/` tag is unremarkable in the literature. See §5.1.
 - **`#f/` has been largely superseded by the field line.** It appears on under a tenth of entries,
   because `access:`, `src` and the entry prose already say what kind of object something is. It
@@ -256,8 +256,8 @@ Two findings worth recording, because they change how the facets should be read.
 
 - **Review the vocabulary past ~50 terms.** Merge near-synonyms. Promote any tag applied to more than a quarter of items into a section heading instead: a tag that applies to everything discriminates nothing.
 - **Prune single-use tags** once the corpus stabilises, unless the single use is a deliberate placeholder for a thread not yet followed.
-- **A tag is also a prompt to notice.** A category with no entries yet may still earn its place, because having the name in the vocabulary is what makes instances visible. `#v/apologetic` was added before any entry used it; inspecting the register immediately turned up three that had been filed as `#e/devotional` for want of anywhere better. Bound this by the rule above: anticipatory tags are for **named failure modes the project already tracks**, not for speculation.
-- **Never retag to make a pattern come out.** If `#r/genealogy` items keep resolving to `#e/speculative`, that is the result.
+- **A tag is also a prompt to notice.** A category with no entries yet may still earn its place, because having the name in the vocabulary is what makes instances visible. `#v/apologetic` was added before any entry used it; inspecting the register immediately turned up three that had been filed as `#e/devotional` <!-- retired-ok --> for want of anywhere better. Bound this by the rule above: anticipatory tags are for **named failure modes the project already tracks**, not for speculation.
+- **Never retag to make a pattern come out.** If `#r/genealogy` items keep resolving to `#s/speculative`, that is the result.
 
 ## 7. Grep recipes
 
@@ -272,16 +272,16 @@ grep -n '#r/genealogy' resources.md | grep -E '#e/(speculative|fringe|contested)
 grep -n '#r/homology\|#c/glory' resources.md
 
 # Emic material — what traditions say about themselves
-grep -n '#e/devotional' resources.md
+grep -n '#v/emic' resources.md
 
 # Emic claims that make historical assertions: the §2.2 test cases
-grep -n '#e/devotional' resources.md | grep -E '#r/(genealogy|vector)'
+grep -n '#v/emic' resources.md | grep -E '#r/(genealogy|vector)'
 
 # All open questions and all warnings, project-wide
 grep -rn '^\s*[?!]' *.md notes/ 2>/dev/null
 
 # Everything still unchecked
-grep -rn '\[unverified\]\|#e/unverified' *.md
+grep -rn '\[unverified\]\|#e/unverified' *.md   # retired-ok: migration check
 
 # Tag frequency census (for the §6 review)
 grep -o '#[dcref]/[a-z-]*' *.md | cut -d: -f2 | sort | uniq -c | sort -rn

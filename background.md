@@ -697,8 +697,9 @@ question, promoted to Q8 with H7 restated and H8 added (§5.3).
     because historians' BCE/CE has no year zero and naive subtraction overstates every span
     crossing the epoch by one. The Indo-Greek Kingdom is 209 years, not 210.
   - **Built 2026-08-27.** `scripts/build_tables.py` → `results/durations.csv.gz`. Twelve polities,
-    Palmyrene 13 years to Venice 1100. Every date is tertiary (Wikipedia infoboxes) and tagged
-    `#e/unverified`; the table is good enough to compare and not good enough to publish.
+    Palmyrene 13 years to Venice 1100. Every date is tertiary (Wikipedia infoboxes), tagged
+    `#e/secondary` and marked `[unverified]`; the table is good enough to compare and not good
+    enough to publish.
 
 **Still open:**
 1. **Wylie for the Pema Dündul terma title** (§4). Searched, not found — `resources.md` §17.3.
@@ -748,6 +749,8 @@ question, promoted to Q8 with H7 restated and H8 added (§5.3).
    error shortened the chain — making the transmission look more direct and more surprising than
    the record supports. If that direction is systematic rather than incidental, it is a deflator
    that applies to the project's own secondary sources, and the register is large enough to test it.
-9. **Does the evidential facet need restructuring?** Raised 2026-08-27 as a consequence of the
-   adherent-veto decision: if emic testimony differs in type rather than degree, `#e/devotional`
-   may not belong in the same facet as `#e/attested`. → `methods.md` §9.1.
+9. ~~**Does the evidential facet need restructuring?**~~ Raised 2026-08-27 as a consequence of the
+   adherent-veto decision: if emic testimony differs in type rather than degree, a devotional value
+   may not belong in the same facet as an attested one. **Answered 2026-09-14** — the facet was
+   split into `#e/` role, `#v/` point of view and `#s/` standing, which is exactly the separation
+   this question asked for. See `tags.md` §2.

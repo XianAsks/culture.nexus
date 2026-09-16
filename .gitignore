@@ -10,6 +10,9 @@
 *.err
 *.tmp
 .DS_Store
+# prompt/ holds chat transcripts and notes-to-self. They are working input, not
+# sources: nothing in the register cites them, and nothing should.
+prompt/
 
 # Note: retrieved PDFs are ignored by lit/.gitignore, next to what they govern.
 

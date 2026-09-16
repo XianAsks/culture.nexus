@@ -25,6 +25,7 @@ from __future__ import annotations
 import csv
 import datetime as dt
 import gzip
+import io
 import re
 import sys
 from pathlib import Path
@@ -154,17 +155,58 @@ def read_table(path: Path, header_key: str) -> list[dict]:
 
 
 def strip_tag(v: str) -> str:
-    return v.strip().strip("`").strip()
+    """Normalise a markdown tag cell to bare text.
+
+    The cell is backtick-quoted but `[unverified]` sits *outside* the quotes, as
+    in "`#e/secondary` [unverified]". Stripping only the outer pair therefore
+    left the closing backtick embedded in the value.
+    """
+    return " ".join(v.replace("`", " ").split())
+
+
+def render_csv(fieldnames: list[str], rows: list[dict]) -> str:
+    """Render the table to CSV text, separately from how it is stored.
+
+    Splitting render from write is what lets --check compare *content*: gzip
+    embeds a timestamp, so comparing compressed bytes reports drift on every run.
+    """
+    buf = io.StringIO(newline="")
+    w = csv.DictWriter(buf, fieldnames=fieldnames, extrasaction="ignore",
+                       lineterminator="\n")
+    w.writeheader()
+    w.writerows(rows)
+    return buf.getvalue()
 
 
 def write_csv(name: str, fieldnames: list[str], rows: list[dict]) -> Path:
     RESULTS.mkdir(exist_ok=True)
     out = RESULTS / f"{name}.csv.gz"
-    with gzip.open(out, "wt", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=fieldnames, extrasaction="ignore")
-        w.writeheader()
-        w.writerows(rows)
+    # mtime=0 keeps the output byte-identical for identical content, so the file
+    # only shows up in git when the table actually changed.
+    with open(out, "wb") as raw, gzip.GzipFile(fileobj=raw, mode="wb", mtime=0) as gz:
+        gz.write(render_csv(fieldnames, rows).encode("utf-8"))
     return out
+
+
+def check_csv(name: str, fieldnames: list[str], rows: list[dict]) -> str | None:
+    """Return a one-line description of the drift, or None when in sync."""
+    out = RESULTS / f"{name}.csv.gz"
+    if not out.exists():
+        return f"{out.relative_to(ROOT)}: missing"
+    want = render_csv(fieldnames, rows)
+    with gzip.open(out, "rt", encoding="utf-8", newline="") as fh:
+        have = fh.read()
+    if have == want:
+        return None
+    w_lines, h_lines = want.splitlines(), have.splitlines()
+    delta = len(w_lines) - len(h_lines)
+    changed = sum(1 for a, b in zip(w_lines, h_lines) if a != b)
+    parts = []
+    if delta:
+        parts.append(f"{delta:+d} rows")
+    if changed:
+        parts.append(f"{changed} changed")
+    return f"{out.relative_to(ROOT)}: {', '.join(parts) or 'differs'}"
 
 
 def build_chronology() -> list[dict]:
@@ -247,12 +289,26 @@ def main() -> None:
     places = build_places()
     polities = build_polities()
 
-    written = [
-        write_csv("chronology", list(chron[0]), chron),
-        write_csv("places", list(places[0]), places),
-        write_csv("polities", list(polities[0]), polities),
-        write_csv("durations", list(polities[0]), polities),
+    tables = [
+        ("chronology", list(chron[0]), chron),
+        ("places", list(places[0]), places),
+        ("polities", list(polities[0]), polities),
+        ("durations", list(polities[0]), polities),
     ]
+
+    if "--check" in sys.argv:
+        drift = [d for d in (check_csv(*t) for t in tables) if d]
+        for d in drift:
+            print(f"  STALE: {d}")
+        if drift:
+            print(f"\n{len(drift)} of {len(tables)} tables are out of date. "
+                  f"Run scripts/build_tables.py to regenerate.")
+            sys.exit(1)
+        print(f"results/ in sync with chronology.md and geography.md "
+              f"({len(tables)} tables)")
+        return
+
+    written = [write_csv(*t) for t in tables]
 
     unparsed = [r["id"] for r in chron if not r["parsed"]]
     nodur = [r["id"] for r in polities if r["duration_years"] is None]

@@ -40,7 +40,7 @@ contact hypothesis, which is a `methods.md` §1.1 question.
 
 ## 3. Priority
 
-1. ~~**W1**~~ — **held** 2026-08-27. Two independent reasons for `#e/speculative`: it is an
+1. ~~**W1**~~ — **held** 2026-08-27. Two independent reasons for `#s/speculative`: it is an
    unreviewed preprint, *and* its author is an independent pharmacology researcher rather than a
    scholar of the field. Do not collapse the second into the first.
 1b. **W9 (Rong Xinjiang)** — the highest-value item on this list. Q8a's decisive question has been

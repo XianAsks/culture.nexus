@@ -25,7 +25,7 @@ for PDF mime type. The download always worked; the check was wrong.
 
 The author is **Jan M. Keppel Hesselink, MD/PhD, an independent researcher in
 pharmacology**, writing from a meditation centre — not a Tibetologist, and the
-piece is an unreviewed preprint. `#e/speculative` was already assigned on the
+piece is an unreviewed preprint. `#s/speculative` was already assigned on the
 grounds of preprint status; the author's distance from the field is a second,
 independent reason and should not be collapsed into the first.
 

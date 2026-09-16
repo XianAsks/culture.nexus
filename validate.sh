@@ -15,8 +15,19 @@ echo "=== entries missing the mandatory #e/ ==="
 grep -o '`#[dcrefvs]/[a-z-]*\( #[dcrefvs]/[a-z-]*\)\+`' resources.md | grep -v '#e/' | sed 's/^/  VIOLATION: /'
 echo "=== retired vocabulary still in use ==="
 # Values removed by the 2026-09-14 facet split. They must not reappear.
+# Scanned everywhere, not just the tagged files: README.md and tags.md *describe*
+# the scheme, and stale descriptions there outlived the migration precisely because
+# this check did not look at them.
+#
+# Some mentions are legitimate — the history of the split, and grep recipes that
+# deliberately hunt for the old values. Those opt out with the token 'retired-ok'
+# on the line (an HTML comment in prose, a shell comment inside a code fence).
+# Opting out by marker rather than by matching the surrounding phrasing means the
+# exemption survives an edit to the sentence around it.
 grep -n '#e/attested\|#e/devotional\|#e/contested\|#e/fringe\|#e/speculative\|#e/unverified' \
-  resources.md chronology.md geography.md 2>/dev/null | sed 's/^/  RETIRED: /'
+  *.md lit/*.md lit/*/*.md 2>/dev/null \
+  | grep -v 'retired-ok' \
+  | sed 's/^/  RETIRED: /'
 echo "=== tags used but not defined in tags.md ==="
 comm -23 <(grep -oh '#[dcrefvs]/[a-z-]*' resources.md methods.md background.md | sort -u) \
          <(grep -o '#[dcrefvs]/[a-z-]*' tags.md | sort -u) | sed 's/^/  UNDEFINED: /'
@@ -60,6 +71,11 @@ for s in $(grep -oh '§[0-9]\+\.[0-9]' *.md | sort -u); do
   n=${s#§}
   grep -q "^### ${n}" resources.md || grep -q "^### ${n}" methods.md || grep -q "^## ${n%%.*}" methods.md || echo "  DANGLING: $s"
 done
+
+echo "=== derived tables out of sync with their sources ==="
+# results/*.csv.gz are committed, so they can go stale silently — as they did
+# through the facet split, still carrying retired values two weeks later.
+uv run --no-project scripts/build_tables.py --check 2>&1 | sed 's/^/  /' || fail=1
 
 echo "=== duplicate section numbers ==="
 for f in background.md methods.md resources.md tags.md terms.md chronology.md geography.md; do
