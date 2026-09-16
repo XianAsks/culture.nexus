@@ -20,7 +20,8 @@ with a DOI where one exists. It does **not** mean the item has been read.
 
 | W7 | **"The Production of the Book of Mormon in Light of a Tibetan Buddhist Parallel,"** *Dialogue* 55:4 (2022) | `W4321511807` · [10.5406/15549399.55.4.02](https://doi.org/10.5406/15549399.55.4.02) | closed access | Q5, H7 — the terma/LDS comparison already in print | library / *Dialogue* archive |
 | W8 | "Political Rivalry and Doctrinal Debates: A Modern Tibetan Response to the Controversy of Buddhist Revelation" (2017) | `W2601818785` | closed access, no DOI recorded | Q5 — terma authentication contested in a modern setting | library |
-| W9 | Rong Xinjiang, **"The Nature of the Dunhuang Library Cave and the Reasons for its Sealing,"** *Cahiers d'Extrême-Asie* 11 (1999) | DOI [10.3406/asie.1999.1155](https://doi.org/10.3406/asie.1999.1155), resolving to <https://www.persee.fr/doc/asie_0766-1177_1999_num_11_1_1155> | Persée refused the file: `docAsPDF` 403, `renderPdf` 404 | **Q8a — the named target** | Persée web UI, or ILL |
+| W9 | Rong Xinjiang, **"The Nature of the Dunhuang Library Cave and the Reasons for its Sealing,"** *Cahiers d'Extrême-Asie* 11 (1999), 247–75, with Valerie Hansen | DOI [10.3406/asie.1999.1155](https://doi.org/10.3406/asie.1999.1155), resolving to <https://www.persee.fr/doc/asie_0766-1177_1999_num_11_1_1155> | Persée refused the file: `docAsPDF` 403, `renderPdf` 404 | **Q8a — the named target** | Persée web UI or ILL — **or `Eighteen Lectures`, below** |
+| W9b | Rong Xinjiang, ***Eighteen Lectures on Dunhuang***, trans. Imre Galambos (Brill, 2013) | cited throughout @ponampon-2018, which quotes it for the same claims as W9 | book; not yet looked for | **substitute route to W9** | library / purchase |
 
 ## 2. Book confirmed only through its reviews
 
@@ -44,7 +45,11 @@ contact hypothesis, which is a `methods.md` §1.1 question.
    unreviewed preprint, *and* its author is an independent pharmacology researcher rather than a
    scholar of the field. Do not collapse the second into the first.
 1b. **W9 (Rong Xinjiang)** — the highest-value item on this list. Q8a's decisive question has been
-   waiting on it, and it is now identified precisely rather than by name.
+   waiting on it, and it is now identified precisely rather than by name. Its core claims are
+   already in hand secondhand through @ponampon-2018 (`../resources.md` §11.3c): Cave 17 as the
+   Sanjie Temple library against Stein's waste-dump reading, Stein's two bundle classes, and the
+   1002/1006 sealing. **Try W9b first** — a book in English translation is easier to reach than an
+   article behind a refusing server, and it covers the same ground at length.
 2. **W5 review** — cheap proxy for the reception question while the book itself is on order.
 3. **W2** — the citation is already usable in the register without the full text, since it
    is cited there only to mark a boundary (genetics answers questions about people, not

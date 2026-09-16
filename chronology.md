@@ -106,6 +106,18 @@ index are `#e/secondary` [unverified] regardless of how confident the source sou
 | dunhuang-sealed | c. 1000 CE | ev | Cave 17 sealed — the reason the archive survives | Q8a, §14.7 | `#e/secondary #s/contested` | 4 |
 | dunhuang-opened | 1900 CE | ev | Wang Yuanlu opens Cave 17 | Q8a, §14.7 | `#e/secondary` | — |
 | nubchen | c. C10 CE | comp | Nubchen Sangye Yeshe, *bSam gtan mig sgron* | Q4 | `#e/secondary` | 2 |
+| snga-lnga | [C8–C9 CE] | comp | The Five Early (*sNga lnga*) rDzogs chen Sems sde texts | Q4, Q6, §2 | `#e/secondary #s/contested` | 2 |
+| rigpa-khubyug-dh | c. C9 CE | ms | *Rig pa'i khu byug* at Dunhuang — earliest physical witness of a Dzogchen text | Q4, Q6, §11.3a | `#e/secondary` | 4 |
+| kun-byed-rgyal-po | c. C10 CE | comp | *Kun byed rgyal po*, which absorbs the *sNga lnga* as chapters | Q4, §14.7b | `#e/secondary` | 2 |
+| zhiba-o-edict | 1092 CE | ev | Pho brang Zhi ba 'od's *bka' shog* condemning rDzogs chen as Tibetan-composed | Q4, §14.5a | `#e/secondary` | — |
+| bai-ro-rgyud-bum | c. C12 CE | comp | *Bai ro rgyud 'bum* compiled from earlier rDzogs chen collections (Kapstein) | §14.7b | `#e/inferred` | — |
+| buston-exclusion | c. C14 CE | ev | Bu ston excludes the rNying ma tantras from his Tripiṭaka — a survivorship filter, dated | §14.7, §14.7b | `#e/secondary` | — |
+| mtshams-brag-ngb | [1728–1748 CE] | ms | mTshams brag *rNying ma rgyud 'bum* calligraphed in Bhutan | §14.7b | `#e/secondary` | — |
+| sde-dge-ngb | [1794–1798 CE] | ms | sDe dge *rNying ma rgyud 'bum* — one half of §14.7b's contamination pair | §14.7b | `#e/secondary` | — |
+| sm-published | 1974 CE | ev | *bSam gtan mig sgron* published, ending c. 1000 years of undocumented transmission | Q4, §14.5a, §14.7b | `#e/secondary` | — |
+| guan-jing | [424–441 CE] | comp | *Foshuo guan jing*, the meditation manual carried by S.2585 (Chen Zuolong's dating) | Q8a, §11.3c | `#e/inferred` | — |
+| s2585 | c. C10 CE | ms | Dunhuang MS Stein 2585 — the only complete witness of the *Guan jing* | Q8a, §11.3c | `#e/secondary` | 4 |
+| dunhuang-latest-ms | 1002 CE | ms | Latest date borne by any Dunhuang manuscript — the hard anchor under dunhuang-sealed | Q8a, §14.7 | `#e/secondary` | 4 |
 | terma-tradition | t.p.q. C11 CE | ev | Treasure revelation as an established Nyingma practice | H7, §14.5a | `#e/secondary #s/contested` | — |
 | rainbow-body-doc | t.p.q. C11 CE | comp | Earliest datable rainbow-body doctrinal material | Q1, H2 | `#e/secondary #s/contested` | 2 |
 | pema-dudul | 1872 CE | ev | Death of Nyagla Pema Dündul | Q1 | `#e/secondary` [unverified] | — |
@@ -120,6 +132,11 @@ differ by roughly a century, and the traditional dates differ from both. Three d
 evidential regimes in one row; it should probably be split into three.
 ? **`rainbow-body-doc` is the most consequential row here.** Q1 and H2 turn on it, and it currently
 carries a *t.p.q.* rather than a date. Germano is the source to work it from.
+? **`dunhuang-sealed` stays `c. 1000 CE` and `#s/contested` even though `dunhuang-latest-ms`
+now pins 1002.** The two are different claims. The latest manuscript date is a *t.p.q.* for the
+sealing and is not in dispute; *why* the cave was sealed — deliberate deposit, abandoned store,
+flight from the Karakhanids — is the dispute, and it governs what the contents are evidence of.
+W9 (Rong on the library cave) is the item that would settle it.
 ? **`halo-gandhara` is tagged `#e/secondary #s/contested` deliberately** — whether the earliest nimbate images
 are 1st century is exactly what H5 needs and exactly what is disputed.
 

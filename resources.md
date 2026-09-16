@@ -73,6 +73,25 @@ The field has moved from Karmay's founding survey toward the Dunhuang manuscript
 
 ### Potential sources
 
+- Derbac, Mihai. *The "Five Early" (sNga lnga) Texts of the Tibetan Buddhist Tradition rDzogs chen
+  Sems sde: A Historical, Literary and Textual Study with Critical Edition and Translation of the
+  Tibetan Texts.* PhD thesis, Univ. of Calgary, 2019. <http://hdl.handle.net/1880/110861>.
+  Critical editions and translations of the five earliest Dzogchen texts, collated against the
+  *bSam gtan mig sgron* (@nubchen). Argues Sems sde originated **in Tibet**, co-emerging with
+  Tibetan Chan and Mahāyoga rather than translated from Sanskrit. What it yields for us is §14.7b.
+  @derbac-2019
+  `#d/dzogchen #d/method #e/secondary` · subj 8–10c comp, C18–C20 ms · src 2019 · Q4 Q6 · access: **held**
+
+  **Scope limit, and it is sharp.** `thod rgal`, `khregs chod` and `'od lus` do not occur in 272
+  pages. Sems sde is the Mind Series; the visionary and light-body practices are Man ngag sde and
+  later. This bears on Dzogchen's *origin* and on *method*, not on the rainbow body — which is §2's
+  own central finding restated from the other side.
+
+  → One exception. *Mi nub pa'i rgyal mtshan* v. 47 has five-coloured rainbow light manifesting the
+  buddha families and the five elements — the same imagery as the visionary sequence in §11.3c, in
+  an 8th–9th c. text. **The job differs**: there it is what a meditator sees in sequence and reports
+  to a master, here it is an account of how phenomena arise. Same picture, different work.
+
 - Karmay, Samten G., *The Great Perfection (rDzogs chen)* — the founding philological survey; still baseline. @karmay-1988
   `#d/dzogchen #r/none #e/secondary` · subj 8–14c · src 1988 · Q1 · access: library · [unverified]
 - van Schaik, Sam, *Approaching the Great Perfection* @vanschaik-2004
@@ -634,16 +653,28 @@ Added 2026-08-27 from the Wikipedia citation harvest (`lit/wikipedia/`). Both en
   and §14.7's survivorship problem turns on which it was. @rong-1999
   `#c/nexus #d/central-asia #e/secondary` · subj c. 1000 · src 1999 · Q8a · access: **wanted** — Persée refused · [unverified]
 - Ponampon, Phra Kiattisak. *Dunhuang Manuscript S.2585: A Textual and Interdisciplinary Study on
-  Early Medieval Chinese Buddhist Meditative Techniques and Visionary Experiences.* PhD thesis,
-  Univ. of Cambridge, 2019. DOI [10.17863/CAM.31982](https://doi.org/10.17863/CAM.31982).
-  Sits on the intersection of Q8a and `#c/thodgal` — visionary practice attested in a Dunhuang
-  manuscript, supervised by a Dunhuang specialist. Retrieved in full. @ponampon-2019
-  `#c/thodgal #d/central-asia #e/secondary` · subj C6–C8 · src 2019 · Q8a, Q4 · access: **held** · [unverified]
+  Early Medieval Chinese Buddhist Meditative Techniques and Visionary Experiences.* **MPhil
+  dissertation**, Univ. of Cambridge, submitted 10 Oct 2018, deposited 2019. 76 pp., 23,041 words.
+  DOI [10.17863/CAM.31982](https://doi.org/10.17863/CAM.31982).
+  Edits, translates and analyses the Dunhuang meditation manual S.2585, the only complete witness
+  of the *Foshuo guan jing*. Read 2026-09-16; what it yields is §11.3c. @ponampon-2018
+  `#c/thodgal #d/central-asia #e/secondary` · subj C5 comp, C10 ms · src 2018 · Q8a, Q4 · access: **held**
 
-? **Does S.2585 bear on `thod rgal` or only on Chinese Buddhist visualisation?** The distinction is
-the whole question. A shared vocabulary of visionary experience at Dunhuang is rung 5 (co-presence)
-at best until someone shows the practices are related rather than merely adjacent — precisely the
-error `methods.md` §5 exists to prevent, and precisely the inference the material invites.
+  **Recorded as a PhD thesis of 2019 until it was read.** It is a master's dissertation: the
+  degree is named on its title page and its declaration form, and 23,041 words is the length of
+  one. The repository's 2019 is the deposit date. The correction matters because thesis rank is
+  part of how much weight a source carries, and because the error came from the citation harvest
+  rather than from the document — `lit/wikipedia/README.md`'s standing caution, now with an
+  instance.
+
+? **Does S.2585 bear on `thod rgal` or only on Chinese Buddhist visualisation?** Partly answered
+by the reading (§11.3c): the repertoire is shared, and S.2585's is five centuries older and traced
+to a Central Asian ancestor. That converts the question from whether there is anything to compare
+into a directional one — **is the `thod rgal` sequence descended from this Buddhist visionary
+tradition, or independently arrived at?** A shared vocabulary of visionary experience is still
+rung 5 (co-presence) until someone works the intervening texts, which is what `methods.md` §5
+exists to enforce. But the comparison now has a candidate ancestor on one side, which it did not
+before.
 
 ### 11.3b Preconditions for a nexus — xian's, 2026-08-25, recorded 2026-09-15
 
@@ -686,6 +717,87 @@ should be scored on it.
 its history, and Baghdad was both administrative and a translation centre (§14.8). The variable may
 be the *age* of the bureaucracy rather than its presence.
 ? **Geoffrey West's scaling work is unread and uncited here.** Named in August, never retrieved.
+
+### 11.3c What S.2585 contains — read 2026-09-16
+
+@ponampon-2018 read in full. Four results, in descending order of how much they change.
+
+**1. A Buddhist visionary repertoire, five centuries before Dzogchen, with a Central Asian
+ancestor.** S.2585 preserves the *Foshuo guan jing*, a meditation manual Chen Zuolong dates to
+424–441 CE in China; the surviving Dunhuang copies are tenth-century. Its central technique is
+**single-minded contemplation of the navel** (*yixin guanqi* 一心觀臍), and what the practitioner
+is told to expect is this:
+
+- **five coloured radiances** (五色光), from which buddhas appear;
+- buddhas emerging from the navel, each producing the next, to the ocean's edge, then re-entering
+  in reverse — the visions that go out return inside;
+- light entering and leaving the body in **paired opposed directions**: in at the front and out at
+  the back, out at the left and in at the right;
+- the body seen finally **as bright and clear, golden, "as bright and pure as if having the colours
+  of various jewels," surrounded on all four sides by pure light**;
+- and at each stage the practitioner **reports to the master**, who confirms the signs.
+
+Ponampon traces the manual's parts to the *Siwei lüeyao fa* and the *Wumen chanjing yaoyong fa*,
+and those in turn — following Yamabe — to the **Yogalehrbuch**, the Sarvāstivādin Sanskrit
+meditation manual from Qizil and Turfan. The chain is Central Asian, not Chinese in origin.
+
+Set beside `thod rgal`, the overlap is not vocabulary but **sequence**: five-coloured light,
+figures appearing within it, a stagewise progression, a luminous body as the terminal sign, and
+teacher-side verification of what is seen. §10.0's question was which direction a light-body
+metaphysics could have travelled. This puts a developed Buddhist candidate on the corridor
+**before** the Tibetan material exists, which cuts against reaching for a Christian source for the
+visionary repertoire specifically. It does not touch the resurrection comparison, which is about
+what happens to a corpse, not about what a meditator sees.
+
+**What it is not.** No text here mentions Tibet, and the manuscript is Chinese. Rung 5
+(co-presence in a shared zone) is what the material supports. Rung 3 or 4 would need the
+intervening transmission worked through the tenth-century Tibetan Dunhuang material — which
+is exactly van Schaik's ground, and is the next thing to read.
+
+**2. Q8a: co-presence without synthesis, measured on one document.** In 76 pages on a manuscript
+from the most polyglot library in Central Asia, there is **no mention of Manichaeism,
+Christianity, Nestorianism or Zoroastrianism** — the words do not occur. Stein's "polyglot
+library" holds nearly twenty languages; this text talks only to other Buddhist texts. A single
+monograph is a weak instrument for an absence, and a study of a Buddhist meditation manual has no
+occasion to discuss Manichaeans. But the shape is the one §11.1 keeps finding: the traditions at
+Dunhuang were in the same room and wrote past each other.
+
+**3. Rong Xinjiang's argument, secondhand — and a route to it that is not Persée.** W9 is quoted
+and summarised here at four points:
+
+- Cave 17 held **the monastic library of the Sanjie Temple** (三界寺), against Stein's proposal
+  that it was a waste dump. Which it was governs what the contents are evidence of, and §14.7's
+  survivorship problem turns on it.
+- Stein sorted the material into "mixed bundles" (Sanskrit, Khotanese, Tibetan pothi; Uighur and
+  Sogdian scrolls; paintings, textiles) and "regular library bundles" (~1,050 Chinese fascicles,
+  80 packets of Tibetan fascicles, 11 Tibetan pothi).
+- The latest date on any Dunhuang manuscript is **1002**; the library was sealed c. **1006**
+  against the invading Karakhanids. Ponampon attributes this to van Schaik and Galambos rather
+  than to Rong.
+
+Throughout, he cites **Rong's *Eighteen Lectures on Dunhuang*** (Brill, Galambos trans.), which
+covers the same ground at length and in English. That is a live acquisition route for W9's
+content where Persée refused the article — added to `lit/WANTED.md`.
+
+**4. The author has an undisclosed interest in the conclusion.** The acknowledgements name
+Phra Mongkolthepmuni (Sod Candasaro), Khun Yay Chandra Khonnokyoong and Phra Dhammajayo as the
+author's teachers, and a Dhammachai Education Foundation scholarship as his funding. Those are
+the founders and the institutions of **Dhammakaya**, the modern Thai movement whose central
+practice places a **luminous crystal sphere at the body's centre** and whose doctrine is an inner
+*dhammakāya* body — my own prior knowledge of the movement, not something the dissertation says.
+The dissertation's closing epigraph is "as a luminous crystal sphere."
+
+The thesis argues that navel-centred contemplation producing visions of an inner buddha is old,
+widespread, and traceable to Central Asia. That is Dhammakaya's own claim about its practice. The
+body of the dissertation **never mentions Dhammakaya, modern Thailand, or the congruence** — so
+this is a fact about interest, not a demonstrated distortion, and the philology stands or falls
+on its own. Record it and read the argument normally.
+
+? **The tag vocabulary has no slot for this.** `#v/emic` is wrong — the dissertation is written in
+etic mode throughout. `#s/speculative` is wrong — he is in the field and supervised in it. What is
+actually present is *a confessional stake in the conclusion, undeclared*, which is neither of
+those and is a recurring condition in this literature rather than a one-off. Whether that earns a
+facet value or stays prose is a `tags.md` question.
 
 ### 11.4 Transmission channels: how fusion actually happens
 
@@ -1306,7 +1418,12 @@ vulnerability — is better supported.** The apparatus:
   about the polemics that surrounded it.
 - **The signal has an unusual structure.** The yellow scroll (`shog ser`) in ḍākinī script is held to
   be decipherable *only* by the tertön it belongs to. So the object cannot be independently checked —
-  it is a **non-transferable, third-party-unverifiable** token. That is the exact inverse of the Vedic
+  it is a **non-transferable, third-party-unverifiable** token.
+  → But **a particular claim to have passed the gate can still be tested**, where the revealed text
+  survives in enough copies to carry a stemma. §14.7b is a worked case: the hypothesis that the
+  *bSam gtan mig sgron* was a nineteenth-century *rjes dran gter* predicts a close stemmatic
+  relation to whichever edition it was assembled from, and the manuscripts show none. The channel
+  is unverifiable; an instance of it need not be. That is the exact inverse of the Vedic
   case, where verification is public and any competent listener can perform it. When the signal itself
   cannot be checked, the burden falls back onto costly prior investment — years of training and
   recognition — which is the standard honest-signalling solution.
@@ -1562,6 +1679,30 @@ Blake and Robinson, "The phylogeny of *The Canterbury Tales*," *Nature* 394 (199
 decomposition to 58 fifteenth-century manuscripts of the *Wife of Bath's Prologue* and found good
 agreement with the conventionally-derived stemma. The field has a name — **phylomemetics**.
 
+Paleobiology has also named the specific biases and built corrections: the **Signor–Lipps effect**
+(the last fossil occurrence precedes true extinction, so extinctions look gradual), **ghost
+lineages** (branches inferred to exist with no direct record), the **pull of the recent**. Each has a
+textual analogue: lost manuscripts, lost recensions, whole traditions inferable only from citation in
+their opponents.
+
+**The useful caveat is where the analogy was already tested and had to be modified.** Manuscripts
+*contaminate* — a scribe consulting two exemplars produces reticulation, not a tree. Which is exactly
+horizontal gene transfer, and it is why the 1998 study used a **network** method rather than a strict
+tree. The disanalogy was found and handled rather than waved away.
+
+- Barbrook, A. C., Howe, C. J., Blake, N., & Robinson, P., "The phylogeny of *The Canterbury Tales*," *Nature* 394 (1998), 839. @barbrook-1998
+  `#c/lineage-narrative #d/method #e/secondary` · subj 15c · src 1998 · Q7 · access: open
+- Phylomemetics — the general programme of phylogenetic analysis beyond the gene (*PLOS Biology*, 2011). @phylomemetics
+  `#d/method #r/analogy #e/secondary` · src 2011 · Q7 · access: open · [unverified]
+- Signor–Lipps effect; ghost lineages; pull of the recent — the named survivorship biases and their corrections. **The argument that this project's bias problems are tractable rather than sui generis.** @survivorship-biases
+  `#d/method #r/deflation #e/heuristic` · src 1982– · Q7 · access: library · [unverified]
+
+→ **The recommendation.** Where the project records a negative result (`methods.md` §7.1), the
+question "would this archive have registered it?" can sometimes be replaced by an *estimate* rather
+than a shrug. Birth–death and sampling-corrected models exist. Whether they are worth importing
+depends on whether the corpus is ever large enough to fit one — probably not for Dzogchen, plausibly
+for the manuscript traditions.
+
 #### 14.7a Exactly how formal the correspondence is — and where it stops
 
 Recorded 2026-09-15. §14.7 asserts the transfer is literal; this states the mapping, because
@@ -1628,29 +1769,86 @@ principle in two vocabularies. **"Error" and "derived character state" name the 
 has the shape the instrument prefers — applies to every typology in this register, including the
 diaspora sort and the rainbow-body typology.
 
-Paleobiology has also named the specific biases and built corrections: the **Signor–Lipps effect**
-(the last fossil occurrence precedes true extinction, so extinctions look gradual), **ghost
-lineages** (branches inferred to exist with no direct record), the **pull of the recent**. Each has a
-textual analogue: lost manuscripts, lost recensions, whole traditions inferable only from citation in
-their opponents.
 
-**The useful caveat is where the analogy was already tested and had to be modified.** Manuscripts
-*contaminate* — a scribe consulting two exemplars produces reticulation, not a tree. Which is exactly
-horizontal gene transfer, and it is why the 1998 study used a **network** method rather than a strict
-tree. The disanalogy was found and handled rather than waved away.
+#### 14.7b The method applied to this project's own texts — @derbac-2019
 
-- Barbrook, A. C., Howe, C. J., Blake, N., & Robinson, P., "The phylogeny of *The Canterbury Tales*," *Nature* 394 (1998), 839. @barbrook-1998
-  `#c/lineage-narrative #d/method #e/secondary` · subj 15c · src 1998 · Q7 · access: open
-- Phylomemetics — the general programme of phylogenetic analysis beyond the gene (*PLOS Biology*, 2011). @phylomemetics
-  `#d/method #r/analogy #e/secondary` · src 2011 · Q7 · access: open · [unverified]
-- Signor–Lipps effect; ghost lineages; pull of the recent — the named survivorship biases and their corrections. **The argument that this project's bias problems are tractable rather than sui generis.** @survivorship-biases
-  `#d/method #r/deflation #e/heuristic` · src 1982– · Q7 · access: library · [unverified]
+Read 2026-09-16 (chs. 4–5). §14.7a states the mapping abstractly; this is it carried out on the
+earliest Dzogchen texts, which makes it the register's worked instance rather than another
+borrowing from Chaucer.
 
-→ **The recommendation.** Where the project records a negative result (`methods.md` §7.1), the
-question "would this archive have registered it?" can sometimes be replaced by an *estimate* rather
-than a shrug. Birth–death and sampling-corrected models exist. Whether they are worth importing
-depends on whether the corpus is ever large enough to fit one — probably not for Dzogchen, plausibly
-for the manuscript traditions.
+**The design.** Eleven witnesses, collated by hand: the *bSam gtan mig sgron*'s quotations, the
+Five Early texts as independent works in the *Bai ro rgyud 'bum* and gTing skyes *rNying ma rgyud
+'bum*, and the same texts as chapters of the *Kun byed rgyal po* across three *rNying ma rgyud
+'bum* and five *bKa' 'gyur* editions. 162 quoted lines identifiable out of 354; 287 points of
+variation, 131 parsimony-informative. Maximum Parsimony (PAUP 4.0b10) and Neighbor-Net (SplitsTree
+4), run against the same matrix. Exhaustive search over 34 million trees, two most parsimonious
+retained, strict consensus, **CI 0.82**.
+
+**A revelation claim made falsifiable, and falsified.** The *bSam gtan mig sgron* was unknown to
+scholarship until 1974, sits in no canonical collection, and has no commentary. Derbac takes
+seriously that it might itself be a nineteenth-century **recollected treasure** (*rjes dran gter*),
+and builds the chain: the 1974 blockprint traces back through 'Jam dbyangs bLo gros rgya mtsho,
+recognised as mKhyen brtse's incarnation; mKhyen brtse collaborated with mChog gyur gLing pa, who
+revealed teachings gNubs chen had given his student by *remembering his own past life as that
+student*. The hypothesis then has a consequence: a text assembled from an extant edition must show
+a close stemmatic relation to it. It shows none — it groups with the independent witnesses.
+
+**This is what §14.5a has been missing.** That section is about why the terma channel resists
+outside checking: the yellow scroll is non-transferable and third-party-unverifiable by
+construction. Here a revelation claim was nonetheless given a testable consequence in surviving
+manuscripts, and lost. The gate is not checkable; **a particular claim to have passed through it
+can be.** Note what supplied the test — not the doctrine, but the fact that a copied text carries
+its history in its errors.
+
+The same analysis disposes of the **Fifth Dalai Lama's** claim that the Five Early texts are
+extractions from the *Kun byed rgyal po* (Karmay 1988: 207): extractions would group with the
+chapter versions, and they do not.
+
+**Three of §14.7a's four assumption breaks show up, and are handled.**
+
+- **Polarity has no outgroup** — met head-on. The trees come out unrooted and automatic rooting
+  requires an outgroup there is no candidate for. He roots **manually**, choosing among three
+  points on external evidence: the Zur lineage, the 'Ug pa lung library, Kapstein on the *Bai ro
+  rgyud 'bum*'s twelfth-century formation. **Phylogenetics supplies the topology; history has to
+  supply the direction.** That is the break stated in §14.7a, and the handling is to import exactly
+  the evidence the method cannot generate — not to suppress it.
+- **Contamination is normal** — and here it is diagnosed by mechanism rather than noted as noise.
+  The sDe dge *rNying ma rgyud 'bum* and sDe dge *bKa' 'gyur* collapse into a trichotomy. The
+  evidence that this is contamination: of 158 single readings in the whole dataset, sDe dge NGB has
+  **zero** not shared with sDe dge K, and sDe dge K has exactly one, a spelling error. Both were
+  printed by the same house, sDe dge par khang. Separately, Co ne groups with Peking Qianlong
+  because Qianlong was corrected against Lithang and Co ne is a direct copy of Lithang — a relation
+  the printing history explains and descent does not. **A print shop is a contamination vector, and
+  a documented one.**
+- **Ancestors survive / trees are binary** — he states both in ch. 4 in his own terms: stemmata
+  admit polytomy where phylogenetic software assumes bifurcation, and a manuscript ancestor may be
+  recoverable where a species ancestor is not.
+
+**Bédier's objection is not raised.** CI 0.82 is reported and not interrogated, and the strict
+consensus of two trees out of 34 million is presented as a result rather than as a number that
+might be too clean for eleven contaminated witnesses. §14.7a flagged this as the missing deflator;
+here is a study that would have been sharpened by it.
+
+**Three methods from New Testament criticism, surveyed in ch. 4** — the project had none of them:
+
+- Kraemer, Metzger, Ehrman, Zimmermann, Hahn — the German-and-Anglo textual apparatus.
+- **Claremont Profile Method** (McReynolds and Wisse, 1960s, for the International Greek New
+  Testament Project). Built when full collation of ~1,400 Luke manuscripts was impractical: profile
+  a sample chapter, classify witnesses by agreement pattern, then collate new witnesses only at
+  selected readings. Limits: partial evidence, and it breaks on mixed manuscripts.
+- **Coherence-Based Genealogical Method** (Mink, INTF). Models textual flow variant-by-variant
+  rather than manuscript-by-manuscript, which is how it accommodates contamination. **Derbac's
+  objection is worth keeping**: the CBGM's "initial text" is the Nestle-Aland 27th edition, and
+  variants are dated earlier or later by coherence *with that text* — so the apparatus is arranged
+  such that an arbitrarily chosen text comes out the ancestor. That is a circularity charge of the
+  form already tracked at C5 (Bön origins), levelled at a method rather than at a tradition.
+
+? **The ladder ranks evidence *for* diffusion and has no rungs for arguing against one.**
+@derbac-2019's metrical argument (§2) is of the second kind, and the register mis-graded it on
+first reading for want of anywhere correct to put it. Absence of a rung-1 signature is not rung-1
+evidence; it is weaker and separately defeasible. Whether `methods.md` §6's deflators already cover
+negative claims, or the ladder needs an explicit inverse, is open.
+
 
 ---
 
@@ -1890,7 +2088,7 @@ Live disagreements, recorded as pairs per `methods.md` §7 rather than resolved 
 | # | Dispute | Positions | Bears on | Standing |
 |---|---|---|---|---|
 | C1 | Origins of Mahāyāna | @hirakawa-1963 (lay-devotional) vs. @harrison-2018 / @nattier-2003 / @boucher-2008 (forest ascetic) vs. @schopen-1997 (cult of the book) | Q2 | Hirakawa displaced; forest vs. book unresolved |
-| C2 | Dzogchen's relation to Chan | @demieville-1952 (derivation) vs. @vanschaik-influence + @nubchen (distinct) | Q4 | Settled against derivation |
+| C2 | Dzogchen's relation to Chan | @demieville-1952 (derivation) vs. @vanschaik-influence + @nubchen (distinct) vs. @derbac-2019 (**co-emergence** — Sems sde, Tibetan Chan and Mahāyoga arising together in late-8th/early-9th c. Tibet, in mutual interaction) | Q4 | **Reopened 2026-09-16 as a three-way.** Derivation stays refuted; "distinct" and "co-emergent" are not the same answer, and the register had been treating them as one. Derbac also argues directly against @vanschaik-2004b's reading of Sems sde as a way of interpreting Mahāyoga tantras, and cites Meinert 2002 on Pelliot tibétain 699 as a syncretic Chan/Dzogchen witness |
 | C3 | Where the rainbow body comes from | @tiso-2016 (Central Asian contact) vs. @germano-1994 (Tibetan mortuary substrate) | H2 | Germano favoured on dating; Tiso's fieldwork stands regardless |
 | C4 | Is "Gnosticism" a usable category | @williams-1996 / @king-2003b (no) vs. inherited usage | H3 | Decided: scare quotes retained |
 | C5 | Bön origins and the Tazig identification | @norbu-kailash (deep antiquity, western origin) vs. @bon-scholarship | H5 | Open; **circularity check pending** |
@@ -1963,8 +2161,10 @@ Scope and cautions, recorded before the pass rather than after:
     `lit/wikipedia/ranked.md`.
   - **Two results worth naming.** Rong Xinjiang's 1999 paper on the sealing of the Dunhuang
     library cave — §17.3's named target for Q8a — was found with a DOI, though Persée refused the
-    file. And Ponampon's 2019 Cambridge thesis on **visionary experience in a Dunhuang manuscript**
-    was retrieved in full: not on any list, and sitting on the Q8a/`#c/thodgal` intersection.
+    file. And Ponampon's Cambridge dissertation on **visionary experience in a Dunhuang manuscript**
+    was retrieved in full: not on any list, and sitting on the Q8a/`#c/thodgal` intersection. Read
+    2026-09-16 (§11.3c) — and the harvest's metadata had its degree and date wrong, which is the
+    first measured error in a record the harvest supplied.
   - **The instrument's limit, measured.** Dunhuang returned 27 citations against Palmyra's 243.
     On the question where Dunhuang is the negative case, that asymmetry bounds what the harvest
     can say — it is a fact about encyclopedia coverage, not about the field.
@@ -2079,7 +2279,7 @@ resting on a book not read must say so.
 |---|---|---|---|
 | 1 | @pons-2025 | Closest located treatment of H5, by a Gandhāra specialist | **held** — read first |
 | 2 | *The Rainbow Body's Inner Cinema* (2025) | Directly on the founding question. **Preprint by a pharmacologist, not a Tibetologist — two independent reasons for `#s/speculative`** | **held** (`lit/direct/`, `.docx`) |
-| 2a | Ponampon, *Dunhuang Manuscript S.2585* (Cambridge PhD, 2019) | Meditative technique and **visionary experience** in a Dunhuang manuscript — the Q8a/`#c/thodgal` intersection, supervised by Galambos. Unsought, open access, retrieved | **held** (`lit/direct/`) |
+| ~~2a~~ | Ponampon, *Dunhuang Manuscript S.2585* (Cambridge MPhil, 2018) | **Read 2026-09-16 — §11.3c.** Yields a Central Asian visionary repertoire five centuries older than Dzogchen, a secondhand route to W9, and one measured absence for Q8a | done |
 | 2b | Rong Xinjiang, "The Nature of the Dunhuang Library Cave…" (1999) | §17.3's named target for Q8a, now with a DOI | `WANTED.md` — Persée refused |
 | 3 | @drewes-2010 | Cheapest correction of the largest misconception (Q2) | library |
 | 4 | @lott-2020 + @tidwell-2025 | The nearest thing to a test of a rainbow-body-class claim | **held** |

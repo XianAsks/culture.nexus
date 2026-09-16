@@ -48,8 +48,12 @@ search.
   its Sealing" (1999)** — named in `resources.md` §17.3 as *the* acquisition
   target for Q8a, found here with a DOI. Not retrievable (Persée refused); now
   in `WANTED.md` with a resolved landing page instead of a name.
-- **Ponampon's 2019 Cambridge thesis** on visionary experience in a Dunhuang
-  manuscript — not on any list, open access, retrieved. See `../direct/`.
+- **Ponampon's Cambridge dissertation** on visionary experience in a Dunhuang
+  manuscript — not on any list, open access, retrieved. See `../direct/`. Read
+  2026-09-16; what it yields is `resources.md` §11.3c. The harvest recorded it as
+  a 2019 PhD thesis; it is a 2018 MPhil dissertation, and the title page says so.
+  Ranking aside, **the harvest's bibliographic fields are also citations, and carry
+  the same error rate** — this is the first one measured against a document.
 
 ### Cautions
 
