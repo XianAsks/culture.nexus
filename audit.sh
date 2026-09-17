@@ -40,6 +40,47 @@ grep -n '#e/attested\|#e/devotional\|#e/contested\|#e/fringe\|#e/speculative\|#e
   *.md lit/*.md lit/*/*.md 2>/dev/null \
   | grep -v 'retired-ok' \
   | sed 's/^/  RETIRED: /'
+# tags.md rule 9: two tags assert something a field has to evidence. One pass emits
+# both sections, headers included, rather than walking resources.md twice with two
+# near-identical parsers — so the section headers live here in Python, not in bash.
+#
+#   #v/vested   enforced strictly; the value is new and has no backlog.
+#   #s/contested  older and widely unobserved — most such entries name their opponent
+#                 in prose. Reported as a count, so a section that always fires does
+#                 not train the reader to skip it.
+uv run --no-project python3 - <<'PY'
+import re
+block, tags, missing_stake, contested = [], "", [], 0
+def flush():
+    global contested
+    if not tags:
+        return
+    body = "\n".join(block)
+    head = next((l for l in block if l.startswith("- ")), block[0]).strip()
+    if "#v/vested" in tags and "stake:" not in body:
+        missing_stake.append(head[:70])
+    if "#s/contested" in tags and "against:" not in body:
+        contested += 1
+for line in open("resources.md"):
+    line = line.rstrip("\n")
+    if line.startswith("- "):
+        flush()
+        block, tags = [line], ""
+    elif block and line.startswith((" ", "\t")):
+        block.append(line)
+        m = re.search(r"`(#[dcrefvs]/[a-z-]+(?: #[dcrefvs]/[a-z-]+)+)`", line)
+        if m:
+            tags = m.group(1)
+    else:
+        flush()
+        block, tags = [], ""
+flush()
+print("=== #v/vested without a stake: field ===")
+for h in missing_stake:
+    print(f"  MISSING stake: {h}")
+print("=== #s/contested without an against: field (backlog, not a blocker) ===")
+print(f"  {contested} entries")
+PY
 echo "=== tags used but not defined in tags.md ==="
 comm -23 <(grep -oh '#[dcrefvs]/[a-z-]*' resources.md methods.md background.md | sort -u) \
          <(grep -o '#[dcrefvs]/[a-z-]*' tags.md | sort -u) | sed 's/^/  UNDEFINED: /'

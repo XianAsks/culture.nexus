@@ -155,7 +155,10 @@ Not one claim but a graded family; typology in `background.md` §4. Only type (a
 ### Potential sources
 
 - Tiso, Francis V., *Rainbow Body and Resurrection* — field interviews, textual history, and an explicit Central Asian contact hypothesis. **Read evidence chapters and hypothesis chapters as separate documents.** @tiso-2016
-  `#c/rainbow-body #r/genealogy #e/secondary #s/contested` · subj 8c–1999 · src 2016 · Q3 Q6 H2 · access: purchase · against: @germano-1994
+  `#c/rainbow-body #r/genealogy #e/secondary #v/vested #s/contested` · subj 8c–1999 · src 2016 · Q3 Q6 H2 · access: purchase · against: @germano-1994
+  · stake: a Catholic priest arguing that a Buddhist practice illuminates the resurrection. Stated
+    openly in the book, which is why it is recorded rather than alleged — and why the reading
+    instruction above is a rule and not a caution.
 - ——, pre-2016 articles on the rainbow body in early Dzogchen texts; doctoral work on Milarepa. → Show whether the contact hypothesis grew from the evidence or preceded it. @tiso-articles
   `#c/rainbow-body #r/genealogy #e/secondary` · src pre-2016 · Q6 · access: unlocated
 - *Treasury of Lives*, "Nyakla Pema Dudul" — peer-reviewed biography; the etic counterpart to the hagiography. @tol-pemadudul
@@ -660,7 +663,10 @@ Added 2026-08-27 from the Wikipedia citation harvest (`lit/wikipedia/`). Both en
   DOI [10.17863/CAM.31982](https://doi.org/10.17863/CAM.31982).
   Edits, translates and analyses the Dunhuang meditation manual S.2585, the only complete witness
   of the *Foshuo guan jing*. Read 2026-09-16; what it yields is §11.3c. @ponampon-2018
-  `#c/thodgal #d/central-asia #e/secondary` · subj C5 comp, C10 ms · src 2018 · Q8a, Q4 · access: **held**
+  `#c/thodgal #d/central-asia #e/secondary #v/vested` · subj C5 comp, C10 ms · src 2018 · Q8a, Q4 · access: **held**
+  · stake: Dhammakāya ordination and scholarship; the movement's central practice is a luminous
+    sphere at the body's centre and an inner *dhammakāya* body, which is the dissertation's
+    subject. Named in its acknowledgements; never disclosed in its body. §11.3c
 
   **Recorded as a PhD thesis of 2019 until it was read.** It is a master's dissertation: the
   degree is named on its title page and its declaration form, and 23,041 words is the length of
@@ -2141,6 +2147,14 @@ governs how much weight any future "not found" deserves.
 **Route decided 2026-08-27 — Wikipedia citation harvesting.** §17.1 records a coverage gap; this is
 the instrument chosen against it. The `/wikipedia` skill parses `{{cite …}}` templates out of article
 wikitext, so it returns the **ISBN-bearing monographs that carry no URL** — precisely the class no
+? **25 `#s/contested` entries carry no `against:` field.** `tags.md` rule 9 requires one, and
+the rule is older than the practice: most of those entries name their opponent in prose instead,
+which is legible to a reader and invisible to a grep. Either the field becomes mandatory and 25
+entries get edited, or the rule relaxes to "name the opponent, in the field where there is a single
+identifiable one." The second is probably right — some disputes have no one opponent, and
+`khenpo-acho`'s is a discrepancy between sources rather than between scholars. Surfaced by
+`audit.sh` on 2026-09-16; counted rather than enumerated so the section stays readable.
+
 index this project can search will surface, and precisely what §11 is short of. On `en:Gandhara` it
 found 150 citations, 7 of them with a durable identifier and no link.
 

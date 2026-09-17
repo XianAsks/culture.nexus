@@ -45,6 +45,9 @@ Five facets, prefix-coded. Single-letter prefixes keep tags short and greppable.
 8. **Verification and strength are fields, not tags.** `[unverified]` records whether *we* have
    checked the item; `rung:` records the strength of a comparative claim against the `methods.md`
    §5 ladder. Neither is a property of the source, so neither is a tag.
+9. **Two tags require a field, and are malformed without it.** `#s/contested` requires `against:`,
+   naming the opponent. `#v/vested` requires `stake:`, naming the author's interest and how it is
+   known. In both cases the tag makes a claim that the field has to evidence.
 
 ## 3. Controlled vocabulary
 
@@ -144,11 +147,34 @@ unmarked entry is etic, which is what most scholarship is. Tag only the informat
 #v/polemical    An opponent's frame. The heresiologists on "Gnosticism" is the type case
 #v/apologetic   A defence pitched at an outside audience, and shaped by that audience
 ```
+#v/vested       The author has a stake in the conclusion. Requires a `stake:` field
 
 `#v/` is independent of `#e/`, which is why it is a separate facet: Norbu's *Talks* is a
 primary source **and** the tradition speaking about itself, and both facts are worth keeping.
 
 > **`#v/polemical` matters more than its count suggests.** For some traditions the hostile
+> **`#v/vested` is not read off the page, and that is why it carries a field.** The other three
+> values describe the text: you can point at the sentences that make something apologetic. Vested
+> describes the *author* — ordination, funding, institutional position — and the prose may read as
+> perfectly neutral, as it does in the case that prompted the value. Filing an unevidenced
+> suspicion under the same facet as a readable property is how an ad hominem gets the standing of
+> an observation.
+>
+> So the value is **only valid with a `stake:` field** naming what the interest is and how it is
+> known, the way `#s/contested` must name its opponent in `against:`. If you cannot write the
+> field, you do not have the finding.
+>
+> **It does not collapse into `#v/apologetic`.** Apologetic is a property of the text — it is
+> pitched as a defence. Vested is a property of the author, and the two come apart in both
+> directions: @ponampon-2018 is vested and not apologetic, and a tradition's outside defender may
+> be apologetic with no stake of their own. An entry can carry only one `#v/` value, so where both
+> apply, tag the one that governs how the item will be *used* and put the other in prose.
+>
+> **What it is not for.** Not a verdict on the work — @ponampon-2018's philology stands or falls on
+> its own, and the tag exists so that it can be read normally with the interest recorded rather
+> than argued about. Not `#s/speculative`, which is about being outside one's field. And not a
+> licence to speculate about motive: the field names a fact, not an inference from one.
+
 > witness is the only witness — "Gnosticism" before Nag Hammadi was known almost entirely
 > through Irenaeus and Epiphanius. Such sources cannot be discarded, so they must be marked
 > and corrected for. Leaving them untagged is how an opponents' frame gets naturalised into a

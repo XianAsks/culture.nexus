@@ -26,6 +26,7 @@ ASSERTIONS=(
   "entries missing the mandatory #e/"
   "retired vocabulary still in use"
   "tags used but not defined in tags.md"
+  "#v/vested without a stake: field"
   "leftover draft markers"
   "subsection headers out of sync with parent"
   "encoding: invalid UTF-8"
@@ -40,6 +41,7 @@ ASSERTIONS=(
 ADVISORY=(
   "census (resources.md)"
   "counts"
+  "#s/contested without an against: field (backlog, not a blocker)"
   "stray CJK (review: 景教 in terms.md is intentional)"
   "build_tables.py unit tests"
   "derived tables out of sync with their sources"
